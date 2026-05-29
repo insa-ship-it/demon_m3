@@ -2125,7 +2125,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470336
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629909
 #EXTINF:-1 tvg-id="KIMT-DT.us_locals1" tvg-name="MN | Austin | CBS KIMT" group-title="ENG | Local | CBS",MN | Austin | CBS KIMT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629908
-#EXTINF:-1 tvg-name="MN | Austin | FOX 47 KTTC" tvg-logo="https://static.realiptv.to/snapshots/629911.jpg" group-title="ENG | Local | FOX",MN | Austin | FOX 47 KTTC
+#EXTINF:-1 tvg-id="KXLT-DT.us_locals1" tvg-name="MN | Austin | FOX KXLT" group-title="ENG | Local | FOX",MN | Austin | FOX KXLT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629911
 #EXTINF:-1 tvg-id="KTTC-DT.us_locals1" tvg-name="MN | Austin | NBC KTTC" group-title="ENG | Local | NBC",MN | Austin | NBC KTTC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629910
@@ -4601,23 +4601,23 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434356
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/573472
 #EXTINF:-1 tvg-id="bet.us" tvg-name="USA BET East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21563.jpg" group-title="ENG | Local | LOW",USA BET East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21563
-#EXTINF:-1 tvg-id="bet.us" tvg-name="USA BET East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647385.jpg" group-title="ENG | Entertainment",USA BET East (SHD)
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) SHD" group-title="ENG | Entertainment",BET (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647385
-#EXTINF:-1 tvg-id="bet.us" tvg-name="USA BET East UHD" tvg-logo="https://static.realiptv.to/snapshots/21895.jpg" group-title="ENG | Entertainment",USA BET East UHD
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) UHD" group-title="ENG | Entertainment",BET (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21895
 #EXTINF:-1 tvg-id="betgospel.us" tvg-name="USA BET Gospel" tvg-logo="https://static.realiptv.to/snapshots/42491.jpg" group-title="USA MUSIC",USA BET Gospel
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42491
 #EXTINF:-1 tvg-id="bether.us" tvg-name="USA BET HER SD" tvg-logo="https://static.realiptv.to/snapshots/401218.jpg" group-title="ENG | Local | LOW",USA BET HER SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401218
-#EXTINF:-1 tvg-id="bether.us" tvg-name="USA BET HER UHD" tvg-logo="https://static.realiptv.to/snapshots/3946.jpg" group-title="ENG | Entertainment",USA BET HER UHD
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East) UHD" group-title="ENG | Entertainment",BET Her (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3946
-#EXTINF:-1 tvg-name="USA BET HER West" tvg-logo="https://static.realiptv.to/snapshots/631835.jpg" group-title="ENG | Entertainment",USA BET HER West
+#EXTINF:-1 tvg-name="BET Her (West)" tvg-logo="https://static.realiptv.to/snapshots/631835.jpg" group-title="ENG | Entertainment",BET Her (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631835
 #EXTINF:-1 tvg-id="betjams.us" tvg-name="USA BET Jams" tvg-logo="https://static.realiptv.to/snapshots/3947.jpg" group-title="USA MUSIC",USA BET Jams
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3947
 #EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA BET SOUL (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3948.jpg" group-title="USA MUSIC",USA BET SOUL (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3948
-#EXTINF:-1 tvg-id="betwest.us" tvg-name="USA BET West" tvg-logo="https://static.realiptv.to/snapshots/48973.jpg" group-title="ENG | Entertainment",USA BET West
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-name="BET (West)" group-title="ENG | Entertainment",BET (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/48973
 #EXTINF:-1 tvg-id="bigtenoverflow2.us" tvg-name="USA Big Ten Network Overflow 2" tvg-logo="https://static.realiptv.to/snapshots/30891.jpg" group-title="ENG | Sports (National)",USA Big Ten Network Overflow 2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30891
@@ -4631,7 +4631,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97531
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4443
 #EXTINF:-1 tvg-name="USA Billiard TV" tvg-logo="https://static.realiptv.to/snapshots/629720.jpg" group-title="ENG | Sports (National)",USA Billiard TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629720
-#EXTINF:-1 tvg-name="USA Black Voices" tvg-logo="https://static.realiptv.to/snapshots/435347.jpg" group-title="ENG | Entertainment",USA Black Voices
+#EXTINF:-1 tvg-id="Black.Voices.us2" tvg-name="Black Voices" group-title="ENG | Entertainment",Black Voices
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/435347
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="USA Bloomberg" tvg-logo="https://static.realiptv.to/snapshots/3615.jpg" group-title="ENG | News",USA Bloomberg
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3615
@@ -4643,21 +4643,21 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3708
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/101444
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA Boomerang UHD" tvg-logo="https://static.realiptv.to/snapshots/3616.jpg" group-title="ENG | Family & Kids",USA Boomerang UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3616
-#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="USA BOUNCE TV" tvg-logo="https://static.realiptv.to/snapshots/21896.jpg" group-title="ENG | Entertainment",USA BOUNCE TV
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="BOUNCE TV" group-title="ENG | Entertainment",BOUNCE TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21896
-#EXTINF:-1 tvg-name="USA Bounce XL" tvg-logo="https://static.realiptv.to/snapshots/612207.jpg" group-title="ENG | Entertainment",USA Bounce XL
+#EXTINF:-1 tvg-name="Bounce XL" group-title="ENG | Entertainment",Bounce XL EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/612207
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21564.jpg" group-title="ENG | Local | LOW",USA Bravo East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21564
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2655.jpg" group-title="ENG | Entertainment",USA Bravo East (SHD)
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) SHD" group-title="ENG | Entertainment",Bravo (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2655
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East LHD" tvg-logo="https://static.realiptv.to/snapshots/3709.jpg" group-title="ENG | Entertainment",USA Bravo East LHD
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) LHD" group-title="ENG | Entertainment",Bravo (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3709
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East UHD" tvg-logo="https://static.realiptv.to/snapshots/3617.jpg" group-title="ENG | Entertainment",USA Bravo East UHD
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) UHD" group-title="ENG | Entertainment",Bravo (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3617
-#EXTINF:-1 tvg-id="bravowest.us" tvg-name="USA Bravo West" tvg-logo="https://static.realiptv.to/snapshots/3823.jpg" group-title="ENG | Entertainment",USA Bravo West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" group-title="ENG | Entertainment",Bravo (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3823
-#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="USA Buzzr" tvg-logo="https://static.realiptv.to/snapshots/75342.jpg" group-title="ENG | Entertainment",USA Buzzr
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" group-title="ENG | Entertainment",Buzzr
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75342
 #EXTINF:-1 tvg-name="USA BYU TV" tvg-logo="https://static.realiptv.to/snapshots/734852.jpg" group-title="Religion (All Lang)",USA BYU TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/734852
@@ -4667,7 +4667,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92792
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92793
 #EXTINF:-1 tvg-id="cspan3.us" tvg-name="USA C-SPAN 3" tvg-logo="https://static.realiptv.to/snapshots/607733.jpg" group-title="ENG | News",USA C-SPAN 3
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/607733
-#EXTINF:-1 tvg-name="USA Cars TV" tvg-logo="https://static.realiptv.to/snapshots/75345.jpg" group-title="ENG | Entertainment",USA Cars TV
+#EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG | Entertainment",Cars TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75345
 #EXTINF:-1 tvg-name="USA Cars TV SD" tvg-logo="https://static.realiptv.to/snapshots/401219.jpg" group-title="ENG | Local | LOW",USA Cars TV SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401219
@@ -4681,7 +4681,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3711
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3618
 #EXTINF:-1 tvg-id="cartoonnetworkwest.us" tvg-name="USA Cartoon Network West" tvg-logo="https://static.realiptv.to/snapshots/2653.jpg" group-title="ENG | Family & Kids",USA Cartoon Network West
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2653
-#EXTINF:-1 tvg-id="catchycomedy.us" tvg-name="Catchy Comedy" group-title="ENG | Entertainment",Catchy Comedy
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" group-title="ENG | Entertainment",Catchy Comedy
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2603
 #EXTINF:-1 tvg-name="USA CBeebies" tvg-logo="https://static.realiptv.to/snapshots/90438.jpg" group-title="ESP | Entretenimiento",USA CBeebies
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/90438
@@ -4721,7 +4721,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112189
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339691
 #EXTINF:-1 tvg-name="USA CGTN Español" tvg-logo="https://static.realiptv.to/snapshots/90442.jpg" group-title="ESP | Entretenimiento",USA CGTN Español
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/90442
-#EXTINF:-1 tvg-id="charge.us" tvg-name="USA Charge! WCWN (SHD)" tvg-logo="https://static.realiptv.to/snapshots/553125.jpg" group-title="ENG | Entertainment",USA Charge! WCWN (SHD)
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (WCWN) SHD" group-title="ENG | Entertainment",Charge! (WCWN) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/553125
 #EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA Cheddar Business" tvg-logo="https://static.realiptv.to/snapshots/2616.jpg" group-title="ENG | News",USA Cheddar Business
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2616
@@ -4753,13 +4753,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81382
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2611
 #EXTINF:-1 tvg-id="Cinemax.(Pacific).us2" tvg-name="Cinemax (West) LHD" group-title="ENG | Movies",Cinemax (West) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3825
-#EXTINF:-1 tvg-name="USA Circle (PC)" tvg-logo="https://static.realiptv.to/snapshots/660929.jpg" group-title="ENG | Entertainment",USA Circle (PC)
+#EXTINF:-1 tvg-name="Telemundo (PC)" group-title="ENG | Entertainment",Telemundo (PC) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660929
-#EXTINF:-1 tvg-id="circletv.us" tvg-name="USA Circle (SHD)" tvg-logo="https://static.realiptv.to/snapshots/470624.jpg" group-title="ENG | Entertainment",USA Circle (SHD)
+#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country SHD" group-title="ENG | Entertainment",Circle Country SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470624
-#EXTINF:-1 tvg-id="cleo.us" tvg-name="USA Cleo TV (SHD)" tvg-logo="https://static.realiptv.to/snapshots/573316.jpg" group-title="ENG | Entertainment",USA Cleo TV (SHD)
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV (SHD)" group-title="ENG | Entertainment",Cleo TV SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/573316
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA CMT (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647783.jpg" group-title="ENG | Entertainment",USA CMT (SHD)
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East) SHD" group-title="ENG | Entertainment",CMT (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647783
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="USA CMT SD" tvg-logo="https://static.realiptv.to/snapshots/97451.jpg" group-title="ENG | Local | LOW",USA CMT SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97451
@@ -4793,33 +4793,33 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3715
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3625
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA Comedy Central East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21566.jpg" group-title="ENG | Local | LOW",USA Comedy Central East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21566
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA Comedy Central East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648957.jpg" group-title="ENG | Entertainment",USA Comedy Central East (SHD)
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East) SHD" group-title="ENG | Entertainment",Comedy Central (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648957
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA Comedy Central East UHD" tvg-logo="https://static.realiptv.to/snapshots/3626.jpg" group-title="ENG | Entertainment",USA Comedy Central East UHD
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East) UHD" group-title="ENG | Entertainment",Comedy Central (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3626
-#EXTINF:-1 tvg-id="CCHDP" tvg-name="USA COMEDY CENTRAL WEST" tvg-logo="https://static.realiptv.to/snapshots/89211.jpg" group-title="ENG | Entertainment",USA COMEDY CENTRAL WEST
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" group-title="ENG | Entertainment",Comedy Central (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89211
-#EXTINF:-1 tvg-name="USA Comedy Dynamics" tvg-logo="https://static.realiptv.to/snapshots/660930.jpg" group-title="ENG | Entertainment",USA Comedy Dynamics
+#EXTINF:-1 tvg-name="Comedy Dynamics" group-title="ENG | Entertainment",Comedy Dynamics EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660930
-#EXTINF:-1 tvg-id="comedytv.us" tvg-name="USA Comedy.tv" tvg-logo="https://static.realiptv.to/snapshots/77411.jpg" group-title="ENG | Entertainment",USA Comedy.tv
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy.tv" group-title="ENG | Entertainment",Comedy.tv
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77411
-#EXTINF:-1 tvg-id="comet.us" tvg-name="Comet" group-title="ENG | Entertainment",Comet
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet (East)" group-title="ENG | Entertainment",Comet (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2606
-#EXTINF:-1 tvg-id="comet.us" tvg-name="USA Comet (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3850.jpg" group-title="ENG | Entertainment",USA Comet (SHD)
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet (East) SHD" group-title="ENG | Entertainment",Comet (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3850
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA Cooking Channel (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2605.jpg" group-title="ENG | Entertainment",USA Cooking Channel (SHD)
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel SHD" group-title="ENG | Entertainment",Cooking Channel SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2605
 #EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA COOKING CHANNEL SD" tvg-logo="https://static.realiptv.to/snapshots/97452.jpg" group-title="ENG | Local | LOW",USA COOKING CHANNEL SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97452
-#EXTINF:-1 tvg-id="court.us" tvg-name="USA Court TV" tvg-logo="https://static.realiptv.to/snapshots/74680.jpg" group-title="ENG | Entertainment",USA Court TV
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" group-title="ENG | Entertainment",Court TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74680
-#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="Cozi TV" group-title="ENG | Entertainment",Cozi TV
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV" group-title="ENG | Entertainment",Cozi TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2604
-#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="USA COZI TV (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3851.jpg" group-title="ENG | Entertainment",USA COZI TV (SHD)
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV SHD" group-title="ENG | Entertainment",COZI TV SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3851
-#EXTINF:-1 tvg-name="USA Create WMHT" tvg-logo="https://static.realiptv.to/snapshots/648971.jpg" group-title="ENG | Entertainment",USA Create WMHT
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create (East) WMHT" group-title="ENG | Entertainment",Create (East) WMHT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648971
-#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="USA Crime & Investigation Network (SHD)" tvg-logo="https://static.realiptv.to/snapshots/20211.jpg" group-title="ENG | Entertainment",USA Crime & Investigation Network (SHD)
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation SHD" group-title="ENG | Entertainment",Crime & Investigation SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/20211
 #EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="USA Crime & Investigation Network SD" tvg-logo="https://static.realiptv.to/snapshots/401167.jpg" group-title="ENG | Local | LOW",USA Crime & Investigation Network SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401167
@@ -4849,45 +4849,45 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34439
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34427
 #EXTINF:-1 tvg-id="WWHO-DT.us_locals1" tvg-name="OH | Columbus | CW WWHO" group-title="ENG | Local | CW/IND/MY",OH | Columbus | CW WWHO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34438
-#EXTINF:-1 tvg-id="dabl.us" tvg-name="USA DABL" tvg-logo="https://static.realiptv.to/snapshots/333484.jpg" group-title="ENG | Entertainment",USA DABL
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL" group-title="ENG | Entertainment",DABL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333484
 #EXTINF:-1 tvg-id="daystar.us" tvg-name="USA Daystar (SHD)" tvg-logo="https://static.realiptv.to/snapshots/588480.jpg" group-title="Religion (All Lang)",USA Daystar (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/588480
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA Destination America (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2602.jpg" group-title="ENG | Entertainment",USA Destination America (SHD)
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America SHD" group-title="ENG | Entertainment",Destination America SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2602
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA Destination America LHD" tvg-logo="https://static.realiptv.to/snapshots/3717.jpg" group-title="ENG | Entertainment",USA Destination America LHD
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America LHD" group-title="ENG | Entertainment",Destination America LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3717
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA Destination America UHD" tvg-logo="https://static.realiptv.to/snapshots/3628.jpg" group-title="ENG | Entertainment",USA Destination America UHD
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America UHD" group-title="ENG | Entertainment",Destination America UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3628
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA Discovery East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21555.jpg" group-title="ENG | Local | LOW",USA Discovery East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21555
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA Discovery East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3718.jpg" group-title="ENG | Entertainment",USA Discovery East (SHD)
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East) SHD" group-title="ENG | Entertainment",Discovery (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3718
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA Discovery East UHD" tvg-logo="https://static.realiptv.to/snapshots/3629.jpg" group-title="ENG | Entertainment",USA Discovery East UHD
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East) UHD" group-title="ENG | Entertainment",Discovery (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3629
-#EXTINF:-1 tvg-name="USA Discovery Español" tvg-logo="https://static.realiptv.to/snapshots/2600.jpg" group-title="ENG | Entertainment",USA Discovery Español
+#EXTINF:-1 tvg-id="Discovery.en.Español.us2" tvg-name="Discovery Español" group-title="ESP | Entertainment",Discovery Español
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2600
-#EXTINF:-1 tvg-id="discfamilia.us" tvg-name="USA Discovery Familia" tvg-logo="https://static.realiptv.to/snapshots/2599.jpg" group-title="ENG | Entertainment",USA Discovery Familia
+#EXTINF:-1 tvg-id="Discovery.Familia.En.Español.us2" tvg-name="Discovery Familia" group-title="ESP | Entertainment",Discovery Familia
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2599
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA Discovery Family (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2598.jpg" group-title="ENG | Entertainment",USA Discovery Family (SHD)
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family SHD" group-title="ENG | Entertainment",Discovery Family SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2598
 #EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA DISCOVERY FAMILY SD" tvg-logo="https://static.realiptv.to/snapshots/97454.jpg" group-title="ENG | Local | LOW",USA DISCOVERY FAMILY SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97454
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA Discovery Life" tvg-logo="https://static.realiptv.to/snapshots/2597.jpg" group-title="ENG | Entertainment",USA Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" group-title="ENG | Entertainment",Discovery Life
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2597
 #EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA DISCOVERY LIFE (SD)" tvg-logo="https://static.realiptv.to/snapshots/97455.jpg" group-title="ENG | Local | LOW",USA DISCOVERY LIFE (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97455
 #EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA Discovery Life Channel LHD" tvg-logo="https://static.realiptv.to/snapshots/3858.jpg" group-title="ENG | Entertainment",USA Discovery Life Channel LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3858
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA Discovery Science (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2595.jpg" group-title="ENG | Entertainment",USA Discovery Science (SHD)
+#EXTINF:-1 tvg-name="Discovery Science SHD" group-title="ENG | Entertainment",Discovery Science SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2595
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA Discovery Science LHD" tvg-logo="https://static.realiptv.to/snapshots/3757.jpg" group-title="ENG | Entertainment",USA Discovery Science LHD
+#EXTINF:-1 tvg-name="Discovery Science LHD" group-title="ENG | Entertainment",Discovery Science LHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3757
 #EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA Discovery Science SD" tvg-logo="https://static.realiptv.to/snapshots/21604.jpg" group-title="ENG | Local | LOW",USA Discovery Science SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21604
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA Discovery Science UHD" tvg-logo="https://static.realiptv.to/snapshots/3679.jpg" group-title="ENG | Entertainment",USA Discovery Science UHD
+#EXTINF:-1 tvg-name="Discovery Science UHD" group-title="ENG | Entertainment",Discovery Science UHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3679
-#EXTINF:-1 tvg-id="f17a65b7-9813-4170-80d5-5693fbd442cf" tvg-name="USA Discovery West" tvg-logo="https://static.realiptv.to/snapshots/3826.jpg" group-title="ENG | Entertainment",USA Discovery West
+#EXTINF:-1 tvg-name="Discovery (West)" group-title="ENG | Entertainment",Discovery (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3826
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney Channel (East) SHD" group-title="ENG | Family & Kids",Disney Channel (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2591
@@ -4923,35 +4923,35 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3631
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2586
 #EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="USA Disney XD West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3829.jpg" group-title="ENG | Family & Kids",USA Disney XD West (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3829
-#EXTINF:-1 tvg-name="USA District of Columbia Network" tvg-logo="https://static.realiptv.to/snapshots/61806.jpg" group-title="ENG | Entertainment",USA District of Columbia Network
+#EXTINF:-1 tvg-name="District of Columbia Network" group-title="ENG | Entertainment",District of Columbia Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61806
-#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="USA DIY LHD" tvg-logo="https://static.realiptv.to/snapshots/3722.jpg" group-title="ENG | Entertainment",USA DIY LHD
+#EXTINF:-1 tvg-name="Magnolia Network LHD EPG" group-title="ENG | Entertainment",Magnolia Network LHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3722
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="USA DIY Network" tvg-logo="https://static.realiptv.to/snapshots/2585.jpg" group-title="ENG | Sports (National)",USA DIY Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2585
 #EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="USA DIY SD" tvg-logo="https://static.realiptv.to/snapshots/97456.jpg" group-title="ENG | Local | LOW",USA DIY SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97456
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA DIY UHD" tvg-logo="https://static.realiptv.to/snapshots/3634.jpg" group-title="ENG | Entertainment",USA DIY UHD
+#EXTINF:-1 tvg-name="Magnolia Network UHD" group-title="ENG | Entertainment",Magnolia Network UHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3634
-#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA Dog TV" tvg-logo="https://static.realiptv.to/snapshots/76439.jpg" group-title="ENG | Entertainment",USA Dog TV
+#EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="Dog TV" group-title="ENG | Entertainment",Dog TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/76439
-#EXTINF:-1 tvg-id="DOVE" tvg-name="USA Dove Channel" tvg-logo="https://static.realiptv.to/snapshots/447194.jpg" group-title="ENG | Entertainment",USA Dove Channel
+#EXTINF:-1 tvg-name="Dove Channel" group-title="ENG | Entertainment",Dove Channel EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/447194
-#EXTINF:-1 tvg-name="USA DRAMA TV (PC)" tvg-logo="https://static.realiptv.to/snapshots/660918.jpg" group-title="ENG | Entertainment",USA DRAMA TV (PC)
+#EXTINF:-1 tvg-name="DRAMA TV (PC)" group-title="ENG | Entertainment",DRAMA TV (PC) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660918
-#EXTINF:-1 tvg-name="USA DUST (PC)" tvg-logo="https://static.realiptv.to/snapshots/660931.jpg" group-title="ENG | Entertainment",USA DUST (PC)
+#EXTINF:-1 tvg-name="DUST (PC)" group-title="ENG | Entertainment",DUST (PC) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660931
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA E! East  LHD" tvg-logo="https://static.realiptv.to/snapshots/3723.jpg" group-title="ENG | Entertainment",USA E! East  LHD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East) LHD" group-title="ENG | Entertainment",E! (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3723
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA E! East  UHD" tvg-logo="https://static.realiptv.to/snapshots/3635.jpg" group-title="ENG | Entertainment",USA E! East  UHD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East) UHD" group-title="ENG | Entertainment",E! (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3635
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA E! East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2584.jpg" group-title="ENG | Sports (National)",USA E! East (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2584
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA E! Entertainment East SD" tvg-logo="https://static.realiptv.to/snapshots/21569.jpg" group-title="ENG | Local | LOW",USA E! Entertainment East SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21569
-#EXTINF:-1 tvg-id="I236.61812.zap2it.com" tvg-name="USA E! West" tvg-logo="https://static.realiptv.to/snapshots/3830.jpg" group-title="ENG | Entertainment",USA E! West
+#EXTINF:-1 tvg-name="E! (West)" group-title="ENG | Entertainment",E! (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3830
-#EXTINF:-1 tvg-name="USA EarthX (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647788.jpg" group-title="ENG | Entertainment",USA EarthX (SHD)
+#EXTINF:-1 tvg-id="EarthX.us2" tvg-name="EarthX SHD" group-title="ENG | Entertainment",EarthX SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647788
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="USA Eleven Sports" tvg-logo="https://static.realiptv.to/snapshots/3810.jpg" group-title="ENG | Sports (National)",USA Eleven Sports
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3810
@@ -5005,7 +5005,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629724
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3791
 #EXTINF:-1 tvg-id="fandueltv.us" tvg-name="USA FanDuel TV" tvg-logo="https://static.realiptv.to/snapshots/629723.jpg" group-title="ENG | Sports (National)",USA FanDuel TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629723
-#EXTINF:-1 tvg-id="FETV" tvg-name="USA FETV" tvg-logo="https://static.realiptv.to/snapshots/512977.jpg" group-title="ENG | Entertainment",USA FETV
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" group-title="ENG | Entertainment",FETV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512977
 #EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="USA Fight Network" tvg-logo="https://static.realiptv.to/snapshots/81589.jpg" group-title="ENG | Sports (National)",USA Fight Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81589
@@ -5017,11 +5017,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/383474
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2575
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA Food Network East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21568.jpg" group-title="ENG | Local | LOW",USA Food Network East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21568
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA Food Network East LHD" tvg-logo="https://static.realiptv.to/snapshots/3729.jpg" group-title="ENG | Entertainment",USA Food Network East LHD
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) LHD" group-title="ENG | Entertainment",Food Network (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3729
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA Food Network East UHD" tvg-logo="https://static.realiptv.to/snapshots/3644.jpg" group-title="ENG | Entertainment",USA Food Network East UHD
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) UHD" group-title="ENG | Entertainment",Food Network (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3644
-#EXTINF:-1 tvg-id="2622d0c0-8b0f-4033-b3e9-b9072ac821f5" tvg-name="USA Food Network West" tvg-logo="https://static.realiptv.to/snapshots/3831.jpg" group-title="ENG | Entertainment",USA Food Network West
+#EXTINF:-1 tvg-name="Food Network (West)" group-title="ENG | Entertainment",Food Network (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3831
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA Fox Business (SD)" tvg-logo="https://static.realiptv.to/snapshots/21561.jpg" group-title="ENG | Local | LOW",USA Fox Business (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21561
@@ -5051,7 +5051,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3647
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2531
 #EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA FOX Soccer Plus LHD" tvg-logo="https://static.realiptv.to/snapshots/3800.jpg" group-title="ENG | Sports (National)",USA FOX Soccer Plus LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3800
-#EXTINF:-1 tvg-id="20280" tvg-name="USA FOX SOUL" tvg-logo="https://static.realiptv.to/snapshots/625076.jpg" group-title="ENG | Entertainment",USA FOX SOUL
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-name="FOX SOUL" group-title="ENG | Entertainment",FOX SOUL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/625076
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA Fox Sports 1 (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2501.jpg" group-title="ENG | Sports (National)",USA Fox Sports 1 (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2501
@@ -5087,31 +5087,31 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/90456
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2502
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="USA Freeform East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21608.jpg" group-title="ENG | Local | LOW",USA Freeform East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21608
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA Freeform East LHD" tvg-logo="https://static.realiptv.to/snapshots/3734.jpg" group-title="ENG | Entertainment",USA Freeform East LHD
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (East) LHD" group-title="ENG | Entertainment",Freeform (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3734
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA Freeform UHD" tvg-logo="https://static.realiptv.to/snapshots/3648.jpg" group-title="ENG | Entertainment",USA Freeform UHD
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (East) UHD" group-title="ENG | Entertainment",Freeform (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3648
-#EXTINF:-1 tvg-id="I311.10093.zap2it.com" tvg-name="USA Freeform West" tvg-logo="https://static.realiptv.to/snapshots/3849.jpg" group-title="ENG | Entertainment",USA Freeform West
+#EXTINF:-1 tvg-name="Freeform (West)" group-title="ENG | Entertainment",Freeform (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3849
 #EXTINF:-1 tvg-id="FNETTV" tvg-name="USA Fubo Sports Network" tvg-logo="https://static.realiptv.to/snapshots/50908.jpg" group-title="ENG | Sports (National)",USA Fubo Sports Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50908
-#EXTINF:-1 tvg-id="fueltv.us" tvg-name="USA Fuel TV" tvg-logo="https://static.realiptv.to/snapshots/663849.jpg" group-title="ENG | Entertainment",USA Fuel TV
+#EXTINF:-1 tvg-name="Fuel TV" group-title="ENG | Entertainment",Fuel TV EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663849
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="Fuse" group-title="ENG | Entertainment",Fuse
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" group-title="ENG | Entertainment",Fuse
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2499
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA Fuse (SHD)" tvg-logo="https://static.realiptv.to/snapshots/30920.jpg" group-title="ENG | Entertainment",USA Fuse (SHD)
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse SHD" group-title="ENG | Entertainment",Fuse SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30920
 #EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA Fuse TV SD" tvg-logo="https://static.realiptv.to/snapshots/401168.jpg" group-title="ENG | Local | LOW",USA Fuse TV SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401168
 #EXTINF:-1 tvg-id="fx.us" tvg-name="USA FX East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21560.jpg" group-title="ENG | Local | LOW",USA FX East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21560
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX (East) SHD" group-title="ENG | Entertainment",FX (East) SHD
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) SHD" group-title="ENG | Entertainment",FX (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2498
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX (East) LHD" group-title="ENG | Entertainment",FX (East) LHD
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) LHD" group-title="ENG | Entertainment",FX (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3735
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX (East) UHD" group-title="ENG | Entertainment",FX (East) UHD
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) UHD" group-title="ENG | Entertainment",FX (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3642
-#EXTINF:-1 tvg-name="FX (West) " group-title="ENG | Entertainment",FX (West) EPG
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FX (West) " group-title="ENG | Entertainment",FX (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3832
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies SHD" group-title="ENG | Movies",FX Movies SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3736
@@ -5119,27 +5119,27 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3736
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2497
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="USA FXX East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21594.jpg" group-title="ENG | Local | LOW",USA FXX East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21594
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX (East) SHD" group-title="ENG | Entertainment",FXX (East) SHD
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) SHD" group-title="ENG | Entertainment",FXX (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2496
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX (East) LHD" group-title="ENG | Entertainment",FXX (East) LHD
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) LHD" group-title="ENG | Entertainment",FXX (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3737
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX (East) UHD" group-title="ENG | Entertainment",FXX (East) UHD
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) UHD" group-title="ENG | Entertainment",FXX (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3649
-#EXTINF:-1 tvg-name="FXX (West)" group-title="ENG | Entertainment",FXX (West) EPG
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" group-title="ENG | Entertainment",FXX (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3833
 #EXTINF:-1 tvg-id="fyi.us" tvg-name="USA FYI (SD)" tvg-logo="https://static.realiptv.to/snapshots/97459.jpg" group-title="ENG | Local | LOW",USA FYI (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97459
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA FYI East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/30924.jpg" group-title="ENG | Entertainment",USA FYI East (SHD)
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East) SHD" group-title="ENG | Entertainment",FYI (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30924
-#EXTINF:-1 tvg-name="USA FYI West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647422.jpg" group-title="ENG | Entertainment",USA FYI West (SHD)
+#EXTINF:-1 tvg-name="FYI (West) SHD" group-title="ENG | Entertainment",FYI (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647422
 #EXTINF:-1 tvg-id="galavision.us" tvg-name="USA Galavision East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/4464.jpg" group-title="ESP | Local | Univision",USA Galavision East (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4464
 #EXTINF:-1 tvg-id="galavisionpacific.us" tvg-name="USA Galavision West" tvg-logo="https://static.realiptv.to/snapshots/4465.jpg" group-title="ESP | Local | Univision",USA Galavision West
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4465
-#EXTINF:-1 tvg-name="USA Game Show Central" tvg-logo="https://static.realiptv.to/snapshots/739777.jpg" group-title="ENG | Entertainment",USA Game Show Central
+#EXTINF:-1 tvg-name="Game Show Central" group-title="ENG | Entertainment",Game Show Central EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/739777
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="USA GET TV" tvg-logo="https://static.realiptv.to/snapshots/30928.jpg" group-title="ENG | Entertainment",USA GET TV
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great TV" group-title="ENG | Entertainment",Great TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30928
 #EXTINF:-1 tvg-id="gettv.us" tvg-name="USA GET TV SD" tvg-logo="https://static.realiptv.to/snapshots/97460.jpg" group-title="ENG | Local | LOW",USA GET TV SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97460
@@ -5161,49 +5161,49 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3738
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3651
 #EXTINF:-1 tvg-name="USA Golf US Open  (PC)" tvg-logo="https://static.realiptv.to/snapshots/660932.jpg" group-title="ENG | Sports (National)",USA Golf US Open  (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660932
-#EXTINF:-1 tvg-name="USA Great American Faith & Living" tvg-logo="https://static.realiptv.to/snapshots/737618.jpg" group-title="ENG | Entertainment",USA Great American Faith & Living
+#EXTINF:-1 tvg-id="Great.American.Faith.and.Living.us2" tvg-name="Great American Faith & Living" group-title="ENG | Entertainment",Great American Faith & Living
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737618
-#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="USA Great American Family" tvg-logo="https://static.realiptv.to/snapshots/84929.jpg" group-title="ENG | Entertainment",USA Great American Family
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family" group-title="ENG | Entertainment",Great American Family
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/84929
 #EXTINF:-1 tvg-id="gacfamily.us" tvg-name="USA Great American Family SD" tvg-logo="https://static.realiptv.to/snapshots/401169.jpg" group-title="ENG | Local | LOW",USA Great American Family SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401169
-#EXTINF:-1 tvg-id="grit.us" tvg-name="USA Grit TV" tvg-logo="https://static.realiptv.to/snapshots/40583.jpg" group-title="ENG | Entertainment",USA Grit TV
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV" group-title="ENG | Entertainment",Grit TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40583
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA GSN (SD)" tvg-logo="https://static.realiptv.to/snapshots/21571.jpg" group-title="ENG | Local | LOW",USA GSN (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21571
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA GSN (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648975.jpg" group-title="ENG | Entertainment",USA GSN (SHD)
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) SHD" group-title="ENG | Entertainment",GSN (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648975
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA GSN (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3650.jpg" group-title="ENG | Entertainment",USA GSN (UHD)
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) UHD" group-title="ENG | Entertainment",GSN (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3650
-#EXTINF:-1 tvg-id="GUSTO" tvg-name="USA GUSTO" tvg-logo="https://static.realiptv.to/snapshots/333487.jpg" group-title="ENG | Entertainment",USA GUSTO
+#EXTINF:-1 tvg-name="GUSTO" group-title="ENG | Entertainment",GUSTO EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333487
-#EXTINF:-1 tvg-name="USA HALLMARK CHANNEL (PC)" tvg-logo="https://static.realiptv.to/snapshots/660924.jpg" group-title="ENG | Entertainment",USA HALLMARK CHANNEL (PC)
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East)" group-title="ENG | Entertainment",Hallmark (East) (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660924
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark (East) SHD" group-title="ENG | Entertainment",Hallmark (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2494
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel East LHD" tvg-logo="https://static.realiptv.to/snapshots/3740.jpg" group-title="ENG | Entertainment",USA Hallmark Channel East LHD
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East) LHD" group-title="ENG | Entertainment",Hallmark (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3740
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21595.jpg" group-title="ENG | Local | LOW",USA Hallmark East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21595
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark East UHD" tvg-logo="https://static.realiptv.to/snapshots/3652.jpg" group-title="ENG | Entertainment",USA Hallmark East UHD
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East) UHD" group-title="ENG | Entertainment",Hallmark (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3652
-#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="USA HALLMARK Family" tvg-logo="https://static.realiptv.to/snapshots/660922.jpg" group-title="ENG | Entertainment",USA HALLMARK Family
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" group-title="ENG | Entertainment",Hallmark Family
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660922
 #EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA HALLMARK MOVIES & MYSTERIES (SD)" tvg-logo="https://static.realiptv.to/snapshots/97462.jpg" group-title="ENG | Local | LOW",USA HALLMARK MOVIES & MYSTERIES (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97462
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Mysteries SHD" group-title="ENG | Entertainment",Hallmark Mysteries SHD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mysteries (East) SHD" group-title="ENG | Entertainment",Hallmark Mysteries (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2492
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA Hallmark Movies & Mysteries East UHD" tvg-logo="https://static.realiptv.to/snapshots/3653.jpg" group-title="ENG | Entertainment",USA Hallmark Movies & Mysteries East UHD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mysteries (East) UHD" group-title="ENG | Entertainment",Hallmark Mysteries (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3653
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA Hallmark Movies & Mysteries LHD" tvg-logo="https://static.realiptv.to/snapshots/3741.jpg" group-title="ENG | Entertainment",USA Hallmark Movies & Mysteries LHD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mysteries (East) LHD" group-title="ENG | Entertainment",Hallmark Mysteries (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3741
-#EXTINF:-1 tvg-name="USA Hallmark Movies & Mysteries West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649413.jpg" group-title="ENG | Entertainment",USA Hallmark Movies & Mysteries West (SHD)
+#EXTINF:-1 tvg-name="Hallmark Mysteries (West) SHD" group-title="ENG | Entertainment",Hallmark Mysteries (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649413
-#EXTINF:-1 tvg-name="USA HALLMARK MOVIES MYSTERIES (PC)" tvg-logo="https://static.realiptv.to/snapshots/660923.jpg" group-title="ENG | Entertainment",USA HALLMARK MOVIES MYSTERIES (PC)
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mysteries (East) (PC)" group-title="ENG | Entertainment",Hallmark Mysteries (East) (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660923
-#EXTINF:-1 tvg-name="USA Hallmark West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649412.jpg" group-title="ENG | Entertainment",USA Hallmark West (SHD)
+#EXTINF:-1 tvg-name="Hallmark (West) SHD" group-title="ENG | Entertainment",Hallmark (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649412
-#EXTINF:-1 tvg-name="USA Haunt TV " tvg-logo="https://static.realiptv.to/snapshots/676747.jpg" group-title="ENG | Entertainment",USA Haunt TV
+#EXTINF:-1 tvg-id="Haunt.TV.us2 " tvg-name="Haunt TV " group-title="ENG | Entertainment",Haunt TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/676747
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits (East) (SHD)" group-title="ENG | Movies",HBO Hits (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648976
@@ -5253,81 +5253,81 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/51552
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631877
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNET Movies" group-title="ENG | Movies",HDNET Movies
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89182
-#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA Heroes & Icons" tvg-logo="https://static.realiptv.to/snapshots/61858.jpg" group-title="ENG | Entertainment",USA Heroes & Icons
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes & Icons (East)" group-title="ENG | Entertainment",Heroes & Icons (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61858
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA Heroes & Icons SD" tvg-logo="https://static.realiptv.to/snapshots/401170.jpg" group-title="ENG | Local | LOW",USA Heroes & Icons SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401170
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21596.jpg" group-title="ENG | Local | LOW",USA HGTV East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21596
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2489.jpg" group-title="ENG | Entertainment",USA HGTV East (SHD)
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East) SHD" group-title="ENG | Entertainment",HGTV (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2489
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East LHD" tvg-logo="https://static.realiptv.to/snapshots/3743.jpg" group-title="ENG | Entertainment",USA HGTV East LHD
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East) LHD" group-title="ENG | Entertainment",HGTV (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3743
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD" tvg-logo="https://static.realiptv.to/snapshots/3654.jpg" group-title="ENG | Entertainment",USA HGTV East UHD
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East) UHD" group-title="ENG | Entertainment",HGTV (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3654
-#EXTINF:-1 tvg-id="I229.49788.zap2it.com" tvg-name="USA HGTV West" tvg-logo="https://static.realiptv.to/snapshots/3836.jpg" group-title="ENG | Entertainment",USA HGTV West
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-name="HGTV (West)" group-title="ENG | Entertainment",HGTV (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3836
 #EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA History (SD)" tvg-logo="https://static.realiptv.to/snapshots/21558.jpg" group-title="ENG | Local | LOW",USA History (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21558
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA History East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/645913.jpg" group-title="ENG | Entertainment",USA History East (SHD)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History (East) SHD" group-title="ENG | Entertainment",History (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/645913
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA History East UHD" tvg-logo="https://static.realiptv.to/snapshots/3657.jpg" group-title="ENG | Entertainment",USA History East UHD
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History (East) UHD" group-title="ENG | Entertainment",History (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3657
-#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name="USA History Espanol (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649401.jpg" group-title="ENG | Entertainment",USA History Espanol (SHD)
+#EXTINF:-1 tvg-id="History.Channel.En.Español.us2" tvg-name="History Espanol SHD" group-title="ESP | Entertainment",History Espanol SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649401
 #EXTINF:-1 tvg-id="hln.us" tvg-name="USA HLN (SD)" tvg-logo="https://static.realiptv.to/snapshots/97463.jpg" group-title="ENG | Local | LOW",USA HLN (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97463
-#EXTINF:-1 tvg-id="hln.us" tvg-name="USA HLN (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2488.jpg" group-title="ENG | Entertainment",USA HLN (SHD)
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN SHD" group-title="ENG | Entertainment",HLN SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2488
 #EXTINF:-1 tvg-id="hln.us" tvg-name="USA HLN LHD" tvg-logo="https://static.realiptv.to/snapshots/3744.jpg" group-title="ENG | News",USA HLN LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3744
 #EXTINF:-1 tvg-id="hln.us" tvg-name="USA HLN UHD" tvg-logo="https://static.realiptv.to/snapshots/3658.jpg" group-title="ENG | News",USA HLN UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3658
-#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="USA HSN" tvg-logo="https://static.realiptv.to/snapshots/469940.jpg" group-title="ENG | Entertainment",USA HSN
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN" group-title="ENG | Entertainment",HSN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/469940
 #EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA ID East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21559.jpg" group-title="ENG | Local | LOW",USA ID East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21559
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA ID East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3745.jpg" group-title="ENG | Entertainment",USA ID East (SHD)
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="ID (East) SHD" group-title="ENG | Entertainment",ID (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3745
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA ID East UHD" tvg-logo="https://static.realiptv.to/snapshots/3633.jpg" group-title="ENG | Entertainment",USA ID East UHD
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="ID (East) UHD" group-title="ENG | Entertainment",ID (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3633
-#EXTINF:-1 tvg-id="I285.65342.zap2it.com" tvg-name="USA ID West" tvg-logo="https://static.realiptv.to/snapshots/3837.jpg" group-title="ENG | Entertainment",USA ID West
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="ID (West) " group-title="ENG | Entertainment",ID (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3837
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="USA IFC" tvg-logo="https://static.realiptv.to/snapshots/2487.jpg" group-title="ENG | Entertainment",USA IFC
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC (East)" group-title="ENG | Entertainment",IFC (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2487
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="USA IFC (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3859.jpg" group-title="ENG | Entertainment",USA IFC (SHD)
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC (East) SHD" group-title="ENG | Entertainment",IFC (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3859
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA IFC SD" tvg-logo="https://static.realiptv.to/snapshots/97464.jpg" group-title="ENG | Local | LOW",USA IFC SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97464
-#EXTINF:-1 tvg-name="USA IFC West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647340.jpg" group-title="ENG | Entertainment",USA IFC West (SHD)
+#EXTINF:-1 tvg-name="IFC (West) SHD" group-title="ENG | Entertainment",IFC (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647340
-#EXTINF:-1 tvg-id="impact.us" tvg-name="USA IMPACT Network (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647830.jpg" group-title="ENG | Entertainment",USA IMPACT Network (SHD)
+#EXTINF:-1 tvg-id="Impact.Network.us2" tvg-name="IMPACT Network SHD" group-title="Religion (All Lang)",IMPACT Network SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647830
 #EXTINF:-1 tvg-id="indieplex.us" tvg-name="INDIEPLEX (East) UHD" group-title="ENG | Movies",INDIEPLEX (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93059
-#EXTINF:-1 tvg-name="USA Info Wars" tvg-logo="https://static.realiptv.to/snapshots/77771.jpg" group-title="ENG | Entertainment",USA Info Wars
+#EXTINF:-1 tvg-name="Info Wars" group-title="ENG | News",Info Wars EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77771
 #EXTINF:-1 tvg-name="USA Info Wars LHD" tvg-logo="https://static.realiptv.to/snapshots/433709.jpg" group-title="ENG | News",USA Info Wars LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/433709
 #EXTINF:-1 tvg-name="USA Inglés Para Todos" tvg-logo="https://static.realiptv.to/snapshots/112232.jpg" group-title="ESP | Entretenimiento",USA Inglés Para Todos
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112232
-#EXTINF:-1 tvg-id="insp.us" tvg-name="USA INSP (SHD)" tvg-logo="https://static.realiptv.to/snapshots/74682.jpg" group-title="ENG | Entertainment",USA INSP (SHD)
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP SHD" group-title="ENG | Entertainment",INSP SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74682
-#EXTINF:-1 tvg-name="USA ION Plus" tvg-logo="https://static.realiptv.to/snapshots/597269.jpg" group-title="ENG | Entertainment",USA ION Plus
+#EXTINF:-1 tvg-name="ION Plus" group-title="ENG | Entertainment",ION Plus EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597269
-#EXTINF:-1 tvg-name="USA ION Television" tvg-logo="https://static.realiptv.to/snapshots/597281.jpg" group-title="ENG | Entertainment",USA ION Television
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (East)" group-title="ENG | Entertainment",ION Television (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597281
-#EXTINF:-1 tvg-name="USA ION Television West" tvg-logo="https://static.realiptv.to/snapshots/597284.jpg" group-title="ENG | Entertainment",USA ION Television West
+#EXTINF:-1 tvg-name="ION Television (West)" group-title="ENG | Entertainment",ION Television (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597284
-#EXTINF:-1 tvg-id="ion.us" tvg-name="USA ION TV" tvg-logo="https://static.realiptv.to/snapshots/555699.jpg" group-title="ENG | Entertainment",USA ION TV
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television (East)" group-title="ENG | Entertainment",ION Television (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/555699
-#EXTINF:-1 tvg-id="jewelrytelevision.us" tvg-name="USA Jewelry Television" tvg-logo="https://static.realiptv.to/snapshots/508115.jpg" group-title="ENG | Entertainment",USA Jewelry Television
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry Television" group-title="ENG | Entertainment",Jewelry Television
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/508115
-#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="USA Justice Central" tvg-logo="https://static.realiptv.to/snapshots/74679.jpg" group-title="ENG | Entertainment",USA Justice Central
+#EXTINF:-1 tvg-id="Justice.Central.HD.us2" tvg-name="Justice Central" group-title="ENG | Entertainment",Justice Central
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74679
 #EXTINF:-1 tvg-id="justicecentral.us" tvg-name="USA Justice Central SD" tvg-logo="https://static.realiptv.to/snapshots/401171.jpg" group-title="ENG | Local | LOW",USA Justice Central SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401171
-#EXTINF:-1 tvg-name="USA KTVK 3TV Arizona's Family Phoenix" tvg-logo="https://static.realiptv.to/snapshots/38298.jpg" group-title="ENG | Entertainment",USA KTVK 3TV Arizona's Family Phoenix
+#EXTINF:-1 tvg-id="KTVK-DT.us_locals1" tvg-name="KTVK 3TV Arizona's Family Phoenix" group-title="ENG | Local | CW/IND/MY",KTVK 3TV Arizona's Family Phoenix
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38298
 #EXTINF:-1 tvg-name="USA Latin A3 Series" tvg-logo="https://static.realiptv.to/snapshots/327699.jpg" group-title="ESP | Entretenimiento",USA Latin A3 Series
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/327699
@@ -5437,31 +5437,31 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1686
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649406
 #EXTINF:-1 tvg-name="USA Latin Wapa Puerto Rico" tvg-logo="https://static.realiptv.to/snapshots/40651.jpg" group-title="ESP | Entretenimiento",USA Latin Wapa Puerto Rico
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40651
-#EXTINF:-1 tvg-id="lawcrime.us" tvg-name="USA Law And Crime" tvg-logo="https://static.realiptv.to/snapshots/2483.jpg" group-title="ENG | Entertainment",USA Law And Crime
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law And Crime" group-title="ENG | Entertainment",Law And Crime
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2483
 #EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA Lifetime East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21572.jpg" group-title="ENG | Local | LOW",USA Lifetime East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21572
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA Lifetime East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/645914.jpg" group-title="ENG | Entertainment",USA Lifetime East (SHD)
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East) (SHD)" group-title="ENG | Entertainment",Lifetime (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/645914
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA Lifetime East UHD" tvg-logo="https://static.realiptv.to/snapshots/3659.jpg" group-title="ENG | Entertainment",USA Lifetime East UHD
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East) UHD" group-title="ENG | Entertainment",Lifetime (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3659
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA Lifetime Movie (SD)" tvg-logo="https://static.realiptv.to/snapshots/21573.jpg" group-title="ENG | Local | LOW",USA Lifetime Movie (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21573
-#EXTINF:-1 tvg-id="lmn.us" tvg-name="USA Lifetime Movie East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647764.jpg" group-title="ENG | Entertainment",USA Lifetime Movie East (SHD)
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN (East) SHD" group-title="ENG | Movies",LMN (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647764
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA Lifetime Movie East UHD" tvg-logo="https://static.realiptv.to/snapshots/3660.jpg" group-title="ENG | Entertainment",USA Lifetime Movie East UHD
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN (East) UHD" group-title="ENG | Movies",LMN (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3660
-#EXTINF:-1 tvg-id="lifetimerealwomen.us" tvg-name="USA Lifetime Real Women" tvg-logo="https://static.realiptv.to/snapshots/470623.jpg" group-title="ENG | Entertainment",USA Lifetime Real Women
+#EXTINF:-1 tvg-id="Lifetime.Real.Women.us2" tvg-name="Lifetime Real Women" group-title="ENG | Entertainment",Lifetime Real Women
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470623
-#EXTINF:-1 tvg-name="USA Lifetime West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/650317.jpg" group-title="ENG | Entertainment",USA Lifetime West (SHD)
+#EXTINF:-1 tvg-name="Lifetime (West) SHD" group-title="ENG | Entertainment",Lifetime (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/650317
 #EXTINF:-1 tvg-name="USA LiveNOW from FOX" tvg-logo="https://static.realiptv.to/snapshots/638806.jpg" group-title="ENG | News",USA LiveNOW from FOX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638806
 #EXTINF:-1 tvg-name="USA Living Faith Network" tvg-logo="https://static.realiptv.to/snapshots/512976.jpg" group-title="Religion (All Lang)",USA Living Faith Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512976
-#EXTINF:-1 tvg-id="logo.us" tvg-name="USA LOGO" tvg-logo="https://static.realiptv.to/snapshots/88970.jpg" group-title="ENG | Entertainment",USA LOGO
+#EXTINF:-1 tvg-id="Logo.us2" tvg-name="LOGO" group-title="ENG | Entertainment",LOGO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88970
-#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="USA Magnolia (SHD)" tvg-logo="https://static.realiptv.to/snapshots/647791.jpg" group-title="ENG | Entertainment",USA Magnolia (SHD)
+#EXTINF:-1 tvg-name="Magnolia Network SHD" group-title="ENG | Entertainment",Magnolia Network SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647791
 #EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="USA Marquee Sports Network" tvg-logo="https://static.realiptv.to/snapshots/55178.jpg" group-title="ENG | Sports (National)",USA Marquee Sports Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/55178
