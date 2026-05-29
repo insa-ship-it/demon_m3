@@ -205,7 +205,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2533
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/696419
 #EXTINF:-1 tvg-id="KMIR-DT.us_locals1" tvg-name="CA | Palm Springs | NBC KMIR" group-title="ENG | Local | NBC",CA | Palm Springs | NBC KMIR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89444
-#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",Etc. | Telemundo KUAN" group-title="USA LATIN TELEMUNDO",Etc. | Telemundo KUAN" group-title="USA LATIN TELEMUNDO",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",Etc. | Telemundo KUAN" group-title="USA LATIN TELEMUNDO",Etc. | Telemundo KUAN" group-title="USA LATIN TELEMUNDO",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89446
 #EXTINF:-1 tvg-id="KIXE-DT.us_locals1" tvg-name="CA | Redding | PBS KIXE" group-title="ENG | Local | PBS",CA | Redding | PBS KIXE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470376
@@ -1675,7 +1675,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89541
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89542
 #EXTINF:-1 tvg-id="nbc7kwwl.us" tvg-name="IA | Waterloo | NBC KWWL" tvg-logo="https://static.realiptv.to/snapshots/89544.jpg" group-title="ENG | Local | NBC",IA | Waterloo | NBC KWWL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89544
-#EXTINF:-1 tvg-id="da8c6682-b6ba-47b8-b2f0-be75355f842d" tvg-name="ID | Boise | ABC 6 KIVI" tvg-logo="https://static.realiptv.to/snapshots/512984.jpg" group-title="ENG | Local | ABC",ID | Boise | ABC 6 KIVI
+#EXTINF:-1 tvg-id="KIVI-DT.us_locals1" tvg-name="ID | Boise | ABC KIVI" group-title="ENG | Local | ABC",ID | Boise | ABC KIVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512984
 #EXTINF:-1 tvg-id="cbs2kboi.us" tvg-name="ID | Boise | CBS KBOI" tvg-logo="https://static.realiptv.to/snapshots/89545.jpg" group-title="ENG | Local | CBS",ID | Boise | CBS KBOI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89545
@@ -1693,7 +1693,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/383413
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89548
 #EXTINF:-1 tvg-name="ID | Idaho Falls–Pocatello  | FOX 5 KXPI" tvg-logo="https://static.realiptv.to/snapshots/629675.jpg" group-title="ENG | Local | FOX",ID | Idaho Falls–Pocatello  | FOX 5 KXPI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629675
-#EXTINF:-1 tvg-name="ID | Idaho Falls–Pocatello | ABC 8 KIDK" tvg-logo="https://static.realiptv.to/snapshots/629682.jpg" group-title="ENG | Local | ABC",ID | Idaho Falls–Pocatello | ABC 8 KIDK
+#EXTINF:-1 tvg-id="KIDK-DT.us_locals1" tvg-name="ID | Idaho Falls | ABC KIDK" group-title="ENG | Local | ABC",ID | Idaho Falls | ABC KIDK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629682
 #EXTINF:-1 tvg-name="ID | Idaho Falls–Pocatello | CBS 3 KIFI2" tvg-logo="https://static.realiptv.to/snapshots/629683.jpg" group-title="ENG | Local | CBS",ID | Idaho Falls–Pocatello | CBS 3 KIFI2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629683
@@ -1705,7 +1705,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/739724
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600288
 #EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="IL |  Chicago | Telemundo WSNS" tvg-logo="https://static.realiptv.to/snapshots/2400.jpg" group-title="ESP | Local | Telemundo",IL |  Chicago | Telemundo WSNS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2400
-#EXTINF:-1 tvg-name="IL |  Springfield | ABC 20 WICS" tvg-logo="https://static.realiptv.to/snapshots/600286.jpg" group-title="ENG | Local | ABC",IL |  Springfield | ABC 20 WICS
+#EXTINF:-1 tvg-id="WICS-DT.us_locals1" tvg-name="IL | Springfield | ABC WICS" group-title="ENG | Local | ABC",IL | Springfield | ABC WICS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600286
 #EXTINF:-1 tvg-name="IL |  Springfield | FOX 55 WRSP" tvg-logo="https://static.realiptv.to/snapshots/600287.jpg" group-title="ENG | Local | FOX",IL |  Springfield | FOX 55 WRSP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600287
@@ -1717,7 +1717,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470360
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89553
 #EXTINF:-1 tvg-id="univision66wgbo.us" tvg-name="IL | Chicago |  Univision 66 WGBO" tvg-logo="https://static.realiptv.to/snapshots/4472.jpg" group-title="ESP | Local | Univision",IL | Chicago |  Univision 66 WGBO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4472
-#EXTINF:-1 tvg-id="abc7wlstv.us" tvg-name="IL | Chicago | ABC WLS" tvg-logo="https://static.realiptv.to/snapshots/2695.jpg" group-title="ENG | Local | ABC",IL | Chicago | ABC WLS
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC WLS" group-title="ENG | Local | ABC",IL | Chicago | ABC WLS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2695
 #EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="IL | Chicago | CBS WBBM" tvg-logo="https://static.realiptv.to/snapshots/2648.jpg" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2648
@@ -1733,7 +1733,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470359
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3876
 #EXTINF:-1 tvg-id="nbc17wand.us" tvg-name="IL | Decatur | NBC WAND" tvg-logo="https://static.realiptv.to/snapshots/89558.jpg" group-title="ENG | Local | NBC",IL | Decatur | NBC WAND
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89558
-#EXTINF:-1 tvg-id="4369ba7b-e245-4eb2-922f-a6ffd9da8451" tvg-name="IL | Harrisburg | ABC 3 WSIL" tvg-logo="https://static.realiptv.to/snapshots/38285.jpg" group-title="ENG | Local | ABC",IL | Harrisburg | ABC 3 WSIL
+#EXTINF:-1 tvg-id="WSIL-DT.us_locals1" tvg-name="IL | Harrisburg | ABC WSIL" group-title="ENG | Local | ABC",IL | Harrisburg | ABC WSIL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38285
 #EXTINF:-1 tvg-name="IL | Harrisburg | CBS 12 KFVS" tvg-logo="https://static.realiptv.to/snapshots/638516.jpg" group-title="ENG | Local | CBS",IL | Harrisburg | CBS 12 KFVS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638516
@@ -1749,7 +1749,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89561
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89562
 #EXTINF:-1 tvg-id="nbc13wrex.us" tvg-name="IL | Rockford | NBC WREX" tvg-logo="https://static.realiptv.to/snapshots/89563.jpg" group-title="ENG | Local | NBC",IL | Rockford | NBC WREX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89563
-#EXTINF:-1 tvg-name="IL | SAVANNA | ABC 8 WQAD" tvg-logo="https://static.realiptv.to/snapshots/600299.jpg" group-title="ENG | Local | ABC",IL | SAVANNA | ABC 8 WQAD
+#EXTINF:-1 tvg-id="WQAD-DT.us_locals1" tvg-name="IL | SAVANNA | ABC WQAD" group-title="ENG | Local | ABC",IL | SAVANNA | ABC WQAD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600299
 #EXTINF:-1 tvg-name="IL | Urbana-Champaign | PBS Kids WILL" tvg-logo="https://static.realiptv.to/snapshots/629687.jpg" group-title="ENG | Local | PBS",IL | Urbana-Champaign | PBS Kids WILL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629687
@@ -1767,7 +1767,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89566
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89567
 #EXTINF:-1 tvg-id="nbc21wpta.us" tvg-name="IN | Fort Wayne | NBC WPTA" tvg-logo="https://static.realiptv.to/snapshots/89568.jpg" group-title="ENG | Local | NBC",IN | Fort Wayne | NBC WPTA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89568
-#EXTINF:-1 tvg-id="abcwrtv.us" tvg-name="IN | Indianapolis | ABC 6 WRTV" tvg-logo="https://static.realiptv.to/snapshots/2686.jpg" group-title="ENG | Local | ABC",IN | Indianapolis | ABC 6 WRTV
+#EXTINF:-1 tvg-id="WRTV-DT.us_locals1" tvg-name="IN | Indianapolis | ABC WRTV" group-title="ENG | Local | ABC",IN | Indianapolis | ABC WRTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2686
 #EXTINF:-1 tvg-id="cbs4wttv.us" tvg-name="IN | Indianapolis | CBS WTTV" tvg-logo="https://static.realiptv.to/snapshots/61807.jpg" group-title="ENG | Local | CBS",IN | Indianapolis | CBS WTTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61807
@@ -1793,7 +1793,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512990
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61813
 #EXTINF:-1 tvg-id="nbc16wndu.us" tvg-name="IN | South Bend | NBC WNDU" tvg-logo="https://static.realiptv.to/snapshots/89574.jpg" group-title="ENG | Local | NBC",IN | South Bend | NBC WNDU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89574
-#EXTINF:-1 tvg-id="a241afea-568b-467d-b763-13343b7d0325" tvg-name="IN | South Bend | USA ABC 57 WBND" tvg-logo="https://static.realiptv.to/snapshots/61812.jpg" group-title="ENG | Local | ABC",IN | South Bend | USA ABC 57 WBND
+#EXTINF:-1 tvg-id="WBND-DT.us_locals1" tvg-name="IN | South Bend | ABC WBND" group-title="ENG | Local | ABC",IN | South Bend | ABC WBND
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61812
 #EXTINF:-1 tvg-id="nbc2wtwo.us" tvg-name="IN | Terre Haute | NBC WTWO" tvg-logo="https://static.realiptv.to/snapshots/89575.jpg" group-title="ENG | Local | NBC",IN | Terre Haute | NBC WTWO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89575
@@ -1815,7 +1815,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75365
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75366
 #EXTINF:-1 tvg-name="KS | Wichita | PBS KPTS" tvg-logo="https://static.realiptv.to/snapshots/470351.jpg" group-title="ENG | Local | PBS",KS | Wichita | PBS KPTS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470351
-#EXTINF:-1 tvg-id="2a002c50-4dc9-4600-bcf5-d1fe16882652" tvg-name="KS | WICHITA | USA ABC 10 KAKE" tvg-logo="https://static.realiptv.to/snapshots/75367.jpg" group-title="ENG | Local | ABC",KS | WICHITA | USA ABC 10 KAKE
+#EXTINF:-1 tvg-id="KAKE-DT.us_locals1" tvg-name="KS | WICHITA | ABC KAKE" group-title="ENG | Local | ABC",KS | WICHITA | ABC KAKE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75367
 #EXTINF:-1 tvg-id="nbc40wnky.us" tvg-name="KY | Bowling Green | NBC 40 WNKY" tvg-logo="https://static.realiptv.to/snapshots/50917.jpg" group-title="ENG | Local | NBC",KY | Bowling Green | NBC 40 WNKY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50917
@@ -1825,7 +1825,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/620008
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629726
 #EXTINF:-1 tvg-name="KY | KET Lexington | PBS WKLE" tvg-logo="https://static.realiptv.to/snapshots/470348.jpg" group-title="ENG | Local | PBS",KY | KET Lexington | PBS WKLE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470348
-#EXTINF:-1 tvg-id="2cf2dc04-b00f-4535-b40a-521e6a10bf18" tvg-name="KY | Lexington | ABC36 WTVQ" tvg-logo="https://static.realiptv.to/snapshots/38296.jpg" group-title="ENG | Local | ABC",KY | Lexington | ABC36 WTVQ
+#EXTINF:-1 tvg-id="WTVQ-DT.us_locals1" tvg-name="KY | Lexington | ABC WTVQ" group-title="ENG | Local | ABC",KY | Lexington | ABC WTVQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38296
 #EXTINF:-1 tvg-id="WKYT-DT2.us_locals1" tvg-name="KY | Lexington | CW WKYT-D2" group-title="ENG | Local | CW/IND/MY",KY | Lexington | CW WKYT-D2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629725
@@ -1833,7 +1833,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629725
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89580
 #EXTINF:-1 tvg-id="nbc18wlex.us" tvg-name="KY | Lexington | NBC 18 WLEX" tvg-logo="https://static.realiptv.to/snapshots/93171.jpg" group-title="ENG | Local | NBC",KY | Lexington | NBC 18 WLEX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93171
-#EXTINF:-1 tvg-id="abc11whas.us" tvg-name="KY | Louisville | ABC WHAS" tvg-logo="https://static.realiptv.to/snapshots/38240.jpg" group-title="ENG | Local | ABC",KY | Louisville | ABC WHAS
+#EXTINF:-1 tvg-id="WHAS-DT.us_locals1" tvg-name="KY | Louisville | ABC WHAS" group-title="ENG | Local | ABC",KY | Louisville | ABC WHAS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38240
 #EXTINF:-1 tvg-id="cbs32wlky.us" tvg-name="KY | Louisville | CBS 32 WLKY" tvg-logo="https://static.realiptv.to/snapshots/70146.jpg" group-title="ENG | Local | CBS",KY | Louisville | CBS 32 WLKY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70146
@@ -1849,7 +1849,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89585
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/723762
 #EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="LA |  NEW ORLEANS | CBS 4 WWL " tvg-logo="https://static.realiptv.to/snapshots/523304.jpg" group-title="ENG | Local | CBS",LA |  NEW ORLEANS | CBS 4 WWL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/523304
-#EXTINF:-1 tvg-id="ca418944-ae97-49c8-85bc-f45da04de307" tvg-name="LA | Alexandria | ABC 31 KLAX" tvg-logo="https://static.realiptv.to/snapshots/143343.jpg" group-title="ENG | Local | ABC",LA | Alexandria | ABC 31 KLAX
+#EXTINF:-1 tvg-id="KLAX-DT.us_locals1" tvg-name="LA | Alexandria | ABC KLAX" group-title="ENG | Local | ABC",LA | Alexandria | ABC KLAX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/143343
 #EXTINF:-1 tvg-id="cbs5kalbdt2.us" tvg-name="LA | Alexandria | CBS 5 KALB" tvg-logo="https://static.realiptv.to/snapshots/143341.jpg" group-title="ENG | Local | CBS",LA | Alexandria | CBS 5 KALB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/143341
@@ -1857,7 +1857,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/143341
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/143342
 #EXTINF:-1 tvg-id="15c580fb-6ef1-4740-ab45-9b800a9474b1" tvg-name="LA | Alexandria | NBC KALB" tvg-logo="https://static.realiptv.to/snapshots/89587.jpg" group-title="ENG | Local | NBC",LA | Alexandria | NBC KALB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89587
-#EXTINF:-1 tvg-id="abcwbrz.us" tvg-name="LA | Baton Rouge | ABC 2 WBRZ" tvg-logo="https://static.realiptv.to/snapshots/38252.jpg" group-title="ENG | Local | ABC",LA | Baton Rouge | ABC 2 WBRZ
+#EXTINF:-1 tvg-id="WBRZ-DT.us_locals1" tvg-name="LA | Baton Rouge | ABC WBRZ" group-title="ENG | Local | ABC",LA | Baton Rouge | ABC WBRZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38252
 #EXTINF:-1 tvg-id="b8f11afc-50da-4323-8b56-ffb3df884116" tvg-name="LA | Baton Rouge | CBS 9 WAFB" tvg-logo="https://static.realiptv.to/snapshots/38253.jpg" group-title="ENG | Local | CBS",LA | Baton Rouge | CBS 9 WAFB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38253
@@ -1875,7 +1875,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89590
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470347
 #EXTINF:-1 tvg-name="LA | Hammond | Telemundo KGLA" tvg-logo="https://static.realiptv.to/snapshots/89592.jpg" group-title="ESP | Local | Telemundo",LA | Hammond | Telemundo KGLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89592
-#EXTINF:-1 tvg-name="LA | Lafayette | ABC 3 KATC" tvg-logo="https://static.realiptv.to/snapshots/612328.jpg" group-title="ENG | Local | ABC",LA | Lafayette | ABC 3 KATC
+#EXTINF:-1 tvg-id="KATC-DT.us_locals1" tvg-name="LA | Lafayette | ABC KATC" group-title="ENG | Local | ABC",LA | Lafayette | ABC KATC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/612328
 #EXTINF:-1 tvg-id="cbs10klfy.us" tvg-name="LA | Lafayette | CBS KLFY" tvg-logo="https://static.realiptv.to/snapshots/89593.jpg" group-title="ENG | Local | CBS",LA | Lafayette | CBS KLFY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89593
@@ -1885,13 +1885,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89594
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89595
 #EXTINF:-1 tvg-id="nbc7kplc.us" tvg-name="LA | Lake Charles | NBC KPLC" tvg-logo="https://static.realiptv.to/snapshots/89596.jpg" group-title="ENG | Local | NBC",LA | Lake Charles | NBC KPLC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89596
-#EXTINF:-1 tvg-id="abc26wgno.us" tvg-name="LA | New Orleans | ABC 26 WGNO " tvg-logo="https://static.realiptv.to/snapshots/510034.jpg" group-title="ENG | Local | ABC",LA | New Orleans | ABC 26 WGNO
+#EXTINF:-1 tvg-id="WGNO-DT.us_locals1" tvg-name="LA | New Orleans | ABC WGNO " group-title="ENG | Local | ABC",LA | New Orleans | ABC WGNO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510034
 #EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="LA | New Orleans | CBS WWL" tvg-logo="https://static.realiptv.to/snapshots/2632.jpg" group-title="ENG | Local | CBS",LA | New Orleans | CBS WWL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2632
 #EXTINF:-1 tvg-id="foxwvue.us" tvg-name="LA | New Orleans | | WVUE" tvg-logo="https://static.realiptv.to/snapshots/2545.jpg" group-title="ENG | Local | FOX",LA | New Orleans | | WVUE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2545
-#EXTINF:-1 tvg-id="abc3ktbs.us" tvg-name="LA | SHREVEPORT | ABC 3 KTBS" tvg-logo="https://static.realiptv.to/snapshots/38325.jpg" group-title="ENG | Local | ABC",LA | SHREVEPORT | ABC 3 KTBS
+#EXTINF:-1 tvg-id="KTBS-DT.us_locals1" tvg-name="LA | Shreveport | ABC KTBS" group-title="ENG | Local | ABC",LA | Shreveport | ABC KTBS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38325
 #EXTINF:-1 tvg-id="cbs12ksla.us" tvg-name="LA | Shreveport | CBS KSLA" tvg-logo="https://static.realiptv.to/snapshots/89600.jpg" group-title="ENG | Local | CBS",LA | Shreveport | CBS KSLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89600
@@ -1939,9 +1939,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75369
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565619
 #EXTINF:-1 tvg-id="nbcwlio.us" tvg-name="Lima | NBC 8 WLIO" tvg-logo="https://static.realiptv.to/snapshots/50918.jpg" group-title="ENG | Local | NBC",Lima | NBC 8 WLIO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50918
-#EXTINF:-1 tvg-name="Lowa | Sioux City | ABC KCAU " tvg-logo="https://static.realiptv.to/snapshots/709812.jpg" group-title="ENG | Local | ABC",Lowa | Sioux City | ABC KCAU
+#EXTINF:-1 tvg-id="KCAU-DT.us_locals1" tvg-name="IA | Sioux City | ABC KCAU " group-title="ENG | Local | ABC",IA | Sioux City | ABC KCAU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/709812
-#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="MA | Boston | ABC  5 WCVB" tvg-logo="https://static.realiptv.to/snapshots/2697.jpg" group-title="ENG | Local | ABC",MA | Boston | ABC  5 WCVB
+#EXTINF:-1 tvg-id="WCVB-DT.us_locals1" tvg-name="MA | Boston | ABC WCVB" group-title="ENG | Local | ABC",MA | Boston | ABC WCVB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2697
 #EXTINF:-1 tvg-id="b3353145-f161-4eec-aa80-7901a2d32bd5" tvg-name="MA | Boston | CBS 4 WBZ" tvg-logo="https://static.realiptv.to/snapshots/2650.jpg" group-title="ENG | Local | CBS",MA | Boston | CBS 4 WBZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2650
@@ -1971,7 +1971,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629814
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77760
 #EXTINF:-1 tvg-name="McAllen | Telemundo 40 KTLM" tvg-logo="https://static.realiptv.to/snapshots/3886.jpg" group-title="ESP | Local | Telemundo",McAllen | Telemundo 40 KTLM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3886
-#EXTINF:-1 tvg-id="abcwmar.us" tvg-name="MD | Baltimore | ABC WMAR" tvg-logo="https://static.realiptv.to/snapshots/2698.jpg" group-title="ENG | Local | ABC",MD | Baltimore | ABC WMAR
+#EXTINF:-1 tvg-id="WMAR-DT.us_locals1" tvg-name="MD | Baltimore | ABC WMAR" group-title="ENG | Local | ABC",MD | Baltimore | ABC WMAR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2698
 #EXTINF:-1 tvg-id="cbs13wjz.us" tvg-name="MD | Baltimore | CBS WJZ" tvg-logo="https://static.realiptv.to/snapshots/2651.jpg" group-title="ENG | Local | CBS",MD | Baltimore | CBS WJZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2651
@@ -1989,9 +1989,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/446777
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/564514
 #EXTINF:-1 tvg-id="nbc31wrde.us" tvg-name="MD | Salisbury | NBC WRDE" tvg-logo="https://static.realiptv.to/snapshots/89614.jpg" group-title="ENG | Local | NBC",MD | Salisbury | NBC WRDE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89614
-#EXTINF:-1 tvg-name="MD| Salisbury | ABC 47 WMDT" tvg-logo="https://static.realiptv.to/snapshots/564515.jpg" group-title="ENG | Local | ABC",MD| Salisbury | ABC 47 WMDT
+#EXTINF:-1 tvg-id="WMDT-DT.us_locals1" tvg-name="MD | Salisbury | ABC WMDT" group-title="ENG | Local | ABC",MD | Salisbury | ABC WMDT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/564515
-#EXTINF:-1 tvg-name="ME | Bangor | ABC 7 WVII" tvg-logo="https://static.realiptv.to/snapshots/629732.jpg" group-title="ENG | Local | ABC",ME | Bangor | ABC 7 WVII
+#EXTINF:-1 tvg-id="WVII-DT.us_locals1" tvg-name="ME | Bangor | ABC WVII" group-title="ENG | Local | ABC",ME | Bangor | ABC WVII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629732
 #EXTINF:-1 tvg-name="ME | Bangor | CBS 5 WABI" tvg-logo="https://static.realiptv.to/snapshots/629731.jpg" group-title="ENG | Local | CBS",ME | Bangor | CBS 5 WABI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629731
@@ -2007,7 +2007,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89617
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434062
 #EXTINF:-1 tvg-id="nbc5wmc.us" tvg-name="Memphis | NBC 5 WMC" tvg-logo="https://static.realiptv.to/snapshots/81883.jpg" group-title="ENG | Local | NBC",Memphis | NBC 5 WMC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81883
-#EXTINF:-1 tvg-id="1ceed88f-8dde-42dd-bf0b-496563fb603f" tvg-name="MI | Battle Creek |  ABC 4 WOTV" tvg-logo="https://static.realiptv.to/snapshots/77763.jpg" group-title="ENG | Local | ABC",MI | Battle Creek |  ABC 4 WOTV
+#EXTINF:-1 tvg-id="WOTV-DT.us_locals1" tvg-name="MI | Battle Creek | ABC WOTV" group-title="ENG | Local | ABC",MI | Battle Creek | ABC WOTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77763
 #EXTINF:-1 tvg-id="WOTV-DT2.us_locals1" tvg-name="MI | Battle Creek | CW WOTV-D2" group-title="ENG | Local | CW/IND/MY",MI | Battle Creek | CW WOTV-D2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88740
@@ -2019,7 +2019,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77768
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629818
 #EXTINF:-1 tvg-name="MI | Cadillac | FOX 32 WFQX" tvg-logo="https://static.realiptv.to/snapshots/629817.jpg" group-title="ENG | Local | FOX",MI | Cadillac | FOX 32 WFQX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629817
-#EXTINF:-1 tvg-id="abc7wxyz.us" tvg-name="MI | Detroit | ABC 7 WXYZ" tvg-logo="https://static.realiptv.to/snapshots/2690.jpg" group-title="ENG | Local | ABC",MI | Detroit | ABC 7 WXYZ
+#EXTINF:-1 tvg-id="WXYZ-DT.us_locals1" tvg-name="MI | Detroit | ABC WXYZ" group-title="ENG | Local | ABC",MI | Detroit | ABC WXYZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2690
 #EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="MI | Detroit | CBS WWJ" tvg-logo="https://static.realiptv.to/snapshots/2643.jpg" group-title="ENG | Local | CBS",MI | Detroit | CBS WWJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2643
@@ -2031,11 +2031,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2558
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2459
 #EXTINF:-1 tvg-id="fox66wsmh.us" tvg-name="MI | Flint | FOX 66 WSMH" tvg-logo="https://static.realiptv.to/snapshots/77765.jpg" group-title="ENG | Local | FOX",MI | Flint | FOX 66 WSMH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77765
-#EXTINF:-1 tvg-id="eacac116-18b2-4cfe-8220-93daa40258c3" tvg-name="MI | FLINT | USA ABC 12 WJRT" tvg-logo="https://static.realiptv.to/snapshots/77757.jpg" group-title="ENG | Local | ABC",MI | FLINT | USA ABC 12 WJRT
+#EXTINF:-1 tvg-id="WJRT-DT.us_locals1" tvg-name="MI | FLINT | ABC WJRT" group-title="ENG | Local | ABC",MI | FLINT | ABC WJRT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77757
 #EXTINF:-1 tvg-id="nbc8wood.us" tvg-name="MI | Grand Rapids  | NBC 8 WOOD" tvg-logo="https://static.realiptv.to/snapshots/77762.jpg" group-title="ENG | Local | NBC",MI | Grand Rapids  | NBC 8 WOOD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77762
-#EXTINF:-1 tvg-id="cfc285a3-50d0-43de-b780-15e4d95070e3" tvg-name="MI | Grand Rapids | ABC 13 WZZM" tvg-logo="https://static.realiptv.to/snapshots/38279.jpg" group-title="ENG | Local | ABC",MI | Grand Rapids | ABC 13 WZZM
+#EXTINF:-1 tvg-id="WZZM-DT.us_locals1" tvg-name="MI | Grand Rapids | ABC WZZM" group-title="ENG | Local | ABC",MI | Grand Rapids | ABC WZZM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38279
 #EXTINF:-1 tvg-name="MI | Grand Rapids | CBS 3 WWMT" tvg-logo="https://static.realiptv.to/snapshots/629919.jpg" group-title="ENG | Local | CBS",MI | Grand Rapids | CBS 3 WWMT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629919
@@ -2043,7 +2043,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629919
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77769
 #EXTINF:-1 tvg-name="MI | Grand Rapids | PBS Kids WGVU" tvg-logo="https://static.realiptv.to/snapshots/629920.jpg" group-title="ENG | Local | PBS",MI | Grand Rapids | PBS Kids WGVU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629920
-#EXTINF:-1 tvg-id="2fbc2f51-2ff5-43de-84f5-f8fe21ef3556" tvg-name="MI | Lansing ABC 53 WLAJ" tvg-logo="https://static.realiptv.to/snapshots/77758.jpg" group-title="ENG | Local | ABC",MI | Lansing ABC 53 WLAJ
+#EXTINF:-1 tvg-id="WLAJ-DT.us_locals1" tvg-name="MI | Lansing | ABC WLAJ" group-title="ENG | Local | ABC",MI | Lansing | ABC WLAJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77758
 #EXTINF:-1 tvg-id="cbs6wlns.us" tvg-name="MI | Lansing | CBS 6 WLNS" tvg-logo="https://static.realiptv.to/snapshots/77759.jpg" group-title="ENG | Local | CBS",MI | Lansing | CBS 6 WLNS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77759
@@ -2053,7 +2053,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89629
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77766
 #EXTINF:-1 tvg-name="MI | Mount Pleasant | PBS WCMU" tvg-logo="https://static.realiptv.to/snapshots/629819.jpg" group-title="ENG | Local | PBS",MI | Mount Pleasant | PBS WCMU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629819
-#EXTINF:-1 tvg-name="MI | Traverse City | ABC 28 WGTU" tvg-logo="https://static.realiptv.to/snapshots/629816.jpg" group-title="ENG | Local | ABC",MI | Traverse City | ABC 28 WGTU
+#EXTINF:-1 tvg-id="WGTU-DT.us_locals1" tvg-name="MI | Traverse City | ABC WGTU" group-title="ENG | Local | ABC",MI | Traverse City | ABC WGTU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629816
 #EXTINF:-1 tvg-id="nbcwtmj.us" tvg-name="Milwaukee | NBC WTMJ" tvg-logo="https://static.realiptv.to/snapshots/2451.jpg" group-title="ENG | Local | NBC",Milwaukee | NBC WTMJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2451
@@ -2121,15 +2121,15 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/390426
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/390427
 #EXTINF:-1 tvg-name="MN | Appleton | PBS KWCM" tvg-logo="https://static.realiptv.to/snapshots/470336.jpg" group-title="ENG | Local | PBS",MN | Appleton | PBS KWCM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470336
-#EXTINF:-1 tvg-name="MN | Austin | ABC 6 KAAL" tvg-logo="https://static.realiptv.to/snapshots/629909.jpg" group-title="ENG | Local | ABC",MN | Austin | ABC 6 KAAL
+#EXTINF:-1 tvg-id="KAAL-DT.us_locals1" tvg-name="MN | Austin | ABC KAAL" group-title="ENG | Local | ABC",MN | Austin | ABC KAAL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629909
-#EXTINF:-1 tvg-name="MN | Austin | CBS 3 KIMT" tvg-logo="https://static.realiptv.to/snapshots/629908.jpg" group-title="ENG | Local | CBS",MN | Austin | CBS 3 KIMT
+#EXTINF:-1 tvg-id="KIMT-DT.us_locals1" tvg-name="MN | Austin | CBS KIMT" group-title="ENG | Local | CBS",MN | Austin | CBS KIMT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629908
 #EXTINF:-1 tvg-name="MN | Austin | FOX 47 KTTC" tvg-logo="https://static.realiptv.to/snapshots/629911.jpg" group-title="ENG | Local | FOX",MN | Austin | FOX 47 KTTC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629911
-#EXTINF:-1 tvg-name="MN | Austin | NBC KTTC" tvg-logo="https://static.realiptv.to/snapshots/629910.jpg" group-title="ENG | Local | NBC",MN | Austin | NBC KTTC
+#EXTINF:-1 tvg-id="KTTC-DT.us_locals1" tvg-name="MN | Austin | NBC KTTC" group-title="ENG | Local | NBC",MN | Austin | NBC KTTC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629910
-#EXTINF:-1 tvg-name="MN | Duluth | ABC WDIO" tvg-logo="https://static.realiptv.to/snapshots/629913.jpg" group-title="ENG | Local | ABC",MN | Duluth | ABC WDIO
+#EXTINF:-1 tvg-id="WDIO-DT.us_locals1" tvg-name="MN | Duluth | ABC WDIO" group-title="ENG | Local | ABC",MN | Duluth | ABC WDIO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629913
 #EXTINF:-1 tvg-name="MN | Duluth | CBS 6 KBJR" tvg-logo="https://static.realiptv.to/snapshots/629914.jpg" group-title="ENG | Local | CBS",MN | Duluth | CBS 6 KBJR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629914
@@ -2155,13 +2155,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2450
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470337
 #EXTINF:-1 tvg-name="MN | Minneapolis | Telemundo " tvg-logo="https://static.realiptv.to/snapshots/629825.jpg" group-title="ESP | Local | Telemundo",MN | Minneapolis | Telemundo
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629825
-#EXTINF:-1 tvg-id="1fa66ae1-d11e-4cc3-8282-f4a116437525" tvg-name="MN | Saint Paul | ABC KSTP" tvg-logo="https://static.realiptv.to/snapshots/2673.jpg" group-title="ENG | Local | ABC",MN | Saint Paul | ABC KSTP
+#EXTINF:-1 tvg-id="KSTP-DT.us_locals1" tvg-name="MN | Saint Paul | ABC KSTP" group-title="ENG | Local | ABC",MN | Saint Paul | ABC KSTP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2673
 #EXTINF:-1 tvg-id="4e32a8c9-8615-4938-8f59-62a01c61fecf" tvg-name="MO |  Jefferson City | FOX 22 KQFX" tvg-logo="https://static.realiptv.to/snapshots/38273.jpg" group-title="ENG | Local | FOX",MO |  Jefferson City | FOX 22 KQFX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38273
 #EXTINF:-1 tvg-id="cbs12kfvs.us" tvg-name="MO | Cape Girardeau | CBS KFVS" tvg-logo="https://static.realiptv.to/snapshots/89640.jpg" group-title="ENG | Local | CBS",MO | Cape Girardeau | CBS KFVS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89640
-#EXTINF:-1 tvg-id="2169ee0d-bf18-43cf-b33c-88963c7351ff" tvg-name="MO | Jefferson City | ABC 17 KMIZ" tvg-logo="https://static.realiptv.to/snapshots/38271.jpg" group-title="ENG | Local | ABC",MO | Jefferson City | ABC 17 KMIZ
+#EXTINF:-1 tvg-id="KMIZ-DT.us_locals1" tvg-name="MO | Jefferson City | ABC KMIZ" group-title="ENG | Local | ABC",MO | Jefferson City | ABC KMIZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38271
 #EXTINF:-1 tvg-id="cbs13krcg.us" tvg-name="MO | Jefferson City | CBS 13 KRCG" tvg-logo="https://static.realiptv.to/snapshots/38272.jpg" group-title="ENG | Local | CBS",MO | Jefferson City | CBS 13 KRCG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38272
@@ -2169,7 +2169,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38272
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629880
 #EXTINF:-1 tvg-id="nbc8komu.us" tvg-name="MO | Jefferson City | NBC 8 KOMU" tvg-logo="https://static.realiptv.to/snapshots/38274.jpg" group-title="ENG | Local | NBC",MO | Jefferson City | NBC 8 KOMU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38274
-#EXTINF:-1 tvg-id="abc9kmbc.us" tvg-name="MO | Kansas City | ABC KMBC" tvg-logo="https://static.realiptv.to/snapshots/2685.jpg" group-title="ENG | Local | ABC",MO | Kansas City | ABC KMBC
+#EXTINF:-1 tvg-id="KMBC-DT.us_locals1" tvg-name="MO | Kansas City | ABC KMBC" group-title="ENG | Local | ABC",MO | Kansas City | ABC KMBC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2685
 #EXTINF:-1 tvg-id="cbs5kctv.us" tvg-name="MO | Kansas City | CBS  KCTV" tvg-logo="https://static.realiptv.to/snapshots/2638.jpg" group-title="ENG | Local | CBS",MO | Kansas City | CBS  KCTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2638
@@ -2189,7 +2189,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470335
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629895
 #EXTINF:-1 tvg-name="MO | Kansas City | Telemundo" tvg-logo="https://static.realiptv.to/snapshots/629898.jpg" group-title="ESP | Local | Telemundo",MO | Kansas City | Telemundo
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629898
-#EXTINF:-1 tvg-name="MO | Kirksville | ABC 3 KTVO" tvg-logo="https://static.realiptv.to/snapshots/629890.jpg" group-title="ENG | Local | ABC",MO | Kirksville | ABC 3 KTVO
+#EXTINF:-1 tvg-id="KTVO-DT.us_locals1" tvg-name="MO | Kirksville | ABC KTVO" group-title="ENG | Local | ABC",MO | Kirksville | ABC KTVO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629890
 #EXTINF:-1 tvg-name="MO | Kirksville | CBS 3 KTVO" tvg-logo="https://static.realiptv.to/snapshots/629889.jpg" group-title="ENG | Local | CBS",MO | Kirksville | CBS 3 KTVO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629889
@@ -2199,13 +2199,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629892
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629891
 #EXTINF:-1 tvg-id="fox49krbkd2.us" tvg-name="MO | Osage Beach | FOX KRBK" tvg-logo="https://static.realiptv.to/snapshots/89645.jpg" group-title="ENG | Local | FOX",MO | Osage Beach | FOX KRBK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89645
-#EXTINF:-1 tvg-id="165c8637-a63c-49d8-8d1d-b25500f563d7" tvg-name="MO | SPRINGFIELD | ABC 33 KSPR" tvg-logo="https://static.realiptv.to/snapshots/38326.jpg" group-title="ENG | Local | ABC",MO | SPRINGFIELD | ABC 33 KSPR
+#EXTINF:-1 tvg-id="KSPR-DT.us_locals1" tvg-name="MO | Springfield | ABC KSPR" group-title="ENG | Local | ABC",MO | Springfield | ABC KSPR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38326
 #EXTINF:-1 tvg-id="cbs10kolr.us" tvg-name="MO | Springfield | CBS 3 WSHM" tvg-logo="https://static.realiptv.to/snapshots/50914.jpg" group-title="ENG | Local | CBS",MO | Springfield | CBS 3 WSHM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50914
 #EXTINF:-1 tvg-id="cbs10kolr.us" tvg-name="MO | Springfield | CBS KOLR" tvg-logo="https://static.realiptv.to/snapshots/103903.jpg" group-title="ENG | Local | CBS",MO | Springfield | CBS KOLR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/103903
-#EXTINF:-1 tvg-id="abc30kdnl.us" tvg-name="MO | St Louis  | ABC KDNL" tvg-logo="https://static.realiptv.to/snapshots/2667.jpg" group-title="ENG | Local | ABC",MO | St Louis  | ABC KDNL
+#EXTINF:-1 tvg-id="KDNL-DT.us_locals1" tvg-name="MO | St Louis | ABC KDNL" group-title="ENG | Local | ABC",MO | St Louis | ABC KDNL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2667
 #EXTINF:-1 tvg-name="MO | St Louis | PBS KETC" tvg-logo="https://static.realiptv.to/snapshots/470333.jpg" group-title="ENG | Local | PBS",MO | St Louis | PBS KETC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470333
@@ -2241,7 +2241,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89652
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/661532
 #EXTINF:-1 tvg-id="cbs4wcbi.us" tvg-name="MS | Columbus | NBC WTVA" tvg-logo="https://static.realiptv.to/snapshots/89653.jpg" group-title="ENG | Local | NBC",MS | Columbus | NBC WTVA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89653
-#EXTINF:-1 tvg-name="MS | Greenwood | ABC 6 WABG" tvg-logo="https://static.realiptv.to/snapshots/565750.jpg" group-title="ENG | Local | ABC",MS | Greenwood | ABC 6 WABG
+#EXTINF:-1 tvg-id="WABG-DT.us_locals1" tvg-name="MS | Greenwood | ABC WABG" group-title="ENG | Local | ABC",MS | Greenwood | ABC WABG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565750
 #EXTINF:-1 tvg-name="MS | Greenwood | CBS WMAO" tvg-logo="https://static.realiptv.to/snapshots/635834.jpg" group-title="ENG | Local | CBS",MS | Greenwood | CBS WMAO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/635834
@@ -2249,7 +2249,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/635834
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629906
 #EXTINF:-1 tvg-name="MS | Greenwood | NBC 33 WNBD" tvg-logo="https://static.realiptv.to/snapshots/629905.jpg" group-title="ENG | Local | NBC",MS | Greenwood | NBC 33 WNBD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629905
-#EXTINF:-1 tvg-id="f0316e57-6657-4e16-ba75-8e1b6313de70" tvg-name="MS | Gulfport | ABC 13 WLOX" tvg-logo="https://static.realiptv.to/snapshots/62430.jpg" group-title="ENG | Local | ABC",MS | Gulfport | ABC 13 WLOX
+#EXTINF:-1 tvg-id="WLOX-DT.us_locals1" tvg-name="MS | Gulfport | ABC WLOX" group-title="ENG | Local | ABC",MS | Gulfport | ABC WLOX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/62430
 #EXTINF:-1 tvg-id="cbs13wloxdt2.us" tvg-name="MS | Gulfport | CBS 13 WLOX" tvg-logo="https://static.realiptv.to/snapshots/62429.jpg" group-title="ENG | Local | CBS",MS | Gulfport | CBS 13 WLOX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/62429
@@ -2267,13 +2267,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/102601
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/102602
 #EXTINF:-1 tvg-id="125206f6-42b0-4ff7-89e3-3137e15f8ac5" tvg-name="MS | Laurel | NBC WDAM" tvg-logo="https://static.realiptv.to/snapshots/89658.jpg" group-title="ENG | Local | NBC",MS | Laurel | NBC WDAM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89658
-#EXTINF:-1 tvg-name="MS | Meridian | ABC 11 WTOK" tvg-logo="https://static.realiptv.to/snapshots/565749.jpg" group-title="ENG | Local | ABC",MS | Meridian | ABC 11 WTOK
+#EXTINF:-1 tvg-id="WTOK-DT.us_locals1" tvg-name="MS | Meridian | ABC WTOK" group-title="ENG | Local | ABC",MS | Meridian | ABC WTOK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565749
 #EXTINF:-1 tvg-name="MS | Meridian | CBS 24 WMDN" tvg-logo="https://static.realiptv.to/snapshots/629907.jpg" group-title="ENG | Local | CBS",MS | Meridian | CBS 24 WMDN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629907
 #EXTINF:-1 tvg-id="nbc30wgbcdt2.us" tvg-name="MS | Meridian | NBC WGBC" tvg-logo="https://static.realiptv.to/snapshots/434064.jpg" group-title="ENG | Local | NBC",MS | Meridian | NBC WGBC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434064
-#EXTINF:-1 tvg-id="557c33a0-d21f-484d-bed4-b5ea1e25d75d" tvg-name="MT | Billings | ABC 6 KSVI" tvg-logo="https://static.realiptv.to/snapshots/555996.jpg" group-title="ENG | Local | ABC",MT | Billings | ABC 6 KSVI
+#EXTINF:-1 tvg-id="KSVI-DT.us_locals1" tvg-name="MT | Billings | ABC KSVI" group-title="ENG | Local | ABC",MT | Billings | ABC KSVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/555996
 #EXTINF:-1 tvg-id="cbs2ktvq.us" tvg-name="MT | Billings | CBS 2 KTVQ" tvg-logo="https://static.realiptv.to/snapshots/555994.jpg" group-title="ENG | Local | CBS",MT | Billings | CBS 2 KTVQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/555994
@@ -2287,7 +2287,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470331
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89661
 #EXTINF:-1 tvg-name="MT | Butte-Bozema | PBS Kids KUSM" tvg-logo="https://static.realiptv.to/snapshots/597139.jpg" group-title="ENG | Local | PBS",MT | Butte-Bozema | PBS Kids KUSM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597139
-#EXTINF:-1 tvg-name="MT | Great Falls | ABC KFBB" tvg-logo="https://static.realiptv.to/snapshots/629884.jpg" group-title="ENG | Local | ABC",MT | Great Falls | ABC KFBB
+#EXTINF:-1 tvg-id="KFBB-DT.us_locals1" tvg-name="MT | Great Falls | ABC KFBB" group-title="ENG | Local | ABC",MT | Great Falls | ABC KFBB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629884
 #EXTINF:-1 tvg-name="MT | Great Falls | CBS 3  KRTV" tvg-logo="https://static.realiptv.to/snapshots/629883.jpg" group-title="ENG | Local | CBS",MT | Great Falls | CBS 3  KRTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629883
@@ -2315,13 +2315,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/711759
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/738353
 #EXTINF:-1 tvg-id="WLFL-DT.us_locals1" tvg-name="NC |  Raleigh| CW WLFL" group-title="ENG | Local | CW/IND/MY",NC |  Raleigh| CW WLFL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34435
-#EXTINF:-1 tvg-id="710e076c-7d19-4f7a-9fd5-5a25ba482057" tvg-name="NC | Asheville | ABC 13 WLOS" tvg-logo="https://static.realiptv.to/snapshots/38269.jpg" group-title="ENG | Local | ABC",NC | Asheville | ABC 13 WLOS
+#EXTINF:-1 tvg-id="WLOS-DT.us_locals1" tvg-name="NC | Asheville | ABC WLOS" group-title="ENG | Local | ABC",NC | Asheville | ABC WLOS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38269
 #EXTINF:-1 tvg-id="8acf955f-678d-4686-a49e-ab8ab78517e7" tvg-name="NC | Belmont | FOX WJZY" tvg-logo="https://static.realiptv.to/snapshots/89665.jpg" group-title="ENG | Local | FOX",NC | Belmont | FOX WJZY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89665
 #EXTINF:-1 tvg-id="fox46wjzy.us" tvg-name="NC | Belmont | FOX WJZY" tvg-logo="https://static.realiptv.to/snapshots/2571.jpg" group-title="ENG | Local | FOX",NC | Belmont | FOX WJZY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2571
-#EXTINF:-1 tvg-id="abcwsoc.us" tvg-name="NC | Charlotte | ABC WSOC" tvg-logo="https://static.realiptv.to/snapshots/2696.jpg" group-title="ENG | Local | ABC",NC | Charlotte | ABC WSOC
+#EXTINF:-1 tvg-id="WSOC-DT.us_locals1" tvg-name="NC | Charlotte | ABC WSOC" group-title="ENG | Local | ABC",NC | Charlotte | ABC WSOC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2696
 #EXTINF:-1 tvg-id="cbs3wbtv.us" tvg-name="NC | Charlotte | CBS WBTV" tvg-logo="https://static.realiptv.to/snapshots/2649.jpg" group-title="ENG | Local | CBS",NC | Charlotte | CBS WBTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2649
@@ -2335,7 +2335,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2465
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597107
 #EXTINF:-1 tvg-id="83db06a5-3201-492a-ac0c-07b7ecb7e6e6" tvg-name="NC | Goldsboro | CBS WNCN" tvg-logo="https://static.realiptv.to/snapshots/89668.jpg" group-title="ENG | Local | CBS",NC | Goldsboro | CBS WNCN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89668
-#EXTINF:-1 tvg-id="80235487-ef17-46c2-a467-3b8b98948afa" tvg-name="NC | Greensboro | ABC 45 WXLV" tvg-logo="https://static.realiptv.to/snapshots/38250.jpg" group-title="ENG | Local | ABC",NC | Greensboro | ABC 45 WXLV
+#EXTINF:-1 tvg-id="WXLV-DT.us_locals1" tvg-name="NC | Greensboro | ABC WXLV" group-title="ENG | Local | ABC",NC | Greensboro | ABC WXLV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38250
 #EXTINF:-1 tvg-id="cbs2wfmy.us" tvg-name="NC | Greensboro | CBS 2 WFMY" tvg-logo="https://static.realiptv.to/snapshots/2642.jpg" group-title="ENG | Local | CBS",NC | Greensboro | CBS 2 WFMY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2642
@@ -2353,7 +2353,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89670
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42474
 #EXTINF:-1 tvg-id="b28cabc4-219b-4a64-8850-69edfd0dae8f" tvg-name="NC | High Point | FOX WGHP" tvg-logo="https://static.realiptv.to/snapshots/89671.jpg" group-title="ENG | Local | FOX",NC | High Point | FOX WGHP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89671
-#EXTINF:-1 tvg-name="NC | New Bern | ABC 12 WCTI" tvg-logo="https://static.realiptv.to/snapshots/638521.jpg" group-title="ENG | Local | ABC",NC | New Bern | ABC 12 WCTI
+#EXTINF:-1 tvg-id="WCTI-DT.us_locals1" tvg-name="NC | New Bern | ABC WCTI" group-title="ENG | Local | ABC",NC | New Bern | ABC WCTI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638521
 #EXTINF:-1 tvg-name="NC | New Bern | CBS 9 WNCT" tvg-logo="https://static.realiptv.to/snapshots/638520.jpg" group-title="ENG | Local | CBS",NC | New Bern | CBS 9 WNCT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638520
@@ -2361,7 +2361,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638520
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638523
 #EXTINF:-1 tvg-name="NC | New Bern | NBC 7 WITN" tvg-logo="https://static.realiptv.to/snapshots/638522.jpg" group-title="ENG | Local | NBC",NC | New Bern | NBC 7 WITN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638522
-#EXTINF:-1 tvg-id="5376fd14-bc52-42c8-8418-37abf3461189" tvg-name="NC | Raleigh | ABC WTVD" tvg-logo="https://static.realiptv.to/snapshots/542959.jpg" group-title="ENG | Local | ABC",NC | Raleigh | ABC WTVD
+#EXTINF:-1 tvg-id="WTVD-DT.us_locals1" tvg-name="NC | Raleigh | ABC WTVD" group-title="ENG | Local | ABC",NC | Raleigh | ABC WTVD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/542959
 #EXTINF:-1 tvg-id="WLFL-DT.us_locals1" tvg-name="NC | Raleigh | CW WLFL" group-title="ENG | Local | CW/IND/MY",NC | Raleigh | CW WLFL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93154
@@ -3059,7 +3059,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632034
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632035
 #EXTINF:-1 group-title="SPORTS - NCAA WOMEN's BASKETBALL",
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632036
-#EXTINF:-1 tvg-name="ND | Bismarck | ABC KFYR-DT2" tvg-logo="https://static.realiptv.to/snapshots/89679.jpg" group-title="ENG | Local | ABC",ND | Bismarck | ABC KFYR-DT2
+#EXTINF:-1 tvg-id="KFYR-DT2.us_locals1" tvg-name="ND | Bismarck | ABC KFYR-DT2" group-title="ENG | Local | ABC",ND | Bismarck | ABC KFYR-DT2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89679
 #EXTINF:-1 tvg-name="ND | BISMARCK | FOX 5 KFYR-DT" tvg-logo="https://static.realiptv.to/snapshots/600297.jpg" group-title="ENG | Local | FOX",ND | BISMARCK | FOX 5 KFYR-DT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600297
@@ -3071,15 +3071,15 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50912
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89680
 #EXTINF:-1 tvg-id="nbc11kvly.us" tvg-name="ND | Fargo | NBC KVLY" tvg-logo="https://static.realiptv.to/snapshots/89681.jpg" group-title="ENG | Local | NBC",ND | Fargo | NBC KVLY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89681
-#EXTINF:-1 tvg-name="ND | Minot | ABC 17 KBMY" tvg-logo="https://static.realiptv.to/snapshots/629936.jpg" group-title="ENG | Local | ABC",ND | Minot | ABC 17 KBMY
+#EXTINF:-1 tvg-id="KBMY-DT.us_locals1" tvg-name="ND | Minot | ABC KBMY" group-title="ENG | Local | ABC",ND | Minot | ABC KBMY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629936
 #EXTINF:-1 tvg-name="ND | Minot | CBS 13 KXMC" tvg-logo="https://static.realiptv.to/snapshots/629935.jpg" group-title="ENG | Local | CBS",ND | Minot | CBS 13 KXMC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629935
 #EXTINF:-1 tvg-name="NE | Grand Island | Fox KFXL" tvg-logo="https://static.realiptv.to/snapshots/629925.jpg" group-title="ENG | Local | FOX",NE | Grand Island | Fox KFXL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629925
-#EXTINF:-1 tvg-name="NE | Kearney | ABC KHGI" tvg-logo="https://static.realiptv.to/snapshots/629923.jpg" group-title="ENG | Local | ABC",NE | Kearney | ABC KHGI
+#EXTINF:-1 tvg-id="KHGI-DT.us_locals1" tvg-name="NE | Kearney | ABC KHGI" group-title="ENG | Local | ABC",NE | Kearney | ABC KHGI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629923
-#EXTINF:-1 tvg-name="NE | Lincoln | ABC KLKN" tvg-logo="https://static.realiptv.to/snapshots/629924.jpg" group-title="ENG | Local | ABC",NE | Lincoln | ABC KLKN
+#EXTINF:-1 tvg-id="KLKN-DT.us_locals1" tvg-name="NE | Lincoln | ABC KLKN" group-title="ENG | Local | ABC",NE | Lincoln | ABC KLKN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629924
 #EXTINF:-1 tvg-id="cbs10koln.us" tvg-name="NE | Lincoln | CBS KOLN" tvg-logo="https://static.realiptv.to/snapshots/89682.jpg" group-title="ENG | Local | CBS",NE | Lincoln | CBS KOLN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89682
@@ -3095,13 +3095,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89685
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61811
 #EXTINF:-1 tvg-id="KOHA" tvg-name="NE | Omaha | Telemundo KOHA" tvg-logo="https://static.realiptv.to/snapshots/89687.jpg" group-title="ESP | Local | Telemundo",NE | Omaha | Telemundo KOHA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89687
-#EXTINF:-1 tvg-id="e01cef9f-5dcc-4ea2-b3e0-4d95666a3f3d" tvg-name="NE | OMAHA | USA ABC 13 KMTV" tvg-logo="https://static.realiptv.to/snapshots/61808.jpg" group-title="ENG | Local | ABC",NE | OMAHA | USA ABC 13 KMTV
+#EXTINF:-1 tvg-id="KMTV-DT.us_locals1" tvg-name="NE | Omaha | ABC KMTV" group-title="ENG | Local | ABC",NE | Omaha | ABC KMTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61808
-#EXTINF:-1 tvg-name="NE | OMAHA | USA ABC 7 KETV" tvg-logo="https://static.realiptv.to/snapshots/735645.jpg" group-title="ENG | Local | ABC",NE | OMAHA | USA ABC 7 KETV
+#EXTINF:-1 tvg-id="KETV-DT.us_locals1" tvg-name="NE | Omaha | ABC KETV" group-title="ENG | Local | ABC",NE | Omaha | ABC KETV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/735645
 #EXTINF:-1 tvg-id="nbc4ksnb.us" tvg-name="NE | Superior | NBC KSNB" tvg-logo="https://static.realiptv.to/snapshots/89688.jpg" group-title="ENG | Local | NBC",NE | Superior | NBC KSNB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89688
-#EXTINF:-1 tvg-id="7455a100-e8e8-4c17-ba28-aead55edaebb" tvg-name="New Haven | ABC 8 WTNH" tvg-logo="https://static.realiptv.to/snapshots/2693.jpg" group-title="ENG | Local | ABC",New Haven | ABC 8 WTNH
+#EXTINF:-1 tvg-id="WTNH-DT.us_locals1" tvg-name="CT | New Haven | ABC WTNH" group-title="ENG | Local | ABC",CT | New Haven | ABC WTNH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2693
 #EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="New Orleans | NBC WDSU" tvg-logo="https://static.realiptv.to/snapshots/2448.jpg" group-title="ENG | Local | NBC",New Orleans | NBC WDSU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2448
@@ -3149,7 +3149,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3925
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3926
 #EXTINF:-1 tvg-id="nflsundayticket719.us" tvg-name="NFL 719: " tvg-logo="https://static.realiptv.to/snapshots/506721.jpg" group-title="SPORTS - NFL",NFL 719:
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/506721
-#EXTINF:-1 tvg-id="3564bdb7-6f6c-443d-ae70-c649d4a115dd" tvg-name="NH | Manchester | ABC 9 WMUR" tvg-logo="https://static.realiptv.to/snapshots/38299.jpg" group-title="ENG | Local | ABC",NH | Manchester | ABC 9 WMUR
+#EXTINF:-1 tvg-id="WMUR-DT.us_locals1" tvg-name="NH | Manchester | ABC WMUR" group-title="ENG | Local | ABC",NH | Manchester | ABC WMUR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38299
 #EXTINF:-1 tvg-id="WNEU" tvg-name="NH | Merrimack | Telemundo WNEU" tvg-logo="https://static.realiptv.to/snapshots/89689.jpg" group-title="ESP | Local | Telemundo",NH | Merrimack | Telemundo WNEU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89689
@@ -3175,7 +3175,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/711713
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/711714
 #EXTINF:-1 tvg-name="NJCAA Women's Basketball 04:" tvg-logo="https://static.realiptv.to/snapshots/711715.jpg" group-title="SPORTS - NJCAA WOMEN's BASKETBALL",NJCAA Women's Basketball 04:
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/711715
-#EXTINF:-1 tvg-id="abc7koat.us" tvg-name="NM | Albuquerque | ABC 7 KOAT" tvg-logo="https://static.realiptv.to/snapshots/38302.jpg" group-title="ENG | Local | ABC",NM | Albuquerque | ABC 7 KOAT
+#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" tvg-name="NM | Albuquerque | ABC KOAT" group-title="ENG | Local | ABC",NM | Albuquerque | ABC KOAT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38302
 #EXTINF:-1 tvg-id="cbs13krqe.us" tvg-name="NM | Albuquerque | CBS 13 KRQE" tvg-logo="https://static.realiptv.to/snapshots/77965.jpg" group-title="ENG | Local | CBS",NM | Albuquerque | CBS 13 KRQE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77965
@@ -3193,7 +3193,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89697
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89699
 #EXTINF:-1 tvg-id="ee97e578-38c9-4273-9caf-b3e7d755c07e" tvg-name="NV | Henderson | FOX KVVU" tvg-logo="https://static.realiptv.to/snapshots/38256.jpg" group-title="ENG | Local | FOX",NV | Henderson | FOX KVVU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38256
-#EXTINF:-1 tvg-id="abcktnv.us" tvg-name="NV | Las Vegas | ABC 13 KTNV" tvg-logo="https://static.realiptv.to/snapshots/38255.jpg" group-title="ENG | Local | ABC",NV | Las Vegas | ABC 13 KTNV
+#EXTINF:-1 tvg-id="KTNV-DT.us_locals1" tvg-name="NV | Las Vegas | ABC KTNV" group-title="ENG | Local | ABC",NV | Las Vegas | ABC KTNV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38255
 #EXTINF:-1 tvg-id="cbs8klas.us" tvg-name="NV | Las Vegas | CBS KLAS" tvg-logo="https://static.realiptv.to/snapshots/89700.jpg" group-title="ENG | Local | CBS",NV | Las Vegas | CBS KLAS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89700
@@ -3211,27 +3211,27 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/63935
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/446770
 #EXTINF:-1 tvg-name="NY |  Spectrum News NY1 (SHD)" tvg-logo="https://static.realiptv.to/snapshots/597114.jpg" group-title="ENG | News",NY |  Spectrum News NY1 (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597114
-#EXTINF:-1 tvg-id="abc10wten.us" tvg-name="NY | ALBANY | ABC 10  WTEN" tvg-logo="https://static.realiptv.to/snapshots/64027.jpg" group-title="ENG | Local | ABC",NY | ALBANY | ABC 10  WTEN
+#EXTINF:-1 tvg-id="WTEN-DT.us_locals1" tvg-name="NY | ALBANY | ABC WTEN" group-title="ENG | Local | ABC",NY | ALBANY | ABC WTEN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/64027
 #EXTINF:-1 tvg-id="abc10wten.us" tvg-name="NY | ALBANY | ABC WTEN (SD)" tvg-logo="https://static.realiptv.to/snapshots/21541.jpg" group-title="ENG | Local | LOW",NY | ALBANY | ABC WTEN (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21541
-#EXTINF:-1 tvg-id="antennatv.us" tvg-name="NY | Albany | Antenna TV WTEN" group-title="ENG | Entertainment",NY | Albany | Antenna TV WTEN
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (WTEN)" group-title="ENG | Entertainment",Antenna TV (WTEN)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647835
 #EXTINF:-1 tvg-id="fox23wxxa.us" tvg-name="NY | Albany | FOX WXXA" tvg-logo="https://static.realiptv.to/snapshots/63931.jpg" group-title="ENG | Local | FOX",NY | Albany | FOX WXXA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/63931
 #EXTINF:-1 tvg-id="fox23wxxa.us" tvg-name="NY | ALBANY | Fox WXXA (SD)" tvg-logo="https://static.realiptv.to/snapshots/21543.jpg" group-title="ENG | Local | LOW",NY | ALBANY | Fox WXXA (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21543
-#EXTINF:-1 tvg-id="lafftv.us" tvg-name="NY | Albany | Laff TV WXXA" tvg-logo="https://static.realiptv.to/snapshots/75343.jpg" group-title="ENG | Entertainment",NY | Albany | Laff TV WXXA
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff TV (WXXA)" group-title="ENG | Entertainment",Laff TV (WXXA)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75343
 #EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="NY | Albany | NBC 13  WNYT (SHD)" tvg-logo="https://static.realiptv.to/snapshots/63932.jpg" group-title="ENG | Local | NBC",NY | Albany | NBC 13  WNYT (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/63932
-#EXTINF:-1 tvg-id="abc10wten.us" tvg-name="NY | ALBANY | USA ABC 10  WALB" tvg-logo="https://static.realiptv.to/snapshots/63934.jpg" group-title="ENG | Local | ABC",NY | ALBANY | USA ABC 10  WALB
+#EXTINF:-1 tvg-id="abc10wten.us" tvg-name="NY | ALBANY | USA ABC 10  WALB" tvg-logo="https://static.realiptv.to/snapshots/63934.jpg" group-title="1 - UNKNOWN",NY | ALBANY | USA ABC 10  WALB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/63934
-#EXTINF:-1 tvg-name="NY | ALBANY | USA ABC 10 WALB" tvg-logo="https://static.realiptv.to/snapshots/691402.jpg" group-title="ENG | Local | ABC",NY | ALBANY | USA ABC 10 WALB
+#EXTINF:-1 tvg-name="NY | ALBANY | USA ABC 10 WALB" tvg-logo="https://static.realiptv.to/snapshots/691402.jpg" group-title="1 - UNKNOWN",NY | ALBANY | USA ABC 10 WALB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/691402
 #EXTINF:-1 tvg-id="nbc20wbgh.us" tvg-name="NY | Binghamton | NBC WBGH" tvg-logo="https://static.realiptv.to/snapshots/89708.jpg" group-title="ENG | Local | NBC",NY | Binghamton | NBC WBGH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89708
-#EXTINF:-1 tvg-id="abcwkbw.us" tvg-name="NY | Buffalo | ABC 7 WKBW" tvg-logo="https://static.realiptv.to/snapshots/38280.jpg" group-title="ENG | Local | ABC",NY | Buffalo | ABC 7 WKBW
+#EXTINF:-1 tvg-id="WKBW-DT.us_locals1" tvg-name="NY | Buffalo | ABC WKBW" group-title="ENG | Local | ABC",NY | Buffalo | ABC WKBW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38280
 #EXTINF:-1 tvg-id="cbs4wivb.us" tvg-name="NY | Buffalo | CBS WIVB" tvg-logo="https://static.realiptv.to/snapshots/30133.jpg" group-title="ENG | Local | CBS",NY | Buffalo | CBS WIVB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30133
@@ -3249,9 +3249,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470321
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/642906
 #EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="NY | New York  | Univision WXTV" tvg-logo="https://static.realiptv.to/snapshots/59850.jpg" group-title="ESP | Local | Univision",NY | New York  | Univision WXTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/59850
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NY | New York | ABC 7 WABC" tvg-logo="https://static.realiptv.to/snapshots/112234.jpg" group-title="ENG | Local | ABC",NY | New York | ABC 7 WABC
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NYC | ABC WABC" group-title="ENG | Local | ABC",NY | NYC | ABC WABC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112234
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NY | New York | ABC UHD WABC" tvg-logo="https://static.realiptv.to/snapshots/3606.jpg" group-title="ENG | Local | ABC",NY | New York | ABC UHD WABC
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="NY | NYC | ABC WABC UHD" group-title="ENG | Local | ABC",NY | NYC | ABC WABC UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3606
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="NY | New York | CBS  WCBS" tvg-logo="https://static.realiptv.to/snapshots/2631.jpg" group-title="ENG | Local | CBS",NY | New York | CBS  WCBS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2631
@@ -3281,7 +3281,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89716
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597140
 #EXTINF:-1 tvg-name="NY | Riverhead | CBS WLNY" tvg-logo="https://static.realiptv.to/snapshots/89717.jpg" group-title="ENG | Local | CBS",NY | Riverhead | CBS WLNY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89717
-#EXTINF:-1 tvg-id="f9e1864e-29c1-474a-b374-404694212a39" tvg-name="NY | Rochester | ABC 13 WHAM" tvg-logo="https://static.realiptv.to/snapshots/536273.jpg" group-title="ENG | Local | ABC",NY | Rochester | ABC 13 WHAM
+#EXTINF:-1 tvg-id="WHAM-DT.us_locals1" tvg-name="NY | Rochester | ABC WHAM" group-title="ENG | Local | ABC",NY | Rochester | ABC WHAM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/536273
 #EXTINF:-1 tvg-id="cbs3kimt.us" tvg-name="NY | Rochester | CBS WROC" tvg-logo="https://static.realiptv.to/snapshots/89718.jpg" group-title="ENG | Local | CBS",NY | Rochester | CBS WROC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89718
@@ -3297,7 +3297,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629933
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470320
 #EXTINF:-1 tvg-id="cbs6wrgb.us" tvg-name="NY | Schenectady | CBS WRGB" tvg-logo="https://static.realiptv.to/snapshots/89720.jpg" group-title="ENG | Local | CBS",NY | Schenectady | CBS WRGB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89720
-#EXTINF:-1 tvg-id="9df454dd-62d3-44f6-a67f-d3b41d8b2f00" tvg-name="NY | SYRACUSE | ABC 9 WSYR" tvg-logo="https://static.realiptv.to/snapshots/38313.jpg" group-title="ENG | Local | ABC",NY | SYRACUSE | ABC 9 WSYR
+#EXTINF:-1 tvg-id="WSYR-DT.us_locals1" tvg-name="NY | Syracuse | ABC WSYR" group-title="ENG | Local | ABC",NY | Syracuse | ABC WSYR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38313
 #EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="NY | Syracuse | CBS 5 WTVH" tvg-logo="https://static.realiptv.to/snapshots/87037.jpg" group-title="ENG | Local | CBS",NY | Syracuse | CBS 5 WTVH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/87037
@@ -3311,9 +3311,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89721
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38314
 #EXTINF:-1 tvg-id="1d4ee7c4-c1ed-4dc6-b2ac-dcad6dd383a0" tvg-name="NY | Syracuse| PBS Kids WCNY" tvg-logo="https://static.realiptv.to/snapshots/89705.jpg" group-title="ENG | Local | PBS",NY | Syracuse| PBS Kids WCNY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89705
-#EXTINF:-1 tvg-name="NY | Utica | ABC 20 WUTR" tvg-logo="https://static.realiptv.to/snapshots/516017.jpg" group-title="ENG | Local | ABC",NY | Utica | ABC 20 WUTR
+#EXTINF:-1 tvg-id="WUTR-DT.us_locals1" tvg-name="NY | Utica | ABC WUTR" group-title="ENG | Local | ABC",NY | Utica | ABC WUTR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/516017
-#EXTINF:-1 tvg-name="NY | Utica | ABC WUTR" tvg-logo="https://static.realiptv.to/snapshots/629931.jpg" group-title="ENG | Local | ABC",NY | Utica | ABC WUTR
+#EXTINF:-1 tvg-id="WUTR-DT.us_locals1" tvg-name="NY | Utica | ABC WUTR (bkup)" group-title="ENG | Local | ABC",NY | Utica | ABC WUTR (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629931
 #EXTINF:-1 tvg-name="NY | Utica | CBS WKTV2" tvg-logo="https://static.realiptv.to/snapshots/629930.jpg" group-title="ENG | Local | CBS",NY | Utica | CBS WKTV2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629930
@@ -3333,9 +3333,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/471699
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30136
 #EXTINF:-1 tvg-id="nbc5wlwt.us" tvg-name="OH | Cincinnati | NBC WLWT" tvg-logo="https://static.realiptv.to/snapshots/2463.jpg" group-title="ENG | Local | NBC",OH | Cincinnati | NBC WLWT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2463
-#EXTINF:-1 tvg-id="c7befdca-1850-453d-a8af-4eac0a5f2913" tvg-name="OH | CINCINNATI | USA ABC 9 WCPO" tvg-logo="https://static.realiptv.to/snapshots/62431.jpg" group-title="ENG | Local | ABC",OH | CINCINNATI | USA ABC 9 WCPO
+#EXTINF:-1 tvg-id="WCPO-DT.us_locals1" tvg-name="OH | Cincinnati | ABC WCPO" group-title="ENG | Local | ABC",OH | Cincinnati | ABC WCPO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/62431
-#EXTINF:-1 tvg-id="084a9c7d-167d-4942-8db8-bafb42238349" tvg-name="OH | Cleveland | ABC 5 WEWS" tvg-logo="https://static.realiptv.to/snapshots/2694.jpg" group-title="ENG | Local | ABC",OH | Cleveland | ABC 5 WEWS
+#EXTINF:-1 tvg-id="WEWS-DT.us_locals1" tvg-name="OH | Cleveland | ABC WEWS" group-title="ENG | Local | ABC",OH | Cleveland | ABC WEWS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2694
 #EXTINF:-1 tvg-id="cbs19woio.us" tvg-name="OH | Cleveland | CBS 19 WOIO" tvg-logo="https://static.realiptv.to/snapshots/2647.jpg" group-title="ENG | Local | CBS",OH | Cleveland | CBS 19 WOIO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2647
@@ -3343,9 +3343,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2647
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2566
 #EXTINF:-1 tvg-id="nbcwkyc.us" tvg-name="OH | Cleveland | NBC WKYC" tvg-logo="https://static.realiptv.to/snapshots/2462.jpg" group-title="ENG | Local | NBC",OH | Cleveland | NBC WKYC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2462
-#EXTINF:-1 tvg-id="296202ab-cb02-4e2b-84f0-bb31ffaf5758" tvg-name="OH | Columbus | ABC 6 WSYX" tvg-logo="https://static.realiptv.to/snapshots/112254.jpg" group-title="ENG | Local | ABC",OH | Columbus | ABC 6 WSYX
+#EXTINF:-1 tvg-id="WSYX-DT.us_locals1" tvg-name="OH | Columbus | ABC WSYX" group-title="ENG | Local | ABC",OH | Columbus | ABC WSYX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112254
-#EXTINF:-1 tvg-id="abcwsyx.us" tvg-name="OH | Columbus | ABC 6 WSYX" tvg-logo="https://static.realiptv.to/snapshots/38236.jpg" group-title="ENG | Local | ABC",OH | Columbus | ABC 6 WSYX
+#EXTINF:-1 tvg-id="WSYX-DT.us_locals1" tvg-name="OH | Columbus | ABC WSYX (bkup)" group-title="ENG | Local | ABC",OH | Columbus | ABC WSYX (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38236
 #EXTINF:-1 tvg-id="cbs4wcbi.us" tvg-name="OH | Columbus | CBS 10 WBNS" tvg-logo="https://static.realiptv.to/snapshots/2646.jpg" group-title="ENG | Local | CBS",OH | Columbus | CBS 10 WBNS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2646
@@ -3365,7 +3365,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70150
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70149
 #EXTINF:-1 tvg-id="nbc2wdtn.us" tvg-name="OH | Dayton | NBC WDTN" tvg-logo="https://static.realiptv.to/snapshots/89734.jpg" group-title="ENG | Local | NBC",OH | Dayton | NBC WDTN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89734
-#EXTINF:-1 tvg-id="abc22wkef.us" tvg-name="OH | DAYTON | USA ABC22 WKEF" tvg-logo="https://static.realiptv.to/snapshots/38322.jpg" group-title="ENG | Local | ABC",OH | DAYTON | USA ABC22 WKEF
+#EXTINF:-1 tvg-id="WKEF-DT.us_locals1" tvg-name="OH | Dayton | ABC WKEF" group-title="ENG | Local | ABC",OH | Dayton | ABC WKEF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38322
 #EXTINF:-1 tvg-id="nbcwlio.us" tvg-name="OH | Lima | NBC WLIO" tvg-logo="https://static.realiptv.to/snapshots/89735.jpg" group-title="ENG | Local | NBC",OH | Lima | NBC WLIO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89735
@@ -3389,13 +3389,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89742
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89743
 #EXTINF:-1 tvg-id="nbcwhiz.us" tvg-name="OH | Zanesville | NBC WHIZ" tvg-logo="https://static.realiptv.to/snapshots/89744.jpg" group-title="ENG | Local | NBC",OH | Zanesville | NBC WHIZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89744
-#EXTINF:-1 tvg-name="Ohio | Toledo | ABC 13 WTVG" tvg-logo="https://static.realiptv.to/snapshots/564741.jpg" group-title="ENG | Local | ABC",Ohio | Toledo | ABC 13 WTVG
+#EXTINF:-1 tvg-id="WTVG-DT.us_locals1" tvg-name="Ohio | Toledo | ABC WTVG" group-title="ENG | Local | ABC",Ohio | Toledo | ABC WTVG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/564741
 #EXTINF:-1 tvg-id="nbc10kten.us" tvg-name="OK | Ada | NBC KTEN" tvg-logo="https://static.realiptv.to/snapshots/89745.jpg" group-title="ENG | Local | NBC",OK | Ada | NBC KTEN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89745
-#EXTINF:-1 tvg-name="OK | Lawton | ABC KSWO" tvg-logo="https://static.realiptv.to/snapshots/641955.jpg" group-title="ENG | Local | ABC",OK | Lawton | ABC KSWO
+#EXTINF:-1 tvg-id="KSWO-DT.us_locals1" tvg-name="OK | Lawton | ABC KSWO" group-title="ENG | Local | ABC",OK | Lawton | ABC KSWO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/641955
-#EXTINF:-1 tvg-id="a58cd575-65d0-49be-bb26-903111b25c90" tvg-name="OK | Oklahoma City | ABC 5 KOCO" tvg-logo="https://static.realiptv.to/snapshots/38268.jpg" group-title="ENG | Local | ABC",OK | Oklahoma City | ABC 5 KOCO
+#EXTINF:-1 tvg-id="KOCO-DT.us_locals1" tvg-name="OK | OKC | ABC KOCO" group-title="ENG | Local | ABC",OK | OKC | ABC KOCO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38268
 #EXTINF:-1 tvg-id="cbs9kwtv.us" tvg-name="OK | Oklahoma City | CBS 9 KWTV" tvg-logo="https://static.realiptv.to/snapshots/42488.jpg" group-title="ENG | Local | CBS",OK | Oklahoma City | CBS 9 KWTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42488
@@ -3407,7 +3407,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42489
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42490
 #EXTINF:-1 tvg-id="KTUZ" tvg-name="OK | Shawnee | Telemundo KTUZ" tvg-logo="https://static.realiptv.to/snapshots/89748.jpg" group-title="ESP | Local | Telemundo",OK | Shawnee | Telemundo KTUZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89748
-#EXTINF:-1 tvg-id="abc8ktul.us" tvg-name="OK | Tulsa | ABC 8 KTUL" tvg-logo="https://static.realiptv.to/snapshots/38287.jpg" group-title="ENG | Local | ABC",OK | Tulsa | ABC 8 KTUL
+#EXTINF:-1 tvg-id="abc8ktul.us" tvg-name="OK | Tulsa | ABC KTUL" group-title="ENG | Local | ABC",OK | Tulsa | ABC KTUL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38287
 #EXTINF:-1 tvg-id="cbs6kotv.us" tvg-name="OK | Tulsa | CBS 6 KOTV" tvg-logo="https://static.realiptv.to/snapshots/81875.jpg" group-title="ENG | Local | CBS",OK | Tulsa | CBS 6 KOTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81875
@@ -3423,7 +3423,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61809
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50921
 #EXTINF:-1 tvg-id="nbc10wilx.us" tvg-name="Onondaga  | NBC 10 WILX" tvg-logo="https://static.realiptv.to/snapshots/77756.jpg" group-title="ENG | Local | NBC",Onondaga  | NBC 10 WILX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77756
-#EXTINF:-1 tvg-name="OR | Bend | ABC KOHD" tvg-logo="https://static.realiptv.to/snapshots/629953.jpg" group-title="ENG | Local | ABC",OR | Bend | ABC KOHD
+#EXTINF:-1 tvg-id="KOHD-DT.us_locals1" tvg-name="OR | Bend | ABC KOHD" group-title="ENG | Local | ABC",OR | Bend | ABC KOHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629953
 #EXTINF:-1 tvg-name="OR | Bend | CBS 7 KBNZ" tvg-logo="https://static.realiptv.to/snapshots/629952.jpg" group-title="ENG | Local | CBS",OR | Bend | CBS 7 KBNZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629952
@@ -3433,7 +3433,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629954
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89753
 #EXTINF:-1 tvg-name="OR | Bend | Telemundo" tvg-logo="https://static.realiptv.to/snapshots/629956.jpg" group-title="ESP | Local | Telemundo",OR | Bend | Telemundo
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629956
-#EXTINF:-1 tvg-id="02cecb79-c96b-4488-8a09-4c6378c1f1e9" tvg-name="OR | Eugene | ABC 9 KEZI" tvg-logo="https://static.realiptv.to/snapshots/512991.jpg" group-title="ENG | Local | ABC",OR | Eugene | ABC 9 KEZI
+#EXTINF:-1 tvg-id="KEZI-DT.us_locals1" tvg-name="OR | Eugene | ABC KEZI" group-title="ENG | Local | ABC",OR | Eugene | ABC KEZI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512991
 #EXTINF:-1 tvg-id="cbs13kval.us" tvg-name="OR | Eugene | CBS KVAL" tvg-logo="https://static.realiptv.to/snapshots/89754.jpg" group-title="ENG | Local | CBS",OR | Eugene | CBS KVAL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89754
@@ -3459,7 +3459,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597138
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89762
 #EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | CW WPSG" group-title="ENG | Local | CW/IND/MY",PA | Philadelphia | CW WPSG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34426
-#EXTINF:-1 tvg-id="02175f15-2e49-4140-950c-c40dc812271f" tvg-name="PA | ERIE | ABC 24 WJET" tvg-logo="https://static.realiptv.to/snapshots/510265.jpg" group-title="ENG | Local | ABC",PA | ERIE | ABC 24 WJET
+#EXTINF:-1 tvg-id="WJET-DT.us_locals1" tvg-name="PA | ERIE | ABC WJET" group-title="ENG | Local | ABC",PA | ERIE | ABC WJET
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510265
 #EXTINF:-1 tvg-id="cbs35wsee.us" tvg-name="PA | ERIE | CBS 35 WSEE" tvg-logo="https://static.realiptv.to/snapshots/510267.jpg" group-title="ENG | Local | CBS",PA | ERIE | CBS 35 WSEE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510267
@@ -3473,7 +3473,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510266
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89763
 #EXTINF:-1 tvg-name="PA | Erie | PBS WQLN" tvg-logo="https://static.realiptv.to/snapshots/470303.jpg" group-title="ENG | Local | PBS",PA | Erie | PBS WQLN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470303
-#EXTINF:-1 tvg-id="76313b80-fc1c-4290-93cc-150d27bc8f63" tvg-name="PA | Harrisburg | ABC 27 WHTM" tvg-logo="https://static.realiptv.to/snapshots/38261.jpg" group-title="ENG | Local | ABC",PA | Harrisburg | ABC 27 WHTM
+#EXTINF:-1 tvg-id="WHTM-DT.us_locals1" tvg-name="PA | Harrisburg | ABC WHTM" group-title="ENG | Local | ABC",PA | Harrisburg | ABC WHTM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38261
 #EXTINF:-1 tvg-id="cbs21whp.us" tvg-name="PA | Harrisburg | CBS WHP" tvg-logo="https://static.realiptv.to/snapshots/89621.jpg" group-title="ENG | Local | CBS",PA | Harrisburg | CBS WHP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89621
@@ -3493,7 +3493,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89767
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89768
 #EXTINF:-1 tvg-name="PA | Local Now" tvg-logo="https://static.realiptv.to/snapshots/629581.jpg" group-title="USA LOCAL NOW",PA | Local Now
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629581
-#EXTINF:-1 tvg-id="abcwpvi.us" tvg-name="PA | Philadelphia | ABC WPVI" tvg-logo="https://static.realiptv.to/snapshots/2678.jpg" group-title="ENG | Local | ABC",PA | Philadelphia | ABC WPVI
+#EXTINF:-1 tvg-id="abcwpvi.us" tvg-name="PA | Philadelphia | ABC WPVI" group-title="ENG | Local | ABC",PA | Philadelphia | ABC WPVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2678
 #EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="PA | Philadelphia | CBS 3 KYW" tvg-logo="https://static.realiptv.to/snapshots/2629.jpg" group-title="ENG | Local | CBS",PA | Philadelphia | CBS 3 KYW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2629
@@ -3515,7 +3515,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2627
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2538
 #EXTINF:-1 tvg-id="nbcwpxi.us" tvg-name="PA | Pittsburgh | NBC WPXI" tvg-logo="https://static.realiptv.to/snapshots/2443.jpg" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2443
-#EXTINF:-1 tvg-id="abc16wnep.us" tvg-name="PA | Scranton | ABC 16 WNEP" tvg-logo="https://static.realiptv.to/snapshots/112251.jpg" group-title="ENG | Local | ABC",PA | Scranton | ABC 16 WNEP
+#EXTINF:-1 tvg-id="abc16wnep.us" tvg-name="PA | Scranton | ABC WNEP" group-title="ENG | Local | ABC",PA | Scranton | ABC WNEP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112251
 #EXTINF:-1 tvg-name="PA | Scranton | PBS WVIA" tvg-logo="https://static.realiptv.to/snapshots/470308.jpg" group-title="ENG | Local | PBS",PA | Scranton | PBS WVIA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470308
@@ -3543,7 +3543,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2444
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50930
 #EXTINF:-1 tvg-name="PR Telemundo 2 WKAQ" tvg-logo="https://static.realiptv.to/snapshots/617108.jpg" group-title="ESP | Local | Telemundo",PR Telemundo 2 WKAQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/617108
-#EXTINF:-1 tvg-id="5c33d851-fe05-48f9-a2b5-9df6861c0377" tvg-name="RI | Providence |  ABC 6 WLNE" tvg-logo="https://static.realiptv.to/snapshots/628874.jpg" group-title="ENG | Local | ABC",RI | Providence |  ABC 6 WLNE
+#EXTINF:-1 tvg-id="WLNE-DT.us_locals1" tvg-name="RI | Providence | ABC WLNE" group-title="ENG | Local | ABC",RI | Providence | ABC WLNE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/628874
 #EXTINF:-1 tvg-id="cbs12wpri.us" tvg-name="RI | Providence | CBS WPRI" tvg-logo="https://static.realiptv.to/snapshots/98189.jpg" group-title="ENG | Local | CBS",RI | Providence | CBS WPRI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/98189
@@ -3575,9 +3575,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50923
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34433
 #EXTINF:-1 tvg-name="SC |  PBS WRET" tvg-logo="https://static.realiptv.to/snapshots/597152.jpg" group-title="ENG | Local | PBS",SC |  PBS WRET
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597152
-#EXTINF:-1 tvg-id="abc4wciv.us" tvg-name="SC | CHARLESTON | ABC 4 WCIV" tvg-logo="https://static.realiptv.to/snapshots/38306.jpg" group-title="ENG | Local | ABC",SC | CHARLESTON | ABC 4 WCIV
+#EXTINF:-1 tvg-id="abc4wciv.us" tvg-name="SC | Charleston | ABC WCIV" group-title="ENG | Local | ABC",SC | Charleston | ABC WCIV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38306
-#EXTINF:-1 tvg-id="7a2b424e-2370-4e58-b037-c48287abd7ed" tvg-name="SC | Charleston | ABC 8 WCHS" tvg-logo="https://static.realiptv.to/snapshots/38248.jpg" group-title="ENG | Local | ABC",SC | Charleston | ABC 8 WCHS
+#EXTINF:-1 tvg-id="WCHS-DT.us_locals1" tvg-name="WV | Charleston | ABC WCHS" group-title="ENG | Local | ABC",WV | Charleston | ABC WCHS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38248
 #EXTINF:-1 tvg-id="cbs5wcsc.us" tvg-name="SC | Charleston | CBS WCSC" tvg-logo="https://static.realiptv.to/snapshots/89784.jpg" group-title="ENG | Local | CBS",SC | Charleston | CBS WCSC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89784
@@ -3597,11 +3597,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61803
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597145
 #EXTINF:-1 tvg-name="SC | Columbia | PBS WRLK" tvg-logo="https://static.realiptv.to/snapshots/470301.jpg" group-title="ENG | Local | PBS",SC | Columbia | PBS WRLK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470301
-#EXTINF:-1 tvg-id="abckmiz.us" tvg-name="SC | COLUMBIA | USA ABC 25 WOLO" tvg-logo="https://static.realiptv.to/snapshots/61805.jpg" group-title="ENG | Local | ABC",SC | COLUMBIA | USA ABC 25 WOLO
+#EXTINF:-1 tvg-id="WOLO-DT.us_locals1" tvg-name="SC | Columbia | ABC WOLO" group-title="ENG | Local | ABC",SC | Columbia | ABC WOLO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61805
-#EXTINF:-1 tvg-id="15d979dc-d7f0-41ca-b2d1-f118891c184b" tvg-name="SC | FLORENCE | ABC 15 WPDE" tvg-logo="https://static.realiptv.to/snapshots/70155.jpg" group-title="ENG | Local | ABC",SC | FLORENCE | ABC 15 WPDE
+#EXTINF:-1 tvg-id="WPDE-DT.us_locals1" tvg-name="SC | Florence | ABC WPDE" group-title="ENG | Local | ABC",SC | Florence | ABC WPDE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70155
-#EXTINF:-1 tvg-name="SC | Greenville | ABC 13 WLOS" tvg-logo="https://static.realiptv.to/snapshots/638184.jpg" group-title="ENG | Local | ABC",SC | Greenville | ABC 13 WLOS
+#EXTINF:-1 tvg-id="WLOS-DT.us_locals1" tvg-name="SC | Greenville | ABC WLOS" group-title="ENG | Local | ABC",SC | Greenville | ABC WLOS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638184
 #EXTINF:-1 tvg-id="fox14wydo.us" tvg-name="SC | Greenville | FOX WHNS" tvg-logo="https://static.realiptv.to/snapshots/38270.jpg" group-title="ENG | Local | FOX",SC | Greenville | FOX WHNS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38270
@@ -3615,7 +3615,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70153
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89794
 #EXTINF:-1 tvg-id="nbc21knbn.us" tvg-name="SD | Rapid City | NBC KNBN" tvg-logo="https://static.realiptv.to/snapshots/89796.jpg" group-title="ENG | Local | NBC",SD | Rapid City | NBC KNBN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89796
-#EXTINF:-1 tvg-name="SD | SIOUX FALLS | ABC 13 KSFY" tvg-logo="https://static.realiptv.to/snapshots/600295.jpg" group-title="ENG | Local | ABC",SD | SIOUX FALLS | ABC 13 KSFY
+#EXTINF:-1 tvg-id="KSFY-DT.us_locals1" tvg-name="SD | SIOUX FALLS | ABC KSFY" group-title="ENG | Local | ABC",SD | SIOUX FALLS | ABC KSFY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600295
 #EXTINF:-1 tvg-id="cbs11kelo.us" tvg-name="SD | Sioux Falls | CBS KELO" tvg-logo="https://static.realiptv.to/snapshots/89797.jpg" group-title="ENG | Local | CBS",SD | Sioux Falls | CBS KELO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89797
@@ -3791,13 +3791,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632084
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632085
 #EXTINF:-1 group-title="SPORTS - TENNIS",
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/632086
-#EXTINF:-1 tvg-name="TN |  Knoxville | ABC 6 WATE" tvg-logo="https://static.realiptv.to/snapshots/600285.jpg" group-title="ENG | Local | ABC",TN |  Knoxville | ABC 6 WATE
+#EXTINF:-1 tvg-id="WATE-DT.us_locals1" tvg-name="TN | Knoxville | ABC WATE" group-title="ENG | Local | ABC",TN | Knoxville | ABC WATE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600285
 #EXTINF:-1 tvg-id="fe5c2b7f-87a2-4201-9aa3-df8cc5c01223" tvg-name="TN |  Nashville | CBS WTVF" tvg-logo="https://static.realiptv.to/snapshots/2633.jpg" group-title="ENG | Local | CBS",TN |  Nashville | CBS WTVF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2633
 #EXTINF:-1 tvg-id="cbs12wdef.us" tvg-name="TN | Chattanooga CBS 12 WDEF" tvg-logo="https://static.realiptv.to/snapshots/74687.jpg" group-title="ENG | Local | CBS",TN | Chattanooga CBS 12 WDEF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74687
-#EXTINF:-1 tvg-id="75a5b854-d8db-43a9-92c7-a4f242c085dd" tvg-name="TN | CHATTANOOGA | ABC 9 WTVC " tvg-logo="https://static.realiptv.to/snapshots/74690.jpg" group-title="ENG | Local | ABC",TN | CHATTANOOGA | ABC 9 WTVC
+#EXTINF:-1 tvg-id="WTVC-DT.us_locals1" tvg-name="TN | Chattanooga | ABC WTVC " group-title="ENG | Local | ABC",TN | Chattanooga | ABC WTVC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74690
 #EXTINF:-1 tvg-id="cbs12wdef.us" tvg-name="TN | Chattanooga | CBS WDEF" tvg-logo="https://static.realiptv.to/snapshots/89799.jpg" group-title="ENG | Local | CBS",TN | Chattanooga | CBS WDEF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89799
@@ -3809,7 +3809,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74688
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470297
 #EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="TN | Jackson | NBC WNBJ" tvg-logo="https://static.realiptv.to/snapshots/102603.jpg" group-title="ENG | Local | NBC",TN | Jackson | NBC WNBJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/102603
-#EXTINF:-1 tvg-name="TN | Knoxville | ABC 6 WATE" tvg-logo="https://static.realiptv.to/snapshots/595265.jpg" group-title="ENG | Local | ABC",TN | Knoxville | ABC 6 WATE
+#EXTINF:-1 tvg-id="WATE-DT.us_locals1" tvg-name="TN | Knoxville | ABC WATE (bkup)" group-title="ENG | Local | ABC",TN | Knoxville | ABC WATE (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/595265
 #EXTINF:-1 tvg-id="cbs8wvlt.us" tvg-name="TN | Knoxville | CBS WVLT" tvg-logo="https://static.realiptv.to/snapshots/89802.jpg" group-title="ENG | Local | CBS",TN | Knoxville | CBS WVLT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89802
@@ -3817,17 +3817,17 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89802
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89803
 #EXTINF:-1 tvg-id="nbc10wbir.us" tvg-name="TN | Knoxville | NBC WBIR" tvg-logo="https://static.realiptv.to/snapshots/89804.jpg" group-title="ENG | Local | NBC",TN | Knoxville | NBC WBIR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89804
-#EXTINF:-1 tvg-name="TN | Knoxville | WATE-TV" tvg-logo="https://static.realiptv.to/snapshots/620009.jpg" group-title="ENG | Local | ABC",TN | Knoxville | WATE-TV
+#EXTINF:-1 tvg-id="WATE-DT.us_locals1" tvg-name="TN | Knoxville | ABC WATE (bkup2)" group-title="ENG | Local | ABC",TN | Knoxville | ABC WATE (bkup2)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/620009
-#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="TN | Memphis | ABC 24  WATN" tvg-logo="https://static.realiptv.to/snapshots/38251.jpg" group-title="ENG | Local | ABC",TN | Memphis | ABC 24  WATN
+#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="TN | Memphis | ABC WATN" group-title="ENG | Local | ABC",TN | Memphis | ABC WATN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38251
-#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="TN | Memphis | ABC 24 WATN" tvg-logo="https://static.realiptv.to/snapshots/112235.jpg" group-title="ENG | Local | ABC",TN | Memphis | ABC 24 WATN
+#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="TN | Memphis | ABC WATN" group-title="ENG | Local | ABC",TN | Memphis | ABC WATN (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112235
 #EXTINF:-1 tvg-id="cbs3wreg.us" tvg-name="TN | Memphis | CBS 3 WREG" tvg-logo="https://static.realiptv.to/snapshots/81884.jpg" group-title="ENG | Local | CBS",TN | Memphis | CBS 3 WREG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81884
 #EXTINF:-1 tvg-id="fox13whbq.us" tvg-name="TN | Memphis | FOX 13 WHBQ" tvg-logo="https://static.realiptv.to/snapshots/81882.jpg" group-title="ENG | Local | FOX",TN | Memphis | FOX 13 WHBQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81882
-#EXTINF:-1 tvg-id="abcwkrn.us" tvg-name="TN | Nashville | ABC WKRN" tvg-logo="https://static.realiptv.to/snapshots/2681.jpg" group-title="ENG | Local | ABC",TN | Nashville | ABC WKRN
+#EXTINF:-1 tvg-id="abcwkrn.us" tvg-name="TN | Nashville | ABC WKRN" group-title="ENG | Local | ABC",TN | Nashville | ABC WKRN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2681
 #EXTINF:-1 tvg-id="WNAB-DT.us_locals1" tvg-name="TN | Nashville | CW WNAB" group-title="ENG | Local | CW/IND/MY",TN | Nashville | CW WNAB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34437
@@ -3847,11 +3847,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600292
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2645
 #EXTINF:-1 tvg-id="KIAH-DT.us_locals1" tvg-name="TX |  Houston  | CW KIAH" group-title="ENG | Local | CW/IND/MY",TX |  Houston  | CW KIAH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/643838
-#EXTINF:-1 tvg-name="TX |  San Antonio | Spectrum News (SHD)" tvg-logo="https://static.realiptv.to/snapshots/597115.jpg" group-title="ENG | News",TX |  San Antonio | Spectrum News (SHD)
+#EXTINF:-1 tvg-name="TX | San Antonio | Spectrum News SHD" group-title="ENG | News",TX | San Antonio | Spectrum News SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597115
 #EXTINF:-1 tvg-name="TX |  Wichita Falls |  NBC 3 KFDX" tvg-logo="https://static.realiptv.to/snapshots/641953.jpg" group-title="ENG | Local | NBC",TX |  Wichita Falls |  NBC 3 KFDX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/641953
-#EXTINF:-1 tvg-name="TX | Amarillo | ABC 7  KVII" tvg-logo="https://static.realiptv.to/snapshots/600294.jpg" group-title="ENG | Local | ABC",TX | Amarillo | ABC 7  KVII
+#EXTINF:-1 tvg-id="KVII-DT.us_locals1" tvg-name="TX | Amarillo | ABC KVII" group-title="ENG | Local | ABC",TX | Amarillo | ABC KVII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600294
 #EXTINF:-1 tvg-name="TX | Amarillo | CBS 10 KFDA" tvg-logo="https://static.realiptv.to/snapshots/600302.jpg" group-title="ENG | Local | CBS",TX | Amarillo | CBS 10 KFDA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600302
@@ -3863,23 +3863,23 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600303
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89814
 #EXTINF:-1 tvg-name="TX | Amarillo | Telemundo KTMO" tvg-logo="https://static.realiptv.to/snapshots/630643.jpg" group-title="ESP | Local | Telemundo",TX | Amarillo | Telemundo KTMO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630643
-#EXTINF:-1 tvg-id="dee267c8-9673-473f-b729-ade91fd39ef5" tvg-name="TX | Austin | ABC  KVUE " tvg-logo="https://static.realiptv.to/snapshots/38241.jpg" group-title="ENG | Local | ABC",TX | Austin | ABC  KVUE
+#EXTINF:-1 tvg-id="KVUE-DT.us_locals1" tvg-name="TX | Austin | ABC KVUE " group-title="ENG | Local | ABC",TX | Austin | ABC KVUE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38241
-#EXTINF:-1 tvg-id="cbs42keye.us" tvg-name="TX | Austin | CBS 42 KEYE" tvg-logo="https://static.realiptv.to/snapshots/85343.jpg" group-title="ENG | Local | CBS",TX | Austin | CBS 42 KEYE
+#EXTINF:-1 tvg-id="KEYE-DT.us_locals1" tvg-name="TX | Austin | CBS KEYE" group-title="ENG | Local | CBS",TX | Austin | CBS KEYE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/85343
-#EXTINF:-1 tvg-id="fox7ktbc.us" tvg-name="TX | Austin | FOX 7 KTBC" tvg-logo="https://static.realiptv.to/snapshots/85341.jpg" group-title="ENG | Local | FOX",TX | Austin | FOX 7 KTBC
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="TX | Austin | FOX KTBC" group-title="ENG | Local | FOX",TX | Austin | FOX KTBC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/85341
-#EXTINF:-1 tvg-id="fox7ktbc.us" tvg-name="TX | Austin | FOX KTBC" tvg-logo="https://static.realiptv.to/snapshots/2573.jpg" group-title="ENG | Local | FOX",TX | Austin | FOX KTBC
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="TX | Austin | FOX KTBC (bkup)" group-title="ENG | Local | FOX",TX | Austin | FOX KTBC (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2573
-#EXTINF:-1 tvg-id="nbc36kxan.us" tvg-name="TX | Austin | NBC 36 KXAN" tvg-logo="https://static.realiptv.to/snapshots/85342.jpg" group-title="ENG | Local | NBC",TX | Austin | NBC 36 KXAN
+#EXTINF:-1 tvg-id="KXAN-DT.us_locals1" tvg-name="TX | Austin | NBC KXAN" group-title="ENG | Local | NBC",TX | Austin | NBC KXAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/85342
-#EXTINF:-1 tvg-name="TX | Austin | PBS Kids KLRU" tvg-logo="https://static.realiptv.to/snapshots/597135.jpg" group-title="ENG | Local | PBS",TX | Austin | PBS Kids KLRU
+#EXTINF:-1 tvg-name="TX | Austin | PBS Kids KLRU" group-title="ENG | Local | PBS",TX | Austin | PBS Kids KLRU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597135
-#EXTINF:-1 tvg-name="TX | Austin | PBS KLRU" tvg-logo="https://static.realiptv.to/snapshots/470292.jpg" group-title="ENG | Local | PBS",TX | Austin | PBS KLRU
+#EXTINF:-1 tvg-id="KLRU-DT.us_locals1" tvg-name="TX | Austin | PBS KLRU" group-title="ENG | Local | PBS",TX | Austin | PBS KLRU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470292
-#EXTINF:-1 tvg-name="TX | Austin | Spectrum News (SHD)" tvg-logo="https://static.realiptv.to/snapshots/597113.jpg" group-title="ENG | News",TX | Austin | Spectrum News (SHD)
+#EXTINF:-1 tvg-name="TX | Austin | Spectrum News SHD" group-title="ENG | News",TX | Austin | Spectrum News SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597113
-#EXTINF:-1 tvg-name="TX | Beaumont | ABC 12 KBMT" tvg-logo="https://static.realiptv.to/snapshots/638587.jpg" group-title="ENG | Local | ABC",TX | Beaumont | ABC 12 KBMT
+#EXTINF:-1 tvg-id="KBMT-DT.us_locals1" tvg-name="TX | Beaumont | ABC KBMT" group-title="ENG | Local | ABC",TX | Beaumont | ABC KBMT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638587
 #EXTINF:-1 tvg-name="TX | Beaumont | CBS 6 KFDM" tvg-logo="https://static.realiptv.to/snapshots/630217.jpg" group-title="ENG | Local | CBS",TX | Beaumont | CBS 6 KFDM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630217
@@ -3891,7 +3891,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89819
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638586
 #EXTINF:-1 tvg-id="nbc23kveo.us" tvg-name="TX | Brownsville | NBC KVEO" tvg-logo="https://static.realiptv.to/snapshots/89821.jpg" group-title="ENG | Local | NBC",TX | Brownsville | NBC KVEO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89821
-#EXTINF:-1 tvg-id="1b23079c-57c6-4e41-bf52-211c0b23cedc" tvg-name="TX | Bryan | ABC 25 KXXV" tvg-logo="https://static.realiptv.to/snapshots/38275.jpg" group-title="ENG | Local | ABC",TX | Bryan | ABC 25 KXXV
+#EXTINF:-1 tvg-id="KXXV-DT.us_locals1" tvg-name="TX | Bryan | ABC KXXV" group-title="ENG | Local | ABC",TX | Bryan | ABC KXXV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38275
 #EXTINF:-1 tvg-id="cbs3kbtx.us" tvg-name="TX | Bryan | CBS 3 KBTX" tvg-logo="https://static.realiptv.to/snapshots/38276.jpg" group-title="ENG | Local | CBS",TX | Bryan | CBS 3 KBTX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38276
@@ -3903,7 +3903,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630651
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89861
 #EXTINF:-1 tvg-id="nbc23kags.us" tvg-name="TX | Bryan | NBC 23 KAGS" tvg-logo="https://static.realiptv.to/snapshots/38277.jpg" group-title="ENG | Local | NBC",TX | Bryan | NBC 23 KAGS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38277
-#EXTINF:-1 tvg-name="TX | CORPUS CHRISTI |  ABC 3 KIII" tvg-logo="https://static.realiptv.to/snapshots/721023.jpg" group-title="ENG | Local | ABC",TX | CORPUS CHRISTI |  ABC 3 KIII
+#EXTINF:-1 tvg-id="KIII-DT.us_locals1" tvg-name="TX | Corpus Christi | ABC KIII" group-title="ENG | Local | ABC",TX | Corpus Christi | ABC KIII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/721023
 #EXTINF:-1 tvg-id="cbs10kztv.us" tvg-name="TX | Corpus Christi | CBS KZTV" tvg-logo="https://static.realiptv.to/snapshots/89822.jpg" group-title="ENG | Local | CBS",TX | Corpus Christi | CBS KZTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89822
@@ -3911,7 +3911,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89822
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89823
 #EXTINF:-1 tvg-name="TX | Corpus Christi | PBS KEDT" tvg-logo="https://static.realiptv.to/snapshots/470295.jpg" group-title="ENG | Local | PBS",TX | Corpus Christi | PBS KEDT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470295
-#EXTINF:-1 tvg-id="abc8wfaa.us" tvg-name="TX | Dallas | ABC WFAA" tvg-logo="https://static.realiptv.to/snapshots/2692.jpg" group-title="ENG | Local | ABC",TX | Dallas | ABC WFAA
+#EXTINF:-1 tvg-id="abc8wfaa.us" tvg-name="TX | Dallas | ABC WFAA" group-title="ENG | Local | ABC",TX | Dallas | ABC WFAA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2692
 #EXTINF:-1 tvg-name="TX | Dallas | CBSN" tvg-logo="https://static.realiptv.to/snapshots/112183.jpg" group-title="ENG | News",TX | Dallas | CBSN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112183
@@ -3941,7 +3941,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89827
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630646
 #EXTINF:-1 tvg-name="TX | El Paso | UniMas KTFN" tvg-logo="https://static.realiptv.to/snapshots/630648.jpg" group-title="ESP | Local | UniMas",TX | El Paso | UniMas KTFN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630648
-#EXTINF:-1 tvg-id="abc7kvia.us" tvg-name="TX | EL PASO | USA ABC 7 KVIA" tvg-logo="https://static.realiptv.to/snapshots/38309.jpg" group-title="ENG | Local | ABC",TX | EL PASO | USA ABC 7 KVIA
+#EXTINF:-1 tvg-id="abc7kvia.us" tvg-name="TX | El Paso | ABC KVIA" group-title="ENG | Local | ABC",TX | El Paso | ABC KVIA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38309
 #EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="TX | Fort Worth | CBS KTXA" tvg-logo="https://static.realiptv.to/snapshots/89829.jpg" group-title="ENG | Local | CBS",TX | Fort Worth | CBS KTXA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89829
@@ -3951,9 +3951,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89832
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89833
 #EXTINF:-1 tvg-id="5f0a9e1d-357f-420d-8ac0-95c228a8c97a" tvg-name="TX | Harlingen | FOX KFXV" tvg-logo="https://static.realiptv.to/snapshots/89834.jpg" group-title="ENG | Local | FOX",TX | Harlingen | FOX KFXV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89834
-#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="TX | Houston | ABC 13 KTRK" tvg-logo="https://static.realiptv.to/snapshots/112233.jpg" group-title="ENG | Local | ABC",TX | Houston | ABC 13 KTRK
+#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-name="TX | Houston | ABC KTRK" group-title="ENG | Local | ABC",TX | Houston | ABC KTRK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112233
-#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="TX | Houston | ABC KTRK" tvg-logo="https://static.realiptv.to/snapshots/2687.jpg" group-title="ENG | Local | ABC",TX | Houston | ABC KTRK
+#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-name="TX | Houston | ABC KTRK (bkup)" group-title="ENG | Local | ABC",TX | Houston | ABC KTRK (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2687
 #EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="TX | Houston | CBS 11 KHOU" tvg-logo="https://static.realiptv.to/snapshots/2640.jpg" group-title="ENG | Local | CBS",TX | Houston | CBS 11 KHOU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2640
@@ -3971,7 +3971,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4471
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89841
 #EXTINF:-1 tvg-id="fox51kfxk.us" tvg-name="TX | Longview | FOX KFXK" tvg-logo="https://static.realiptv.to/snapshots/89842.jpg" group-title="ENG | Local | FOX",TX | Longview | FOX KFXK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89842
-#EXTINF:-1 tvg-id="905c9908-9bfd-43d7-aa79-7fa25e445487" tvg-name="TX | Lubbock | ABC 28 KAMC" tvg-logo="https://static.realiptv.to/snapshots/38303.jpg" group-title="ENG | Local | ABC",TX | Lubbock | ABC 28 KAMC
+#EXTINF:-1 tvg-id="KAMC-DT.us_locals1" tvg-name="TX | Lubbock | ABC KAMC" group-title="ENG | Local | ABC",TX | Lubbock | ABC KAMC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38303
 #EXTINF:-1 tvg-id="cbs13klbk.us" tvg-name="TX | Lubbock | CBS 13  KLBK" tvg-logo="https://static.realiptv.to/snapshots/38304.jpg" group-title="ENG | Local | CBS",TX | Lubbock | CBS 13  KLBK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38304
@@ -3983,7 +3983,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38305
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50926
 #EXTINF:-1 tvg-id="KXTQ" tvg-name="TX | Lubbock | Telemundo KXTQ" tvg-logo="https://static.realiptv.to/snapshots/89845.jpg" group-title="ESP | Local | Telemundo",TX | Lubbock | Telemundo KXTQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89845
-#EXTINF:-1 tvg-name="TX | Midland | ABC 2 KMID" tvg-logo="https://static.realiptv.to/snapshots/630029.jpg" group-title="ENG | Local | ABC",TX | Midland | ABC 2 KMID
+#EXTINF:-1 tvg-id="KMID-DT.us_locals1" tvg-name="TX | Midland | ABC KMID" group-title="ENG | Local | ABC",TX | Midland | ABC KMID
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630029
 #EXTINF:-1 tvg-name="TX | Midland | CBS 7 KOSA" tvg-logo="https://static.realiptv.to/snapshots/446772.jpg" group-title="ENG | Local | CBS",TX | Midland | CBS 7 KOSA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/446772
@@ -3997,7 +3997,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630200
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89846
 #EXTINF:-1 tvg-id="KTLM" tvg-name="TX | Rio Grande City | Telemundo KTLM" tvg-logo="https://static.realiptv.to/snapshots/89848.jpg" group-title="ESP | Local | Telemundo",TX | Rio Grande City | Telemundo KTLM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89848
-#EXTINF:-1 tvg-name="TX | San Angelo | ABC 12 KTXE" tvg-logo="https://static.realiptv.to/snapshots/629965.jpg" group-title="ENG | Local | ABC",TX | San Angelo | ABC 12 KTXE
+#EXTINF:-1 tvg-id="KTXE-DT.us_locals1" tvg-name="TX | San Angelo | ABC KTXE" group-title="ENG | Local | ABC",TX | San Angelo | ABC KTXE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629965
 #EXTINF:-1 tvg-name="TX | San Angelo | CBS KLST" tvg-logo="https://static.realiptv.to/snapshots/629964.jpg" group-title="ENG | Local | CBS",TX | San Angelo | CBS KLST
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629964
@@ -4007,19 +4007,19 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629970
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89851
 #EXTINF:-1 tvg-name="TX | San Angelo | UniMas KANG" tvg-logo="https://static.realiptv.to/snapshots/629973.jpg" group-title="ESP | Local | UniMas",TX | San Angelo | UniMas KANG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629973
-#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="TX | San Antonio | CBS KENS" tvg-logo="https://static.realiptv.to/snapshots/2624.jpg" group-title="ENG | Local | CBS",TX | San Antonio | CBS KENS
+#EXTINF:-1 tvg-id="KENS-DT.us_locals1" tvg-name="TX | San Antonio | CBS KENS" group-title="ENG | Local | CBS",TX | San Antonio | CBS KENS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2624
 #EXTINF:-1 tvg-id="WOAI-DT2.us_locals1" tvg-name="TX | San Antonio | CW WOAI-D2" group-title="ENG | Local | CW/IND/MY",TX | San Antonio | CW WOAI-D2
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629971
-#EXTINF:-1 tvg-id="foxkabb.us" tvg-name="TX | San Antonio | FOX KABB" tvg-logo="https://static.realiptv.to/snapshots/2535.jpg" group-title="ENG | Local | FOX",TX | San Antonio | FOX KABB
+#EXTINF:-1 tvg-id="KABB-DT.us_locals1" tvg-name="TX | San Antonio | FOX KABB" group-title="ENG | Local | FOX",TX | San Antonio | FOX KABB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2535
-#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="TX | San Antonio | NBC WOAI" tvg-logo="https://static.realiptv.to/snapshots/89853.jpg" group-title="ENG | Local | NBC",TX | San Antonio | NBC WOAI
+#EXTINF:-1 tvg-id="WOAI-DT.us_locals1" tvg-name="TX | San Antonio | NBC WOAI" group-title="ENG | Local | NBC",TX | San Antonio | NBC WOAI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89853
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="TX | San Antonio | Telemundo KVDA" tvg-logo="https://static.realiptv.to/snapshots/2390.jpg" group-title="ESP | Local | Telemundo",TX | San Antonio | Telemundo KVDA
+#EXTINF:-1 tvg-id="KVDA-DT.us_locals1" tvg-name="TX | San Antonio | Telemundo KVDA" group-title="ESP | Local | Telemundo",TX | San Antonio | Telemundo KVDA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2390
 #EXTINF:-1 tvg-name="TX | Sherman | CBS 12 KXII" tvg-logo="https://static.realiptv.to/snapshots/738283.jpg" group-title="ENG | Local | CBS",TX | Sherman | CBS 12 KXII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/738283
-#EXTINF:-1 tvg-name="TX | Sweetwater | ABC 12 KTXS" tvg-logo="https://static.realiptv.to/snapshots/630213.jpg" group-title="ENG | Local | ABC",TX | Sweetwater | ABC 12 KTXS
+#EXTINF:-1 tvg-id="KTXS-DT.us_locals1" tvg-name="TX | Sweetwater | ABC KTXS" group-title="ENG | Local | ABC",TX | Sweetwater | ABC KTXS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630213
 #EXTINF:-1 tvg-name="TX | Sweetwater | CBS 32 KTAB" tvg-logo="https://static.realiptv.to/snapshots/630212.jpg" group-title="ENG | Local | CBS",TX | Sweetwater | CBS 32 KTAB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630212
@@ -4039,7 +4039,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629974
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89839
 #EXTINF:-1 tvg-name="TX | Tyler | Telemundo KLTV" tvg-logo="https://static.realiptv.to/snapshots/629975.jpg" group-title="ESP | Local | Telemundo",TX | Tyler | Telemundo KLTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629975
-#EXTINF:-1 tvg-name="TX | Victoria | ABC 25 KAVU" tvg-logo="https://static.realiptv.to/snapshots/630209.jpg" group-title="ENG | Local | ABC",TX | Victoria | ABC 25 KAVU
+#EXTINF:-1 tvg-id="KAVU-DT.us_locals1" tvg-name="TX | Victoria | ABC KAVU" group-title="ENG | Local | ABC",TX | Victoria | ABC KAVU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630209
 #EXTINF:-1 tvg-name="TX | Victoria | CBS KXTS" tvg-logo="https://static.realiptv.to/snapshots/630208.jpg" group-title="ENG | Local | CBS",TX | Victoria | CBS KXTS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630208
@@ -4053,7 +4053,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597134
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470293
 #EXTINF:-1 tvg-id="cbs10kwtx.us" tvg-name="TX | Waco | CBS KWTX" tvg-logo="https://static.realiptv.to/snapshots/89860.jpg" group-title="ENG | Local | CBS",TX | Waco | CBS KWTX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89860
-#EXTINF:-1 tvg-name="TX | Weslaco | ABC 5 KRGV" tvg-logo="https://static.realiptv.to/snapshots/600293.jpg" group-title="ENG | Local | ABC",TX | Weslaco | ABC 5 KRGV
+#EXTINF:-1 tvg-id="KRGV-DT.us_locals1" tvg-name="TX | Weslaco | ABC KRGV" group-title="ENG | Local | ABC",TX | Weslaco | ABC KRGV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600293
 #EXTINF:-1 tvg-name="TX | Wichita Falls |  FOX 18 KJTL" tvg-logo="https://static.realiptv.to/snapshots/641956.jpg" group-title="ENG | Local | FOX",TX | Wichita Falls |  FOX 18 KJTL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/641956
@@ -4275,31 +4275,31 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/694516
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/591894
 #EXTINF:-1 tvg-id="aande.us" tvg-name="USA A&E (SD)" tvg-logo="https://static.realiptv.to/snapshots/21584.jpg" group-title="ENG | Local | LOW",USA A&E (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21584
-#EXTINF:-1 tvg-id="aande.us" tvg-name="USA A&E (SHD)" tvg-logo="https://static.realiptv.to/snapshots/30881.jpg" group-title="ENG | Entertainment",USA A&E (SHD)
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (East) SHD" group-title="ENG | Entertainment",A&E (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30881
-#EXTINF:-1 tvg-id="aande.us" tvg-name="USA A&E UHD" tvg-logo="https://static.realiptv.to/snapshots/3607.jpg" group-title="ENG | Entertainment",USA A&E UHD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (East) UHD" group-title="ENG | Entertainment",A&E (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3607
 #EXTINF:-1 tvg-id="abc7wlstv.us" tvg-name="USA ABC Chicago WLS SD" tvg-logo="https://static.realiptv.to/snapshots/429802.jpg" group-title="ENG | Local | LOW",USA ABC Chicago WLS SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/429802
-#EXTINF:-1 tvg-id="5376fd14-bc52-42c8-8418-37abf3461189" tvg-name="USA ABC Durham WTVD" tvg-logo="https://static.realiptv.to/snapshots/2689.jpg" group-title="ENG | Local | ABC",USA ABC Durham WTVD
+#EXTINF:-1 tvg-id="WTVD-DT.us_locals1" tvg-name="NC | Durham | ABC WTVD" group-title="ENG | Local | ABC",NC | Durham | ABC WTVD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2689
-#EXTINF:-1 tvg-id="abcwisn.us" tvg-name="USA ABC Milwaukee WISN" tvg-logo="https://static.realiptv.to/snapshots/2682.jpg" group-title="ENG | Local | ABC",USA ABC Milwaukee WISN
+#EXTINF:-1 tvg-id="WISN-DT.us_locals1" tvg-name="WI | Milwaukee | ABC WISN" group-title="ENG | Local | ABC",WI | Milwaukee | ABC WISN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2682
 #EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="USA ABC News Live" tvg-logo="https://static.realiptv.to/snapshots/38235.jpg" group-title="ENG | News",USA ABC News Live
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38235
-#EXTINF:-1 tvg-id="abcwtae.us" tvg-name="USA ABC Pittsburgh WTAE" tvg-logo="https://static.realiptv.to/snapshots/2676.jpg" group-title="ENG | Local | ABC",USA ABC Pittsburgh WTAE
+#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC WTAE (bkup3)" group-title="ENG | Local | ABC",PA | Pittsburgh | ABC WTAE (bkup3)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2676
-#EXTINF:-1 tvg-id="REALITY" tvg-name="USA Absolute Reality by WE tv" tvg-logo="https://static.realiptv.to/snapshots/339685.jpg" group-title="ENG | Entertainment",USA Absolute Reality by WE tv
+#EXTINF:-1 tvg-id="plex.tv.All.Reality.We.TV.plex" tvg-name="Absolute Reality by WE tv" group-title="ENG | Entertainment",Absolute Reality by WE tv
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339685
 #EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA ACC Network" tvg-logo="https://static.realiptv.to/snapshots/5287.jpg" group-title="ENG | Sports (National)",USA ACC Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/5287
-#EXTINF:-1 tvg-id="accuweather.us" tvg-name="USA AccuWeather" tvg-logo="https://static.realiptv.to/snapshots/76440.jpg" group-title="ENG | Entertainment",USA AccuWeather
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather" group-title="ENG | Entertainment",AccuWeather
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/76440
-#EXTINF:-1 tvg-id="adultswimwest.us" tvg-name="USA Adult Swim West" tvg-logo="https://static.realiptv.to/snapshots/52529.jpg" group-title="ENG | Entertainment",USA Adult Swim West
+#EXTINF:-1 tvg-id="adultswimwest.us" tvg-name="Adult Swim (West)" group-title="ENG | Entertainment",Adult Swim (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/52529
-#EXTINF:-1 tvg-name="USA Afro" tvg-logo="https://static.realiptv.to/snapshots/573315.jpg" group-title="ENG | Entertainment",USA Afro
+#EXTINF:-1 tvg-id="afro.us" tvg-name="Afro" group-title="ENG | Entertainment",Afro
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/573315
-#EXTINF:-1 tvg-name="USA AFV Family (PC)" tvg-logo="https://static.realiptv.to/snapshots/660927.jpg" group-title="ENG | Entertainment",USA AFV Family (PC)
+#EXTINF:-1 tvg-id="plex.tv.America’s.Funniest.Home.Videos.plex " tvg-name="AFV Family (PC)" group-title="ENG | Entertainment",AFV Family (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660927
 #EXTINF:-1 tvg-id="altitudesport.us" tvg-name="USA Altitude Sports" tvg-logo="https://static.realiptv.to/snapshots/332892.jpg" group-title="ENG | Sports (National)",USA Altitude Sports
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/332892
@@ -4307,35 +4307,35 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/332892
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/552925
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East (SD)" tvg-logo="https://static.realiptv.to/snapshots/21554.jpg" group-title="ENG | Local | LOW",USA AMC East (SD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21554
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3843.jpg" group-title="ENG | Entertainment",USA AMC East (SHD)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) SHD" group-title="ENG | Entertainment",AMC (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3843
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC East LHD" tvg-logo="https://static.realiptv.to/snapshots/3702.jpg" group-title="ENG | Entertainment",USA AMC East LHD
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) LHD" group-title="ENG | Entertainment",AMC (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3702
-#EXTINF:-1 tvg-id="AMCPRES" tvg-name="USA AMC Presents" tvg-logo="https://static.realiptv.to/snapshots/339688.jpg" group-title="ENG | Entertainment",USA AMC Presents
+#EXTINF:-1 tvg-name="AMC Presents" group-title="ENG | Entertainment",AMC Presents EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339688
 #EXTINF:-1 tvg-name="AMC Thrillers" group-title="ENG | Movies",AMC Thrillers EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/606994
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC UHD" tvg-logo="https://static.realiptv.to/snapshots/3608.jpg" group-title="ENG | Entertainment",USA AMC UHD
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) UHD" group-title="ENG | Entertainment",AMC (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3608
-#EXTINF:-1 tvg-id="I254.59337.zap2it.com" tvg-name="USA AMC West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/643834.jpg" group-title="ENG | Entertainment",USA AMC West (SHD)
+#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (West) SHD" group-title="ENG | Entertainment",AMC (West) SHD EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/643834
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA AMC+" tvg-logo="https://static.realiptv.to/snapshots/339687.jpg" group-title="ENG | Entertainment",USA AMC+
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" group-title="ENG | Entertainment",AMC+
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339687
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="American Heroes" group-title="ENG | Entertainment",American Heroes
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes" group-title="ENG | Entertainment",American Heroes
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2663
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA Animal Planet East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2662.jpg" group-title="ENG | Entertainment",USA Animal Planet East (SHD)
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East) SHD" group-title="ENG | Entertainment",Animal Planet (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2662
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA Animal Planet East LHD" tvg-logo="https://static.realiptv.to/snapshots/3703.jpg" group-title="ENG | Entertainment",USA Animal Planet East LHD
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East) LHD" group-title="ENG | Entertainment",Animal Planet (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3703
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA Animal Planet East UHD" tvg-logo="https://static.realiptv.to/snapshots/3609.jpg" group-title="ENG | Entertainment",USA Animal Planet East UHD
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East) UHD" group-title="ENG | Entertainment",Animal Planet (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3609
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA Animal Planet SD" tvg-logo="https://static.realiptv.to/snapshots/21562.jpg" group-title="ENG | Local | LOW",USA Animal Planet SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21562
-#EXTINF:-1 tvg-id="e440f0b7-1941-4fea-9777-6f243edfffc7" tvg-name="USA Animal Planet West" tvg-logo="https://static.realiptv.to/snapshots/2661.jpg" group-title="ENG | Entertainment",USA Animal Planet West
+#EXTINF:-1 tvg-name="Animal Planet (West)" group-title="ENG | Entertainment",Animal Planet (West) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2661
-#EXTINF:-1 tvg-id="antennatv.us" tvg-name="USA Antenna TV (WDAF) Kansas City" group-title="ENG | Entertainment",USA Antenna TV (WDAF) Kansas City
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (WDAF)" group-title="ENG | Entertainment",Antenna TV (WDAF)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/544767
-#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="USA Aspire" tvg-logo="https://static.realiptv.to/snapshots/21630.jpg" group-title="ENG | Entertainment",USA Aspire
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" group-title="ENG | Entertainment",Aspire
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21630
 #EXTINF:-1 tvg-id="aspiretv.us" tvg-name="USA Aspire SD" tvg-logo="https://static.realiptv.to/snapshots/401213.jpg" group-title="ENG | Local | LOW",USA Aspire SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401213
@@ -4343,9 +4343,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401213
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/149311
 #EXTINF:-1 tvg-id="sportsnetpittsburgh.us" tvg-name="USA AT&T SportsNet Pittsburgh SD" tvg-logo="https://static.realiptv.to/snapshots/401164.jpg" group-title="ENG | Local | LOW",USA AT&T SportsNet Pittsburgh SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401164
-#EXTINF:-1 tvg-id="awe.us" tvg-name="USA AWE" tvg-logo="https://static.realiptv.to/snapshots/40582.jpg" group-title="ENG | Entertainment",USA AWE
+#EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-name="AWE" group-title="ENG | Entertainment",AWE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40582
-#EXTINF:-1 tvg-id="axstv.us" tvg-name="USA AXS TV" tvg-logo="https://static.realiptv.to/snapshots/42309.jpg" group-title="ENG | Entertainment",USA AXS TV
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" group-title="Music",AXS TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42309
 #EXTINF:-1 tvg-name="USA AZ Family Sports Network" tvg-logo="https://static.realiptv.to/snapshots/663143.jpg" group-title="ENG | Sports (National)",USA AZ Family Sports Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663143
@@ -7363,7 +7363,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2377
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3776
 #EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA YES Network UHD" tvg-logo="https://static.realiptv.to/snapshots/3695.jpg" group-title="ENG | Sports (National)",USA YES Network UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3695
-#EXTINF:-1 tvg-id="abcktvx.us" tvg-name="UT | Salt Lake City | ABC KTVX" tvg-logo="https://static.realiptv.to/snapshots/2672.jpg" group-title="ENG | Local | ABC",UT | Salt Lake City | ABC KTVX
+#EXTINF:-1 tvg-id="KTVX-DT.us_locals1" tvg-name="UT | SLC | ABC KTVX" group-title="ENG | Local | ABC",UT | SLC | ABC KTVX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2672
 #EXTINF:-1 tvg-id="cbs2kutv.us" tvg-name="UT | Salt Lake City | CBS KUTV" tvg-logo="https://static.realiptv.to/snapshots/89862.jpg" group-title="ENG | Local | CBS",UT | Salt Lake City | CBS KUTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89862
@@ -7377,7 +7377,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470290
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89864
 #EXTINF:-1 tvg-id="nbc29wvir.us" tvg-name="VA | Charlottesville | NBC WVIR" tvg-logo="https://static.realiptv.to/snapshots/89866.jpg" group-title="ENG | Local | NBC",VA | Charlottesville | NBC WVIR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89866
-#EXTINF:-1 tvg-id="d1da36d5-6659-4687-bbc8-9031254abc77" tvg-name="VA | HAMPTON ROADS | ABC 13 WVEC " tvg-logo="https://static.realiptv.to/snapshots/38323.jpg" group-title="ENG | Local | ABC",VA | HAMPTON ROADS | ABC 13 WVEC
+#EXTINF:-1 tvg-id="WVEC-DT.us_locals1" tvg-name="VA | Hampton Roads | ABC WVEC " group-title="ENG | Local | ABC",VA | Hampton Roads | ABC WVEC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38323
 #EXTINF:-1 tvg-name="VA | HAMPTON ROADS | CBS 3 WTKR" tvg-logo="https://static.realiptv.to/snapshots/600284.jpg" group-title="ENG | Local | CBS",VA | HAMPTON ROADS | CBS 3 WTKR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600284
@@ -7391,13 +7391,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/635432
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/635410
 #EXTINF:-1 tvg-id="WSVW" tvg-name="VA | Harrisonburg | NBC WSVW" tvg-logo="https://static.realiptv.to/snapshots/434065.jpg" group-title="ENG | Local | NBC",VA | Harrisonburg | NBC WSVW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434065
-#EXTINF:-1 tvg-id="abcwjla.us" tvg-name="VA | Luray | ABC 7 WJLA" tvg-logo="https://static.realiptv.to/snapshots/637857.jpg" group-title="ENG | Local | ABC",VA | Luray | ABC 7 WJLA
+#EXTINF:-1 tvg-id="WJLA-DT.us_locals1" tvg-name="VA | Luray | ABC WJLA" group-title="ENG | Local | ABC",VA | Luray | ABC WJLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/637857
 #EXTINF:-1 tvg-name="VA | Luray | CBS 9 WUSA" tvg-logo="https://static.realiptv.to/snapshots/637852.jpg" group-title="ENG | Local | CBS",VA | Luray | CBS 9 WUSA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/637852
 #EXTINF:-1 tvg-name="VA | Luray | FOX 5 WTTG" tvg-logo="https://static.realiptv.to/snapshots/637864.jpg" group-title="ENG | Local | FOX",VA | Luray | FOX 5 WTTG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/637864
-#EXTINF:-1 tvg-name="VA | Lynchburg | ABC 13 WSET" tvg-logo="https://static.realiptv.to/snapshots/638581.jpg" group-title="ENG | Local | ABC",VA | Lynchburg | ABC 13 WSET
+#EXTINF:-1 tvg-id="WSET-DT.us_locals1" tvg-name="VA | Lynchburg | ABC WSET" group-title="ENG | Local | ABC",VA | Lynchburg | ABC WSET
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638581
 #EXTINF:-1 tvg-name="VA | Lynchburg | CBS 7 " tvg-logo="https://static.realiptv.to/snapshots/638580.jpg" group-title="ENG | Local | CBS",VA | Lynchburg | CBS 7
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638580
@@ -7407,7 +7407,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638583
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638582
 #EXTINF:-1 tvg-id="nbc10wavy.us" tvg-name="VA | Portsmouth | NBC WAVY" tvg-logo="https://static.realiptv.to/snapshots/89868.jpg" group-title="ENG | Local | NBC",VA | Portsmouth | NBC WAVY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89868
-#EXTINF:-1 tvg-id="4882d79b-3c92-4ab4-909d-94220f3a60c3" tvg-name="VA | Richmond | ABC 8 WRIC" tvg-logo="https://static.realiptv.to/snapshots/38247.jpg" group-title="ENG | Local | ABC",VA | Richmond | ABC 8 WRIC
+#EXTINF:-1 tvg-id="WRIC-DT.us_locals1" tvg-name="VA | Richmond | ABC WRIC" group-title="ENG | Local | ABC",VA | Richmond | ABC WRIC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38247
 #EXTINF:-1 tvg-name="VA | RICHMOND | CBS 6 WTVR" tvg-logo="https://static.realiptv.to/snapshots/600251.jpg" group-title="ENG | Local | CBS",VA | RICHMOND | CBS 6 WTVR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600251
@@ -7463,7 +7463,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/714404
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/714405
 #EXTINF:-1 tvg-name="VOLLEY BALL 16:" tvg-logo="https://static.realiptv.to/snapshots/714406.jpg" group-title="SPORTS - VOLLEY BALL",VOLLEY BALL 16:
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/714406
-#EXTINF:-1 tvg-name="VT | Burlington | ABC 22 WVNY" tvg-logo="https://static.realiptv.to/snapshots/629926.jpg" group-title="ENG | Local | ABC",VT | Burlington | ABC 22 WVNY
+#EXTINF:-1 tvg-id="WVNY-DT.us_locals1" tvg-name="VT | Burlington | ABC WVNY" group-title="ENG | Local | ABC",VT | Burlington | ABC WVNY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629926
 #EXTINF:-1 tvg-id="cbs3wcax.us" tvg-name="VT | Burlington | CBS WCAX" tvg-logo="https://static.realiptv.to/snapshots/89875.jpg" group-title="ENG | Local | CBS",VT | Burlington | CBS WCAX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89875
@@ -7473,11 +7473,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629928
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89876
 #EXTINF:-1 tvg-name="VT | Burlington | NBC 5 WPTZ" tvg-logo="https://static.realiptv.to/snapshots/629927.jpg" group-title="ENG | Local | NBC",VT | Burlington | NBC 5 WPTZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629927
-#EXTINF:-1 tvg-id="abc2katu.us" tvg-name="WA | Portland | ABC KATU" tvg-logo="https://static.realiptv.to/snapshots/2675.jpg" group-title="ENG | Local | ABC",WA | Portland | ABC KATU
+#EXTINF:-1 tvg-id="KATU-DT.us_locals1" tvg-name="WA | Portland | ABC KATU" group-title="ENG | Local | ABC",WA | Portland | ABC KATU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2675
 #EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="WA | Portland | NBC KGW" tvg-logo="https://static.realiptv.to/snapshots/2442.jpg" group-title="ENG | Local | NBC",WA | Portland | NBC KGW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2442
-#EXTINF:-1 tvg-id="abckomo.us" tvg-name="WA | Seattle | ABC 4 KOMO" tvg-logo="https://static.realiptv.to/snapshots/2668.jpg" group-title="ENG | Local | ABC",WA | Seattle | ABC 4 KOMO
+#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-name="WA | Seattle | ABC KOMO" group-title="ENG | Local | ABC",WA | Seattle | ABC KOMO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2668
 #EXTINF:-1 tvg-id="cbs7kiro.us" tvg-name="WA | Seattle | CBS  7 KIRO" tvg-logo="https://static.realiptv.to/snapshots/2621.jpg" group-title="ENG | Local | CBS",WA | Seattle | CBS  7 KIRO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2621
@@ -7493,7 +7493,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89885
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2437
 #EXTINF:-1 tvg-name="WA | Seattle | Telemundo 48 KIRO" tvg-logo="https://static.realiptv.to/snapshots/630674.jpg" group-title="ESP | Local | Telemundo",WA | Seattle | Telemundo 48 KIRO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630674
-#EXTINF:-1 tvg-name="WA | Spokane | ABC 4 KXLY" tvg-logo="https://static.realiptv.to/snapshots/638060.jpg" group-title="ENG | Local | ABC",WA | Spokane | ABC 4 KXLY
+#EXTINF:-1 tvg-id="KXLY-DT.us_locals1" tvg-name="WA | Spokane | ABC KXLY" group-title="ENG | Local | ABC",WA | Spokane | ABC KXLY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638060
 #EXTINF:-1 tvg-id="cbs2krem.us" tvg-name="WA | Spokane | CBS KREM" tvg-logo="https://static.realiptv.to/snapshots/89882.jpg" group-title="ENG | Local | CBS",WA | Spokane | CBS KREM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89882
@@ -7503,7 +7503,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89883
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89533
 #EXTINF:-1 tvg-id="KSTW-DT.us_locals1" tvg-name="WA | Tacoma | CW KSTW" group-title="ENG | Local | CW/IND/MY",WA | Tacoma | CW KSTW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89884
-#EXTINF:-1 tvg-id="0ae54701-9473-4d7f-8843-4f2b1eba4e50" tvg-name="WA | Yakima | ABC 42 KVEW" tvg-logo="https://static.realiptv.to/snapshots/512979.jpg" group-title="ENG | Local | ABC",WA | Yakima | ABC 42 KVEW
+#EXTINF:-1 tvg-id="KVEW-DT.us_locals1" tvg-name="WA | Yakima | ABC KVEW" group-title="ENG | Local | ABC",WA | Yakima | ABC KVEW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512979
 #EXTINF:-1 tvg-id="cbs29kima.us" tvg-name="WA | Yakima | CBS KIMA" tvg-logo="https://static.realiptv.to/snapshots/89887.jpg" group-title="ENG | Local | CBS",WA | Yakima | CBS KIMA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89887
@@ -7515,7 +7515,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89888
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89889
 #EXTINF:-1 tvg-name="WA | Yakima | Telemundo KFFX" tvg-logo="https://static.realiptv.to/snapshots/630678.jpg" group-title="ESP | Local | Telemundo",WA | Yakima | Telemundo KFFX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630678
-#EXTINF:-1 tvg-id="abcwjla.us" tvg-name="Washington DC | ABC 7  WJLA" tvg-logo="https://static.realiptv.to/snapshots/2665.jpg" group-title="ENG | Local | ABC",Washington DC | ABC 7  WJLA
+#EXTINF:-1 tvg-id="WJLA-DT.us_locals1" tvg-name="DC | Washington | ABC WJLA" group-title="ENG | Local | ABC",DC | Washington | ABC WJLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2665
 #EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="Washington DC | CBS WUSA" tvg-logo="https://static.realiptv.to/snapshots/559692.jpg" group-title="ENG | Local | CBS",Washington DC | CBS WUSA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/559692
@@ -7525,7 +7525,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2503
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2428
 #EXTINF:-1 tvg-name="WI |  MADISON | CBS WISC" tvg-logo="https://static.realiptv.to/snapshots/600291.jpg" group-title="ENG | Local | CBS",WI |  MADISON | CBS WISC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600291
-#EXTINF:-1 tvg-id="abcwbay.us" tvg-name="WI | Green Bay | ABC 2 WBAY " tvg-logo="https://static.realiptv.to/snapshots/38282.jpg" group-title="ENG | Local | ABC",WI | Green Bay | ABC 2 WBAY
+#EXTINF:-1 tvg-id="WBAY-DT.us_locals1" tvg-name="WI | Green Bay | ABC WBAY " group-title="ENG | Local | ABC",WI | Green Bay | ABC WBAY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38282
 #EXTINF:-1 tvg-id="cbs5wfrv.us" tvg-name="WI | Green Bay | CBS 5 WFRV" tvg-logo="https://static.realiptv.to/snapshots/89890.jpg" group-title="ENG | Local | CBS",WI | Green Bay | CBS 5 WFRV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89890
@@ -7543,7 +7543,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89892
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89893
 #EXTINF:-1 tvg-id="5f2e0a19-ef92-4e15-9921-491b403a81d3" tvg-name="WI | La Crosse | NBC WEAU" tvg-logo="https://static.realiptv.to/snapshots/89894.jpg" group-title="ENG | Local | NBC",WI | La Crosse | NBC WEAU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89894
-#EXTINF:-1 tvg-id="5d8b57f4-f05d-4d38-be94-fe17d0e51e4f" tvg-name="WI | MADISON | ABC 27 WKOW" tvg-logo="https://static.realiptv.to/snapshots/38321.jpg" group-title="ENG | Local | ABC",WI | MADISON | ABC 27 WKOW
+#EXTINF:-1 tvg-id="WKOW-DT.us_locals1" tvg-name="WI | Madison | ABC WKOW" group-title="ENG | Local | ABC",WI | Madison | ABC WKOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38321
 #EXTINF:-1 tvg-id="cbs3wisc.us" tvg-name="WI | Madison | CBS WISC" tvg-logo="https://static.realiptv.to/snapshots/89895.jpg" group-title="ENG | Local | CBS",WI | Madison | CBS WISC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89895
@@ -7561,7 +7561,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2548
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89899
 #EXTINF:-1 tvg-id="nbc4ksnb.us" tvg-name="WI | Superior | NBC KBJR" tvg-logo="https://static.realiptv.to/snapshots/89900.jpg" group-title="ENG | Local | NBC",WI | Superior | NBC KBJR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89900
-#EXTINF:-1 tvg-name="WI | Wausau | ABC 9 WAOW" tvg-logo="https://static.realiptv.to/snapshots/631787.jpg" group-title="ENG | Local | ABC",WI | Wausau | ABC 9 WAOW
+#EXTINF:-1 tvg-id="WAOW-DT.us_locals1" tvg-name="WI | Wausau | ABC WAOW" group-title="ENG | Local | ABC",WI | Wausau | ABC WAOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631787
 #EXTINF:-1 tvg-name="WI | Wausau | CBS 7 WSAW" tvg-logo="https://static.realiptv.to/snapshots/631786.jpg" group-title="ENG | Local | CBS",WI | Wausau | CBS 7 WSAW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631786
@@ -7597,7 +7597,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/679472
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89902
 #EXTINF:-1 tvg-name="WV | Charleston | PBS Kids WVPB" tvg-logo="https://static.realiptv.to/snapshots/631753.jpg" group-title="ENG | Local | PBS",WV | Charleston | PBS Kids WVPB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631753
-#EXTINF:-1 tvg-name="WV | Clarksburg | ABC WBOY" tvg-logo="https://static.realiptv.to/snapshots/631751.jpg" group-title="ENG | Local | ABC",WV | Clarksburg | ABC WBOY
+#EXTINF:-1 tvg-id="WBOY-DT.us_locals1" tvg-name="WV | Clarksburg | ABC WBOY" group-title="ENG | Local | ABC",WV | Clarksburg | ABC WBOY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631751
 #EXTINF:-1 tvg-name="WV | Clarksburg | CBS 5 WDTV" tvg-logo="https://static.realiptv.to/snapshots/631750.jpg" group-title="ENG | Local | CBS",WV | Clarksburg | CBS 5 WDTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631750
@@ -7605,7 +7605,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631750
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631752
 #EXTINF:-1 tvg-id="nbc12wboy.us" tvg-name="WV | Clarksburg | NBC 12 WBOY" tvg-logo="https://static.realiptv.to/snapshots/89904.jpg" group-title="ENG | Local | NBC",WV | Clarksburg | NBC 12 WBOY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89904
-#EXTINF:-1 tvg-name="WV | Huntington | ABC WCHS" tvg-logo="https://static.realiptv.to/snapshots/637152.jpg" group-title="ENG | Local | ABC",WV | Huntington | ABC WCHS
+#EXTINF:-1 tvg-id="WCHS-DT.us_locals1" tvg-name="WV | Huntington | ABC WCHS" group-title="ENG | Local | ABC",WV | Huntington | ABC WCHS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/637152
 #EXTINF:-1 tvg-id="7d4172d0-b53b-47fe-abcc-649948d3c744" tvg-name="WV | Huntington | CBS 13 WOWK" tvg-logo="https://static.realiptv.to/snapshots/89905.jpg" group-title="ENG | Local | CBS",WV | Huntington | CBS 13 WOWK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89905
@@ -7619,7 +7619,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89906
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89907
 #EXTINF:-1 tvg-id="WTOVDT" tvg-name="WV | Wheeling | NBC WTOV" tvg-logo="https://static.realiptv.to/snapshots/434066.jpg" group-title="ENG | Local | NBC",WV | Wheeling | NBC WTOV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434066
-#EXTINF:-1 tvg-name="WY | Casper | ABC 2 KTWO" tvg-logo="https://static.realiptv.to/snapshots/631824.jpg" group-title="ENG | Local | ABC",WY | Casper | ABC 2 KTWO
+#EXTINF:-1 tvg-id="KTWO-DT.us_locals1" tvg-name="WY | Casper | ABC KTWO" group-title="ENG | Local | ABC",WY | Casper | ABC KTWO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631824
 #EXTINF:-1 tvg-name="WY | Casper | CBS 14 KGWC" tvg-logo="https://static.realiptv.to/snapshots/631823.jpg" group-title="ENG | Local | CBS",WY | Casper | CBS 14 KGWC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631823
@@ -7691,7 +7691,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89082
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89083
 #EXTINF:-1 tvg-id="SAC.nba" tvg-name="[NBA] SACRAMENTO KINGS" tvg-logo="https://static.realiptv.to/snapshots/89084.jpg" group-title="SPORTS - NBA",[NBA] SACRAMENTO KINGS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89084
-#EXTINF:-1 tvg-id="SA.nba" tvg-name="[NBA] SAN ANTONIO SPURS" tvg-logo="https://static.realiptv.to/snapshots/89085.jpg" group-title="SPORTS - NBA",[NBA] SAN ANTONIO SPURS
+#EXTINF:-1 tvg-id="SA.nba" tvg-name="[NBA] SAN ANTONIO SPURS" group-title="SPORTS - NBA",[NBA] SAN ANTONIO SPURS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89085
 #EXTINF:-1 tvg-id="TOR.nba" tvg-name="[NBA] TORONTO RAPTORS" tvg-logo="https://static.realiptv.to/snapshots/89086.jpg" group-title="SPORTS - NBA",[NBA] TORONTO RAPTORS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89086
@@ -7845,7 +7845,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/712014
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/712015
 #EXTINF:-1 tvg-name="USA WIRED2FISH TV" tvg-logo="https://static.realiptv.to/snapshots/1265428.jpg" group-title="ENG | Entertainment",USA WIRED2FISH TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1265428
-#EXTINF:-1 tvg-name=" WI | La Crosse | ABC 19 WXOW" tvg-logo="https://static.realiptv.to/snapshots/1266039.jpg" group-title="ENG | Local | ABC",WI | La Crosse | ABC 19 WXOW
+#EXTINF:-1 tvg-id="WXOW-DT.us_locals1" tvg-name=" WI | La Crosse | ABC WXOW" group-title="ENG | Local | ABC",WI | La Crosse | ABC WXOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1266039
 #EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="USA NBC Sports Philadelphia Plus" tvg-logo="https://static.realiptv.to/snapshots/50965.jpg" group-title="ENG | Sports (National)",USA NBC Sports Philadelphia Plus
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50965
@@ -8691,7 +8691,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92835
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92660
 #EXTINF:-1 tvg-id="tva.ca" tvg-name="CA-FR TVA MONTREAL" tvg-logo="https://static.realiptv.to/snapshots/92659.jpg" group-title="CANADA-FR",CA-FR TVA MONTREAL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92659
-#EXTINF:-1 tvg-name="MS | Jackson | ABC 16 WAPT" tvg-logo="https://static.realiptv.to/snapshots/565748.jpg" group-title="ENG | Local | ABC",MS | Jackson | ABC 16 WAPT
+#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" tvg-name="MS | Jackson | ABC WAPT" group-title="ENG | Local | ABC",MS | Jackson | ABC WAPT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565748
 #EXTINF:-1 tvg-id="WKBD" tvg-name="US CBS 62 (WWJ) Detroit" tvg-logo="https://static.realiptv.to/snapshots/88065.jpg" group-title="CANADA",US CBS 62 (WWJ) Detroit
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88065
