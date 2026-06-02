@@ -125,8 +125,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89423
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89425
 #EXTINF:-1 tvg-id="CGTN.ca" tvg-name="CGTN Canada" group-title="ENG | Entertainment",CGTN Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93114
-#EXTINF:-1 tvg-id="CNBC.ca2" tvg-name="CNBC Canada (R)" group-title="ENG | Entertainment",CNBC Canada (R)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3083
 #EXTINF:-1 tvg-id="PBSWMEM.us" tvg-name="ME | Presque Isle | PBS WMEM" group-title="ENG | Kids",ME | Presque Isle | PBS WMEM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88032
 #EXTINF:-1 tvg-id="PBSWNED.us" tvg-name="NY | Buffalo | PBS WNED" group-title="ENG | Kids",NY | Buffalo | PBS WNED
@@ -205,7 +203,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2533
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/696419
 #EXTINF:-1 tvg-id="KMIR-DT.us_locals1" tvg-name="CA | Palm Springs | NBC KMIR" group-title="ENG | Local | NBC",CA | Palm Springs | NBC KMIR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89444
-#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",Etc. | Telemundo KUAN" group-title="ESP | Local | Telemundo",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89446
 #EXTINF:-1 tvg-id="KIXE-DT.us_locals1" tvg-name="CA | Redding | PBS KIXE" group-title="ENG | Kids",CA | Redding | PBS KIXE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470376
@@ -1343,7 +1341,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597114
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/64027
 #EXTINF:-1 tvg-id="WTEN-DT.us_locals1" tvg-name="NY | Albany | ABC WTEN SD" group-title="ENG | Local | ABC",NY | Albany | ABC WTEN SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21541
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (WTEN)" group-title="ENG | Entertainment",Antenna TV (WTEN)
+#EXTINF:-1 tvg-id="ABCWTEN.us" tvg-name="NY | ALBANY | ABC WTEN HD" group-title="ENG | Local | ABC",NY | ALBANY | ABC WTEN HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647835
 #EXTINF:-1 tvg-id="FOXWXXA.us" tvg-name="NY | Albany | FOX WXXA" group-title="ENG | Local | FOX",NY | Albany | FOX WXXA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/63931
@@ -2053,17 +2051,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/332892
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/552925
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) SD" group-title="ENG | Entertainment",AMC (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21554
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) SHD" group-title="ENG | Entertainment",AMC (East) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3843
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) LHD" group-title="ENG | Entertainment",AMC (East) LHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3702
 #EXTINF:-1 tvg-name="AMC Presents" group-title="UNKNOWN",AMC Presents EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339688
 #EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMC Thrillers" group-title="ENG | Movies",AMC Thrillers
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/606994
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) UHD" group-title="ENG | Entertainment",AMC (East) UHD
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East) FHD" group-title="ENG | Entertainment",AMC (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3608
-#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (West) SHD" group-title="ENG | Entertainment",AMC (West) SHD
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC (East) FHD" group-title="ENG | Entertainment",AMC (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/643834
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" group-title="ENG | Entertainment",AMC+
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/339687
@@ -2299,14 +2293,10 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2506
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663292
 #EXTINF:-1 tvg-name="USA FanDuel Sports Wisconsin+ (FU)" tvg-logo="https://static.realiptv.to/snapshots/663151.jpg" group-title="ENG | Sports | FanDuel",USA FanDuel Sports Wisconsin+ (FU)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663151
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America SHD" group-title="ENG | Entertainment",BBC America SHD
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America FHD" group-title="ENG | Entertainment",BBC America FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2658
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America LHD" group-title="ENG | Entertainment",BBC America LHD
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America FHD (bkup)" group-title="ENG | Entertainment",BBC America FHD (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3704
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East) SD" group-title="ENG | Entertainment",BBC America (East) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401216
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America UHD" group-title="ENG | Entertainment",BBC America UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3610
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News" group-title="ENG | News",BBC World News
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3611
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News" group-title="ENG | News",BBC World News
@@ -2347,17 +2337,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434356
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/573472
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) SD" group-title="ENG | Entertainment",BET (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21563
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) SHD" group-title="ENG | Entertainment",BET (East) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647385
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) UHD" group-title="ENG | Entertainment",BET (East) UHD
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East) FHD" group-title="ENG | Entertainment",BET (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21895
 #EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" group-title="ENG | Music",BET Gospel
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42491
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East) SD" group-title="ENG | Entertainment",BET Her (East) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401218
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East) UHD" group-title="ENG | Entertainment",BET Her (East) UHD
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her (East) HD" group-title="ENG | Entertainment",BET Her (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3946
-#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her (West)" group-title="ENG | Entertainment",BET Her (West)
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her (West) HD" group-title="ENG | Entertainment",BET Her (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631835
 #EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" group-title="ENG | Music",BET Jams
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3947
@@ -2389,22 +2375,18 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3708
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/101444
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang UHD" group-title="ENG | Kids",Boomerang UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3616
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="BOUNCE TV" group-title="ENG | Entertainment",BOUNCE TV
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" group-title="ENG | Entertainment",Bounce TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21896
-#EXTINF:-1 tvg-id="plex.tv.Bounce.XL.plex" tvg-name="Bounce XL" group-title="ENG | Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" group-title="ENG | Entertainment",Bounce XL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/612207
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) SD" group-title="ENG | Entertainment",Bravo (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21564
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) SHD" group-title="ENG | Entertainment",Bravo (East) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2655
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) LHD" group-title="ENG | Entertainment",Bravo (East) LHD
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) FHD" group-title="ENG | Entertainment",Bravo (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3709
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) UHD" group-title="ENG | Entertainment",Bravo (East) UHD
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East) HD" group-title="ENG | Entertainment",Bravo (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3617
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (West)" group-title="ENG | Entertainment",Bravo (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3823
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" group-title="ENG | Entertainment",Buzzr
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75342
 #EXTINF:-1 tvg-name="USA BYU TV" tvg-logo="https://static.realiptv.to/snapshots/734852.jpg" group-title="Religion (All Lang)",USA BYU TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/734852
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" group-title="ENG | News",C-SPAN
@@ -2419,13 +2401,13 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75345
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401219
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network (East) SD" group-title="ENG | Kids",Cartoon Network (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21587
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East (SHD)" group-title="ENG | Kids", Cartoon Network East (SHD)
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East (SHD)" group-title="ENG | Kids",Cartoon Network East (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2654
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East LHD" group-title="ENG | Kids",Cartoon Network East LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3711
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network UHD" group-title="ENG | Kids",Cartoon Network UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3618
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network (West) " group-title="ENG | Kids",Cartoon Network (West) 
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network (West) " group-title="ENG | Kids",Cartoon Network (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2653
 #EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy" group-title="ENG | Entertainment",Catchy Comedy
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2603
@@ -2465,14 +2447,10 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112187
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112189
 #EXTINF:-1 tvg-name="USA CGTN Español" tvg-logo="https://static.realiptv.to/snapshots/90442.jpg" group-title="ESP | Entretenimiento",USA CGTN Español
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/90442
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (WCWN) SHD" group-title="ENG | Entertainment",Charge! (WCWN) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/553125
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" group-title="ENG | Entertainment",Cheddar
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar FHD" group-title="ENG | News",Cheddar FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2616
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar" group-title="ENG | Entertainment",Cheddar
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar HD" group-title="ENG | News",Cheddar HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2615
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="Cheddar LHD" group-title="ENG | Entertainment",Cheddar LHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3855
 #EXTINF:-1 tvg-id="ChicagoSportsNetwork.us" tvg-name="Chicago Sports Network" group-title="ENG | Sports",Chicago Sports Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/697197
 #EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics UHD" group-title="ENG | Movies",Cinemax Classics UHD
@@ -2503,31 +2481,27 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660929
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470624
 #EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV (SHD)" group-title="ENG | Entertainment",Cleo TV SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/573316
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East) SHD" group-title="ENG | Entertainment",CMT (East) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647783
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East) SD" group-title="ENG | Entertainment",CMT (East) SD
+#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT (West) SD" group-title="ENG | Entertainment",CMT (West) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97451
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East) UHD" group-title="ENG | Entertainment",CMT (East) UHD
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East) FHD" group-title="ENG | Entertainment",CMT (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3623
-#EXTINF:-1 tvg-name="CMT (West)" group-title="ENG | Entertainment",CMT (West) EPG
+#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT (West)" group-title="ENG | Entertainment",CMT (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631836
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC SD" group-title="ENG | Entertainment",CNBC SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21552
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC (SHD)" tvg-logo="https://static.realiptv.to/snapshots/2610.jpg" group-title="ENG | Local | NBC",USA CNBC (SHD)
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC (SHD)" group-title="ENG | Local | NBC",CNBC (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2610
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC LHD" group-title="ENG | Entertainment",CNBC LHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3714
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC UHD" group-title="ENG | Entertainment",CNBC UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3624
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World" group-title="ENG | Entertainment",CNBC World
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3716
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="USA CNBC World" tvg-logo="https://static.realiptv.to/snapshots/2609.jpg" group-title="ENG | Local | NBC",USA CNBC World
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC World (bkup)" group-title="ENG | Local | NBC",CNBC World (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2609
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN SD" group-title="ENG | News",CNN SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21549
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN SHD" group-title="ENG | News",CNN SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2608
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="USA CNN Espanol" tvg-logo="https://static.realiptv.to/snapshots/3857.jpg" group-title="ESP | Entretenimiento",USA CNN Espanol
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="USA CNN Espanol" tvg-logo="https://static.realiptv.to/snapshots/3857.jpg" group-title="ESP | Noticias",USA CNN Espanol
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3857
 #EXTINF:-1 tvg-id="CNNinternational.us" tvg-name="CNN International" group-title="ENG | News",CNN International
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88946
@@ -2539,7 +2513,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3625
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21566
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East) SHD" group-title="ENG | Entertainment",Comedy Central (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648957
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East) UHD" group-title="ENG | Entertainment",Comedy Central (East) UHD
+#EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central (West) UHD" group-title="ENG | Entertainment",Comedy Central (West) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3626
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central (West)" group-title="ENG | Entertainment",Comedy Central (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89211
@@ -2555,18 +2529,16 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3850
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2605
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel SD" group-title="ENG | Entertainment",Cooking Channel SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97452
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" group-title="ENG | Entertainment",Court TV
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" group-title="ENG | News",Court TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74680
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV" group-title="ENG | Entertainment",Cozi TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2604
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV SHD" group-title="ENG | Entertainment",COZI TV SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3851
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create (East) WMHT" group-title="ENG | Entertainment",Create (East) WMHT
+#EXTINF:-1 tvg-id="PBSWMHT.us" tvg-name="NY | Albany | PBS WMHT" group-title="ENG | Kids",NY | Albany | PBS WMHT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648971
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation SHD" group-title="ENG | Entertainment",Crime & Investigation SHD
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation" group-title="ENG | Entertainment",Crime & Investigation
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/20211
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation (East) SD" group-title="ENG | Entertainment",Crime & Investigation (East) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401167
 #EXTINF:-1 tvg-id="WKCF-DT.us_locals1" tvg-name="FL | Daytona Beach | CW WKCF" group-title="ENG | Local | CW/IND/MY",FL | Daytona Beach | CW WKCF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333488
 #EXTINF:-1 tvg-id="KQCW-DT.us_locals1" tvg-name="OK | Tulsa | CW KQCW" group-title="ENG | Local | CW/IND/MY",OK | Tulsa | CW KQCW
@@ -2593,7 +2565,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34439
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34427
 #EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO (bkup)" group-title="ENG | Local | CW/IND/MY",OH | Columbus | CW WWHO (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34438
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL" group-title="ENG | Entertainment",DABL
+#EXTINF:-1 tvg-id="DablKMYS.us" tvg-name="DABL" group-title="ENG | Entertainment",DABL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333484
 #EXTINF:-1 tvg-id="daystar.us" tvg-name="USA Daystar (SHD)" tvg-logo="https://static.realiptv.to/snapshots/588480.jpg" group-title="Religion (All Lang)",USA Daystar (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/588480
@@ -2601,8 +2573,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/588480
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2602
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America LHD" group-title="ENG | Entertainment",Destination America LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3717
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America UHD" group-title="ENG | Entertainment",Destination America UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3628
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East) SD" group-title="ENG | Entertainment",Discovery (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21555
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East) SHD" group-title="ENG | Entertainment",Discovery (East) SHD
@@ -2617,20 +2587,14 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2599
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2598
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family SD" group-title="ENG | Entertainment",Discovery Family SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97454
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" group-title="ENG | Entertainment",Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life FHD" group-title="ENG | Entertainment",Discovery Life FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2597
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life SD" group-title="ENG | Entertainment",Discovery Life SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97455
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life LHD" group-title="ENG | Entertainment",Discovery Life LHD
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life HD" group-title="ENG | Entertainment",Discovery Life HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3858
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science SHD" group-title="ENG | Entertainment",Discovery Science SHD
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science HD" group-title="ENG | Entertainment",Discovery Science HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2595
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science LHD" group-title="ENG | Entertainment",Discovery Science LHD
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science FHD" group-title="ENG | Entertainment",Discovery Science FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3757
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science SD" group-title="ENG | Entertainment",Discovery Science SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21604
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science UHD" group-title="ENG | Entertainment",Discovery Science UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3679
 #EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)" group-title="ENG | Entertainment",Discovery (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3826
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel (East) SHD" group-title="ENG | Kids",Disney Channel (East) SHD
@@ -2677,23 +2641,19 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2585
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97456
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network UHD" group-title="ENG | Entertainment",Magnolia Network UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3634
-#EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="Dog TV" group-title="ENG | Entertainment",Dog TV
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/76439
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" group-title="ENG | Entertainment",Dove Channel
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/447194
 #EXTINF:-1 tvg-name="DRAMA TV (PC)" group-title="UNKNOWN",DRAMA TV (PC) EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660918
 #EXTINF:-1 tvg-id="AlienNationByDUST.us" tvg-name="Alien Nation by Dust (PC)" group-title="ENG | Entertainment",Alien Nation by Dust (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660931
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East) LHD" group-title="ENG | Entertainment",E! (East) LHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3723
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East) UHD" group-title="ENG | Entertainment",E! (East) UHD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment (East) UHD" group-title="ENG | Entertainment",E! Entertainment (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3635
-#EXTINF:-1 tvg-id="L" tvg-name="E! (East) SHD" group-title="ENG | Entertainment",E! (East) SHD EPG
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment (East) SHD" group-title="ENG | Entertainment",E! Entertainment (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2584
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment (East) SD" group-title="ENG | Entertainment",E! Entertainment (East) SD
+#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment (West) SD" group-title="ENG | Entertainment",E! Entertainment (West) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21569
-#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! (West)" group-title="ENG | Entertainment",E! (West)
+#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment (West)" group-title="ENG | Entertainment",E! Entertainment (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3830
 #EXTINF:-1 tvg-id="EarthX.us2" tvg-name="EarthX SHD" group-title="ENG | Entertainment",EarthX SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647788
@@ -2749,21 +2709,17 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629724
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3791
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="FanDuel TV" group-title="ENG | Sports",FanDuel TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629723
-#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" group-title="ENG | Entertainment",FETV
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512977
 #EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network" group-title="ENG | Sports",Fight Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81589
 #EXTINF:-1 tvg-id="Fight.Network.ca2" tvg-name="Fight Network SD Canada" group-title="ENG | Sports",Fight Network SD Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97533
 #EXTINF:-1 tvg-name="FNTSY Sports Network" group-title="ENG | Sports",FNTSY Sports Network EPG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/383474
-#EXTINF:-1 tvg-name="Food Network (SHD)" group-title="ENG | Entertainment",Food Network (SHD) EPG
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2575
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) SD" group-title="ENG | Entertainment",Food Network (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21568
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) LHD" group-title="ENG | Entertainment",Food Network (East) LHD
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) HD" group-title="ENG | Entertainment",Food Network (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3729
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) UHD" group-title="ENG | Entertainment",Food Network (East) UHD
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East) FHD" group-title="ENG | Entertainment",Food Network (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3644
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)" group-title="ENG | Entertainment",Food Network (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3831
@@ -2827,9 +2783,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638797
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/434228
 #EXTINF:-1 tvg-name="USA France 24 en Español" tvg-logo="https://static.realiptv.to/snapshots/90456.jpg" group-title="ESP | Entretenimiento",USA France 24 en Español
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/90456
-#EXTINF:-1 tvg-name="Freeform (SHD)" group-title="ENG | Entertainment",Freeform (SHD) EPG
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform (West) SHD" group-title="ENG | Entertainment",Freeform (West) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2502
-#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (East) SD" group-title="ENG | Entertainment",Freeform (East) SD
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform (West) SD" group-title="ENG | Entertainment",Freeform (West) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21608
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform (East) LHD" group-title="ENG | Entertainment",Freeform (East) LHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3734
@@ -2841,12 +2797,10 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3849
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50908
 #EXTINF:-1 tvg-id="FuelTV.us" tvg-name="Fuel TV" group-title="ENG | Sports",Fuel TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663849
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" group-title="ENG | Entertainment",Fuse
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" group-title="ENG | Entertainment",Fuse
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2499
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse SHD" group-title="ENG | Entertainment",Fuse SHD
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse SHD" group-title="ENG | Entertainment",Fuse SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30920
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse TV SD" group-title="ENG | Entertainment",Fuse TV SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401168
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) SD" group-title="ENG | Entertainment",FX (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21560
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) SHD" group-title="ENG | Entertainment",FX (East) SHD
@@ -2855,37 +2809,31 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2498
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3735
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East) UHD" group-title="ENG | Entertainment",FX (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3642
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FX (West) " group-title="ENG | Entertainment",FX (West)
+#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX (West) " group-title="ENG | Entertainment",FX (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3832
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies SHD" group-title="ENG | Movies",FX Movies SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3736
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movies UHD" group-title="ENG | Movies",FX Movies UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2497
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) SD" group-title="ENG | Entertainment",FXX (East) SD
+#EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX (West) SD" group-title="ENG | Entertainment",FXX (West) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21594
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) SHD" group-title="ENG | Entertainment",FXX (East) SHD
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) HD" group-title="ENG | Entertainment",FXX (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2496
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) LHD" group-title="ENG | Entertainment",FXX (East) LHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3737
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) UHD" group-title="ENG | Entertainment",FXX (East) UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3649
 #EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX (West)" group-title="ENG | Entertainment",FXX (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3833
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East) SD" group-title="ENG | Entertainment",FYI (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97459
-#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East) SHD" group-title="ENG | Entertainment",FYI (East) SHD
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East) FHD" group-title="ENG | Entertainment",FYI (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30924
-#EXTINF:-1 tvg-id="FYIPacific.us" tvg-name="FYI (West) SHD" group-title="ENG | Entertainment",FYI (West) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647422
 #EXTINF:-1 tvg-id="galavision.us" tvg-name="USA Galavision East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/4464.jpg" group-title="ESP | Local | Univision",USA Galavision East (SHD)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4464
 #EXTINF:-1 tvg-id="galavisionpacific.us" tvg-name="USA Galavision West" tvg-logo="https://static.realiptv.to/snapshots/4465.jpg" group-title="ESP | Local | Univision",USA Galavision West
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4465
 #EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" group-title="ENG | Entertainment",Game Show Central
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/739777
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Great TV" group-title="ENG | Entertainment",Great TV
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great TV (East)" group-title="ENG | Entertainment",Great TV (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30928
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Great TV (East) SD" group-title="ENG | Entertainment",Great TV (East) SD
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great TV (East) (bkup)" group-title="ENG | Entertainment",Great TV (East) (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97460
 #EXTINF:-1 tvg-id="GINX" tvg-name="USA Ginx TV" tvg-logo="https://static.realiptv.to/snapshots/88819.jpg" group-title="UNKNOWN",USA Ginx TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88819
@@ -2915,9 +2863,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401169
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40583
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) SD" group-title="ENG | Entertainment",GSN (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21571
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) SHD" group-title="ENG | Entertainment",GSN (East) SHD
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) HD" group-title="ENG | Entertainment",GSN (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648975
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) UHD" group-title="ENG | Entertainment",GSN (East) UHD
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="GSN (East) HD (bkup)" group-title="ENG | Entertainment",GSN (East) HD (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3650
 #EXTINF:-1 tvg-id="Gusto.us" tvg-name="GUSTO" group-title="ENG | Entertainment",GUSTO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333487
@@ -3107,7 +3055,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648973
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/327700
 #EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="USA Latin CLAN" tvg-logo="https://static.realiptv.to/snapshots/50899.jpg" group-title="ESP | Entretenimiento",USA Latin CLAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50899
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="USA Latin CNN" tvg-logo="https://static.realiptv.to/snapshots/40633.jpg" group-title="ESP | Entretenimiento",USA Latin CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="USA Latin CNN" tvg-logo="https://static.realiptv.to/snapshots/40633.jpg" group-title="ESP | Noticias",USA Latin CNN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40633
 #EXTINF:-1 tvg-id="DEPELUS" tvg-name="USA Latin De Pelicula" tvg-logo="https://static.realiptv.to/snapshots/1626.jpg" group-title="ESP | Entretenimiento",USA Latin De Pelicula
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1626
@@ -3151,7 +3099,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40632
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50898
 #EXTINF:-1 tvg-id="FOROtv" tvg-name="USA Latin Mexicanal" tvg-logo="https://static.realiptv.to/snapshots/4601.jpg" group-title="ESP | Entretenimiento",USA Latin Mexicanal
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4601
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
 #EXTINF:-1 tvg-id="NGMDO" tvg-name="USA Latin Nat Geo Mundo" tvg-logo="https://static.realiptv.to/snapshots/40637.jpg" group-title="ESP | Entretenimiento",USA Latin Nat Geo Mundo
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40637
@@ -3999,7 +3947,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/552927
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/552926
 #EXTINF:-1 tvg-name="Rotten Tomatoes (PC)" group-title="ENG | Entertainment",Rotten Tomatoes (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660939
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science SD (bkup)" group-title="ENG | Entertainment",Discovery Science SD (bkup)
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science SD" group-title="ENG | Entertainment",Discovery Science SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97480
 #EXTINF:-1 tvg-name="USA Scientology Network" tvg-logo="https://static.realiptv.to/snapshots/663923.jpg" group-title="Religion (All Lang)",USA Scientology Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663923
@@ -4011,7 +3959,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601156
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601155
 #EXTINF:-1 tvg-id="ScreenPix.Westerns.us2" tvg-name="ScreenPix Westerns " group-title="ENG | Movies",ScreenPix Westerns
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601154
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network by ESPN" group-title="ENG | Sports",SEC Network by ESPN 
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network by ESPN" group-title="ENG | Sports",SEC Network by ESPN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3864
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network by ESPN SHD" group-title="ENG | Sports",SEC Network by ESPN SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647786
@@ -4369,7 +4317,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3764
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3683
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT (West)" group-title="ENG | Entertainment",TNT (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3844
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT (West)" group-title="ENG | Entertainment",TNT (West) 
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT (West)" group-title="ENG | Entertainment",TNT (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2384
 #EXTINF:-1 tvg-id="TR3S" tvg-name="USA TR3S" tvg-logo="https://static.realiptv.to/snapshots/89996.jpg" group-title="ESP | Entretenimiento",USA TR3S
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89996
@@ -4443,7 +4391,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3767
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3694
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-name="USA Network (West)" group-title="ENG | Entertainment",USA Network (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3848
-#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network (West) " group-title="ENG | Entertainment",USA Network (West) 
+#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network (West) " group-title="ENG | Entertainment",USA Network (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2379
 #EXTINF:-1 tvg-id="Vegas34KMCC.us" tvg-name="NV | Las Vegas | Vegas 34 KMCC" group-title="ENG | Local | CW/IND/MY",NV | Las Vegas | Vegas 34 KMCC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/673567
@@ -4493,7 +4441,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/58043
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/672558
 #EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World" group-title="ENG | Entertainment",World
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/648972
-#EXTINF:-1 tvg-id="CWWPIX.us" group-title="ENG | Local | CW/IND/MY",NY | NYC | CW WPIX
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="ENG | Local | CW/IND/MY",NY | NYC | CW WPIX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3115
 #EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE SD" group-title="ENG | Sports",WWE SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21583
@@ -4825,8 +4773,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1266039
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50965
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.Plus.us2" tvg-name="SportsNet Pittsburgh Plus" group-title="ENG | Sports",SportsNet Pittsburgh Plus
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1270001
-#EXTINF:-1 tvg-id="plex.tv.Ghosts.Are.Real.plex" tvg-name="Ghosts are Real" group-title="ENG | Entertainment",Ghosts are Real
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1270002
 #EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="Starz Encore Westerns (West)" group-title="ENG | Movies",Starz Encore Westerns (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1270107
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East) " group-title="ENG | Movies",Starz Encore Westerns (East)
@@ -4853,43 +4799,43 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88022
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88062
 #EXTINF:-1 tvg-id="Boomerang.ca" tvg-name="Boomerang Canada" group-title="ENG | Kids",Boomerang Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/103759
-#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA CBC Calgary" group-title="ENG | Entertainment",CA CBC Calgary
+#EXTINF:-1 tvg-id="CBC.Calgary.ca2" tvg-name="CBC Calgary" group-title="ENG | Entertainment",CBC Calgary
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21881
-#EXTINF:-1 tvg-id="CBCPrinceEdwardIsland-CBCT.ca" tvg-name="CA CBC Charlottetown" group-title="ENG | Entertainment",CA CBC Charlottetown
+#EXTINF:-1 tvg-id="CBCPrinceEdwardIsland-CBCT.ca" tvg-name="CBC Charlottetown" group-title="ENG | Entertainment",CBC Charlottetown
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21882
-#EXTINF:-1 tvg-id="CBCEdmonton-CBXT.ca" tvg-name="CA CBC Edmonton" group-title="ENG | Entertainment",CA CBC Edmonton
+#EXTINF:-1 tvg-id="CBC.Edmonton.HD.ca2" tvg-name="CBC Edmonton HD" group-title="ENG | Entertainment",CBC Edmonton HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21883
-#EXTINF:-1 tvg-id="CBCEdmonton-CBXT.ca" tvg-name="CA CBC Edmonton" group-title="ENG | Entertainment",CA CBC Edmonton
+#EXTINF:-1 tvg-id="CBC.Edmonton.HD.ca2" tvg-name="CBC Edmonton HD (bkup)" group-title="ENG | Entertainment",CBC Edmonton HD (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88034
-#EXTINF:-1 tvg-id="CBCNewBrunswick-CBAT.ca" tvg-name="CA CBC Fredericton" group-title="ENG | Entertainment",CA CBC Fredericton
+#EXTINF:-1 tvg-id="CBCNewBrunswick-CBAT.ca" tvg-name="CBC Fredericton" group-title="ENG | Entertainment",CBC Fredericton
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21884
-#EXTINF:-1 tvg-id="CBCHalifax-CBHT.ca" tvg-name="CA CBC Halifax" group-title="ENG | Entertainment",CA CBC Halifax
+#EXTINF:-1 tvg-id="CBCHalifax-CBHT.ca" tvg-name="CBC Halifax" group-title="ENG | Entertainment",CBC Halifax
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21885
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA CBC Montreal" group-title="ENG | Entertainment",CA CBC Montreal
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CBC Montreal HD" group-title="ENG | Entertainment",CBC Montreal HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21886
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CA CBC News Network" group-title="ENG | Entertainment",CA CBC News Network
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" group-title="ENG | News",CBC News Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21880
-#EXTINF:-1 tvg-id="CBCOttawa-CBOT.ca" tvg-name="CA CBC Ottawa" group-title="ENG | Entertainment",CA CBC Ottawa
+#EXTINF:-1 tvg-id="CBCOttawa-CBOT.ca" tvg-name="CBC Ottawa" group-title="ENG | Entertainment",CBC Ottawa
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21887
-#EXTINF:-1 tvg-id="CBCSaskatchewan-CBKT.ca" tvg-name="CA CBC Regina" group-title="ENG | Entertainment",CA CBC Regina
+#EXTINF:-1 tvg-id="CBCSaskatchewan-CBKT.ca" tvg-name="CBC Regina" group-title="ENG | Entertainment",CBC Regina
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21888
-#EXTINF:-1 tvg-id="CBCStJohns-CBNT.ca" tvg-name="CA CBC St. John's" group-title="ENG | Entertainment",CA CBC St. John's
+#EXTINF:-1 tvg-id="CBCStJohns-CBNT.ca" tvg-name="CBC St. John's" group-title="ENG | Entertainment",CBC St. John's
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21889
-#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CA CBC Toronto" group-title="ENG | Entertainment",CA CBC Toronto
+#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CBC Toronto" group-title="ENG | Entertainment",CBC Toronto
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21890
-#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-name="CA CBC Vancouver" group-title="ENG | Entertainment",CA CBC Vancouver
+#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-name="CBC Vancouver" group-title="ENG | Entertainment",CBC Vancouver
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21891
-#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-name="CA CBC Windsor" group-title="ENG | Entertainment",CA CBC Windsor
+#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-name="CBC Windsor" group-title="ENG | Entertainment",CBC Windsor
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21892
-#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-name="CA CBC WINDSOR" group-title="ENG | Entertainment",CA CBC WINDSOR
+#EXTINF:-1 tvg-id="CBCWindsor-CBET.ca" tvg-name="CBC Windsor (bkup)" group-title="ENG | Entertainment",CBC Windsor (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92737
-#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-name="CA CBC Winnipeg" group-title="ENG | Entertainment",CA CBC Winnipeg
+#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-name="CBC Winnipeg" group-title="ENG | Entertainment",CBC Winnipeg
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21893
-#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-name="CA CBC WINNIPEG" group-title="ENG | Entertainment",CA CBC WINNIPEG
+#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-name="CBC Winnipeg (bkup)" group-title="ENG | Entertainment",CBC Winnipeg (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92774
-#EXTINF:-1 tvg-id="CBCYellowknife-CFYK.ca" tvg-name="CA CBC Yellowknife" group-title="ENG | Entertainment",CA CBC Yellowknife
+#EXTINF:-1 tvg-id="CBCYellowknife-CFYK.ca" tvg-name="CBC Yellowknife" group-title="ENG | Entertainment",CBC Yellowknife
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21894
-#EXTINF:-1 tvg-id="CBCYellowknife-CFYK.ca" tvg-name="CA CBC YELLOWKNIFE" group-title="ENG | Entertainment",CA CBC YELLOWKNIFE
+#EXTINF:-1 tvg-id="CBCYellowknife-CFYK.ca" tvg-name="CBC Yellowknife (bkup)" group-title="ENG | Entertainment",CBC Yellowknife (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92736
 #EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="MA | Boston | CBS WBZ" group-title="ENG | Local | CBS",MA | Boston | CBS WBZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88036
@@ -4899,31 +4845,31 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93115
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88067
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.ca" tvg-name="Crime & Investigation Canada" group-title="ENG | Entertainment",Crime & Investigation Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92718
-#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CA CTV 2 ATLANTIC (B)" group-title="ENG | Entertainment",CA CTV 2 ATLANTIC (B)
+#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CTV 2 Atlantic (B)" group-title="ENG | Entertainment",CTV 2 Atlantic (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141730
-#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CA CTV 2 BARRIE" group-title="ENG | Entertainment",CA CTV 2 BARRIE
+#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CTV 2 Barrie" group-title="ENG | Entertainment",CTV 2 Barrie
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141745
-#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CA CTV 2 TORONTO" group-title="ENG | Entertainment",CA CTV 2 TORONTO
+#EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2 Toronto" group-title="ENG | Entertainment",CTV 2 Toronto
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93008
-#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CA CTV ATLANTIC" group-title="ENG | Entertainment",CA CTV ATLANTIC
+#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CTV Atlantic" group-title="ENG | Entertainment",CTV Atlantic 
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141721
-#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CA CTV Atlantic HD" group-title="ENG | Entertainment",CA CTV Atlantic HD
+#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CTV Atlantic (bkup)" group-title="ENG | Entertainment",CTV Atlantic (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88028
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA CTV CALGARY" group-title="ENG | Entertainment",CA CTV CALGARY
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV Calgary" group-title="ENG | Entertainment",CTV Calgary
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/103771
-#EXTINF:-1 tvg-id="CTVComedyChannel.ca" tvg-name="CA CTV COMEDY (East)(R)" group-title="ENG | Entertainment",CA CTV COMEDY (East)(R)
+#EXTINF:-1 tvg-id="CTVComedyChannel.ca" tvg-name="CTV Comedy (East)(R)" group-title="ENG | Entertainment",CTV Comedy (East)(R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92692
-#EXTINF:-1 tvg-id="CTVOttawa-CJOH.ca" tvg-name="CA CTV Ottawa HD" group-title="ENG | Entertainment",CA CTV Ottawa HD
+#EXTINF:-1 tvg-id="CTVOttawa-CJOH.ca" tvg-name="CA CTV Ottawa" group-title="ENG | Entertainment",CTV Ottawa
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88070
-#EXTINF:-1 tvg-id="CTVNorthernOntario-CICI.ca" tvg-name="CA CTV SUDBURY (B)" group-title="ENG | Entertainment",CA CTV SUDBURY (B)
+#EXTINF:-1 tvg-id="CTVNorthernOntario-CICI.ca" tvg-name="CTV Sudbury (B)" group-title="ENG | Entertainment",CTV Sudbury (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141726
-#EXTINF:-1 tvg-id="CTVWinnipeg-CKY.ca" tvg-name="CA CTV WINNIPEG (B)" group-title="ENG | Entertainment",CA CTV WINNIPEG (B)
+#EXTINF:-1 tvg-id="CTVWinnipeg-CKY.ca" tvg-name="CTV Winnipeg (B)" group-title="ENG | Entertainment",CTV Winnipeg (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141729
-#EXTINF:-1 tvg-id="CTV2London-CFPL.ca" tvg-name="CA CTV2 LONDON" group-title="ENG | Entertainment",CA CTV2 LONDON
+#EXTINF:-1 tvg-id="CTV2London-CFPL.ca" tvg-name="CTV 2 London/Windsor" group-title="ENG | Entertainment",CTV 2 London/Windsor
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141731
-#EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CA CTV2 VICTORIA" group-title="ENG | Entertainment",CA CTV2 VICTORIA
+#EXTINF:-1 tvg-id="CTV2VancouverVictoria-CIVI.ca" tvg-name="CTV 2 Victoria" group-title="ENG | Entertainment",CTV 2 Victoria
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141733
-#EXTINF:-1 tvg-id="CTV2Alberta-ACCNET.ca" tvg-name="CA CTV2 WINDSOR (B)" group-title="ENG | Entertainment",CA CTV2 WINDSOR (B)
+#EXTINF:-1 tvg-id="CTV.Two.-.London/Windsor.ca2" tvg-name="CTV 2 London/Windsor (B)" group-title="ENG | Entertainment",CTV 2 London/Windsor (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141734
 #EXTINF:-1 tvg-id="CTVSpeed.ca" tvg-name="CTV Speed" group-title="ENG | Entertainment",CTV Speed
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/59878
@@ -4933,9 +4879,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93121
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/87991
 #EXTINF:-1 tvg-id="GameShowNetwork.ca" tvg-name="GSN Canada" group-title="ENG | Entertainment",GSN Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88793
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA Global Calgary" group-title="ENG | Entertainment",CA Global Calgary
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="Global Calgary" group-title="ENG | Entertainment",Global Calgary
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/87967
-#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="CA Global Durham" group-title="ENG | Entertainment",CA Global Durham
+#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="Global Durham" group-title="ENG | Entertainment",Global Durham
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/59857
 #EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global Kingston News" group-title="ENG | News",Global Kingston News
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141739
@@ -4945,7 +4891,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88027
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/141740
 #EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News Edmonton" group-title="ENG | News",Global News Edmonton
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/505081
-#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News (B)" group-title="ENG | Entertainment",Global News (B)
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News (B)" group-title="ENG | News",Global News (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93025
 #EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="Hollywood Suite 70's Canada" group-title="ENG | Movies",Hollywood Suite 70's Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/59884
@@ -5025,7 +4971,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3051
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3053
 #EXTINF:-1 tvg-id="FX.ca" tvg-name="FX Canada" group-title="ENG | Entertainment",FX Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3054
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="FXX Canada" group-title="ENG | Entertainment",FXX Canada
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX (East) (bkup)" group-title="ENG | Entertainment",FXX (East) (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3055
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-name="MovieTime Canada" group-title="ENG | Movies",MovieTime Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3056
@@ -5033,11 +4979,11 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3056
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3057
 #EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="NatGeo Wild Canada" group-title="ENG | Entertainment",NatGeo Wild Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3058
-#EXTINF:-1 tvg-name="CTV Sci-Fi Channel (R)" group-title="ENG | Entertainment",CTV Sci-Fi Channel (R) EPG
+#EXTINF:-1 tvg-id="CTV.SCI-FI.CHANNEL.HD.ca2" tvg-name="CTV Sci-Fi Channel (R)" group-title="ENG | Entertainment",CTV Sci-Fi Channel (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3060
-#EXTINF:-1 tvg-id="CBCStJohns-CBNT.ca" tvg-name="CA CBC St. John's" group-title="ENG | Entertainment",CA CBC St. John's
+#EXTINF:-1 tvg-id="CBCStJohns-CBNT.ca" tvg-name="CBC St. John's (bkup)" group-title="ENG | Entertainment",CBC St. John's (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3061
-#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="CA Global Durham" group-title="ENG | Entertainment",CA Global Durham
+#EXTINF:-1 tvg-id="GlobalDurham-CHEXTV2.ca" tvg-name="Global Durham (bkup)" group-title="ENG | Entertainment",Global Durham (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3062
 #EXTINF:-1 tvg-id="TCM.ca" tvg-name="TCM Canada" group-title="ENG | Movies",TCM Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3065
@@ -5057,7 +5003,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3071
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3072
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" group-title="ENG | Sports",Sportsnet 360
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3073
-#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CA CTV2 Barrie" group-title="ENG | Entertainment",CA CTV2 Barrie
+#EXTINF:-1 tvg-id="CTV2Barrie-CKVR.ca" tvg-name="CTV 2 Barrie (bkup)" group-title="ENG | Entertainment",CTV 2 Barrie (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3074
 #EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="Todays Shopping Choice" group-title="Shopping",Todays Shopping Choice
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3075
@@ -5073,8 +5019,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3081
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3084
 #EXTINF:-1 tvg-id="MagnoliaNetwork.ca" tvg-name="Magnolia Network Canada" group-title="ENG | Entertainment",Magnolia Network Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3086
-#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CablePulse 24" group-title="ENG | Entertainment",CablePulse 24
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3091
 #EXTINF:-1 tvg-id="NBATV.ca" tvg-name="NBA TV Canada" group-title="ENG | Sports",NBA TV Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3092
 #EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="NatGeo Canada" group-title="ENG | Entertainment",NatGeo Canada
@@ -5093,34 +5037,30 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3099
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3100
 #EXTINF:-1 tvg-id="GolfChannel.ca" tvg-name="GOLF Canada" group-title="ENG | Sports",GOLF Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3101
-#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="CA Global Toronto" group-title="ENG | Entertainment",CA Global Toronto
+#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="Global Toronto" group-title="ENG | Entertainment",Global Toronto
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3102
-#EXTINF:-1 tvg-id="EEntertainmentTelevision.ca" tvg-name="E! Entertainment Canada" group-title="ENG | Entertainment",E! Entertainment Canada
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3109
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY XD (R)" group-title="ENG | Kids",DISNEY XD (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3112
 #EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="Disney Canada (R)" group-title="ENG | Kids",Disney Canada (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3113
-#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CA CTV 2 Atlantic" group-title="ENG | Entertainment",CA CTV 2 Atlantic
+#EXTINF:-1 tvg-id="CTV2Atlantic-ASN.ca" tvg-name="CTV 2 Atlantic" group-title="ENG | Entertainment",CTV 2 Atlantic
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3116
-#EXTINF:-1 tvg-id="CTVComedyChannelWEST.ca" tvg-name="CA CTV COMEDY (West) (R)" group-title="ENG | Entertainment",CA CTV COMEDY (West) (R)
+#EXTINF:-1 tvg-id="CTVComedyChannelWEST.ca" tvg-name="CTV Comedy (West) (R)" group-title="ENG | Entertainment",CTV Comedy (West) (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3119
 #EXTINF:-1 tvg-id="CMT.ca" tvg-name="CMT Canada" group-title="ENG | Entertainment",CMT Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3122
-#EXTINF:-1 tvg-id="CityTv.ca" tvg-name="CA Citytv Toronto" group-title="ENG | Entertainment",CA Citytv Toronto
+#EXTINF:-1 tvg-id="CityTv.ca" tvg-name="Citytv Toronto" group-title="ENG | Entertainment",Citytv Toronto
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3123
 #EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CHCH" group-title="ENG | Entertainment",CHCH Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3124
-#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CA CBC Toronto" group-title="ENG | Entertainment",CA CBC Toronto
+#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CBC Toronto (bkup)" group-title="ENG | Entertainment",CBC Toronto (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3125
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CA CBC News Network" group-title="ENG | News",CA CBC News Network
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" group-title="ENG | News",CBC News Network
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3126
 #EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="Cartoon Network Canada (R)" group-title="ENG | Kids",Cartoon Network Canada (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3127
 #EXTINF:-1 tvg-id="TVA-Montreal-CFTM.ca" tvg-name="TVA Montreal (CFTM)" group-title="ENG | Entertainment",TVA Montreal (CFTM)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3130
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="AMC Canada (R)" group-title="ENG | Entertainment",AMC Canada (R)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3132
 #EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="Bloomberg Canada (R)" group-title="ENG | News",Bloomberg Canada (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3138
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="A&E Canada" group-title="ENG | Entertainment",A&E Canada
@@ -5135,7 +5075,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3144
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3145
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1 UHD" group-title="ENG | Sports",TSN 1 UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3146
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.ca" tvg-name="Crime & Investigation Canada" group-title="ENG | Entertainment",Crime & Investigation Canada
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.ca" tvg-name="Crime & Investigation Canada (bkup)" group-title="ENG | Entertainment",Crime & Investigation Canada (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3148
 #EXTINF:-1 tvg-id="CA: MLB NETWORK" tvg-name="MLB Network Canada" group-title="ENG | Sports",MLB Network Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3150
@@ -5151,57 +5091,55 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3180
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3184
 #EXTINF:-1 tvg-id="HBO2.ca" tvg-name="HBO 2 Canada" group-title="ENG | Movies",HBO 2 Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3188
-#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="CA Global National News" group-title="ENG | News",CA Global National News
+#EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global National News" group-title="ENG | News",Global National News
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3193
 #EXTINF:-1 tvg-id="APTN.ca" tvg-name="APTN (R)" group-title="ENG | Entertainment",APTN (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3214
-#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CA CBC Montreal HD" group-title="ENG | Entertainment",CA CBC Montreal HD
+#EXTINF:-1 tvg-id="CBCMontreal-CBMT.ca" tvg-name="CBC Montreal HD (bkup)" group-title="ENG | Entertainment",CBC Montreal HD (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3245
 #EXTINF:-1 tvg-id="BBCWorldNews.ca" tvg-name="BBC World Canada" group-title="ENG | News",BBC World Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3246
 #EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="CARTOON NETWORK Canada" group-title="ENG | Entertainment",CARTOON NETWORK Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3248
-#EXTINF:-1 tvg-id="CBCToronto-CBLT.ca" tvg-name="CA CBC TORONTO" group-title="ENG | Entertainment",CA CBC TORONTO
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3251
-#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-name="CA CBC VANCOUVER" group-title="ENG | Entertainment",CA CBC VANCOUVER
+#EXTINF:-1 tvg-id="CBCVancouver-CBUT.ca" tvg-name="CBC Vancouver (bkup)" group-title="ENG | Entertainment",CBC Vancouver (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3252
-#EXTINF:-1 tvg-id="CityTv.ca" tvg-name="CA CITY TORONTO" group-title="ENG | Entertainment",CA CITY TORONTO
+#EXTINF:-1 tvg-id="CityTv.ca" tvg-name="Citytv Toronto (bkup)" group-title="ENG | Entertainment",Citytv Toronto (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3253
-#EXTINF:-1 tvg-id="CityTvEdmonton.ca" tvg-name="CA CITY MONTREAL" group-title="ENG | Entertainment",CA CITY MONTREAL
+#EXTINF:-1 tvg-id="Citytv.Montreal.ca2" tvg-name="CA CITY MONTREAL" group-title="ENG | Entertainment",CA CITY MONTREAL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3254
-#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CNN Canada" group-title="ENG | Entertainment",CNN Canada
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CNN Canada" group-title="ENG | News",CNN Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3257
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel (East)" group-title="ENG | Entertainment",Cooking Channel (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3259
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="Cottage Life" group-title="ENG | Entertainment",Cottage Life
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3260
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA CTV CALGARY" group-title="ENG | Entertainment",CA CTV CALGARY
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CTV Calgary" group-title="ENG | Entertainment",CTV Calgary
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3264
-#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CA CTV HALIFAX" group-title="ENG | Entertainment",CA CTV HALIFAX
+#EXTINF:-1 tvg-id="CTVHalifax-CJCH.ca" tvg-name="CTV Halifax" group-title="ENG | Entertainment",CTV Halifax
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3265
-#EXTINF:-1 tvg-id="CTVMontreal-CFCF.ca" tvg-name="CA CTV MONTREAL" group-title="ENG | Entertainment",CA CTV MONTREAL
+#EXTINF:-1 tvg-id="CTVMontreal-CFCF.ca" tvg-name="CTV Montreal" group-title="ENG | Entertainment",CTV Montreal
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3266
 #EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-name="CA CTV NEWS NETWORK" group-title="ENG | News",CA CTV NEWS NETWORK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3267
-#EXTINF:-1 tvg-id="CTVOttawa-CJOH.ca" tvg-name="CA CTV OTTAWA" group-title="ENG | Entertainment",CA CTV OTTAWA
+#EXTINF:-1 tvg-id="CTVOttawa-CJOH.ca" tvg-name="CTV Ottawa (bkup)" group-title="ENG | Entertainment",CTV Ottawa (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3268
-#EXTINF:-1 tvg-id="CTVToronto-CFTO.ca" tvg-name="CA CTV TORONTO" group-title="ENG | Entertainment",CA CTV TORONTO
+#EXTINF:-1 tvg-id="CTVToronto-CFTO.ca" tvg-name="CTV Toronto " group-title="ENG | Entertainment",CTV Toronto
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3269
-#EXTINF:-1 tvg-id="CTVVancouver-CIVT.ca" tvg-name="CA CTV VANCOUVER" group-title="ENG | Entertainment",CA CTV VANCOUVER
+#EXTINF:-1 tvg-id="CTVVancouver-CIVT.ca" tvg-name="CTV Vancouver" group-title="ENG | Entertainment",CTV Vancouver
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3270
 #EXTINF:-1 tvg-id="Daystar.ca" tvg-name="Daystar TV Canada (B)" group-title="Religion (All Lang)",Daystar TV Canada (B)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3272
-#EXTINF:-1 tvg-id="CTVNature.ca" tvg-name="CTV Nature" group-title="ENG | Entertainment",CTV Nature
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG | Entertainment",Discovery Science
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3274
 #EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="FOX News Canada" group-title="ENG | News",FOX News Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3275
 #EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global Halifax News" group-title="ENG | News",Global Halifax News
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3276
-#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="Global Toronto" group-title="ENG | Entertainment",Global Toronto
+#EXTINF:-1 tvg-id="GlobalToronto-CIII.ca" tvg-name="Global Toronto (bkup)" group-title="ENG | Entertainment",Global Toronto (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3277
 #EXTINF:-1 tvg-id="GlobalBC-CHAN.ca" tvg-name="Global Vancouver" group-title="ENG | Entertainment",Global Vancouver
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3278
-#EXTINF:-1 tvg-id="CTVLifeChannel.ca" tvg-name="CA CTV Life Channel (R)" group-title="ENG | Entertainment",CA CTV Life Channel (R)
+#EXTINF:-1 tvg-id="CTVLifeChannel.ca" tvg-name="CTV Life Channel (R)" group-title="ENG | Entertainment",CTV Life Channel (R)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3280
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="Investigation Discovery Canada" group-title="ENG | Entertainment",Investigation Discovery Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3282
@@ -5215,8 +5153,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3294
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3295
 #EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape) Canada" group-title="ENG | Entertainment",T+E (Travel+Escape) Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3296
-#EXTINF:-1 tvg-id="CBCWinnipeg-CBWT.ca" tvg-name="CA CBC WINNIPEG" group-title="ENG | Entertainment",CA CBC WINNIPEG
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3304
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature Canada" group-title="ENG | Entertainment",Love Nature Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3312
 #EXTINF:-1 tvg-id="CTVKitchener-CKCO.ca" tvg-name="CA CTV Kitchener" group-title="ENG | Entertainment",CA CTV Kitchener
