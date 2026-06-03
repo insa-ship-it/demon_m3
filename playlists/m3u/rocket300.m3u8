@@ -187,7 +187,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2533
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/696419
 #EXTINF:-1 tvg-id="KMIR-DT.us_locals1" tvg-name="CA | Palm Springs | NBC KMIR" group-title="ENG | Local | NBC",CA | Palm Springs | NBC KMIR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89444
-#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89446
 #EXTINF:-1 tvg-id="KIXE-DT.us_locals1" tvg-name="CA | Redding | PBS KIXE" group-title="ENG | Kids & Family",CA | Redding | PBS KIXE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470376
@@ -1123,7 +1123,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2649
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510776
 #EXTINF:-1 tvg-id="NBCWCNC.us" tvg-name="NC | Charlotte | NBC WCNC" group-title="ENG | Local | NBC",NC | Charlotte | NBC WCNC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2465
-#EXTINF:-1 tvg-id="SpectrumNews1NorthCarolina.us" tvg-name="NC | Charlotte | Spectrum1" group-title="ENG | News",NC | Charlotte | Spectrum1 
+#EXTINF:-1 tvg-id="SpectrumNews1NorthCarolina.us" tvg-name="NC | Charlotte | Spectrum1" group-title="ENG | News",NC | Charlotte | Spectrum1
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597107
 #EXTINF:-1 tvg-id="WNCN-DT.us_locals1" tvg-name="NC | Goldsboro | CBS WNCN" group-title="ENG | Local | CBS",NC | Goldsboro | CBS WNCN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89668
@@ -2713,7 +2713,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40632
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50898
 #EXTINF:-1 tvg-id="Mexicanal.us" tvg-name="Mexicanal" group-title="ESP | Entretenimiento",Mexicanal
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4601
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
 #EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="NatGeo Mundo" group-title="ESP | Entretenimiento",NatGeo Mundo
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40637
@@ -4569,7 +4569,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4259
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4260
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MX MTV HD" group-title="ESP | Entretenimiento",MX MTV HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4261
-#EXTINF:-1 tvg-id="MTVLive.mx" tvg-name="MX MTV Live HD" group-title="ESP | Entretenimiento",MX MTV Live HD
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live HD" group-title="ENG | Music",MTV Live HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4263
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX Multimedios HD" group-title="ESP | Entretenimiento",MX Multimedios HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4264
