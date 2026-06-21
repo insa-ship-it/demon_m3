@@ -23,7 +23,7 @@ https://pureplay.cdnstream1.com/6042_64.aac/playlist.m3u8
 https://live.amperwave.net/direct/audacy-wjmhfmaac-imc
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="106 KMEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/KMEL_logo.png/800px-KMEL_logo.png" group-title="ENG | Music",106 KMEL
 https://stream.revma.ihrhls.com/zc293
-#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="92.7 FM Jam Central" tvg-logo="https://static.wixstatic.com/media/a31f71_e71cfe156a6a41e285ec40f7b047d5b9~mv2.png/v1/fill/w_176,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png" group-title="ENG | Music",h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png" group-title="DrewFX - Hip Hop & R&B" radio="true",92.7 FM Jam Central
+#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="92.7 FM Jam Central" group-title="ENG | Music",92.7 FM Jam Central
 https://ice42.securenetsystems.net/KZJM
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="92.9 WDUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Wdup-logo.png" group-title="ENG | Music",92.9 WDUP
 https://s2.voscast.com:9761/stream
@@ -115,7 +115,7 @@ https://ice2.somafm.com/thetrip-32-aac
 http://www.shoutcastunlimited.com:8148/;
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Indie SF Radio" tvg-logo="https://insomniaradio.net/wp-content/uploads/2008/02/sf.jpg" group-title="ENG | Music",Indie SF Radio
 http://359.cloudrad.io:8618/;
-#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Indie X FM" tvg-logo="https://img1.wsimg.com/isteam/ip/6b751bf2-5843-4590-8843-d4025327a155/.INDIE%20X%20FM%20Logo%20long-0001.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25" group-title="ENG | Music",l:0%25,w:100%25,h:100%25" group-title="DrewFX - Indie" radio="true",Indie X FM
+#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Indie X FM" group-title="ENG | Music",Indie X FM
 https://kathy.torontocast.com:2695/stream
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Jazz 88.3" tvg-logo="https://i0.wp.com/www.gcrcf.org/wp-content/uploads/2023/07/KCCK-IJS-Logo.png?fit=1920%2C1920&ssl=1" group-title="ENG | Music",Jazz 88.3
 https://stream.kcck.org/jazz883kcck
@@ -131,7 +131,7 @@ http://server.webnetradio.net:5195/;
 https://listen.shoutcast.com/smoothjazzcd1019newyork
 #EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Smooth Jazz Florida - Champagne Smooth Jazz" tvg-logo="https://i1.sndcdn.com/artworks-000217374552-tlrute-t500x500.jpg" group-title="ENG | Music",Smooth Jazz Florida - Champagne Smooth Jazz
 http://server.webnetradio.net:5366/;
-#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Smooth Jazz Network" tvg-logo="https://static.wixstatic.com/media/6c0566_901c482990f74f9aa9695c3295ac1cef~mv2.png/v1/crop/x_0,y_1060,w_5001,h_2827/fill/w_368,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Smooth%20Jazz_Light%20Blue_Registered-01.png" group-title="ENG | Music",y_1060,w_5001,h_2827/fill/w_368,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Smooth%20Jazz_Light%20Blue_Registered-01.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Network
+#EXTINF:-1 tvg-id="Radio.105.Dummy.us" tvg-name="Smooth Jazz Network" group-title="ENG | Music",Smooth Jazz Network
 https://stream.revma.ihrhls.com/zc8170/hls.m3u8
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="2 Fast 2 Furious (2003)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQzYzEwNWMtOTAwYy00YWYwLWE1NTEtZTkxOGQxZTM0M2VhXkEyXkFqcGc@._V1_.jpg" group-title="VOD",2 Fast 2 Furious (2003)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/2.Fast.2.Furious.2003.1080p.BrRip.x264.YIFY%20HI.mp4
@@ -251,7 +251,7 @@ http://drewlive2423.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20N
 http://drewlive2423.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Movies/Dragon%20Ball%20Z%20Movie%2003%20-%20The%20Tree%20Of%20Might%20(Ocean%20Dub).mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Dragon Ball Z: The World's Strongest (1990)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIxYmM1MzUtZWFhYS00YzYyLWEyZDgtZGE2NDliNzJmNWMzXkEyXkFqcGc@._V1_.jpg" group-title="VOD",Dragon Ball Z: The World's Strongest (1990)
 http://drewlive2423.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Dragon%20Ball%20Z/Movies/Dragon%20Ball%20Z%20Movie%2002%20-%20The%20World's%20Strongest%20(Ocean%20Dub).mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Ed, Edd n Eddy's Big Picture Show (2009)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" group-title="VOD",Edd n Eddy's Big Picture Show (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" group-title="DrewLive - VOD" radio="false",Edd n Eddy's Big Picture Show (2009)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Ed, Edd n Eddy's Big Picture Show (2009)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" group-title="VOD",Edd n Eddy's Big Picture Show (2009)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" group-title="VOD",Edd n Eddy's Big Picture Show (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" group-title="DrewLive - VOD" radio="false",Edd n Eddy's Big Picture Show (2009)
 http://drewlive2423.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Ed%2C%20Edd%20n%20Eddy%20(1999)/Movies/Ed%2C%20Edd%20n%20Eddy%20-%20S00%20E05%20-%20Ed%2C%20Edd%20n%20Eddy's%20Big%20Picture%20Show%20(1080p).mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Edge of Tomorrow (2014)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Edge of Tomorrow (2014)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Edge.of.Tomorrow.2014.1080p.BluRay.x264.YIFY.mp4
@@ -309,9 +309,9 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Half.Baked.1998.1080p.BluR
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Halloween.1978.REMASTERED.1080p.BluRay.x265-RARBG.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Hancock (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_.jpg" group-title="VOD",Hancock (2008)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Hancock%20(2008)%20%5B1080p%20x265%2010bit%20FS54%20Joy%5D.mkv
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Happy Gilmore (1996)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg" group-title="VOD",0,140,207_.jpg" group-title="DrewLive - VOD" radio="false",Happy Gilmore (1996)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Happy Gilmore (1996)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg" group-title="VOD",0,140,207_.jpg" group-title="VOD",0,140,207_.jpg" group-title="DrewLive - VOD" radio="false",Happy Gilmore (1996)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Happy.Gilmore.1996.1080p.BluRay.H264.AAC-RARBG.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Happy Gilmore 2 (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyNTRmYjItMDBjYi00YWNhLWEwMmQtNzJhODNiNjEzOWJlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Happy Gilmore 2 (2025)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Happy Gilmore 2 (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyNTRmYjItMDBjYi00YWNhLWEwMmQtNzJhODNiNjEzOWJlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Happy Gilmore 2 (2025)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Happy.Gilmore.2.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Harold & Kumar Go to White Castle (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2MGI0M2YtZmIwOS00NGVjLWFlNDAtMDYzM2Y1MWM2OWNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Harold & Kumar Go to White Castle (2004)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Harold.and.Kumar.Go.To.White.Castle.2004.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -333,7 +333,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Home.Alone.2.Lost.In.New.Y
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Home.Alone.1990.REMASTERED.1080p.Bluray.AV1.Opus-RAV1NE.mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Hostel (2006)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NDA3ODM1OV5BMl5BanBnXkFtZTcwMDM5NzEzMQ@@._V1_.jpg" group-title="VOD",Hostel (2006)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Hostel.2005.1080p.BluRay.H264.AAC-RARBG.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Hostel: Part II (2007)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1NTQ3MjI2N15BMl5BanBnXkFtZTYwNTQ4MTI3._V1_QL75_UY281_CR1,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Hostel: Part II (2007)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Hostel: Part II (2007)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1NTQ3MjI2N15BMl5BanBnXkFtZTYwNTQ4MTI3._V1_QL75_UY281_CR1,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Hostel: Part II (2007)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Hostel.Part.II.2007.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Hot Tub Time Machine (2010)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Hot Tub Time Machine (2010)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Hot.Tub.Time.Machine.2010.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
@@ -433,7 +433,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Monster.House.2006.1080p.B
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Monsters Inc 2001 (1080p x265 10bit Tigole).mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="New Jack City (1991)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFlNGE5NWUtNmNkNS00OGJkLWFhNTEtYzFlMWFmNGM1YmJhXkEyXkFqcGc@._V1_.jpg" group-title="VOD",New Jack City (1991)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/New.Jack.City.1991.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Next Friday (2000)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0MTAwNDAtYmU1Zi00NDViLThkZDYtYmVhZGJhM2E4NzMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Next Friday (2000)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Next Friday (2000)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU0MTAwNDAtYmU1Zi00NDViLThkZDYtYmVhZGJhM2E4NzMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Next Friday (2000)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Next.Friday.2000.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Night at the Museum (2006)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMyYjYyZDAtNzRiZC00ZjRkLTkwYjktODkxODQzNTFiMTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Night at the Museum (2006)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Night.at.the.Museum.2006.1080p.BluRay.x265-RARBG.mp4
@@ -487,7 +487,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Selena.1997.Theatrical.108
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Sex.Drive.2008.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Shark Tale (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg" group-title="VOD",Shark Tale (2004)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Shark.Tale.2004.1080p.BluRay.H264.AAC-RARBG.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Showgirls (1995)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I5ZjQ3NjctNmQ3My00NDExLTljNjktNDRkYTAwYmQ4ZmI2XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Showgirls (1995)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Showgirls (1995)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I5ZjQ3NjctNmQ3My00NDExLTljNjktNDRkYTAwYmQ4ZmI2XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",Showgirls (1995)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Showgirls.1995.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Shrek (2001)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Shrek (2001)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Shrek.2001.1080p.BluRay.DDP.7.1.x265-EDGE2020.mkv
@@ -553,7 +553,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Ted.2.2015.EXTENDED.1080p.
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Tenacious.D.In.The.Pick.Of.Destiny.2006.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Adventures of Sharkboy and Lavagirl (2005)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI2YWNjNGMtZDgxMi00NmNhLThlYmEtYWQ5ZTNiMmFmZjQ3XkEyXkFqcGc@._V1_.jpg" group-title="VOD",The Adventures of Sharkboy and Lavagirl (2005)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Adventures.Of.Sharkboy.And.Lavagirl.3-D.2005.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Babe (1992)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM3ODI0YmEtNmNlYS00OGUyLWJhMzItM2E4NWMxNWFhOTY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="DrewLive - VOD" radio="false",The Babe (1992)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Babe (1992)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM3ODI0YmEtNmNlYS00OGUyLWJhMzItM2E4NWMxNWFhOTY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="VOD",1,190,281_.jpg" group-title="DrewLive - VOD" radio="false",The Babe (1992)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Babe.1992.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Bad Guys 2 (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OWM2NDctZTA4MS00YTJmLWJiZTItOTFkZWUwMGU2OWU5XkEyXkFqcGc@._V1_.jpg" group-title="VOD",The Bad Guys 2 (2025)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The%20Bad%20Guys%202%202025%201080p%2010bit%20WEBRip%206CH%20X265%20HEVC-PSA.mkv
@@ -575,7 +575,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Conjuring.2013.1080p.B
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The%20Conjuring%20Last%20Rites%202025%201080p%20HDRip%20HC%20HEVC%20x265%20BONE.mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Dark Knight (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="VOD",The Dark Knight (2008)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Batman.The.Dark.Knight.2008.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Day After Tomorrow (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",The Day After Tomorrow (2004)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Day After Tomorrow (2004)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="VOD",0,190,281_.jpg" group-title="DrewLive - VOD" radio="false",The Day After Tomorrow (2004)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Day.After.Tomorrow.2004.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Fantastic Four: First Steps (2025)" tvg-logo="https://image.tmdb.org/t/p/original/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg" group-title="VOD",The Fantastic Four: First Steps (2025)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The%20Fantastic%20Four%20First%20Steps%202025%201080p%20WEBRip%2010Bit%20DDP5%201%20x265-NeoNoir.mkv
@@ -641,7 +641,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Waterboy.1998.1080p.Bl
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The%20Wedding%20Singer%201998%20(1080p%20x265%2010bit%20Tigole).mkv
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Wild Robot (2024)" tvg-logo="https://image.tmdb.org/t/p/original/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg" group-title="VOD",The Wild Robot (2024)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Wild.Robot.2024.1080p.WEBRip.x265.10bit.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Chronicles of Narnia: The Lion, The Witch and The Wardrobe (2005)" tvg-logo="https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="VOD",The Witch and The Wardrobe (2005)" tvg-id="Movie.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="DrewLive - VOD" radio="false",The Witch and The Wardrobe (2005)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Chronicles of Narnia: The Lion, The Witch and The Wardrobe (2005)" tvg-logo="https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="VOD",The Witch and The Wardrobe (2005)" tvg-logo="https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="VOD",The Witch and The Wardrobe (2005)" tvg-id="Movie.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg" group-title="DrewLive - VOD" radio="false",The Witch and The Wardrobe (2005)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Chronicles.of.Narnia.The.Lion.The%20Witch.And.The.Wardrobe.2005.1080p.Brrip.x264.Deceit.YIFY.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="The Wolf of Wall Street (2013)" tvg-logo="https://th.bing.com/th/id/R.ca85b0a51be6a481b042841ec8c4f8f9?rik=GZfmvrYl7S2EOg&riu=http%3a%2f%2fwww.danielyeow.com%2fwp-content%2fuploads%2fTheWolfofWallStreet-poster.jpg&ehk=9pInwuqq%2bHihzJeOyUkpxRoiyWqy8djHUd9%2brEx%2bYjM%3d&risl=&pid=ImgRaw&r=0" group-title="VOD",The Wolf of Wall Street (2013)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/The.Wolf.of.Wall.Street.2013.1080p.BluRay.AV1.Opus.MULTi3-RAV1NE.mkv
@@ -673,7 +673,7 @@ http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Wreck.It.Ralph.2012.1080p.
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/You.Dont.Mess.with.the.Zohan.2008.1080p.BrRip.x264.YIFY.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="You're Cordially Invited (2025)" tvg-logo="https://th.bing.com/th/id/OIP.aYEFgXkZAg2NpE8fP2-OjQHaJQ?rs=1&pid=ImgDetMain" group-title="VOD",You're Cordially Invited (2025)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Youre.Cordially.Invited.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv
-#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Yu Yu Hakusho The Movie: Poltergeist Report (1994)" tvg-logo="https://m.media-amazon.com/images/I/51arnVtq9KL._AC_UF894,1000_QL80_.jpg" group-title="VOD",1000_QL80_.jpg" group-title="DrewLive - VOD" radio="false",Yu Yu Hakusho The Movie: Poltergeist Report (1994)
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Yu Yu Hakusho The Movie: Poltergeist Report (1994)" tvg-logo="https://m.media-amazon.com/images/I/51arnVtq9KL._AC_UF894,1000_QL80_.jpg" group-title="VOD",1000_QL80_.jpg" group-title="VOD",1000_QL80_.jpg" group-title="DrewLive - VOD" radio="false",Yu Yu Hakusho The Movie: Poltergeist Report (1994)
 http://drewlive2423.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Movies/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20Poltergeist%20Report.mp4
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Zack and Miri Make a Porno (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhlMjI1MjItOTRmYS00MDU4LWFjYWItNGFmNmJhYjJkNzAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD",Zack and Miri Make a Porno (2008)
 http://drewlive2423.duckdns.org:9000/DrewLiveVODMovie/Zack.and.Miri.Make.a.Porno.2008.1080p.BluRay.x264.YIFY.mp4
@@ -709,7 +709,7 @@ https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
 https://theupperleft.thesprawl.online/hls/0/stream.m3u8?cachebust=2f690bd7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="The Void" tvg-logo="https://png.pngtree.com/png-vector/20220530/ourmid/pngtree-monkey-trippy-psychedelic-vector-illustrations-for-your-work-logo-png-image_4762700.png" group-title="ENG | Music",The Void
 https://mthrbord.tv/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Cartoon Cartoons Network | 24/7 Classic Cartoon Network, Toonami & Adult Swim Live" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="ENG | Entertainment",Toonami & Adult Swim Live
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Cartoon Cartoons Network | 24/7 Classic Cartoon Network, Toonami & Adult Swim Live" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="ENG | Entertainment",Toonami & Adult Swim Live" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="ENG | Entertainment",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/0/stream.m3u8?cachebust=f470df
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Toonami Aftermath East" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="ENG | Entertainment",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -809,11 +809,11 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsqkfzOo7eZ4JA
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv8RESQ26_60gQjR_wGEqwc/m3u8
 #EXTINF:-1 tvg-id="ar-little-rock-nbc-kark" tvg-name="AR | Little Rock | NBC KARK" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Local | NBC",AR | Little Rock | NBC KARK
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuwe_pgg_ttQOZjX1n4murp/m3u8
-#EXTINF:-1 tvg-id="au-7flix-adelaide" tvg-name="AU: 7flix Adelaide" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",AU: 7flix Adelaide
+#EXTINF:-1 tvg-id="7FlixAdelaide.au" tvg-name="AU: 7flix Adelaide" group-title="ENG | Entertainment",AU: 7flix Adelaide
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvoM16et4HmBqIZttifx26v/m3u8
-#EXTINF:-1 tvg-id="au-10-shake-adelaide" tvg-name="AU: 10 Shake Adelaide" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",AU: 10 Shake Adelaide
+#EXTINF:-1 tvg-id="10ShakeAdelaide.au" tvg-name="AU: 10 Shake Adelaide" group-title="ENG | Entertainment",AU: 10 Shake Adelaide
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps8SEv6z7qbtZkqDVW2TSo8/m3u8
-#EXTINF:-1 tvg-id="au-10-shake-brisbane" tvg-name="AU: 10 Shake Brisbane" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",AU: 10 Shake Brisbane
+#EXTINF:-1 tvg-id="10ShakeBrisbane.au" tvg-name="AU: 10 Shake Brisbane" group-title="ENG | Entertainment",AU: 10 Shake Brisbane
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptvzXYcibHblVRwFygkRviO/m3u8
 #EXTINF:-1 tvg-id="au-abc-kids-perth" tvg-name="AU: ABC Kids Perth" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="Z - Offline Streams",AU: ABC Kids Perth
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptuZBysUD_IJHRxyWR-LaLn/m3u8
@@ -821,7 +821,7 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptuZBysUD_IJHR
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvCAyZ9tm9rPNA2-MtV2xJq/m3u8
 #EXTINF:-1 tvg-id="au-abc-news-sydney" tvg-name="AU: ABC News Sydney" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",AU: ABC News Sydney
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvxL311_1sYIwn4mACWX8HL/m3u8
-#EXTINF:-1 tvg-id="au-abc-perth" tvg-name="AU: ABC Perth" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",AU: ABC Perth
+#EXTINF:-1 tvg-id="ABCTVPerth.au" tvg-name="AU: ABC Perth" group-title="ENG | Entertainment",AU: ABC Perth
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpubXKc8Bdw0PZt2fAwwQjjv/m3u8
 #EXTINF:-1 tvg-id="au-bein-sports-1" tvg-name="AU: beIN Sports 1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",AU: beIN Sports 1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuhzeUhHlYwBFku3ib-kwZd/m3u8
@@ -5183,7 +5183,7 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsiC_Q2mDNFCgt
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvXKXo9bWDu-KStTapIMlSm/m3u8
 #EXTINF:-1 tvg-id="uk-5star-1" tvg-name="UK: 5STAR +1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="Z - Offline Streams",UK: 5STAR +1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvN37WbrTzcvtE60CgXwv8R/m3u8
-#EXTINF:-1 tvg-id="uk-5usa" tvg-name="UK: 5USA" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",UK: 5USA
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="UK: 5USA" group-title="ENG | Entertainment",UK: 5USA
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvVXTiLuqfTVZwpSMxod_fp/m3u8
 #EXTINF:-1 tvg-id="uk-5usa-1" tvg-name="UK: 5USA +1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",UK: 5USA +1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsrCqAum2uRZg6RS95rTUcp/m3u8
@@ -6201,9 +6201,9 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpu_9-CyxF8Vbne
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptt-WuAU6ZeXBuLKqGl61MC/m3u8
 #EXTINF:-1 tvg-id="uk-yesterday-1" tvg-name="UK: Yesterday +1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="Z - Offline Streams",UK: Yesterday +1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuxHuN257m6blKbwBv3McaE/m3u8
-#EXTINF:-1 tvg-id="usa-aande" tvg-name="USA: AANDE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AANDE
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E" group-title="ENG | Entertainment",A&E
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvcYpEMnH7IGPDEB43eri5h/m3u8
-#EXTINF:-1 tvg-id="usa-aande-west" tvg-name="USA: AANDE (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AANDE (WEST)
+#EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="A&E (WEST)" group-title="ENG | Entertainment",A&E (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvl7Edq6vrYrKdpJH_Fd9Rz/m3u8
 #EXTINF:-1 tvg-id="usa-abc" tvg-name="USA: ABC" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="Z - Offline Streams",USA: ABC
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuTvv8JVVko-11kpvh8JgF-/m3u8
@@ -6215,37 +6215,37 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptXVmkcu3NsDOv
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptwMGmCkS2wrFFUo5f2yPZC/m3u8
 #EXTINF:-1 tvg-id="usa-adult-swim" tvg-name="USA: ADULT SWIM" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ADULT SWIM
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpunA8Ce8FKopWt2xcCt-UVs/m3u8
-#EXTINF:-1 tvg-id="usa-afro" tvg-name="USA: AFRO" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AFRO
+#EXTINF:-1 tvg-id="afro.us" tvg-name="AFRO" group-title="ENG | Entertainment",AFRO
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuefI42cAyZgf55Gq6WqxWS/m3u8
-#EXTINF:-1 tvg-id="usa-alien-nation" tvg-name="USA: ALIEN NATION" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ALIEN NATION
+#EXTINF:-1 tvg-id="AlienNationByDUST.us" tvg-name="ALIEN NATION" group-title="ENG | Entertainment",ALIEN NATION
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptWgS0himdGuN8MEiK6yhwI/m3u8
 #EXTINF:-1 tvg-id="usa-altitude-sports" tvg-name="USA: ALTITUDE SPORTS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: ALTITUDE SPORTS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvCuGB0nW_nr5UuQ2oU6z1y/m3u8
 #EXTINF:-1 tvg-id="usa-altitude-sports-alternate" tvg-name="USA: ALTITUDE SPORTS ALTERNATE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: ALTITUDE SPORTS ALTERNATE
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvudM1IBX6h8ClEmU_Ndsko/m3u8
-#EXTINF:-1 tvg-id="usa-amc" tvg-name="USA: AMC" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="ENG | Entertainment",AMC
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsKkMvg9zrn-VY5kYKn_8gA/m3u8
 #EXTINF:-1 tvg-id="usa-amc-plus" tvg-name="USA: AMC PLUS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AMC PLUS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptDkyCQeyY7et2Vr_2dzD4V/m3u8
-#EXTINF:-1 tvg-id="usa-amc-west" tvg-name="USA: AMC (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AMC (WEST)
+#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (WEST)" group-title="ENG | Entertainment",AMC (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvcl77wTwO8_74wiZwtquBL/m3u8
-#EXTINF:-1 tvg-id="usa-american-heroes" tvg-name="USA: AMERICAN HEROES" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AMERICAN HEROES
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes" group-title="ENG | Entertainment",AMERICAN HEROES
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps6o8noJLiT97iJQmxGugK0/m3u8
-#EXTINF:-1 tvg-id="usa-amg-tv" tvg-name="USA: AMG TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AMG TV
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMG TV" group-title="ENG | Entertainment",AMG TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptCpwTDQ5r72ZMx9tDVfty4/m3u8
-#EXTINF:-1 tvg-id="usa-animal-planet" tvg-name="USA: ANIMAL PLANET" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="ENG | Entertainment",ANIMAL PLANET
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptAts6ElqEcTGFxkmBjlbhs/m3u8
-#EXTINF:-1 tvg-id="usa-animal-planet-west" tvg-name="USA: ANIMAL PLANET (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ANIMAL PLANET (WEST)
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet (WEST)" group-title="ENG | Entertainment",Animal Planet (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuJibnSxbxYbB_2iU02cFep/m3u8
-#EXTINF:-1 tvg-id="usa-antenna-tv" tvg-name="USA: ANTENNA TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ANTENNA TV
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="ANTENNA TV" group-title="ENG | Entertainment",ANTENNA TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvhTLEiLdkh7DWwfqfV4taf/m3u8
-#EXTINF:-1 tvg-id="usa-aspire-tv" tvg-name="USA: ASPIRE TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: ASPIRE TV
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="ASPIRE TV" group-title="ENG | Entertainment",ASPIRE TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvOPnP0YJ_J_P_TnpLDCtSP/m3u8
 #EXTINF:-1 tvg-id="usa-att-sportsnet-pittsburgh" tvg-name="USA: SPORTSNET PITTSBURGH" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: SPORTSNET PITTSBURGH
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvq4iGXBtkEWi9MIVTJix6k/m3u8
-#EXTINF:-1 tvg-id="usa-awe" tvg-name="USA: AWE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AWE
+#EXTINF:-1 tvg-id="AWE.us" tvg-name="AWE" group-title="ENG | Entertainment",AWE
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvQgqVC5OIOtGxLvoqWUN-1/m3u8
-#EXTINF:-1 tvg-id="usa-axs-tv" tvg-name="USA: AXS TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: AXS TV
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="ENG | Entertainment",AXS TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptGy26yie8P6zm5KDGGh5g3/m3u8
 #EXTINF:-1 tvg-id="usa-baby-first" tvg-name="USA: BABY FIRST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Kids & Family",USA: BABY FIRST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptFUEOnbT1pFJrCM8e0zr__/m3u8
@@ -6253,29 +6253,29 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptFUEOnbT1pFJr
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsv2ESLeGJADkzwFBxlauSg/m3u8
 #EXTINF:-1 tvg-id="usa-bay-news-9" tvg-name="USA: BAY NEWS 9" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: BAY NEWS 9
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptu64-EkHzZdARd7uDiUO7T/m3u8
-#EXTINF:-1 tvg-id="usa-bbc-america" tvg-name="USA: BBC AMERICA" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BBC AMERICA
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" group-title="ENG | Entertainment",BBC AMERICA
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptxodbZPqEXl7mpVEj9H6r8/m3u8
-#EXTINF:-1 tvg-id="usa-bbc-america-west" tvg-name="USA: BBC AMERICA (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BBC AMERICA (WEST)
+#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC AMERICA (WEST)" group-title="ENG | Entertainment",BBC AMERICA (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpulP8F5S303q5tX2xPdEAA_/m3u8
 #EXTINF:-1 tvg-id="usa-bbc-world-news" tvg-name="USA: BBC WORLD NEWS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: BBC WORLD NEWS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpulSYTKMZOqwQJ_qwG-6iSf/m3u8
-#EXTINF:-1 tvg-id="usa-beach-tv-myrtle-beach" tvg-name="USA: BEACH TV (MYRTLE BEACH)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BEACH TV (MYRTLE BEACH)
+#EXTINF:-1 tvg-id="BeachTVWGSCCD.us" tvg-name="BEACH TV (MYRTLE BEACH)" group-title="ENG | Entertainment",BEACH TV (MYRTLE BEACH)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvka7gzR3jCSy1WEwfPOyFM/m3u8
 #EXTINF:-1 tvg-id="usa-bein-sports" tvg-name="USA: BEIN SPORTS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: BEIN SPORTS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvd8GSPlNyOEF3tikjsc7Sr/m3u8
 #EXTINF:-1 tvg-id="usa-bein-xtra" tvg-name="USA: BEIN XTRA" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: BEIN XTRA
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpveOn_JyYIrHIWnDF9J-n6N/m3u8
-#EXTINF:-1 tvg-id="usa-bet" tvg-name="USA: BET" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BET
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" group-title="ENG | Entertainment",BET
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvCoYjBVU8b83s5he0_4tUW/m3u8
 #EXTINF:-1 tvg-id="usa-bet-gospel" tvg-name="USA: BET GOSPEL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Music",USA: BET GOSPEL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv88kH5oEDv9o_B2uMxyQMo/m3u8
-#EXTINF:-1 tvg-id="usa-bet-her" tvg-name="USA: BET HER" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BET HER
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" group-title="ENG | Entertainment",BET HER
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvXB6_B2yEJ0CSXfDjkBHJa/m3u8
 #EXTINF:-1 tvg-id="usa-bet-jams" tvg-name="USA: BET JAMS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Music",USA: BET JAMS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuuUpjQwmMJGGJKyNCANB9w/m3u8
 #EXTINF:-1 tvg-id="usa-bet-soul" tvg-name="USA: BET SOUL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Music",USA: BET SOUL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsu21BSXWDvlRonnhlHkKKc/m3u8
-#EXTINF:-1 tvg-id="usa-bet-west" tvg-name="USA: BET (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BET (WEST)
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (WEST)" group-title="ENG | Entertainment",BET (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpurTA9gpSiul3gCJL19aAnh/m3u8
 #EXTINF:-1 tvg-id="usa-big-12-studios" tvg-name="USA: BIG 12 STUDIOS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: BIG 12 STUDIOS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuTrExslE6p33-6tmlNZQQH/m3u8
@@ -6299,21 +6299,21 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpspcR8BeDqn03g
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps1WYyRKfilk9HvU1VAmE3C/m3u8
 #EXTINF:-1 tvg-id="usa-boomerang" tvg-name="USA: BOOMERANG" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Kids & Family",USA: BOOMERANG
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps5fon2OMqDQApCOlgJzDIj/m3u8
-#EXTINF:-1 tvg-id="usa-bounce-tv" tvg-name="USA: BOUNCE TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BOUNCE TV
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="BOUNCE TV" group-title="ENG | Entertainment",BOUNCE TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptZWzAWJ6HSPBd60vd2FaG8/m3u8
 #EXTINF:-1 tvg-id="usa-bravesvision" tvg-name="USA: BRAVESVISION" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: BRAVESVISION
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvQES5_2fgtvZwRtDEBonpA/m3u8
-#EXTINF:-1 tvg-id="usa-bravo-east" tvg-name="USA: BRAVO (EAST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BRAVO (EAST)
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO (EAST)" group-title="ENG | Entertainment",BRAVO (EAST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvq9HNI3ywC4mEg9phvc7kU/m3u8
-#EXTINF:-1 tvg-id="usa-bravo-west" tvg-name="USA: BRAVO (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BRAVO (WEST)
+#EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="BRAVO (WEST)" group-title="ENG | Entertainment",BRAVO (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvBdefnI6DHJoQ_bBJ4L__b/m3u8
-#EXTINF:-1 tvg-id="usa-buzzr" tvg-name="USA: BUZZR" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: BUZZR
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="BUZZR" group-title="ENG | Entertainment",BUZZR
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsLYkp7_etbi-hENwtqeXDN/m3u8
 #EXTINF:-1 tvg-id="usa-cartoon-network-east" tvg-name="USA: CARTOON NETWORK EAST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Kids & Family",USA: CARTOON NETWORK EAST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps4obt_IzzHqMd2AKS0NSC1/m3u8
 #EXTINF:-1 tvg-id="usa-cartoon-network-west" tvg-name="USA: CARTOON NETWORK WEST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Kids & Family",USA: CARTOON NETWORK WEST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptHxAZf196NhUrdiqPVDp2Y/m3u8
-#EXTINF:-1 tvg-id="usa-catchy-comedy" tvg-name="USA: CATCHY COMEDY" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CATCHY COMEDY
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="CATCHY COMEDY" group-title="ENG | Entertainment",CATCHY COMEDY
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvM-zYWAeilfkiFGAxguIlV/m3u8
 #EXTINF:-1 tvg-id="usa-cbs" tvg-name="USA: CBS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="Z - Offline Streams",USA: CBS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptMOCscfIm3xeC1ansuaMLb/m3u8
@@ -6321,7 +6321,7 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptMOCscfIm3xeC
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuJxAChme2VEoe8GxAcroZp/m3u8
 #EXTINF:-1 tvg-id="usa-cbs-sports-network" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: CBS SPORTS NETWORK
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptJuzPLvW6fhjtguA5GXo4q/m3u8
-#EXTINF:-1 tvg-id="usa-charge" tvg-name="USA: CHARGE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CHARGE
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="CHARGE" group-title="ENG | Entertainment",CHARGE
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt5J_-3vfMBCgqb7SQ91FFZ/m3u8
 #EXTINF:-1 tvg-id="usa-cheddar-news" tvg-name="USA: CHEDDAR NEWS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: CHEDDAR NEWS
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsjqWJKiSeEUuwcisHuXecX/m3u8
@@ -6343,41 +6343,41 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuSarCiCIsu0pq
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt6cU--JsYIsMlcNQ9_mcDM/m3u8
 #EXTINF:-1 tvg-id="usa-cinemax-west" tvg-name="USA: CINEMAX WEST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Movies",USA: CINEMAX WEST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuyPSZmdU6TqHv1bmZ-abP8/m3u8
-#EXTINF:-1 tvg-id="usa-circle" tvg-name="USA: Circle Country" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: Circle Country
+#EXTINF:-1 tvg-id="Circle.peacocktv" tvg-name="Circle Country" group-title="ENG | Entertainment",Circle Country
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpua4bEzJiIK7mtn_AI4J4VD/m3u8
-#EXTINF:-1 tvg-id="usa-cleo-tv" tvg-name="USA: CLEO TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CLEO TV
+#EXTINF:-1 tvg-id="CleoTV.us" tvg-name="CLEO TV" group-title="ENG | Entertainment",CLEO TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuY0betN2SGBm1q7M_C7DcY/m3u8
-#EXTINF:-1 tvg-id="usa-cmt" tvg-name="USA: CMT" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CMT
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" group-title="ENG | Entertainment",CMT
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuWkujjbBDXjyskD8_h4lT9/m3u8
-#EXTINF:-1 tvg-id="usa-cnbc" tvg-name="USA: CNBC" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="ENG | Entertainment",CNBC
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptyW-TbVHCO8AZBF_cFF5dz/m3u8
-#EXTINF:-1 tvg-id="usa-cnbc-world" tvg-name="USA: CNBC WORLD" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CNBC WORLD
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="CNBC WORLD" group-title="ENG | Entertainment",CNBC WORLD
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsuFWxJxORaHv8V1zkaQcN-/m3u8
 #EXTINF:-1 tvg-id="usa-cnn" tvg-name="USA: CNN" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: CNN
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptDiTIJR_ISppMxR1blDrK5/m3u8
 #EXTINF:-1 tvg-id="usa-cnn-international" tvg-name="USA: CNN INTERNATIONAL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: CNN INTERNATIONAL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptNeY76sk3M-BNhN7IvzxNR/m3u8
-#EXTINF:-1 tvg-id="usa-cold-case-files" tvg-name="USA: COLD CASE FILES" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COLD CASE FILES
+#EXTINF:-1 tvg-id="ColdCaseFilesByAandE.us" tvg-name="COLD CASE FILES" group-title="ENG | 24/7",COLD CASE FILES
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsaFv44-0S7nfZtEb6xFl3g/m3u8
-#EXTINF:-1 tvg-id="usa-comedy-central" tvg-name="USA: COMEDY CENTRAL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL" group-title="ENG | Entertainment",COMEDY CENTRAL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptonjqqkwcWxTpY4KiWTTpY/m3u8
-#EXTINF:-1 tvg-id="usa-comedy-central-west" tvg-name="USA: COMEDY CENTRAL (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COMEDY CENTRAL (WEST)
+#EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="COMEDY CENTRAL (WEST)" group-title="ENG | Entertainment",COMEDY CENTRAL (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpv3hT4tsJHK9LMBodf2k3xz/m3u8
-#EXTINF:-1 tvg-id="usa-comedy-tv" tvg-name="USA: COMEDY TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COMEDY TV
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="COMEDY TV" group-title="ENG | Entertainment",COMEDY TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvoqWdlnhSMdb9oJXensxgf/m3u8
-#EXTINF:-1 tvg-id="usa-comet-tv" tvg-name="USA: COMET TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COMET TV
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET TV" group-title="ENG | Entertainment",COMET TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt8seppv60SPTN8ieohyIxk/m3u8
-#EXTINF:-1 tvg-id="usa-cooking-channel" tvg-name="USA: COOKING CHANNEL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COOKING CHANNEL
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING CHANNEL" group-title="ENG | Entertainment",COOKING CHANNEL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps6C8JXgVyCWX53SvdlWMrb/m3u8
 #EXTINF:-1 tvg-id="usa-court-tv" tvg-name="USA: COURT TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: COURT TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsMkAJFSzhjtcLCkBFHrj_Q/m3u8
 #EXTINF:-1 tvg-id="usa-cowboy-channel" tvg-name="USA: COWBOY CHANNEL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Westerns",USA: COWBOY CHANNEL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuKRWGzePlZH1hkM1ePsUnV/m3u8
-#EXTINF:-1 tvg-id="usa-cozi-tv" tvg-name="USA: COZI TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: COZI TV
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="COZI TV" group-title="ENG | Entertainment",COZI TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt7l1_KSuAfhBa7zH30ZyTP/m3u8
-#EXTINF:-1 tvg-id="usa-crime-360" tvg-name="USA: CRIME 360" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CRIME 360
+#EXTINF:-1 tvg-id="AandECrime360.us" tvg-name="CRIME 360" group-title="ENG | Entertainment",CRIME 360
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvHB8NQ6kZDrUGuZHe1U6iK/m3u8
-#EXTINF:-1 tvg-id="usa-crime-and-investigation" tvg-name="USA: CRIME AND INVESTIGATION" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CRIME AND INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CRIME AND INVESTIGATION" group-title="ENG | Entertainment",CRIME AND INVESTIGATION
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvR7lQYrznsVpVGhxtuC5c-/m3u8
 #EXTINF:-1 tvg-id="usa-c-span-1" tvg-name="USA: C-SPAN 1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: C-SPAN 1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpu-JwERINEeth5QB51T9zK9/m3u8
@@ -6385,33 +6385,33 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpu-JwERINEeth5
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvwRnRjTvhbrDOV6NmyhFGz/m3u8
 #EXTINF:-1 tvg-id="usa-c-span-3" tvg-name="USA: C-SPAN 3" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | News",USA: C-SPAN 3
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvt3K4ukqdBHD-KxTMCwrr_/m3u8
-#EXTINF:-1 tvg-id="usa-curiosity-stream" tvg-name="USA: CURIOSITY STREAM" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: CURIOSITY STREAM
+#EXTINF:-1 tvg-id="CuriosityNOW.us" tvg-name="CURIOSITY STREAM" group-title="ENG | Entertainment",CURIOSITY STREAM
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvUL_69K6t38NAzV6pwZ_T5/m3u8
 #EXTINF:-1 tvg-id="usa-cw-pix-11" tvg-name="USA: CW PIX 11" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Local | CW/IND/MY",USA: CW PIX 11
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptQBON_PAgtpUOIF227FH7T/m3u8
 #EXTINF:-1 tvg-id="usa-cw-pix-11" tvg-name="USA: CW PIX 11" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Local | CW/IND/MY",USA: CW PIX 11
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsIKLYFFMWArXPo_4d8JcgR/m3u8
-#EXTINF:-1 tvg-id="usa-dabl" tvg-name="USA: DABL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DABL
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL" group-title="ENG | Entertainment",DABL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptRh2v7XCtjAVTpYekefsBA/m3u8
-#EXTINF:-1 tvg-id="usa-dabl-west" tvg-name="USA: DABL (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DABL (WEST)
+#EXTINF:-1 tvg-id="DABLKPTVDT4.us" tvg-name="DABL (WEST)" group-title="ENG | Entertainment",DABL (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvZCclfaz0VGb9DVhpMTtit/m3u8
 #EXTINF:-1 tvg-id="usa-dazn-1" tvg-name="USA: DAZN 1" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: DAZN 1
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptmacYHFqYWLGCIYzXbHGmF/m3u8
-#EXTINF:-1 tvg-id="usa-destination-america" tvg-name="USA: DESTINATION AMERICA" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DESTINATION AMERICA
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="DESTINATION AMERICA" group-title="ENG | Entertainment",DESTINATION AMERICA
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt9UbbYrfXKBK_aW61pQS1_/m3u8
 #EXTINF:-1 tvg-id="usa-detroit-sportsnet" tvg-name="USA: DETROIT SPORTSNET" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: DETROIT SPORTSNET
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsxj_vejX9hUQf1hN2eNZCF/m3u8
 #EXTINF:-1 tvg-id="usa-dirtvision-now" tvg-name="USA: DIRTVISION NOW" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: DIRTVISION NOW
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvS2R6gWV4Agd5YH84tw_KV/m3u8
-#EXTINF:-1 tvg-id="usa-discovery-channel" tvg-name="USA: DISCOVERY CHANNEL" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="DISCOVERY CHANNEL" group-title="ENG | Entertainment",DISCOVERY CHANNEL
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptNJjxp2ogHmQKykoBt1Zhn/m3u8
-#EXTINF:-1 tvg-id="usa-discovery-channel-west" tvg-name="USA: DISCOVERY CHANNEL (WEST)" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DISCOVERY CHANNEL (WEST)
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel (WEST)" group-title="ENG | Entertainment",DISCOVERY CHANNEL (WEST)
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvW9ZcyRqU2UwnH7fbL9Stc/m3u8
-#EXTINF:-1 tvg-id="usa-discovery-family" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DISCOVERY FAMILY
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY FAMILY" group-title="ENG | Entertainment",DISCOVERY FAMILY
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsctljv0Z9I4PYLdIVJLXUe/m3u8
-#EXTINF:-1 tvg-id="usa-discovery-life" tvg-name="USA: DISCOVERY LIFE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DISCOVERY LIFE
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" group-title="ENG | Entertainment",DISCOVERY LIFE
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpt0ovJYsGTlbkly3vN1Fvfv/m3u8
-#EXTINF:-1 tvg-id="usa-discovery-science" tvg-name="USA: DISCOVERY SCIENCE" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG | Entertainment",DISCOVERY SCIENCE
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpu3eO9Bqtj2QfFKH-CRGhTu/m3u8
 #EXTINF:-1 tvg-id="usa-discovery-turbo" tvg-name="USA: DISCOVERY TURBO" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Sports",USA: DISCOVERY TURBO
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvaVZ-yIDJXgDEGBxaoytb8/m3u8
@@ -6427,13 +6427,11 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvxnLLganjFuUu
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptyYRQK2DpoJ67EN_z8SYES/m3u8
 #EXTINF:-1 tvg-id="usa-disney-xd-west" tvg-name="USA: DISNEY XD WEST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Kids & Family",USA: DISNEY XD WEST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvnoJuM4b1oMRzjtSVkO1kQ/m3u8
-#EXTINF:-1 tvg-id="usa-documentary-plus" tvg-name="USA: DOCUMENTARY PLUS" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DOCUMENTARY PLUS
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvasJ_QLstAKGQ9bHt2dwiu/m3u8
 #EXTINF:-1 tvg-id="usa-dog-tv" tvg-name="USA: DOG TV" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DOG TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvJ3-s-M6_uvmwOGmoMwPjF/m3u8
 #EXTINF:-1 tvg-id="usa-dust" tvg-name="USA: DUST" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: DUST
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptWTaZuSaBakjh3xnWJoWJL/m3u8
-#EXTINF:-1 tvg-id="usa-ebony" tvg-name="USA: EBONY" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: EBONY
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="EBONY" group-title="ENG | Entertainment",EBONY
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuPacmTciWdHunfn-PJeoZy/m3u8
 #EXTINF:-1 tvg-id="usa-e-entertainment" tvg-name="USA: E! ENTERTAINMENT" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV.png" group-title="ENG | Entertainment",USA: E! ENTERTAINMENT
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpu4x55gDvXSq2tOXP7JIoXT/m3u8
