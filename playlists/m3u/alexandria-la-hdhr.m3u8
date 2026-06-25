@@ -1,43 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KALB-DT.us_locals1" tvg-name="LA | Alexandria | NBC KALB" group-title="Local - NBC",LA | Alexandria | NBC KALB
+#EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | Lafayette | ABC KATC (HDHR)" group-title="ENG | Local | ABC",LA | Lafayette | ABC KATC (HDHR)
+http://12.186.20.98:5004/auto/v3.1
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Lafayette LA" group-title="ENG | Entertainment",Laff | Lafayette LA
+http://12.186.20.98:5004/auto/v3.2
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Lafayette LA" group-title="ENG | Westerns",Grit | Lafayette LA
+http://12.186.20.98:5004/auto/v3.3
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Lafayette LA" group-title="ENG | News",CourtTV | Lafayette LA
+http://12.186.20.98:5004/auto/v3.4
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Lafayette LA" group-title="ENG | Entertainment",Bounce | Lafayette LA
+http://12.186.20.98:5004/auto/v3.5
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shopping",QVC
+http://12.186.20.98:5004/auto/v3.6
+#EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | Alexandria | NBC KALB (HDHR)" group-title="ENG | Local | NBC",LA | Alexandria | NBC KALB (HDHR)
 http://12.186.20.98:5004/auto/v5.1
-#EXTINF:-1 tvg-id="KALB-DT2.us_locals1" tvg-name="LA | Alexandria | CBS KALB" group-title="Local - CBS",LA | Alexandria | CBS KALB
+#EXTINF:-1 tvg-id="CBSKALBDT2.us" tvg-name="LA | Alexandria | CBS KALB (HDHR)" group-title="ENG | Local | CBS",LA | Alexandria | CBS KALB (HDHR)
 http://12.186.20.98:5004/auto/v5.2
-#EXTINF:-1 tvg-id="CW.us2" tvg-name="LA | Alexandria | CW KALB" group-title="Local - CW/IND/MY",LA | Alexandria | CW KALB
+#EXTINF:-1 tvg-name="LA | Alexandria | CW KALB (HDHR)" group-title="ENG | Local | CW/MY",LA | Alexandria | CW KALB (HDHR)
 http://12.186.20.98:5004/auto/v5.3
-#EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gulf Coast Sports - LA" group-title="Sports",Gulf Coast Sports - LA
+#EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gray Sports Network - LA" group-title="ENG | Sports",Gray Sports Network - LA
 http://12.186.20.98:5004/auto/v5.4
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit - LA" group-title="Westerns",Grit - LA
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Alexandria LA" group-title="ENG | Westerns",Grit | Alexandria LA
 http://12.186.20.98:5004/auto/v5.5
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - LA" group-title="Entertainment - ENG",Oxygen True Crime - LA
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Alexandria LA" group-title="ENG | Entertainment",Oxygen | Alexandria LA
 http://12.186.20.98:5004/auto/v5.6
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - LA" group-title="Entertainment - ENG",365BLK - LA
+#EXTINF:-1 tvg-id="365BLK.us" tvg-name="365BLK | Alexandria LA" group-title="ENG | Entertainment",365BLK | Alexandria LA
 http://12.186.20.98:5004/auto/v5.7
-#EXTINF:-1 tvg-id="KVHP-DT.us_locals1" tvg-name="LA | Lake Charles | FOX KVHP" group-title="Local - FOX",LA | Lake Charles | FOX KVHP
+#EXTINF:-1 tvg-id="NBCKPLC.us" tvg-name="LA | Lake Charles | NBC KPLC" group-title="ENG | Local | NBC",LA | Lake Charles | NBC KPLC
+http://12.186.20.98:5004/auto/v7.1
+#EXTINF:-1 tvg-id="CWKPLCDT2.us" tvg-name="LA | Lake Charles | CW KPLC" group-title="ENG | Local | CW/MY",LA | Lake Charles | CW KPLC
+http://12.186.20.98:5004/auto/v7.2
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Lake Charles LA" group-title="ENG | Entertainment",Bounce | Lake Charles LA
+http://12.186.20.98:5004/auto/v7.3
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Lake Charles LA" group-title="ENG | Westerns",Grit | Lake Charles LA
+http://12.186.20.98:5004/auto/v7.4
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Lake Charles LA" group-title="ENG | Entertainment",DABL | Lake Charles LA
+http://12.186.20.98:5004/auto/v7.5
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Lake Charles LA" group-title="ENG | Entertainment",ION Mystery | Lake Charles LA
+http://12.186.20.98:5004/auto/v7.6
+#EXTINF:-1 tvg-name="365BLK" group-title="ENG | Entertainment",365BLK | Lake Charles LA
+http://12.186.20.98:5004/auto/v7.7
+#EXTINF:-1 tvg-id="PBSKLTL.us" tvg-name="LA | Lake Charles | PBS KLTL" group-title="ENG | Kids & Family",LA | Lake Charles | PBS KLTL
+http://12.186.20.98:5004/auto/v18.1
+#EXTINF:-1 tvg-name="LA | Lake Charles | PBS Kids" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Kids EPG
+http://12.186.20.98:5004/auto/v18.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="LA | Lake Charles | PBS Create" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Create
+http://12.186.20.98:5004/auto/v18.3
+#EXTINF:-1 tvg-id="FOXKVHP.us" tvg-name="LA | Lake Charles | FOX KVHP (HDHR)" group-title="ENG | Local | FOX",LA | Lake Charles | FOX KVHP (HDHR)
 http://12.186.20.98:5004/auto/v29.1
-#EXTINF:-1 tvg-id="KVHP-DT2.us_locals1" tvg-name="LA | Lake Charles | ABC KVHP" group-title="Local - ABC",LA | Lake Charles | ABC KVHP
+#EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP (HDHR)" group-title="ENG | Local | ABC",LA | Lake Charles | ABC KVHP (HDHR)
 http://12.186.20.98:5004/auto/v29.2
-#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey" group-title="Entertainment - ENG",Nosey
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Lake Charles LA" group-title="ENG | Entertainment",Nosey | Lake Charles LA
 http://12.186.20.98:5004/auto/v29.3
-#EXTINF:-1 tvg-id="KWEX-DT.us_locals1" tvg-name="Univision - LA" group-title="Spanish",Univision - LA
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision | Lake Charles LA" group-title="ESP | Local",Univision | Lake Charles LA
 http://12.186.20.98:5004/auto/v29.4
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - LA" group-title="Entertainment - ENG",ION Plus - LA
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Lake Charles LA" group-title="ENG | Entertainment",ION Plus | Lake Charles LA
 http://12.186.20.98:5004/auto/v29.5
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey" group-title="Entertainment - ENG",Confess by Nosey
+#EXTINF:-1 tvg-id="ConfessByNosey.us" tvg-name="Confess | Lake Charles LA" group-title="ENG | Entertainment",Confess | Lake Charles LA
 http://12.186.20.98:5004/auto/v29.6
-#EXTINF:-1 tvg-id="KSWL-DT.us_locals1" tvg-name="LA | DeRiddler | CBS KSWL" group-title="Local - CBS",LA | DeRiddler | CBS K30QVD
+#EXTINF:-1 tvg-id="CBSKSWL.us" tvg-name="LA | Lake Charles | CBS K30QV" group-title="ENG | Local | CBS",LA | Lake Charles | CBS K30QV
 http://12.186.20.98:5004/auto/v30.1
-#EXTINF:-1 tvg-id="KGLA-DT.us_locals1" tvg-name="Telemundo - LA" group-title="Spanish",Telemundo - LA
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo | Lake Charles LA" group-title="ESP | Local",Telemundo | Lake Charles LA
 http://12.186.20.98:5004/auto/v30.2
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="meTV - LA" group-title="Entertainment - ENG",meTV - LA
+#EXTINF:-1 tvg-id="MeTVKYAZ.us" tvg-name="MeTV | Lake Charles LA" group-title="ENG | Entertainment",MeTV | Lake Charles LA
 http://12.186.20.98:5004/auto/v30.3
-#EXTINF:-1 tvg-id="SonLife.Broadcasting.Network.HD.us2" tvg-name="Sonlife - LA" group-title="Religion",Sonlife - LA
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Lake Charles LA" group-title="Religion (All Lang)",Sonlife | Lake Charles LA
 http://12.186.20.98:5004/auto/v30.4
-#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I - LA" group-title="Entertainment - ENG",H&I - LA
+#EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I | Alexandria LA" group-title="ENG | Entertainment",H&I | Alexandria LA
 http://12.186.20.98:5004/auto/v41.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - LA" group-title="Entertainment - ENG",Antenna TV - LA
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna TV | Alexandria LA" group-title="ENG | Entertainment",Antenna TV | Alexandria LA
 http://12.186.20.98:5004/auto/v41.2
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - LA" group-title="Entertainment - ENG",Start TV - LA
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV | Alexandria LA" group-title="ENG | Entertainment",Start TV | Alexandria LA
 http://12.186.20.98:5004/auto/v41.3
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - LA" group-title="Entertainment - ENG",Cozi TV - LA
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="COZI TV | Alexandria LA" group-title="ENG | Entertainment",COZI TV | Alexandria LA
 http://12.186.20.98:5004/auto/v41.4
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story TV | Alexandria LA" group-title="ENG | Entertainment",Story TV | Alexandria LA
+http://12.186.20.98:5004/auto/v41.5

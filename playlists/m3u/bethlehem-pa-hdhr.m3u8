@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WPSU-DT.us_locals1" tvg-name="PA | Clearfield | PBS WPSU" group-title="Kids & Family",PA | Clearfield | PBS WPSU
-http://199.193.59.138:5004/auto/v3.1
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - PA1" group-title="Kids & Family",Create - PA1
-http://199.193.59.138:5004/auto/v3.2
-#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="World" group-title="Kids & Family",World
-http://199.193.59.138:5004/auto/v3.3
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - PA" group-title="Kids & Family",PBS Kids - PA
-http://199.193.59.138:5004/auto/v3.4
-#EXTINF:-1 tvg-id="WJAC-DT.us_locals1" tvg-name="PA | Johnstown | NBC WJAC" group-title="Local - NBC",PA | Johnstown | NBC WJAC
+#EXTINF:-1 tvg-id="NBCWJAC.us" tvg-name="PA | Johnstown | NBC WJAC (HDHR)" group-title="ENG | Local | NBC",PA | Johnstown | NBC WJAC (HDHR)
 http://199.193.59.138:5004/auto/v6.1
-#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="PA | Johnstown | CW+" group-title="Local - CW/IND/MY",PA | Johnstown | CW+
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! - Johnstown PA" group-title="ENG | Entertainment",Charge! - Johnstown PA
+http://199.193.59.138:5004/auto/v6.2
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet - Johnstown PA" group-title="ENG | Entertainment",Comet - Johnstown PA
+http://199.193.59.138:5004/auto/v6.3
+#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="PA | Johnstown | CW+" group-title="ENG | Local | CW/MY",PA | Johnstown | CW+
 http://199.193.59.138:5004/auto/v6.4
-#EXTINF:-1 tvg-id="WTOO-DT.us_locals1" tvg-name="H&I - PA" group-title="Entertainment",H&I - PA
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest - Johnstown PA " group-title="ENG | Entertainment",TheNest - Johnstown PA
+http://199.193.59.138:5004/auto/v6.5
+#EXTINF:-1 tvg-id="WTOO-CD.us_locals1" tvg-name="H&I - Johnstown PA" group-title="ENG | Entertainment",H&I - Johnstown PA
 http://199.193.59.138:5004/auto/v50.1
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PA" group-title="Entertainment",Start TV - PA
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="StartTV - Johnstown PA" group-title="ENG | Entertainment",StartTV - Johnstown PA
 http://199.193.59.138:5004/auto/v50.2
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PA" group-title="Entertainment",Catchy Comedy - PA
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedy - Johnstown PA" group-title="ENG | Entertainment",Catchy Comedy - Johnstown PA
 http://199.193.59.138:5004/auto/v50.3
-#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - PA" group-title="Movies",Movies! - PA
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies - Johnstown PA" group-title="ENG | Movies",Movies - Johnstown PA
 http://199.193.59.138:5004/auto/v50.4
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - PA" group-title="Entertainment",Story Television - PA
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story - Johnstown PA" group-title="ENG | Entertainment",Story - Johnstown PA
 http://199.193.59.138:5004/auto/v50.5
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - PA" group-title="Kids & Family",meTV Toons - PA
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons - Johnstown PA" group-title="ENG | Kids & Family",MeTV Toons - Johnstown PA
 http://199.193.59.138:5004/auto/v50.6
-#EXTINF:-1 tvg-id="WBPH-DT.us_locals1" tvg-name="Lighthouse TV" group-title="Religion",Lighthouse TV
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="PA | Bethlehem | LighthouseTV" group-title="Religion (All Lang)",PA | Bethlehem | LighthouseTV
 http://199.193.59.138:5004/auto/v50.7

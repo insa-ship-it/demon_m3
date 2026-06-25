@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 group-title="ENG | Entertainment",E1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Kids & Family",K1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | ABC",L1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | CBS",L2
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | CW/MY",L3
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | FOX",L4
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | IND",L5
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Local | NBC",L6
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Movies",M1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Music",M2
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Sports",S1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | Westerns",W1
+http://example.com/stream
+#EXTINF:-1 group-title="ESP | Local",El1
+http://example.com/stream
+#EXTINF:-1 group-title="ENG | News",N1
+http://example.com/stream
+#EXTINF:-1 group-title="Religion (All Lang)",Religion1
+http://example.com/stream
+#EXTINF:-1 group-title="Shopping",Shopping1
+http://example.com/stream
+#EXTINF:-1 tvg-name="MA | Boston | PBS World" group-title="New Group",MA | Boston | PBS World
+http://192.168.1.5:5004/auto/v2.2
+#EXTINF:-1 tvg-id="PBSWGBH.us" tvg-name="MA | Boston | PBS WGBH" group-title="New Group",MA | Boston | PBS WGBH
+http://192.168.1.5:5004/auto/v2.3
+#EXTINF:-1 tvg-name="MA | Boston | CBS WBZ" group-title="New Group",MA | Boston | CBS WBZ
+http://192.168.1.5:5004/auto/v4.1
+#EXTINF:-1 tvg-name="Start TV | Boston MA" group-title="New Group",Start TV | Boston MA
+http://example.com/stream
+#EXTINF:-1 tvg-name="Dabl | Boston MA" group-title="New Group",Dabl | Boston MA
+http://192.168.1.5:5004/auto/v4.3
+#EXTINF:-1 tvg-name="Outlaw | Boston MA" group-title="New Group",Outlaw | Boston MA
+http://192.168.1.5:5004/auto/v4.4
+#EXTINF:-1 tvg-name="Catchy Comedy | Boston MA" group-title="New Group",Catchy Comedy | Boston MA
+http://192.168.1.5:5004/auto/v4.5
+#EXTINF:-1 tvg-name="MA | Boston | ABC WCVB" group-title="New Group",MA | Boston | ABC WCVB
+http://192.168.1.5:5004/auto/v5.1
+#EXTINF:-1 tvg-name="MeTV | Boston MA" group-title="New Group",MeTV | Boston MA
+http://192.168.1.5:5004/auto/v5.2
+#EXTINF:-1 tvg-name="Story TV | Boston MA" group-title="New Group",Story TV | Boston MA
+http://192.168.1.5:5004/auto/v5.3
+#EXTINF:-1 tvg-name="MA | Boston | WHDH" group-title="New Group",MA | Boston | WHDH
+http://192.168.1.5:5004/auto/v7.1
+#EXTINF:-1 tvg-name="Defy | Boston MA" group-title="New Group",Defy | Boston MA
+http://192.168.1.5:5004/auto/v7.2
+#EXTINF:-1 tvg-name="MA | Boston | NBC WBTS" group-title="New Group",MA | Boston | NBC WBTS
+http://192.168.1.5:5004/auto/v15.1
+#EXTINF:-1 tvg-name="Cozi | Boston MA" group-title="New Group",Cozi | Boston MA
+http://192.168.1.5:5004/auto/v15.2
+#EXTINF:-1 tvg-name="American Crimes | Boston MA" group-title="New Group",American Crimes | Boston MA
+http://192.168.1.5:5004/auto/v15.3
+#EXTINF:-1 tvg-name="Oxygen | Boston MA" group-title="New Group",Oxygen | Boston MA
+http://192.168.1.5:5004/auto/v15.4
+#EXTINF:-1 tvg-name="MA | Boston | FOX WFXT" group-title="New Group",MA | Boston | FOX WFXT
+http://192.168.1.5:5004/auto/v25.1
+#EXTINF:-1 tvg-name="Charge! | Boston MA" group-title="New Group",Charge! | Boston MA
+http://192.168.1.5:5004/auto/v25.2
+#EXTINF:-1 tvg-name="Laff | Boston MA" group-title="New Group",Laff | Boston MA
+http://192.168.1.5:5004/auto/v25.3
+#EXTINF:-1 tvg-name="MA | Boston | Unimas WUTF" group-title="New Group",MA | Boston | Unimas WUTF
+http://192.168.1.5:5004/auto/v27.1
+#EXTINF:-1 tvg-name="LATV | Boston MA" group-title="New Group",LATV | Boston MA
+http://192.168.1.5:5004/auto/v27.2
+#EXTINF:-1 tvg-name="TheNest | Boston MA" group-title="New Group",TheNest | Boston MA
+http://192.168.1.5:5004/auto/v27.3
+#EXTINF:-1 tvg-name="Jewelry TV | Boston MA" group-title="New Group",Jewelry TV | Boston MA
+http://192.168.1.5:5004/auto/v27.4
+#EXTINF:-1 tvg-name="MA | Boston | WSBK" group-title="New Group",MA | Boston | WSBK
+http://192.168.1.5:5004/auto/v38.1
+#EXTINF:-1 tvg-name="H&I | Boston MA" group-title="New Group",H&I | Boston MA
+http://192.168.1.5:5004/auto/v38.2
+#EXTINF:-1 tvg-name="QVC | Boston MA" group-title="New Group",QVC | Boston MA
+http://192.168.1.5:5004/auto/v38.3
+#EXTINF:-1 tvg-name="QVC2 | Boston MA" group-title="New Group",QVC2 | Boston MA
+http://192.168.1.5:5004/auto/v38.4
+#EXTINF:-1 tvg-name="Movies! | Boston MA" group-title="New Group",Movies! | Boston MA
+http://192.168.1.5:5004/auto/v38.5
+#EXTINF:-1 tvg-name="Confess | Boston MA" group-title="New Group",Confess | Boston MA
+http://192.168.1.5:5004/auto/v38.6
+#EXTINF:-1 tvg-name="MA | Boston | PBS WGBX" group-title="New Group",MA | Boston | PBS WGBX
+http://192.168.1.5:5004/auto/v44.2
+#EXTINF:-1 tvg-name="MA | Boston | PBS Create WGBX" group-title="New Group",MA | Boston | PBS Create WGBX
+http://192.168.1.5:5004/auto/v44.3
+#EXTINF:-1 tvg-name="MA | Boston | PBS Kids WGBX" group-title="New Group",MA | Boston | PBS Kids WGBX
+http://192.168.1.5:5004/auto/v44.4
+#EXTINF:-1 tvg-name="True Crime | Derry NH" group-title="New Group",True Crime | Derry NH
+http://192.168.1.5:5004/auto/v50.1
+#EXTINF:-1 tvg-name="MA | Cambridge | CW WLVI" group-title="New Group",MA | Cambridge | CW WLVI
+http://192.168.1.5:5004/auto/v56.1
+#EXTINF:-1 tvg-name="Buzzr | Cambridge MA" group-title="New Group",Buzzr | Cambridge MA
+http://192.168.1.5:5004/auto/v56.2
+#EXTINF:-1 tvg-id="WDPX-DT.us_locals1" tvg-name="Grit | Woburn MA" group-title="New Group",Grit | Woburn MA
+http://192.168.1.5:5004/auto/v58.1
+#EXTINF:-1 tvg-name="NH | Merrimack | Telemundo WNEU" group-title="New Group",NH | Merrimack | Telemundo WNEU
+http://192.168.1.5:5004/auto/v60.1
+#EXTINF:-1 tvg-name="NH | Merrimack | TeleXitos WNEU" group-title="New Group",NH | Merrimack | TeleXitos WNEU
+http://192.168.1.5:5004/auto/v60.2
+#EXTINF:-1 tvg-name="MA | Marlborough | Univision WUNI" group-title="New Group",MA | Marlborough | Univision WUNI
+http://192.168.1.5:5004/auto/v66.1
+#EXTINF:-1 tvg-name="MovieSphere Gold | Marlborough MA" group-title="New Group",MovieSphere Gold | Marlborough MA
+http://192.168.1.5:5004/auto/v66.2
+#EXTINF:-1 tvg-name="Great TV | Marlborough MA" group-title="New Group",Great TV | Marlborough MA
+http://192.168.1.5:5004/auto/v66.3
+#EXTINF:-1 tvg-name="Court TV | Marlborough MA" group-title="New Group",Court TV | Marlborough MA
+http://192.168.1.5:5004/auto/v66.4
+#EXTINF:-1 tvg-id="WBPX" tvg-name="ION TV | Boston MA" group-title="New Group",ION TV | Boston MA
+http://192.168.1.5:5004/auto/v68.1
+#EXTINF:-1 tvg-name="ION Mystery | Boston MA" group-title="New Group",ION Mystery | Boston MA
+http://192.168.1.5:5004/auto/v68.2
+#EXTINF:-1 tvg-name="Busted | Boston MA" group-title="New Group",Busted | Boston MA
+http://192.168.1.5:5004/auto/v68.3
+#EXTINF:-1 tvg-name="Bounce TV | Boston MA" group-title="New Group",Bounce TV | Boston MA
+http://192.168.1.5:5004/auto/v68.4
+#EXTINF:-1 tvg-name="ION Plus | Boston MA" group-title="New Group",ION Plus | Boston MA
+http://192.168.1.5:5004/auto/v68.5
+#EXTINF:-1 tvg-name="Game Show Central | Boston MA" group-title="New Group",Game Show Central | Boston MA
+http://192.168.1.5:5004/auto/v68.6
+#EXTINF:-1 tvg-name="HSN | Boston MA" group-title="New Group",HSN | Boston MA
+http://192.168.1.5:5004/auto/v68.8
