@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Eternal.Word.Television.Network.us2" tvg-name="EWTN - SCRANPA" group-title="Religion",EWTN - SCRANPA
+http://68.65.124.50:5004/auto/v8.1
+#EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="Local - ABC",PA | Scranton | ABC WNEP
+http://68.65.124.50:5004/auto/v16.1
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" group-title="Entertainment",Antenna TV
+http://68.65.124.50:5004/auto/v16.2
+#EXTINF:-1 tvg-id="WYOU-DT.us_locals1" tvg-name="PA | Scranton | CBS WYOU" group-title="Local - CBS",PA | Scranton | CBS WYOU
+http://68.65.124.50:5004/auto/v22.1
+#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="ION Mystery - SCRANPA" group-title="Entertainment",ION MYSTERY - SCRANPA
+http://68.65.124.50:5004/auto/v22.2
+#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - SCRANPA" group-title="Entertainment",Great - SCRANPA
+http://68.65.124.50:5004/auto/v22.3
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - SCRANPA" group-title="Entertainment",Cozi TV - SCRANPA
+http://68.65.124.50:5004/auto/v22.4
+#EXTINF:-1 tvg-id="WBRE-DT.us_locals1" tvg-name="PA | Scranton | NBC WBRE" group-title="Local - NBC",PA | Scranton | NBC WBRE
+http://68.65.124.50:5004/auto/v28.1
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - SCRANPA" group-title="Entertainment",Laff - SCRANPA
+http://68.65.124.50:5004/auto/v28.2
+#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - SCRANPA" group-title="Entertainment",Rewind - SCRANPA
+http://68.65.124.50:5004/auto/v28.3
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - SCRANPA" group-title="Entertainment",Defy - SCRANPA
+http://68.65.124.50:5004/auto/v28.4
+#EXTINF:-1 tvg-id="WVIA-DT.us_locals1" tvg-name="PA | Scranton | PBS WVIA" group-title="Kids & Family",PA | Scranton | PBS WVIA
+http://68.65.124.50:5004/auto/v44.1
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - SCRANPA" group-title="Kids & Family",PBS Kids - SCRANPA
+http://68.65.124.50:5004/auto/v44.2
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Create - SCRANPA" group-title="Kids & Family",Create - SCRANPA
+http://68.65.124.50:5004/auto/v44.3
+#EXTINF:-1 tvg-id="WOLF-DT.us_locals1" tvg-name="PA | Scranton | FOX WOLF" group-title="Local - FOX",PA | Scranton | FOX WOLF
+http://68.65.124.50:5004/auto/v56.1
+#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Scranton | CW WSWB" group-title="Local - CW/IND/MY",PA | Scranton | CW WSWB
+http://68.65.124.50:5004/auto/v56.2
+#EXTINF:-1 tvg-id="WQMY-DT.us_locals1" tvg-name="PA | Scranton | MY WQMY" group-title="Local - CW/IND/MY",PA | Scranton | MY WQMY
+http://68.65.124.50:5004/auto/v56.3
