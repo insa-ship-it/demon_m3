@@ -9,3 +9,31 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest" group-title="ENG | Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" tvg-logo="https://watch.chiptune.fm/logo" group-title="ENG | Music",24/7 Chiptune Radio
+https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" tvg-logo="https://watch.vapor.fm/logo" group-title="ENG | Music",24/7 Vapor Funk Radio
+https://watch.vapor.fm/hls/0/stream.m3u8?cachebust=9cb8e3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Boomerang Classic" group-title="ENG | Kids & Family",Boomerang Classic
+https://rumble.com/live-hls-dvr/78ivl8/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="eel_ch" tvg-logo="https://api.nive.live/thumbnails/28.jpg" group-title="ENG | Kids & Family",eel_ch
+https://mci01.nive.live/29/video1_stream.m3u8?_HLS_msn=2226&_HLS_part=0&_HLS_skip=YES
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/66047e61-db56-4d7d-bc54-c2f03e2d05e1-profile_image-70x70.png" group-title="ENG | Music",HotBeats TV
+https://rumble.com/live-hls-dvr/79c1p8/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="lalala tv" tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="ENG | Kids & Family",lalala tv
+https://stream.lalalatvchannel.com/hls/0/stream.m3u8?cachebust=6733a0
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="liveactmin" tvg-logo="https://api.nive.live/thumbnails/13.jpg" group-title="ENG | Kids & Family",liveactmin
+https://mci01.nive.live/28/video1_stream.m3u8?_HLS_msn=2233&_HLS_part=1&_HLS_skip=YES
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" tvg-logo="https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/46cb49b3-63d7-40e1-9cd0-540fbecdc39c/Lofi+Girl+16x9.jpeg" group-title="ENG | Music",Lofi Hip-Hop Radio
+https://rumble.com/live-hls/1essrt/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" tvg-logo="https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/46cb49b3-63d7-40e1-9cd0-540fbecdc39c/Lofi+Girl+16x9.jpeg" group-title="ENG | Music",Lofi Synthwave Radio
+https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="RetroStrange TV" tvg-logo="https://live.retrostrange.com/logo" group-title="ENG | Kids & Family",RetroStrange TV
+https://live.retrostrange.com/hls/0/stream.m3u8?cachebust=fc39b1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Retro Blast" tvg-logo="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2221828967.jpg" group-title="ENG | Kids & Family",Retro Blast
+https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Nonstop Rain for Calming Vibes" group-title="ENG | Music",Nonstop Rain for Calming Vibes
+https://rumble.com/live-hls-dvr/78pg2i/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TheUpperLeft" tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="ENG | Kids & Family",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/0/stream.m3u8?cachebust=2f690bd7
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="The Void" tvg-logo="https://png.pngtree.com/png-vector/20220530/ourmid/pngtree-monkey-trippy-psychedelic-vector-illustrations-for-your-work-logo-png-image_4762700.png" group-title="ENG | Kids & Family",The Void
+https://mthrbord.tv/hls/0/stream.m3u8
