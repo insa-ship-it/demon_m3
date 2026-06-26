@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM
+http://173.229.4.240:5004/auto/v2.1
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV | Chicago IL" group-title="ENG | Entertainment",Start TV | Chicago IL
+http://173.229.4.240:5004/auto/v2.2
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Chicago IL" group-title="ENG | Entertainment",DABL | Chicago IL
+http://173.229.4.240:5004/auto/v2.3
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet | Chicago IL" group-title="ENG | Entertainment",Comet | Chicago IL
+http://173.229.4.240:5004/auto/v2.5
+#EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | Chicago | ABC WLS" group-title="ENG | Local | ABC",IL | Chicago | ABC WLS
+http://173.229.4.240:5004/auto/v7.1
+#EXTINF:-1 tvg-name="LOCLish | Chicago IL" group-title="ENG | Entertainment",LOCLish | Chicago IL EPG
+http://173.229.4.240:5004/auto/v7.2
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="CHARGE | Chicago IL" group-title="ENG | Entertainment",CHARGE | Chicago IL
+http://173.229.4.240:5004/auto/v7.3
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar (English)" group-title="Religion (All Lang)",IL | Chicago | Daystar (English)
+http://173.229.4.240:5004/auto/v8.1
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar (Español)" group-title="Religion (All Lang)",IL | Chicago | Daystar (Español)
+http://173.229.4.240:5004/auto/v8.2
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar Reflections" group-title="Religion (All Lang)",IL | Chicago | Daystar Reflections
+http://173.229.4.240:5004/auto/v8.3
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN
+http://173.229.4.240:5004/auto/v9.1
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="ANTENNA | Chicago IL" group-title="ENG | Entertainment",ANTENNA | Chicago IL
+http://173.229.4.240:5004/auto/v9.2
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT | Chicago IL" group-title="ENG | Westerns",GRIT | Chicago IL
+http://173.229.4.240:5004/auto/v9.3
+#EXTINF:-1 tvg-id="RewindTV.us" tvg-name="Rewind | Chicago IL" group-title="ENG | Entertainment",Rewind | Chicago IL
+http://173.229.4.240:5004/auto/v9.4
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | Chicago IL" group-title="ENG | Entertainment",TheNest | Chicago IL
+http://173.229.4.240:5004/auto/v9.5
+#EXTINF:-1 tvg-id="PBSWTTW.us" tvg-name="IL | Chicago | PBS WTTW" group-title="ENG | Kids & Family",IL | Chicago | PBS WTTW
+http://173.229.4.240:5004/auto/v11.1
+#EXTINF:-1 tvg-id="PrimeWTTWDT2.us" tvg-name="IL | Chicago | PBS Prime" group-title="ENG | Kids & Family",IL | Chicago | PBS Prime
+http://173.229.4.240:5004/auto/v11.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="IL | Chicago | PBS Create" group-title="ENG | Kids & Family",IL | Chicago | PBS Create
+http://173.229.4.240:5004/auto/v11.3
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="IL | Chicago | PBS Kids" group-title="ENG | Kids & Family",IL | Chicago | PBS Kids
+http://173.229.4.240:5004/auto/v11.4
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="METV | Chicago IL" group-title="ENG | Entertainment",METV | Chicago IL
+http://173.229.4.240:5004/auto/v23.1
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Chicago IL" group-title="ENG | Entertainment",H&I | Chicago IL
+http://173.229.4.240:5004/auto/v23.2
+#EXTINF:-1 tvg-id="ONTV4U.distro" tvg-name="OnTV4U | Chicago IL" group-title="Shopping",OnTV4U | Chicago IL
+http://173.229.4.240:5004/auto/v23.12
+#EXTINF:-1 tvg-id="TheUWCIU.us" tvg-name="IL | Chicago | The U" group-title="ENG | Local | IND",IL | Chicago | The U
+http://173.229.4.240:5004/auto/v26.1
+#EXTINF:-1 tvg-id="TheUTooWCIUDT2.us" tvg-name="IL | Chicago | U Too" group-title="ENG | Local | IND",IL | Chicago | U Too
+http://173.229.4.240:5004/auto/v26.2
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV | Chicago IL (Alt1)" group-title="ENG | Entertainment",MeTV | Chicago IL (Alt1)
+http://173.229.4.240:5004/auto/v26.3
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Chicago IL (Alt1)" group-title="ENG | Entertainment",H&I | Chicago IL (Alt1)
+http://173.229.4.240:5004/auto/v26.4
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story TV | Chicago IL" group-title="ENG | Entertainment",Story TV | Chicago IL
+http://173.229.4.240:5004/auto/v26.5
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedy | Chicago IL" group-title="ENG | Entertainment",Catchy Comedy | Chicago IL
+http://173.229.4.240:5004/auto/v26.6
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV TOONS | Chicago IL" group-title="ENG | Kids & Family",MeTV TOONS | Chicago IL
+http://173.229.4.240:5004/auto/v26.7
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST | Chicago IL" group-title="ENG | Westerns",WEST | Chicago IL
+http://173.229.4.240:5004/auto/v26.8
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD
+http://173.229.4.240:5004/auto/v32.1
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Chicago IL" group-title="ENG | Movies",Movies! | Chicago IL
+http://173.229.4.240:5004/auto/v32.2
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr | Chicago IL" group-title="ENG | Entertainment",Buzzr | Chicago IL
+http://173.229.4.240:5004/auto/v32.3
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="ROAR | Chicago IL" group-title="ENG | Entertainment",ROAR | Chicago IL
+http://173.229.4.240:5004/auto/v32.4
+#EXTINF:-1 tvg-id="FOXWeather.us" tvg-name="Fox Weather | Chicago IL" group-title="ENG | News",Fox Weather | Chicago IL
+http://173.229.4.240:5004/auto/v32.5
+#EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION | Chicago IL" group-title="ENG | Entertainment",ION | Chicago IL
+http://173.229.4.240:5004/auto/v38.1
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Chicago IL" group-title="ENG | Entertainment",Bounce | Chicago IL
+http://173.229.4.240:5004/auto/v38.2
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Chicago IL" group-title="ENG | News",CourtTV | Chicago IL
+http://173.229.4.240:5004/auto/v38.3
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Chicago IL" group-title="ENG | Entertainment",Laff | Chicago IL
+http://173.229.4.240:5004/auto/v38.4
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Chicago IL" group-title="ENG | Entertainment",ION Plus | Chicago IL
+http://173.229.4.240:5004/auto/v38.5
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Chicago IL" group-title="ENG | Entertainment",BUSTED | Chicago IL
+http://173.229.4.240:5004/auto/v38.6
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Chicago IL" group-title="ENG | Entertainment",Game Show Central | Chicago IL
+http://173.229.4.240:5004/auto/v38.7
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Chicago IL" group-title="Shopping",HSN | Chicago IL
+http://173.229.4.240:5004/auto/v38.8
+#EXTINF:-1 tvg-id="WESV-LD.us_locals1" tvg-name="IL | Chicago | Estrella TV" group-title="ESP | Local",IL | Chicago | Estrella TV
+http://173.229.4.240:5004/auto/v40.1
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Hot97" group-title="ENG | Local | IND",Hot97
+http://173.229.4.240:5004/auto/v40.3
+#EXTINF:-1 tvg-id="MYWPWR.us" tvg-name="IN | Gary | MY WPWR" group-title="ENG | Local | CW/MY",IN | Gary | MY WPWR
+http://173.229.4.240:5004/auto/v50.1
+#EXTINF:-1 tvg-id="UniMasWXFT.us" tvg-name="IL | Aurora | Unimas WXFT" group-title="ESP | Local",IL | Aurora | Unimas WXFT
+http://173.229.4.240:5004/auto/v60.1
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Chicago IL" group-title="ENG | Entertainment",ION Mystery | Chicago IL
+http://173.229.4.240:5004/auto/v60.2
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest | Chicago IL" group-title="ENG | Entertainment",Quest | Chicago IL
+http://173.229.4.240:5004/auto/v60.3
+#EXTINF:-1 tvg-id="WJYS-DT.us_locals1" tvg-name="IN | Hammond | WJYS" group-title="ENG | Local | IND",IN | Hammond | WJYS
+http://173.229.4.240:5004/auto/v62.1
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="CRTV" group-title="Shopping",CRTV
+http://173.229.4.240:5004/auto/v62.2
+#EXTINF:-1 tvg-id="HeartlandTV.us" tvg-name="Heartland | Hammond IN" group-title="ENG | Entertainment",Heartland | Hammond IN
+http://173.229.4.240:5004/auto/v62.4
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Hammond IN" group-title="Shopping",QVC | Hammond IN
+http://173.229.4.240:5004/auto/v62.5
+#EXTINF:-1 tvg-id="HeartlandTV.us" tvg-name="Heartland | Hammond IN (Alt1)" group-title="ENG | Entertainment",Heartland | Hammond IN (Alt1)
+http://173.229.4.240:5004/auto/v62.6
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Hammond IN" group-title="Shopping",Jewelry TV | Hammond IN
+http://173.229.4.240:5004/auto/v62.7
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Hammond IN" group-title="Shopping",HSN | Hammond IN
+http://173.229.4.240:5004/auto/v62.8
+#EXTINF:-1 tvg-name="HSN2 | Hammond IN" group-title="Shopping",HSN2 | Hammond IN
+http://173.229.4.240:5004/auto/v62.9
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO" group-title="ESP | Local",IL | Juliet | Univision WGBO
+http://173.229.4.240:5004/auto/v66.1
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Juliet IL" group-title="ENG | Movies",MovieSphere Gold | Juliet IL
+http://173.229.4.240:5004/auto/v66.2
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great | Juliet IL" group-title="ENG | Entertainment",Great | Juliet IL
+http://173.229.4.240:5004/auto/v66.3
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Juliet IL" group-title="ENG | Entertainment",True Crime | Juliet IL
+http://173.229.4.240:5004/auto/v66.4
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT | Juliet IL" group-title="ENG | Westerns",GRIT | Juliet IL
+http://173.229.4.240:5004/auto/v66.5
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM HEVC" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM HEVC
+http://173.229.4.240:5004/auto/v102.1
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ HEVC" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ HEVC
+http://173.229.4.240:5004/auto/v105.1
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN HEVC" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN HEVC
+http://173.229.4.240:5004/auto/v109.1
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD HEVC" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD HEVC
+http://173.229.4.240:5004/auto/v132.1
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO HEVC" group-title="ESP | Local",IL | Juliet | Univision WGBO HEVC
+http://173.229.4.240:5004/auto/v166.1
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ
+http://173.229.4.240:5004/auto/v5.1
