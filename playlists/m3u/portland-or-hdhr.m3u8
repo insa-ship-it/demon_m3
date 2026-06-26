@@ -1,89 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Weather" tvg-name="National Weather Service" group-title="News",National Weather Service
+#EXTINF:-1 tvg-id="WEATHER.dummy.us" tvg-name="NWS | Eugene OR" group-title="ENG | News",NWS | Eugene OR
 http://199.245.173.253:5004/auto/v3.1
-#EXTINF:-1 tvg-name="One America News - OR1" group-title="News",One America News
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN | Eugene OR" group-title="ENG | News",OAN | Eugene OR
 http://199.245.173.253:5004/auto/v3.3
-#EXTINF:-1 tvg-name="FunRoads TV - OR1" group-title="Sports",FunRoads TV
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Eugene OR" group-title="ENG | Sports",Fun Roads | Eugene OR
 http://199.245.173.253:5004/auto/v3.4
-#EXTINF:-1 tvg-name="NASA 4K - OR1" group-title="Entertainment",NASA 4K
+#EXTINF:-1 tvg-id="NASA+.us" tvg-name="NASA-4K" group-title="ENG | News",NASA-4K
 http://199.245.173.253:5004/auto/v3.10
-#EXTINF:-1 tvg-id="World 4k" group-title="Entertainment",World 4k
-http://199.245.173.253:5004/auto/v3.11
-#EXTINF:-1 tvg-name="Cine 4k - OR1" group-title="Movies",Cine 4k
-http://example.com/stream
-#EXTINF:-1 tvg-name="Lupe 4K" group-title="Music",Lupe 4K
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="CINE-4K" group-title="ENG | Movies",CINE-4K
+http://199.245.173.253:5004/auto/v3.12
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="LUPE-4K" group-title="ENG | Music",LUPE-4K
 http://199.245.173.253:5004/auto/v3.13
-#EXTINF:-1 tvg-name="THC TV" group-title="Music",THC TV
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="THC-TV" group-title="ENG | Music",THC-TV
 http://199.245.173.253:5004/auto/v3.20
-#EXTINF:-1 tvg-name="Lofi Girl" group-title="Music",Lofi Girl
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="LOFIGRL" group-title="ENG | Music",LOFIGRL
 http://199.245.173.253:5004/auto/v3.21
-#EXTINF:-1 tvg-name="Star Trek: TNG" group-title="24/7",Star Trek: TNG
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="VAPRWAV" group-title="ENG | Music",VAPRWAV
+http://199.245.173.253:5004/auto/v3.22
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DATAWAV" group-title="ENG | Music",DATAWAV
+http://199.245.173.253:5004/auto/v3.23
+#EXTINF:-1 tvg-name="Star Trek - TNG" group-title="ENG | 24/7",Star Trek - TNG
 http://199.245.173.253:5004/auto/v3.25
-#EXTINF:-1 tvg-id="KVAL-DT.us_locals1" tvg-name="OR | Eugene | CBS KVAL" group-title="Local - CBS",OR | Eugene | CBS KVAL
+#EXTINF:-1 tvg-id="CBSKVAL.us" tvg-name="OR | Eugene | CBS KVAL" group-title="ENG | Local | CBS",OR | Eugene | CBS KVAL
 http://199.245.173.253:5004/auto/v13.1
-#EXTINF:-1 tvg-id="KORY-CD.us_locals1" tvg-name="365BLK" group-title="Entertainment",365BLK 
+#EXTINF:-1 tvg-id="KATU-DT2.us_locals1" tvg-name="ROAR | Eugene OR" group-title="ENG | Entertainment",ROAR | Eugene OR
+http://199.245.173.253:5004/auto/v13.2
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! | Eugene OR" group-title="ENG | Entertainment",Charge! | Eugene OR
+http://199.245.173.253:5004/auto/v13.3
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | Eugene OR" group-title="ENG | Entertainment",TheNest | Eugene OR
+http://199.245.173.253:5004/auto/v13.4
+#EXTINF:-1 tvg-id="KORY-CD.us_locals1" tvg-name="365BLK | Eugene OR" group-title="ENG | Entertainment",365BLK | Eugene OR KORY-CD1
 http://199.245.173.253:5004/auto/v15.1
-#EXTINF:-1 tvg-name="Cozi TV (West)" group-title="Entertainment",Cozi TV (West)
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi | Eugene OR" group-title="ENG | Entertainment",Cozi | Eugene OR
 http://199.245.173.253:5004/auto/v15.2
-#EXTINF:-1 tvg-name="Outlaw" group-title="Westerns",Outlaw
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Eugene OR" tvg-logo="KORY-CD" group-title="ENG | Westerns",Outlaw | Eugene OR
 http://199.245.173.253:5004/auto/v15.3
-#EXTINF:-1 tvg-name="Defy - OR" group-title="Entertainment",Defy - OR
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="Defy | Eugene OR KORY-CD4" group-title="ENG | Entertainment",Defy | Eugene OR KORY-CD4
 http://199.245.173.253:5004/auto/v15.4
-#EXTINF:-1 tvg-name="Busted (West)" group-title="Entertainment",Busted (West)
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NTD America | Eugene OR KORY-CD5" group-title="ENG | News",NTD America | Eugene OR KORY-CD5
+http://199.245.173.253:5004/auto/v15.5
+#EXTINF:-1 tvg-id="BustedKKPXDT6.us" tvg-name="Busted | Eugene OR KORY-CD6" group-title="ENG | Entertainment",Busted | Eugene OR KORY-CD6
 http://199.245.173.253:5004/auto/v15.6
-#EXTINF:-1 tvg-name="Salem News (West)" group-title="News",Salem News (West)
+#EXTINF:-1 tvg-id="SalemNewsChannel.pluto" tvg-name="Salem News | Eugene OR" group-title="ENG | News",Salem News | Eugene OR
 http://199.245.173.253:5004/auto/v15.7
-#EXTINF:-1 tvg-name="MovieSphere Gold" group-title="Movies",MovieSphere Gold
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR" group-title="ENG | Movies",MovieSphere Gold | Eugene OR
 http://199.245.173.253:5004/auto/v15.8
-#EXTINF:-1 tvg-id="KMTR-DT.us_locals1" tvg-name="OR | Eugene | NBC KMTR" group-title="Local - NBC",OR | Eugene | NBC KMTR
+#EXTINF:-1 tvg-id="NBCKMTR.us" tvg-name="OR | Eugene | NBC KMTR" group-title="ENG | Local | NBC",OR | Eugene | NBC KMTR
 http://199.245.173.253:5004/auto/v16.1
-#EXTINF:-1 tvg-name="OR | Eugene | CW+" group-title="Local - CW/IND/MY",OR | Eugene | CW+
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW+ KMTR" group-title="ENG | Local | CW/MY",OR | Eugene | CW+ KMTR
 http://199.245.173.253:5004/auto/v16.2
-#EXTINF:-1 tvg-id="KCES-LD.us_locals1" tvg-name="NewsMax2" group-title="News",NewsMax2
+#EXTINF:-1 tvg-id="CometPacific.us" tvg-name="Comet | Eugene OR" group-title="ENG | Entertainment",Comet | Eugene OR
+http://199.245.173.253:5004/auto/v16.3
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax | Harrisburg OR" group-title="ENG | News",NewsMax | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.1
-#EXTINF:-1 tvg-name="Antenna TV - OR1" group-title="Entertainment",Antenna TV
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Harrisburg OR" group-title="ENG | Entertainment",Antenna | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.2
-#EXTINF:-1 tvg-name="Story Television - OR1" group-title="Entertainment",Story Television
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story | Harrisburg OR" group-title="ENG | Entertainment",Story | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.3
-#EXTINF:-1 tvg-name="Movies! " group-title="Movies",Movies!
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Harrisburg OR" group-title="ENG | Movies",Movies | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.4
-#EXTINF:-1 tvg-name="West TV - OR1" group-title="Westerns",West TV
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST | Harrisburg OR" group-title="ENG | Westerns",WEST | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.5
-#EXTINF:-1 tvg-id="KCKW-DT.us_locals1" tvg-name="Telemundo OR" group-title="Spanish",Telemundo OR
+#EXTINF:-1 tvg-id="TelemundoKQRE.us" tvg-name="OR | Harrisburg | Telemundo KCES" group-title="ESP | Local",OR | Harrisburg | Telemundo KCES
 http://199.245.173.253:5004/auto/v18.6
-#EXTINF:-1 tvg-name="WeatherNation - OR" group-title="News",WeatherNation - OR
+#EXTINF:-1 tvg-id="WeatherNationTV.us" tvg-name="Weather Nation | Harrisburg OR" group-title="ENG | News",Weather Nation | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.7
-#EXTINF:-1 tvg-name="Real America's Voice - OR" group-title="News",Real America's Voice - OR
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice | Harrisburg OR" group-title="ENG | News",America's Voice | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.8
-#EXTINF:-1 tvg-name="Estrella TV - West" group-title="Spanish",Estrella TV - West
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="OR | Harrisburg | Estrella KCES" group-title="ESP | Local",OR | Harrisburg | Estrella KCES
 http://199.245.173.253:5004/auto/v18.9
-#EXTINF:-1 tvg-name="NRB TV" group-title="Religion",NRB TV
+#EXTINF:-1 tvg-id="Religious.Dummy.us " tvg-name="His Word | Harrisburg OR" group-title="Religion (All Lang)",His Word | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.10
-#EXTINF:-1 tvg-name="Ace TV" group-title="Entertainment",Ace TV
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Harrisburg OR" group-title="Shopping",Jewelry TV | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.11
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Harrisburg OR" group-title="Shopping",QVC | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.12
+#EXTINF:-1 tvg-id="ACEtv.us" tvg-name="Ace-TV | Harrisburg OR" group-title="ENG | Entertainment",Ace-TV | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.13
-#EXTINF:-1 tvg-name="Right Now (West)" group-title="Entertainment",Right Now
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-name="Right Now | Harrisburg OR" group-title="ENG | Entertainment",Right Now | Harrisburg OR
 http://199.245.173.253:5004/auto/v18.14
-#EXTINF:-1 tvg-id="KEVU-DT.us_locals1" tvg-name="OR | Eugene | MY KEVU" group-title="Local - CW/IND/MY",OR | Eugene | MY KEVU
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU
 http://199.245.173.253:5004/auto/v23.1
-#EXTINF:-1 tvg-name="DABL" group-title="Entertainment",DABL
+#EXTINF:-1 tvg-id="DABLKPTVDT4.us" tvg-name="DABL | Eugene OR" group-title="ENG | Entertainment",DABL | Eugene OR
 http://199.245.173.253:5004/auto/v23.2
-#EXTINF:-1 tvg-id="KEPB-DT.us_locals1" tvg-name="OR | Eugene | OPB" group-title="Kids & Family",OR | Eugene | OPB
+#EXTINF:-1 tvg-id="PBSKOPB.us" tvg-name="OR | Eugene | PBS KEPB" group-title="ENG | Kids & Family",OR | Eugene | PBS KEPB
 http://199.245.173.253:5004/auto/v28.1
-#EXTINF:-1 tvg-name="OR | Eugene | OPB World" group-title="Kids & Family",OR | Eugene | OPB World
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="OR | Eugene | PBS World" group-title="ENG | Kids & Family",OR | Eugene | PBS World
 http://199.245.173.253:5004/auto/v28.2
-#EXTINF:-1 tvg-name="OR | Eugene | OPB Kids" group-title="Kids & Family",OR | Eugene | OPB Kids
+#EXTINF:-1 tvg-id="PBSKidsWestSoCal.us" tvg-name="OR | Eugene | PBS Kids" group-title="ENG | Kids & Family",OR | Eugene | PBS Kids
 http://199.245.173.253:5004/auto/v28.3
-#EXTINF:-1 tvg-id="KLSR-DT.us_locals1" tvg-name="OR | Eugene | FOX KLSR" group-title="Local - FOX",OR | Eugene | FOX KLSR
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Oregon Public Radio" group-title="ENG | Music",Oregon Public Radio
+http://199.245.173.253:5004/auto/v28.4
+#EXTINF:-1 tvg-id="FOXKLSR.us" tvg-name="OR | Eugene | FOX KLSR" group-title="ENG | Local | FOX",OR | Eugene | FOX KLSR
 http://199.245.173.253:5004/auto/v34.1
-#EXTINF:-1 tvg-id="KEVU" tvg-name="OR | Eugene | MY KEVU" group-title="Local - CW/IND/MY",OR | Eugene | MY KEVU
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU (Alt)" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU (Alt)
 http://199.245.173.253:5004/auto/v34.2
-#EXTINF:-1 tvg-name="365BLK" group-title="Entertainment",365BLK
+#EXTINF:-1 tvg-id="The365.us" tvg-name="365BLK | Eugene OR K06QR" group-title="ENG | Entertainment",365BLK | Eugene OR K06QR
 http://199.245.173.253:5004/auto/v41.1
-#EXTINF:-1 tvg-name="Outlaw - OR1" group-title="Westerns",Outlaw
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Eugene OR" group-title="ENG | Westerns",Outlaw | Eugene OR
 http://199.245.173.253:5004/auto/v41.2
-#EXTINF:-1 tvg-name="The First TV" group-title="News",The First TV
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR (Alt)" group-title="ENG | Movies",MovieSphere Gold | Eugene OR (Alt)
 http://199.245.173.253:5004/auto/v41.3
-#EXTINF:-1 tvg-name="Busted" group-title="Entertainment",Busted
+#EXTINF:-1 tvg-id="BustedKKPXDT6.us" tvg-name="Busted | Eugene OR" group-title="ENG | Entertainment",Busted | Eugene OR
 http://199.245.173.253:5004/auto/v41.4
-#EXTINF:-1 tvg-name="Fubo Sports" group-title="Sports",Fubo Sports
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Black Vision TV" group-title="ENG | Entertainment",Black Vision TV
+http://199.245.173.253:5004/auto/v41.5
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="Fubo Sports | Eugene OR 41.6" group-title="ENG | Sports",Fubo Sports | Eugene OR 41.6
 http://199.245.173.253:5004/auto/v41.6
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials K06QR-DT7" group-title="Shopping",Informercials K06QR-DT7
+http://199.245.173.253:5004/auto/v41.7
+#EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI" group-title="ENG | Local | ABC",OR | Eugene | ABC KEZI
+http://199.245.173.253:5004/auto/v9.1
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV | Eugene OR" group-title="ENG | Entertainment",MeTV | Eugene OR
+http://199.245.173.253:5004/auto/v9.2
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="ION | Eugene OR" group-title="ENG | Entertainment",ION | Eugene OR
+http://199.245.173.253:5004/auto/v9.3
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="H&I | Eugene OR" group-title="ENG | Entertainment",H&I | Eugene OR
+http://199.245.173.253:5004/auto/v9.4
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV | Eugene OR" group-title="ENG | Entertainment",Start TV | Eugene OR
+http://199.245.173.253:5004/auto/v9.5
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Eugene OR" group-title="ENG | Kids & Family",MeTV Toons | Eugene OR
+http://199.245.173.253:5004/auto/v9.6
