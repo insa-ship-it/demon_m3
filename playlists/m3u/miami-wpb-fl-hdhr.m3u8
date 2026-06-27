@@ -1,149 +1,211 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WPBT-DT.us_locals1" tvg-name="FL | WPB | PBS WPBT" group-title="Kids & Family",FL | WPB | PBS WPBT
+#EXTINF:-1 tvg-id="PBSWPBT.us" tvg-name="FL | Miami | PBS WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS WPBT
 http://173.229.4.243:5004/auto/v2.1
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - FL" group-title="Kids & Family",Create - FL
+#EXTINF:-1 tvg-id="CreateWLIWDT2.us" tvg-name="FL | Miami | PBS Create WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Create WPBT
 http://173.229.4.243:5004/auto/v2.2
-#EXTINF:-1 tvg-id="WURH-DT.us_locals1" tvg-name="The Health Channel - FL1" group-title="Kids & Family",The Health Channel - FL1
+#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | Health Channel WPBT" group-title="ENG | Kids & Family",FL | Miami | Health Channel WPBT
 http://173.229.4.243:5004/auto/v2.3
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS KIDS - FL" group-title="Kids & Family",PBS KIDS - FL
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="FL | Miami | PBS Kids WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Kids WPBT
 http://173.229.4.243:5004/auto/v2.4
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR" group-title="Local - CBS",FL | Miami | CBS WFOR
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR
 http://173.229.4.243:5004/auto/v4.1
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - FL" group-title="Entertainment",Start TV - FL
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV | Miami FL WFOR" group-title="ENG | Entertainment",Start TV | Miami FL WFOR
 http://173.229.4.243:5004/auto/v4.2
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL1" group-title="Entertainment",DABL - FL1
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="Dabl | Miami FL WFOR" group-title="ENG | Entertainment",Dabl | Miami FL WFOR
 http://173.229.4.243:5004/auto/v4.3
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - FL" group-title="Westerns",Outlaw - FL
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Miami FL WFOR" group-title="ENG | Westerns",Outlaw | Miami FL WFOR
 http://173.229.4.243:5004/auto/v4.4
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - FL" group-title="Entertainment",Catchy Comedy - FL
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedy | Miami FL WFOR" group-title="ENG | Entertainment",Catchy Comedy | Miami FL WFOR
 http://173.229.4.243:5004/auto/v4.5
-#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" tvg-name="FL | WPB | NBC WPTV" group-title="Local - NBC",FL | WPB | NBC WPTV
-http://173.229.4.243:5004/auto/v5.1
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL1" group-title="Entertainment",ION Plus - FL1
-http://173.229.4.243:5004/auto/v5.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
-http://173.229.4.243:5004/auto/v5.3
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL1" group-title="Entertainment",ION Television - FL1
-http://173.229.4.243:5004/auto/v5.4
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GREAT - FL1" group-title="Entertainment",GREAT - FL1
-http://173.229.4.243:5004/auto/v5.5
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - FL1" group-title="Shopping",Shop LC - FL1
-http://173.229.4.243:5004/auto/v5.7
-#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" tvg-name="FL | WPB | NBC WPTV" group-title="Local - NBC",FL | WPB | NBC WPTV
+#EXTINF:-1 tvg-id="NBCWPTV.us" tvg-name="FL | WPB | NBC WPTV" group-title="ENG | Local | NBC",FL | WPB | NBC WPTV
 http://173.229.4.243:5004/auto/v5.11
-#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="FL | Miami | NBC WTVJ" group-title="Local - NBC",FL | Miami | NBC WTVJ
+#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ
 http://173.229.4.243:5004/auto/v6.1
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" group-title="Entertainment",COZI TV
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="COZI TV | Miami FL WTVJ" group-title="ENG | Entertainment",COZI TV | Miami FL WTVJ
 http://173.229.4.243:5004/auto/v6.2
-#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes" group-title="Entertainment",NBC True Crimes
+#EXTINF:-1 tvg-id="TrueCRMZ.us" tvg-name="NBC True Crmz | Miami FL WTVJ" group-title="ENG | Entertainment",NBC True Crmz | Miami FL WTVJ
 http://173.229.4.243:5004/auto/v6.3
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" group-title="Entertainment",Oxygen True Crime
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen | Miami FL WTVJ" group-title="ENG | Entertainment",Oxygen | Miami FL WTVJ
 http://173.229.4.243:5004/auto/v6.4
-#EXTINF:-1 tvg-name="FL | WPB | WHDT" group-title="Local - CW/IND/MY",FL | WPB | WHDT
+#EXTINF:-1 tvg-id="FOXWSVN.us" tvg-name="FL | Miami | FOX WSVN" group-title="ENG | Local | FOX",FL | Miami | FOX WSVN
+http://173.229.4.243:5004/auto/v7.1
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN" group-title="ENG | Local | ABC",FL | Miami | ABC WSVN
+http://173.229.4.243:5004/auto/v7.2
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Miami FL WSVN" group-title="ENG | Entertainment",The365 | Miami FL WSVN
+http://173.229.4.243:5004/auto/v7.3
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="Defy | Miami FL WSVN" group-title="ENG | Entertainment",Defy | Miami FL WSVN
+http://173.229.4.243:5004/auto/v7.4
+#EXTINF:-1 tvg-id="IndependentWHDT.us" tvg-name="FL | Stuart | WHDT" group-title="ENG | Local | IND",FL | Stuart | WHDT
 http://173.229.4.243:5004/auto/v9.1
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL1" group-title="Westerns",Grit TV - FL1
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Stuart FL WHDT" group-title="ENG | News",CourtTV | Stuart FL WHDT
+http://173.229.4.243:5004/auto/v9.2
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Stuart FL WHDT" group-title="ENG | Westerns",Grit | Stuart FL WHDT
 http://173.229.4.243:5004/auto/v9.3
-#EXTINF:-1 tvg-id="WPLG-DT.us_locals1" tvg-name="FL | Miami | WPLG" group-title="Local - CW/IND/MY",FL | Miami | WPLG
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Stuart FL WHDT" group-title="Shopping",HSN | Stuart FL WHDT
+http://173.229.4.243:5004/auto/v9.4
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Stuart FL WHDT" group-title="Shopping",QVC | Stuart FL WHDT
+http://173.229.4.243:5004/auto/v9.5
+#EXTINF:-1 tvg-id="Local10WPLG.us" tvg-name="FL | Miami | WPLG" group-title="ENG | Local | IND",FL | Miami | WPLG
 http://173.229.4.243:5004/auto/v10.1
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV - FL" group-title="Entertainment",METV - FL
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="METV | Miami FL WPLG" group-title="ENG | Entertainment",METV | Miami FL WPLG
 http://173.229.4.243:5004/auto/v10.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - FL" group-title="Entertainment",H&I - FL
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Miami FL WPLG" group-title="ENG | Entertainment",H&I | Miami FL WPLG
 http://173.229.4.243:5004/auto/v10.3
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | WPB | CBS WPEC" group-title="Local - CBS",FL | WPB | CBS WPEC
-http://173.229.4.243:5004/auto/v12.1
-#EXTINF:-1 tvg-id="WURH-DT.us_locals1" tvg-name="The Health Channel - FL2" group-title="Kids & Family",The Health Channel - FL2
+#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | PBS Health Channel WURH" group-title="ENG | Kids & Family",FL | Miami | PBS Health Channel WURH
 http://173.229.4.243:5004/auto/v13.1
-#EXTINF:-1 tvg-id="WLRN-DT.us_locals1" tvg-name="FL | Miami | PBS WLRN" group-title="Kids & Family",FL | Miami | PBS WLRN
+#EXTINF:-1 tvg-id="PBSWLRN.us" tvg-name="FL | Miami | PBS WLRN" group-title="ENG | Kids & Family",FL | Miami | PBS WLRN
 http://173.229.4.243:5004/auto/v17.1
-#EXTINF:-1 tvg-id="WSBS-DT.us_locals1" tvg-name="Mega TV - FL1" group-title="Spanish",MEGA TV - FL1
+#EXTINF:-1 tvg-id="WDFL-LD.us_locals1" tvg-name="FL | Miami | ABC WDFL" group-title="ENG | Local | ABC",FL | Miami | ABC WDFL
+http://173.229.4.243:5004/auto/v18.1
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Paradise TV | Miami FL WDFL" group-title="Z - Uncategorized",Paradise TV | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.2
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Island TV | Miami FL WDFL" group-title="Z - Uncategorized",Island TV | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.3
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="ShopLC | Miami FL WDFL" group-title="Shopping",ShopLC | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.4
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Miami FL WDFL" group-title="Religion (All Lang)",Sonlife | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.5
+#EXTINF:-1 tvg-id="SportsTVPlus.distro" tvg-name="Sports TV | Miami FL WDFL" group-title="ENG | Sports",Sports TV | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.6
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Kingdom Connection | Miami FL WDFL" group-title="Z - Uncategorized",Kingdom Connection | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.7
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="RTF (Haitian Creole) | Miami FL" group-title="Z - Uncategorized",RTF (Haitian Creole) | Miami FL
+http://173.229.4.243:5004/auto/v18.8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Veterans Stone of Hope" group-title="Religion (All Lang)",Veterans Stone of Hope
+http://173.229.4.243:5004/auto/v18.9
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="TelePam | Miami FL WDFL" group-title="Z - Uncategorized",TelePam | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.10
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="TeveCaribe | Miami FL WDFL" group-title="Z - Uncategorized",TeveCaribe | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.11
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN (Alt)" group-title="ENG | Local | ABC",FL | Miami | ABC WSVN (Alt)
+http://173.229.4.243:5004/auto/v18.12
+#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL" group-title="ESP | Local",Mega TV | Key West FL
 http://173.229.4.243:5004/auto/v22.1
-#EXTINF:-1 tvg-name="Visión Latina - FL" group-title="Spanish",Visión Latina - FL
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Visión Latina | Key West FL" group-title="Religion (All Lang)",Visión Latina | Key West FL
 http://173.229.4.243:5004/auto/v22.2
-#EXTINF:-1 tvg-id="WSBS-DT.us_locals1" tvg-name="Mega TV - FL2" group-title="Spanish",Mega TV - FL2
+#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL (Alt)" group-title="ESP | Local",Mega TV | Key West FL (Alt)
 http://173.229.4.243:5004/auto/v22.3
-#EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Miami WLTV" group-title="Spanish",Univision Miami WLTV
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV" group-title="ESP | Local",FL | Miami | Univision WLTV
 http://173.229.4.243:5004/auto/v23.1
-#EXTINF:-1 tvg-name="True Crime Network - FL" group-title="Entertainment",True Crime Network - FL
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Miami FL WLTV" group-title="ENG | Entertainment",True Crime | Miami FL WLTV
 http://173.229.4.243:5004/auto/v23.2
-#EXTINF:-1 tvg-id="plex.tv.Nosey.plex" tvg-name="Nosey - FL" group-title="Entertainment",Nosey - FL
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Miami FL WLTV" group-title="ENG | Entertainment",Nosey | Miami FL WLTV
 http://173.229.4.243:5004/auto/v23.3
-#EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - FL" group-title="Movies",MovieSphere Gold - FL
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Miami FL WLTV" group-title="ENG | Movies",MovieSphere Gold | Miami FL WLTV
 http://173.229.4.243:5004/auto/v23.4
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - FL2" group-title="Shopping",Shop LC - FL2
+#EXTINF:-1 tvg-name="ShopLC | Miami FL WLTV" group-title="Shopping",ShopLC | Miami FL WLTV
 http://173.229.4.243:5004/auto/v23.6
-#EXTINF:-1 tvg-id="WBFS-DT.us_locals1" tvg-name="FL | Miami | CW WBFS" group-title="Local - CW/IND/MY",FL | Miami | CW WBFS
+#EXTINF:-1 tvg-id="FOXWFLX.us" tvg-name="FL | WPB | FOX WFLX" group-title="ENG | Local | FOX",FL | WPB | FOX WFLX
+http://173.229.4.243:5004/auto/v29.1
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | WPB FL WFLX" group-title="ENG | Entertainment",Bounce | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.2
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | WPB FL WFLX" group-title="ENG | Entertainment",H&I | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.3
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen | WPB FL WFLX" group-title="ENG | Entertainment",Oxygen | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.4
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="StartTV | WPB FL WFLX" group-title="ENG | Entertainment",StartTV | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.5
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest | WPB FL WFLX" group-title="ENG | Entertainment",Quest | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.6
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | WPB FL WFLX" group-title="ENG | Westerns",Outlaw | WPB FL WFLX
+http://173.229.4.243:5004/auto/v29.7
+#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="ENG | Local | CW/MY",FL | Miami | CW WBFS
 http://173.229.4.243:5004/auto/v33.1
-#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - FL" group-title="Movies",Movies! - FL
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Miami FL WBFS" group-title="ENG | Movies",Movies! | Miami FL WBFS
 http://173.229.4.243:5004/auto/v33.2
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - FL" group-title="Entertainment",Story Television - FL
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! | Miami FL WBFS" group-title="ENG | Entertainment",Charge! | Miami FL WBFS 
+http://173.229.4.243:5004/auto/v33.3
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet | Miami FL WBFS" group-title="ENG | Entertainment",Comet | Miami FL WBFS
+http://173.229.4.243:5004/auto/v33.4
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story | Miami FL WBFS" group-title="ENG | Entertainment",Story | Miami FL WBFS
 http://173.229.4.243:5004/auto/v33.5
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - FL" group-title="Kids & Family",meTV Toons - FL
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar | Miami FL WBFS" group-title="ENG | Entertainment",Roar | Miami FL WBFS
+http://173.229.4.243:5004/auto/v33.6
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Miami FL WBFS" group-title="ENG | Kids & Family",MeTV Toons | Miami FL WBFS
 http://173.229.4.243:5004/auto/v33.7
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL2" group-title="Entertainment",ION Television - FL2
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Miami FL WPXM" group-title="ENG | Entertainment",ION | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - FL" group-title="Entertainment",Bounce TV - FL
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Miami FL WPXM" group-title="ENG | Entertainment",Bounce | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL2" group-title="Westerns",Grit TV - FL2
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Miami FL WPXM" group-title="ENG | Westerns",Grit | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.3
-#EXTINF:-1 tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Miami FL WPXM" group-title="ENG | Entertainment",Laff | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL1" group-title="Entertainment",BUSTED - FL1
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Miami FL WPXM" group-title="ENG | Entertainment",BUSTED | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL1" group-title="Entertainment",Game Show Central - FL1
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Miami FL WPXM" group-title="Shopping",HSN | Miami FL WPXM
+http://173.229.4.243:5004/auto/v35.6
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Miami FL WPXM" group-title="ENG | Entertainment",Game Show Central | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.7
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL1" group-title="Entertainment",ION Mystery - FL1
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Miami FL WPXM" group-title="ENG | Entertainment",ION Mystery | Miami FL WPXM
 http://173.229.4.243:5004/auto/v35.8
-#EXTINF:-1 tvg-id="WSFL-DT.us_locals1" tvg-name="FL | Miami | WSFL" group-title="Local - CW/IND/MY",FL | Miami | WSFL
+#EXTINF:-1 tvg-id="CWWSFL.us" tvg-name="FL | Miami | WSFL" group-title="ENG | Local | IND",FL | Miami | WSFL
 http://173.229.4.243:5004/auto/v39.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - FL" group-title="Entertainment",Antenna TV - FL
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Miami FL WSFL" group-title="ENG | News",CourtTV | Miami FL WSFL
+http://173.229.4.243:5004/auto/v39.2
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Miami FL WSFL" group-title="ENG | Entertainment",Antenna | Miami FL WSFL
 http://173.229.4.243:5004/auto/v39.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL2" group-title="Entertainment",ION Plus - FL2
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Miami FL WSFL" group-title="ENG | Entertainment",ION Plus | Miami FL WSFL
 http://173.229.4.243:5004/auto/v39.4
-#EXTINF:-1 tvg-id="WXEL-DT.us_locals1" tvg-name="FL | Miami | PBS WXEL" group-title="Kids & Family",FL | Miami | PBS WXEL
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Miami FL WSFL" group-title="Shopping",QVC | Miami FL WSFL
+http://173.229.4.243:5004/auto/v39.5
+#EXTINF:-1 tvg-id="PBSWXEL.us" tvg-name="FL | Boynton BCH | PBS WXEL" group-title="ENG | Kids & Family",FL | Boynton BCH | PBS WXEL
 http://173.229.4.243:5004/auto/v42.1
-#EXTINF:-1 tvg-id="WHFT-DT.us_locals1" tvg-name="TBN English - FL" group-title="Religion",TBN English - FL
+#EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN | Miami FL WHFT" group-title="Religion (All Lang)",TBN | Miami FL WHFT
 http://173.229.4.243:5004/auto/v45.1
-#EXTINF:-1 tvg-id="Merit.TV.us2" tvg-name="Merit - FL" group-title="Religion",Merit - FL
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="TVDEALS | Miami FL WHFT" group-title="Shopping",TVDEALS | Miami FL WHFT
 http://173.229.4.243:5004/auto/v45.2
-#EXTINF:-1 tvg-id="TBN.Inspire.us2" tvg-name="TBN Inspire - FL" group-title="Religion",TBN Inspire - FL
+#EXTINF:-1 tvg-id="TBN.Inspire.us2" tvg-name="TBN Inspire | Miami FL WHFT" group-title="Religion (All Lang)",TBN Inspire | Miami FL WHFT
 http://173.229.4.243:5004/auto/v45.3
-#EXTINF:-1 tvg-name="ONTV4U" group-title="Entertainment",45.4 ONTV4U
+#EXTINF:-1 tvg-id="ONTV4U.distro" tvg-name="ONTV4U | Miami FL WHFT" group-title="Shopping",ONTV4U | Miami FL WHFT
 http://173.229.4.243:5004/auto/v45.4
-#EXTINF:-1 tvg-id="Positiv.TV.us2" tvg-name="POSITIV - FL" group-title="Religion",POSITIV - FL
+#EXTINF:-1 tvg-id="Positiv.us" tvg-name="TBN POSITIV | Miami FL WHFT" group-title="Religion (All Lang)",TBN POSITIV | Miami FL WHFT
 http://173.229.4.243:5004/auto/v45.5
-#EXTINF:-1 tvg-id="WSCV-DT.us_locals1" tvg-name="Telemundo Miami WSCV" group-title="Spanish",Telemundo Miami WSCV
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | WPB FL WWHB" group-title="ENG | Entertainment",TheNest | WPB FL WWHB
+http://173.229.4.243:5004/auto/v48.3
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV
 http://173.229.4.243:5004/auto/v51.1
-#EXTINF:-1 tvg-name="TeleXitos - FL" group-title="Spanish",TeleXitos - FL
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="FL | Ft Lauderdale | TeleXitos WSCV" group-title="ESP | Local",FL | Ft Lauderdale | TeleXitos WSCV
 http://173.229.4.243:5004/auto/v51.2
-#EXTINF:-1 tvg-id="WSCV-DT.us_locals1" tvg-name="Telemundo WPB WSCV" group-title="Spanish",Telemundo WPB WSCV
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | WPB | Telemundo WSCV" group-title="ESP | Local",FL | WPB | Telemundo WSCV
 http://173.229.4.243:5004/auto/v51.4
-#EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Miami | WBEC" group-title="Local - CW/IND/MY",FL | Miami | WBEC
+#EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Boca Raton | WBEC" group-title="ENG | Kids & Family",FL | Boca Raton | WBEC
 http://173.229.4.243:5004/auto/v63.1
-#EXTINF:-1 tvg-id="WBEC-DT2.us_locals1" tvg-name="The Florida Channel" group-title="Kids & Family",The Florida Channel
+#EXTINF:-1 tvg-id="TheFloridaChannel.us" tvg-name="FL | Boca Raton | Florida Channel" group-title="ENG | Kids & Family",FL | Boca Raton | Florida Channel
 http://173.229.4.243:5004/auto/v63.2
-#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL3" group-title="Entertainment",ION Television - FL3
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Lake Worth FL WPXP" group-title="ENG | Entertainment",ION | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.1
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL2" group-title="Entertainment",ION Mystery - FL2
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Lake Worth FL WPXP" group-title="ENG | Entertainment",ION Mystery | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.2
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - FL" group-title="Entertainment",DEFY - FL
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="DEFY | Lake Worth FL WPXP" group-title="ENG | Entertainment",DEFY | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.3
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL2" group-title="Entertainment",DABL - FL2
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Lake Worth FL WPXP" group-title="ENG | Entertainment",DABL | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL2" group-title="Entertainment",BUSTED - FL2
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Lake Worth FL WPXP" group-title="ENG | Entertainment",BUSTED | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL2" group-title="Entertainment",Game Show Central - FL2
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Lake Worth FL WPXP" group-title="ENG | Entertainment",Game Show Central | Lake Worth FL WPXP
 http://173.229.4.243:5004/auto/v67.6
-#EXTINF:-1 tvg-id="WAMI-DT.us_locals1" tvg-name="UniMas Miami WAMI" group-title="Spanish",UniMas Miami WAMI
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2 | Lake Worth FL WPXP" group-title="Shopping",HSN2 | Lake Worth FL WPXP
+http://173.229.4.243:5004/auto/v67.7
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Lake Worth FL WPXP" group-title="Shopping",HSN | Lake Worth FL WPXP
+http://173.229.4.243:5004/auto/v67.8
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Lake Worth FL WPXP" group-title="Shopping",QVC | Lake Worth FL WPXP
+http://173.229.4.243:5004/auto/v67.9
+#EXTINF:-1 tvg-id="UniMasWAMI.us" tvg-name="FL | Hollywood | UniMás WAMI" group-title="ESP | Local",FL | Hollywood | UniMás WAMI
 http://173.229.4.243:5004/auto/v69.1
-#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - FL" group-title="Entertainment",Confess - FL
+#EXTINF:-1 tvg-id="ConfessByNosey.us" tvg-name="Confess | Hollywood FL WAMI" group-title="ENG | Entertainment",Confess | Hollywood FL WAMI
 http://173.229.4.243:5004/auto/v69.2
-#EXTINF:-1 tvg-id="get.us2" tvg-name="GREAT - FL2" group-title="Entertainment",GREAT - FL2
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="GREAT | Hollywood FL WAMI" group-title="ENG | Entertainment",GREAT | Hollywood FL WAMI
 http://173.229.4.243:5004/auto/v69.3
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - FL" group-title="Entertainment",Quest - FL
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="BT2 | Hollywood FL WAMI" group-title="Shopping",BT2 | Hollywood FL WAMI
+http://173.229.4.243:5004/auto/v69.4
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest | Hollywood FL WAMI" group-title="ENG | Entertainment",Quest | Hollywood FL WAMI
 http://173.229.4.243:5004/auto/v69.5
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR HEVC" group-title="Local - CBS",FL | Miami | CBS WFOR HEVC
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR HVEC" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR HVEC
 http://173.229.4.243:5004/auto/v104.1
-#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="FL | Miami | NBC WTVJ HEVC" group-title="Local - NBC",FL | Miami | NBC WTVJ HEVC
+#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ HVEC" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ HVEC
 http://173.229.4.243:5004/auto/v106.1
-#EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Miami WLTV HEVC" group-title="Spanish",Univision Miami WLTV HEVC
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV HEVC" group-title="ESP | Local",FL | Miami | Univision WLTV HEVC
 http://173.229.4.243:5004/auto/v123.1
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV HEVC" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV HEVC
+http://173.229.4.243:5004/auto/v151.1
