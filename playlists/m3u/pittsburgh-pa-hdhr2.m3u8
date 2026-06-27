@@ -1,137 +1,175 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KDKA-DT.us_locals1" tvg-name="PA | Pittsburgh | CBS KDKA2" group-title="Local - CBS",PA | Pittsburgh | CBS KDKA2
+#EXTINF:-1 tvg-id="CBSKDKA.us" tvg-name="PA | Pittsburgh | CBS KDKA" group-title="ENG | Local | CBS",PA | Pittsburgh | CBS KDKA
 http://98.111.243.7:5004/auto/v2.1
-#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - PITPA2" group-title="Entertainment",Start TV - PITPA2
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="StartTV | Pittsburgh PA" group-title="ENG | Entertainment",StartTV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v2.2
-#EXTINF:-1 tvg-id="Dabl.Network.LLC.us2" tvg-name="DABL - PITPA2" group-title="Entertainment",DABL - PITPA2
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Pittsburgh PA" group-title="ENG | Entertainment",DABL | Pittsburgh PA
 http://98.111.243.7:5004/auto/v2.3
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA2" group-title="Entertainment",365BLK - PITPA2
+#EXTINF:-1 tvg-id="The365.us" tvg-name="THE365 | Pittsburgh PA" group-title="ENG | Entertainment",THE365 | Pittsburgh PA
 http://98.111.243.7:5004/auto/v2.4
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - PITPA2" group-title="Entertainment",Catchy Comedy - PITPA2
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedy | Pittsburgh PA" group-title="ENG | Entertainment",Catchy Comedy | Pittsburgh PA
 http://98.111.243.7:5004/auto/v2.5
-#EXTINF:-1 tvg-id="WTAE-DT.us_locals1" tvg-name="PA | Pittsburgh | ABC WTAE2" group-title="Local - ABC",PA | Pittsburgh | ABC WTAE2
+#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="ENG | Local | ABC",PA | Pittsburgh | ABC WTAE
 http://98.111.243.7:5004/auto/v4.1
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - PITPA2" group-title="Entertainment",Cozi TV - PITPA2
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV | Pittsburgh PA" group-title="ENG | Entertainment",Cozi TV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v4.2
-#EXTINF:-1 tvg-id="Story.us2" tvg-name="STORY - PITPA2" group-title="Entertainment",STORY - PITPA2
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="STORY | Pittsburgh PA" group-title="ENG | Entertainment",STORY | Pittsburgh PA
 http://98.111.243.7:5004/auto/v4.3
-#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="PA | Pittsburgh | NBC WPXI2" group-title="Local - NBC",PA | Pittsburgh | NBC WPXI2
+#EXTINF:-1 tvg-id="NBCWPXI.us" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
 http://98.111.243.7:5004/auto/v11.1
-#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV - PITPA2" group-title="Entertainment",MeTV - PITPA2
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV | Pittsburgh PA" group-title="ENG | Entertainment",MeTV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v11.2
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF TV - PITPA2" group-title="Entertainment",LAFF TV - PITPA2
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="LAFF TV | Pittsburgh PA" group-title="ENG | Entertainment",LAFF TV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v11.3
-#EXTINF:-1 tvg-id="PCNC - PITPA2" tvg-name="PCNC" group-title="News",PCNC - PITPA2
+#EXTINF:-1 tvg-id="PCNCWPXIDT4.us" tvg-name="Pittsburgh Cable News" group-title="ENG | News",Pittsburgh Cable News
 http://98.111.243.7:5004/auto/v11.4
-#EXTINF:-1 tvg-id="WQED-DT.us_locals1" tvg-name="PA | Pittsburgh | PBS WQED2" group-title="Kids & Family",PA | Pittsburgh | PBS WQED2
+#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WQED
 http://98.111.243.7:5004/auto/v13.1
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="CREATE - PITPA2" group-title="Kids & Family",CREATE - PITPA2
+#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Pittsburgh | PBS CREATE" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS CREATE
 http://98.111.243.7:5004/auto/v13.2
-#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="WORLD - PITPA2" group-title="Kids & Family",WORLD - PITPA2
+#EXTINF:-1 tvg-id="WorldWQEDDT3.us" tvg-name="PA | Pittsburgh | PBS WORLD" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WORLD
 http://98.111.243.7:5004/auto/v13.3
-#EXTINF:-1 tvg-name="SHOW - PITPA2" group-title="Kids & Family",SHOW - PITPA2
+#EXTINF:-1 tvg-id="ShowcaseWQEDDT4.us" tvg-name="PA | Pittsburgh | PBS Showcase" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS Showcase
 http://98.111.243.7:5004/auto/v13.4
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS KIDS - PITPA2" group-title="Kids & Family",PBS KIDS - PITPA2
+#EXTINF:-1 tvg-id="PBSWGBXDT4.us" tvg-name="PA | Pittsburgh | PBS KIDS" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS KIDS
 http://98.111.243.7:5004/auto/v13.5
-#EXTINF:-1 tvg-id="WINP-DT.us_locals1" tvg-name="ION Television - PITPA2" group-title="Entertainment",ION Television - PITPA2
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Pittsburgh PA" group-title="ENG | Entertainment",ION | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.1
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - PITPA2" group-title="Entertainment",Bounce TV - PITPA2
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Pittsburgh PA" group-title="ENG | Entertainment",Bounce | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.2
-#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="ION Mystery - PITPA2" group-title="Entertainment",ION Mystery - PITPA2
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Pittsburgh PA" group-title="ENG | Entertainment",ION Mystery | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.3
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - PITPA2" group-title="Entertainment",ION Plus - PITPA2
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Pittsburgh PA" group-title="ENG | Entertainment",ION Plus | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.4
-#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - PITPA2" group-title="Entertainment",BUSTED - PITPA2
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Pittsburgh PA" group-title="ENG | Entertainment",BUSTED | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.5
-#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - PITPA2" group-title="Entertainment",Game Show Central - PITPA2
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Pittsburgh PA" group-title="ENG | Entertainment",Game Show Central | Pittsburgh PA
 http://98.111.243.7:5004/auto/v16.6
-#EXTINF:-1 tvg-id="WPKD-DT.us_locals1" tvg-name="PA | Pittsburgh | KDKA+" group-title="Local - CW/IND/MY",PA | Pittsburgh | KDKA+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Pittsburgh PA" group-title="Shopping",QVC | Pittsburgh PA
+http://98.111.243.7:5004/auto/v16.7
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Pittsburgh PA" group-title="Shopping",HSN | Pittsburgh PA
+http://98.111.243.7:5004/auto/v16.8
+#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Jeannette | KDKA WPKD" group-title="ENG | Local | CW/MY",PA | Jeannette | KDKA WPKD
 http://98.111.243.7:5004/auto/v19.1
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - PITPA2" group-title="Entertainment",H&I - PITPA2
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Jeannette PA (Offline)" group-title="Z - Offline Streams",H&I | Jeannette PA (Offline)
 http://98.111.243.7:5004/auto/v19.2
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="GRIT TV - PITPA2" group-title="Westerns",GRIT TV - PITPA2
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT | Jeannette PA" group-title="ENG | Westerns",GRIT | Jeannette PA
 http://98.111.243.7:5004/auto/v19.3
-#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - PITPA2" group-title="Movies",Movies! - PITPA2
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Jeannette PA" group-title="ENG | Movies",Movies! | Jeannette PA
 http://98.111.243.7:5004/auto/v19.4
-#EXTINF:-1 tvg-id="Nosey.us2" tvg-name="Nosey - PITPA2" group-title="Entertainment",Nosey - PITPA2
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Jeannette PA" group-title="Shopping",HSN | Jeannette PA
+http://98.111.243.7:5004/auto/v19.5
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Jeannette PA" group-title="ENG | Entertainment",Nosey | Jeannette PA
 http://98.111.243.7:5004/auto/v19.6
-#EXTINF:-1 tvg-id="WPNT-DT.us_locals1" tvg-name="PA | Pittsburgh | CW/MY WPNT1" group-title="Local - CW/IND/MY",PA | Pittsburgh | CW/MY WPNT2
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.1 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.1
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.2 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.2
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.3 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.3
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.4 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.4
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.5 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.5
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.6 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.6
+#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.7 WWLM-CD (Offline)
+http://98.111.243.7:5004/auto/v20.7
+#EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
 http://98.111.243.7:5004/auto/v22.1
-#EXTINF:-1 tvg-name="True Crime Network - PITPA2" group-title="Entertainment",True Crime Network - PITPA2
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="TheNest | Pittsburgh PA" group-title="ENG | Entertainment",TheNest | Pittsburgh PA
+http://98.111.243.7:5004/auto/v22.2
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet | Pittsburgh PA" group-title="ENG | Entertainment",Comet | Pittsburgh PA
+http://98.111.243.7:5004/auto/v22.3
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Pittsburgh PA" group-title="ENG | Entertainment",True Crime | Pittsburgh PA
 http://98.111.243.7:5004/auto/v22.4
-#EXTINF:-1 tvg-id="WPCB-DT.us_locals1" tvg-name="Cornerstone Television - PITPA2" group-title="Religion",Cornerstone Television - PITPA2
+#EXTINF:-1 tvg-id="CornerstoneTV.us" tvg-name="Cornerstone TV | Greensburg PA" group-title="Religion (All Lang)",Cornerstone TV | Greensburg PA
 http://98.111.243.7:5004/auto/v40.1
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="CourtTV - PITPA2" group-title="News",CourtTV - PITPA2
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Greensburg PA" group-title="ENG | News",CourtTV | Greensburg PA
 http://98.111.243.7:5004/auto/v40.2
-#EXTINF:-1 tvg-id="365BLK.us2" tvg-name="365BLK - PITPA2" group-title="Entertainment",365BLK - PITPA2
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Greensburg PA" group-title="ENG | Entertainment",The365 | Greensburg PA
 http://98.111.243.7:5004/auto/v40.3
-#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - PITPA2" group-title="Entertainment",Quest - PITPA2
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest | Greensburg PA" group-title="ENG | Entertainment",Quest | Greensburg PA
 http://98.111.243.7:5004/auto/v40.4
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - PITPA2" group-title="Entertainment",Great - PITPA2
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV | Greensburg PA" group-title="ENG | Entertainment",Great TV | Greensburg PA
 http://98.111.243.7:5004/auto/v40.5
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - PITPA2" group-title="Entertainment",DEFY - PITPA2
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="DEFY | Greensburg PA" group-title="ENG | Entertainment",DEFY | Greensburg PA
 http://98.111.243.7:5004/auto/v40.6
-#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="OUTLAW - PITPA2" group-title="Westerns",OUTLAW - PITPA2
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="OUTLAW | Greensburg PA" group-title="ENG | Westerns",OUTLAW | Greensburg PA
 http://98.111.243.7:5004/auto/v40.7
-#EXTINF:-1 tvg-name="Family Faith Channel - PITPA2" group-title="Religion",Family Faith Channel - PITPA2
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Pittsburgh Faith & Family" group-title="Religion (All Lang)",Pittsburgh Faith & Family
 http://98.111.243.7:5004/auto/v40.8
-#EXTINF:-1 tvg-id="WWAT-DT.us_locals1" tvg-name="Rev'n - PITPA2" group-title="Sports",Rev'n - PITPA2
+#EXTINF:-1 tvg-id="RevN.us2" tvg-name="Rev'n Action | Pittsburgh PA" group-title="ENG | Sports",Rev'n Action | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.1
-#EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="ACTION - PITPA2" group-title="Entertainment",ACTION - PITPA2
-http://98.111.243.7:5004/auto/v45.2
-#EXTINF:-1 tvg-name="FAMILY - PITPA2" group-title="Entertainment",FAMILY - PITPA2
-http://98.111.243.7:5004/auto/v45.3
-#EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="ACE TV - PITPA2" group-title="Entertainment",ACE TV - PITPA2
+#EXTINF:-1 tvg-id="ACEWACPDT7.us" tvg-name="Ace-TV | Pittsburgh PA" group-title="ENG | Entertainment",Ace-TV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.4
-#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="Right Now TV - PITPA2" group-title="Entertainment",Right Now TV - PITPA2
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-name="Right Now | Pittsburgh PA" group-title="ENG | Entertainment",Right Now | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.5
-#EXTINF:-1 tvg-id="YTA.Youtoo.America.us2" tvg-name="YTA - PITPA2" group-title="Entertainment",YTA - PITPA2
+#EXTINF:-1 tvg-id="YouTooAmerica.us" tvg-name="YTA | Pittsburgh PA" group-title="ENG | Entertainment",YTA | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.6
-#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="AMG TV - PITPA2" group-title="Entertainment",AMG TV - PITPA2
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMGTV | Pittsburgh PA" group-title="ENG | Entertainment",AMGTV | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.7
-#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads - PITPA2" group-title="Sports",Fun Roads - PITPA2
-http://98.111.243.7:5004/auto/v45.8
-#EXTINF:-1 tvg-id="Weather.Nation.TV.HD.us2" tvg-name="WeatherNation - PITPA2" group-title="News",WeatherNation - PITPA2
+#EXTINF:-1 tvg-id="WeatherNationTV.us" tvg-name="Weather Nation | Pittsburgh PA" group-title="ENG | News",Weather Nation | Pittsburgh PA
 http://98.111.243.7:5004/auto/v45.10
-#EXTINF:-1 tvg-id="WPGH-DT.us_locals1" tvg-name="PA | Pittsburgh | FOX WPGH2" group-title="Local - FOX",PA | Pittsburgh | FOX WPGH2
+#EXTINF:-1 tvg-id="FOXWPGH.us" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="ENG | Local | FOX",PA | Pittsburgh | FOX WPGH
 http://98.111.243.7:5004/auto/v53.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna - PITPA2" group-title="Entertainment",Antenna - PITPA2
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Pittsburgh PA" group-title="ENG | Entertainment",Antenna | Pittsburgh PA
 http://98.111.243.7:5004/auto/v53.2
-#EXTINF:-1 tvg-id="WOSC-CD.us_locals1" tvg-name="meTV Toons - PITPA2" group-title="Kids & Family",meTV Toons - PITPA2
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! | Pittsburgh PA" group-title="ENG | Entertainment",Charge! | Pittsburgh PA
+http://98.111.243.7:5004/auto/v53.3
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="ROAR | Pittsburgh PA" group-title="ENG | Entertainment",ROAR | Pittsburgh PA
+http://98.111.243.7:5004/auto/v53.4
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Pittsburgh PA" group-title="ENG | Kids & Family",MeTV Toons | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.1
-#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere - PITPA2" group-title="Movies",MovieSphere - PITPA2
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.2
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR - PITPA2" group-title="Entertainment",BUZZR - PITPA2
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="BUZZR | Pittsburgh PA" group-title="ENG | Entertainment",BUZZR | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.3
-#EXTINF:-1 tvg-id="SonLife.Broadcasting.Network.HD.us2" tvg-name="Sonlife Broadcasting - PITPA2" group-title="Religion",Sonlife Broadcasting - PITPA2
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Pittsburgh PA" group-title="Religion (All Lang)",Sonlife | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.4
-#EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST TV - PITPA2" group-title="Westerns",WEST TV - PITPA2
+#EXTINF:-1 tvg-id="WESTNetwork.us" tvg-name="WEST | Pittsburgh PA" group-title="ENG | Westerns",WEST | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.5
-#EXTINF:-1 tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax 2 - PITPA2" group-title="News",NewsMax 2 - PITPA2
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Pittsburgh PA" group-title="Shopping",QVC | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.6
+#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2 | Pittsburgh PA" group-title="ENG | News",Newsmax 2 | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.7
-#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News - PITPA2" group-title="News",One America News - PITPA2
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN | Pittsburgh PA" group-title="ENG | News",OAN | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.8
-#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="Real America's Voice - PITPA2" group-title="News",Real America's Voice - PITPA2
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="America's Voice | Pittsburgh PA" group-title="ENG | News",America's Voice | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.9
-#EXTINF:-1 tvg-name="One Source Network - PITPA2" group-title="Religion",One Source Network - PITPA2
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="Only Source | Pittsburgh PA" group-title="ENG | News",Only Source | Pittsburgh PA
 http://98.111.243.7:5004/auto/v61.10
-#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere Gold - PITPA2" group-title="Movies",MovieSphere Gold - PITPA2
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2 | Pittsburgh PA" group-title="Shopping",QVC2 | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.11
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2 | Pittsburgh PA" group-title="Shopping",HSN2 | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.12
+#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ENG) WPDN | Pittsburgh PA
+http://98.111.243.7:5004/auto/v65.1
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ESP) WPDN | Pittsburgh PA
+http://98.111.243.7:5004/auto/v65.2
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 WPDN-SD" group-title="Religion (All Lang)",Daystar 65.3
+http://98.111.243.7:5004/auto/v65.3
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA WPTG" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA WPTG
 http://98.111.243.7:5004/auto/v69.1
-#EXTINF:-1 tvg-name="NTD - PITPA2" group-title="Entertainment",NTD - PITPA2
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="NTD | Pittsburgh PA" group-title="ENG | News",NTD | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.2
-#EXTINF:-1 tvg-id="RETRO.us2" tvg-name="RETRO - PITPA2" group-title="Entertainment",RETRO - PITPA2
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-name="RETRO | Pittsburgh PA" group-title="ENG | Entertainment",RETRO | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.3
-#EXTINF:-1 tvg-id="plex.tv.FTF.Sports.plex" tvg-name="FTF SPORTS - PITPA2" group-title="Sports",FTF SPORTS - PITPA2
+#EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports | Pittsburgh PA" group-title="ENG | Sports",FTF Sports | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.4
-#EXTINF:-1 tvg-name="TRUCRME (OFFLINE)" group-title="Entertainment",TRUCRME (OFFLINE)
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Pittsburgh PA" group-title="ENG | Entertainment",True Crime | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.5
-#EXTINF:-1 tvg-name="Heartland (TV network)" group-title="Entertainment",Heartland (TV network)
+#EXTINF:-1 tvg-id="HeartlandTV.us" tvg-name="Heartland | Pittsburgh PA" group-title="ENG | Entertainment",Heartland | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.6
-#EXTINF:-1 tvg-id="AWE.Plus.distro" tvg-name="AWE PLUS - PITPA2" group-title="Entertainment",AWE PLUS - PITPA2
+#EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus | Pittsburgh PA" group-title="ENG | Entertainment",AWE Plus | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.7
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="REWIND - PITPA2" group-title="Entertainment",REWIND - PITPA2
+#EXTINF:-1 tvg-id="RewindTV.us" tvg-name="REWIND | Pittsburgh PA" group-title="ENG | Entertainment",REWIND | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.8
-#EXTINF:-1 tvg-id="Canal.María.Visión.mx" tvg-name="Maria Visión - PITPA2" group-title="Religion",Maria Visión - PITPA2
+#EXTINF:-1 tvg-id="Mariavision.pe" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.9
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="SHOP LC - PITPA2" group-title="Shopping",SHOP LC - PITPA2
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="CANELLA Informercials" group-title="Shopping",CANELLA Informercials
+http://98.111.243.7:5004/auto/v69.10
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="SHOPLC | Pittsburgh PA" group-title="Shopping",SHOPLC | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.11
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Pittsburgh PA" group-title="Shopping",Jewelry TV | Pittsburgh PA
+http://98.111.243.7:5004/auto/v69.12
