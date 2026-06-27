@@ -1,35 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eternal.Word.Television.Network.us2" tvg-name="EWTN - SCRANPA" group-title="Religion",EWTN - SCRANPA
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN | Scranton PA W09DJ" group-title="Religion (All Lang)",EWTN | Scranton PA W09DJ
 http://68.65.124.50:5004/auto/v8.1
-#EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="Local - ABC",PA | Scranton | ABC WNEP
+#EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="ENG | Local | ABC",PA | Scranton | ABC WNEP
 http://68.65.124.50:5004/auto/v16.1
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" group-title="Entertainment",Antenna TV
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Scranton PA" group-title="ENG | Entertainment",Antenna | Scranton PA
 http://68.65.124.50:5004/auto/v16.2
-#EXTINF:-1 tvg-id="WYOU-DT.us_locals1" tvg-name="PA | Scranton | CBS WYOU" group-title="Local - CBS",PA | Scranton | CBS WYOU
+#EXTINF:-1 tvg-id="CBSWYOU.us" tvg-name="PA | Scranton | CBS WYOU" group-title="ENG | Local | CBS",PA | Scranton | CBS WYOU
 http://68.65.124.50:5004/auto/v22.1
-#EXTINF:-1 tvg-id="ION.Mystery.us2" tvg-name="ION Mystery - SCRANPA" group-title="Entertainment",ION MYSTERY - SCRANPA
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Scranton PA" group-title="ENG | Entertainment",ION Mystery | Scranton PA
 http://68.65.124.50:5004/auto/v22.2
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Great - SCRANPA" group-title="Entertainment",Great - SCRANPA
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great | Scranton PA" group-title="ENG | Entertainment",Great | Scranton PA
 http://68.65.124.50:5004/auto/v22.3
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TV - SCRANPA" group-title="Entertainment",Cozi TV - SCRANPA
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi | Scranton PA" group-title="ENG | Entertainment",Cozi | Scranton PA
 http://68.65.124.50:5004/auto/v22.4
-#EXTINF:-1 tvg-id="WBRE-DT.us_locals1" tvg-name="PA | Scranton | NBC WBRE" group-title="Local - NBC",PA | Scranton | NBC WBRE
+#EXTINF:-1 tvg-id="NBCWBRE.us" tvg-name="PA | Scranton | NBC WBRE" group-title="ENG | Local | NBC",PA | Scranton | NBC WBRE
 http://68.65.124.50:5004/auto/v28.1
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - SCRANPA" group-title="Entertainment",Laff - SCRANPA
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Scranton PA" group-title="ENG | Entertainment",Laff | Scranton PA
 http://68.65.124.50:5004/auto/v28.2
-#EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-name="Rewind - SCRANPA" group-title="Entertainment",Rewind - SCRANPA
+#EXTINF:-1 tvg-id="RewindTV.us" tvg-name="Rewind | Scranton PA" group-title="ENG | Entertainment",Rewind | Scranton PA
 http://68.65.124.50:5004/auto/v28.3
-#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="Defy - SCRANPA" group-title="Entertainment",Defy - SCRANPA
+#EXTINF:-1 tvg-id="DEFYWPXNDT4.us" tvg-name="Defy | Scranton PA" group-title="ENG | Entertainment",Defy | Scranton PA
 http://68.65.124.50:5004/auto/v28.4
-#EXTINF:-1 tvg-id="WVIA-DT.us_locals1" tvg-name="PA | Scranton | PBS WVIA" group-title="Kids & Family",PA | Scranton | PBS WVIA
+#EXTINF:-1 tvg-id="VictoryChannel.us" tvg-name="Victory WRLD-LD" group-title="Religion (All Lang)",Victory WRLD-LD
+http://68.65.124.50:5004/auto/v30.1
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr | Scranton PA" group-title="ENG | Entertainment",Buzzr | Scranton PA
+http://68.65.124.50:5004/auto/v30.2
+#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) | Scranton PA" group-title="Religion (All Lang)",Daystar (ENG) | Scranton PA
+http://68.65.124.50:5004/auto/v30.3
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedy | Scranton PA" group-title="ENG | Entertainment",Catchy Comedy | Scranton PA
+http://68.65.124.50:5004/auto/v30.4
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start | Scranton PA" group-title="ENG | Entertainment",Start | Scranton PA
+http://68.65.124.50:5004/auto/v30.5
+#EXTINF:-1 tvg-id="StoryTelevision.us" tvg-name="Story | Scranton PA" group-title="ENG | Entertainment",Story | Scranton PA
+http://68.65.124.50:5004/auto/v30.6
+#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I | Scranton PA" group-title="ENG | Entertainment",H&I | Scranton PA
+http://68.65.124.50:5004/auto/v30.7
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Scranton PA" group-title="ENG | Movies",Movies | Scranton PA
+http://68.65.124.50:5004/auto/v30.8
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) | Scranton PA" group-title="Religion (All Lang)",Daystar (ESP) | Scranton PA
+http://68.65.124.50:5004/auto/v30.9
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Scranton PA" group-title="ENG | Movies",MovieSphere Gold | Scranton PA
+http://68.65.124.50:5004/auto/v30.10
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Scranton PA" group-title="Religion (All Lang)",Sonlife | Scranton PA
+http://68.65.124.50:5004/auto/v30.11
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="Only Source | Scranton PA" group-title="ENG | News",Only Source | Scranton PA
+http://68.65.124.50:5004/auto/v30.12
+#EXTINF:-1 tvg-id="PBSWVIA.us" tvg-name="PA | Scranton | PBS WVIA" group-title="ENG | Kids & Family",PA | Scranton | PBS WVIA
 http://68.65.124.50:5004/auto/v44.1
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - SCRANPA" group-title="Kids & Family",PBS Kids - SCRANPA
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PA | Scranton | PBS Kids" group-title="ENG | Kids & Family",PA | Scranton | PBS Kids
 http://68.65.124.50:5004/auto/v44.2
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Create - SCRANPA" group-title="Kids & Family",Create - SCRANPA
+#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Scranton | PBS Create" group-title="ENG | Kids & Family",PA | Scranton | PBS Create
 http://68.65.124.50:5004/auto/v44.3
-#EXTINF:-1 tvg-id="WOLF-DT.us_locals1" tvg-name="PA | Scranton | FOX WOLF" group-title="Local - FOX",PA | Scranton | FOX WOLF
+#EXTINF:-1 tvg-id="FOXWOLF.us" tvg-name="PA | Hazleton | FOX WOLF" group-title="ENG | Local | FOX",PA | Hazleton | FOX WOLF
 http://68.65.124.50:5004/auto/v56.1
-#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Scranton | CW WSWB" group-title="Local - CW/IND/MY",PA | Scranton | CW WSWB
+#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Hazleton | CW WSWB" group-title="ENG | Local | CW/MY",PA | Hazleton | CW WSWB
 http://68.65.124.50:5004/auto/v56.2
-#EXTINF:-1 tvg-id="WQMY-DT.us_locals1" tvg-name="PA | Scranton | MY WQMY" group-title="Local - CW/IND/MY",PA | Scranton | MY WQMY
+#EXTINF:-1 tvg-id="MYWQMY.us" tvg-name="PA | Williamsport | My WQMY" group-title="ENG | Local | CW/MY",PA | Williamsport | My WQMY
 http://68.65.124.50:5004/auto/v56.3
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! | Hazleton PA" group-title="ENG | Entertainment",Charge! | Hazleton PA
+http://68.65.124.50:5004/auto/v56.4
+#EXTINF:-1 tvg-id="Roar.us" tvg-name="ROAR | Hazleton PA" group-title="ENG | Entertainment",ROAR | Hazleton PA
+http://68.65.124.50:5004/auto/v56.5
