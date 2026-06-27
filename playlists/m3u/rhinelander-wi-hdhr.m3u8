@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW
+http://173.229.4.248:5004/auto/v7.1
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV | Wausau WI" group-title="ENG | Entertainment",MeTV | Wausau WI
+http://173.229.4.248:5004/auto/v7.2
+#EXTINF:-1 tvg-id="FOXWSAWDT3.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
+http://173.229.4.248:5004/auto/v7.3
+#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
+http://173.229.4.248:5004/auto/v7.4
+#EXTINF:-1 tvg-id="Quest.us" tvg-name="Quest | Wausau WI" group-title="ENG | Entertainment",Quest | Wausau WI
+http://173.229.4.248:5004/auto/v7.5
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Wausau WI" group-title="ENG | Westerns",Outlaw | Wausau WI
+http://173.229.4.248:5004/auto/v7.6
+#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW (Alt)" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW (Alt)
+http://173.229.4.248:5004/auto/v7.10
+#EXTINF:-1 tvg-id="NBCWJFW.us" tvg-name="WI | Rhinelander | NBC WJFW" group-title="ENG | Local | NBC",WI | Rhinelander | NBC WJFW
+http://173.229.4.248:5004/auto/v12.1
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="COZI | Rhinelander WI" group-title="ENG | Entertainment",COZI | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.2
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna | Rhinelander WI" group-title="ENG | Entertainment",Antenna | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.3
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Rhinelander WI" group-title="Shopping",HSN | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.4
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Rhinelander WI" group-title="Shopping",QVC | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.5
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Rhinelander WI" group-title="ENG | Movies",MovieSphere Gold | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.6
+#EXTINF:-1 tvg-id="FOXWZAW.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
+http://173.229.4.248:5004/auto/v33.10
+#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
+http://173.229.4.248:5004/auto/v34.1
+#EXTINF:-1 tvg-id="PBSWHA.us" tvg-name="WI | Park Falls | PBS WLEF" group-title="ENG | Kids & Family",WI | Park Falls | PBS WLEF
+http://173.229.4.248:5004/auto/v36.1
+#EXTINF:-1 tvg-id="PBSWHADT2.us" tvg-name="WI | Park Falls | Wisconsin Channel" group-title="ENG | Kids & Family",WI | Park Falls | Wisconsin Channel
+http://173.229.4.248:5004/auto/v36.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="WI | Park Falls | PBS Create" group-title="ENG | Kids & Family",WI | Park Falls | PBS Create
+http://173.229.4.248:5004/auto/v36.3
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="WI | Park Falls | PBS Kids" group-title="ENG | Kids & Family",WI | Park Falls | PBS Kids
+http://173.229.4.248:5004/auto/v36.4
