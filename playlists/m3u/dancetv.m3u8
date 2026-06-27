@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Best of Dance TV" group-title="ENG | Music",Best of Dance TV
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Best of" group-title="ENG | Music",DanceTV: Best of
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Deep House District" group-title="ENG | Music",Deep House District
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Deep House District" group-title="ENG | Music",DanceTV: Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno Warehouse" group-title="ENG | Music",Techno Warehouse
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno Warehouse" group-title="ENG | Music",DanceTV: Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno House Terrace" group-title="ENG | Music",Techno House Terrace
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="House Floor" group-title="ENG | Music",House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Minimal" group-title="ENG | Music",Minimal
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionsix.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Mainstream EDM" group-title="ENG | Music",Mainstream EDM
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionseven.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Chill AF Downtempo" group-title="ENG | Music",Chill AF Downtempo
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisioneight.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Melodic Techno" group-title="ENG | Music",Melodic Techno
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionnine.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Techno House Terrace" group-title="ENG | Music",DanceTV: Techno House Terrace
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: House Floor" group-title="ENG | Music",DanceTV: House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal" group-title="ENG | Music",DanceTV: Minimal
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM" group-title="ENG | Music",DanceTV: Mainstream EDM
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Chill AF Downtempo" group-title="ENG | Music",DanceTV: Chill AF Downtempo
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Melodic Techno" group-title="ENG | Music",DanceTV: Melodic Techno
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
