@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCWWAY.us" tvg-name="NC | Wilmington | ABC WWAY" group-title="ENG | Local | ABC",NC | Wilmington | ABC WWAY
+http://209.215.122.164:9981/stream/channelid/2097510133?profile=pass
+#EXTINF:-1 tvg-id="CBSWWAY.us" tvg-name="NC | Wilmington | CBS WWAY" group-title="ENG | Local | CBS",NC | Wilmington | CBS WWAY
+http://209.215.122.164:9981/stream/channelid/1323955527?profile=pass
+#EXTINF:-1 tvg-id="WWAY-DT3.us_locals1" tvg-name="NC | Wilmington | CW WWAY" group-title="ENG | Local | CW/MY",NC | Wilmington | CW WWAY
+http://209.215.122.164:9981/stream/channelid/1730538115?profile=pass
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC" group-title="ENG | Entertainment",ION Plus | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1369088380?profile=pass
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="START | Wilmington NC" group-title="ENG | Entertainment",START | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/84497042?profile=pass
+#EXTINF:-1 tvg-id="NBCWECT.us" tvg-name="NC | Wilmington | NBC WECT" group-title="ENG | Local | NBC",NC | Wilmington | NBC WECT
+http://209.215.122.164:9981/stream/channelid/1667063420?profile=pass
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Wilmington NC" group-title="ENG | Entertainment",Bounce | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1401770459?profile=pass
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Wilmington NC" group-title="ENG | Entertainment",The365 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/79409241?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/964609105?profile=pass
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Wilmington NC" group-title="ENG | Entertainment",ION Mystery | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1509826114?profile=pass
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Wilmington NC" group-title="ENG | Entertainment",True Crime | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/23037156?profile=pass
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Wilmington NC" group-title="ENG | Entertainment",Oxygen | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1745243256?profile=pass
+#EXTINF:-1 tvg-id="BingeTV.us" tvg-name="Binge | Wilmington NC" group-title="ENG | Entertainment",Binge | Wilmington NC W35EF-D
+http://209.215.122.164:9981/stream/channelid/1565587235?profile=pass
+#EXTINF:-1 tvg-id="ZLiving.us" tvg-name="ZLiving | Wilmington NC" group-title="ENG | Entertainment",ZLiving | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/677538263?profile=pass
+#EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow | Wilmington NC" group-title="Shopping",ShopNow | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1808721827?profile=pass
+#EXTINF:-1 tvg-id="WBPI-CD.us_locals1" tvg-name="GA | Augusta | WBPI " group-title="Religion (All Lang)",GA | Augusta | WBPI
+http://209.215.122.164:9981/stream/channelid/626117757?profile=pass
+#EXTINF:-1 tvg-id="Biz.TV.us2" tvg-name="BizTV | Wilmington NC" group-title="Religion (All Lang)",BizTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2128540108?profile=pass
+#EXTINF:-1 tvg-name="Crime | Wilmington NC (Offline)" group-title="ENG | Entertainment",Crime | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/1868931478?profile=pass
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Wilmington NC" group-title="ENG | Entertainment",Fun Roads | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/449830187?profile=pass
+#EXTINF:-1 tvg-name="Oxygen | Wilmington NC (Offline)" group-title="ENG | Entertainment",Oxygen | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/2013306495?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Shop1 | Wilmington NC" group-title="Shopping",Shop1 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1135549556?profile=pass
+#EXTINF:-1 tvg-id="FOXWSFX.us" tvg-name="NC | Wilmington | FOX WSFX-DT" group-title="ENG | Local | FOX",NC | Wilmington | FOX WSFX-DT
+http://209.215.122.164:9981/stream/channelid/791460933?profile=pass
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC" group-title="ENG | News",CourtTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/745440870?profile=pass
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC" group-title="ENG | Westerns",Grit | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2025269820?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC" group-title="ENG | Entertainment",ION | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1915236574?profile=pass
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Wilmington NC" group-title="ENG | Entertainment",DABL | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/516642571?profile=pass
+#EXTINF:-1 tvg-id="ConfessByNosey.us" tvg-name="Confess | Wilmington NC" group-title="ENG | Entertainment",Confess | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2044194342?profile=pass
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Wilmington NC" group-title="ENG | Entertainment",Nosey | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/840231474?profile=pass
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="NC | Wilmington | Telemundo" group-title="ESP | Local",NC | Wilmington | Telemundo
+http://209.215.122.164:9981/stream/channelid/1125999090?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/198826698?profile=pass
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC (Alt)" group-title="ENG | News",CourtTV | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/1554437567?profile=pass
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC (Alt)" group-title="ENG | Westerns",Grit | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/202319832?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1407030124?profile=pass
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION Plus | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/282874669?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Wilmington NC" group-title="ENG | Entertainment",BUSTED | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1633930764?profile=pass
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Wilmington NC" group-title="ENG | Entertainment",Game Show Central | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/895635300?profile=pass
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Wilmington NC" group-title="Shopping",HSN | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/887592924?profile=pass
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Wilmington NC" group-title="Shopping",QVC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1885593569?profile=pass
+#EXTINF:-1 tvg-id="PBSWUNL.us" tvg-name="NC | Wilmington | PBS" group-title="ENG | Kids & Family",NC | Wilmington | PBS
+http://209.215.122.164:9981/stream/channelid/409098738?profile=pass
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="NC | Wilmington | PBS ROOTLE" group-title="ENG | Kids & Family",NC | Wilmington | PBS ROOTLE
+http://209.215.122.164:9981/stream/channelid/184528510?profile=pass
+#EXTINF:-1 tvg-id="PBSWUNP.us" tvg-name="UNC-EX" group-title="ENG | Kids & Family",UNC-EX
+http://209.215.122.164:9981/stream/channelid/1927986828?profile=pass
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="North Carolina Channel" group-title="ENG | Kids & Family",North Carolina Channel
+http://209.215.122.164:9981/stream/channelid/544643522?profile=pass
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC | Wilmington NC" group-title="Shopping",Shop LC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/261292223?profile=pass
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great | Wilmington NC" group-title="ENG | Entertainment",Great | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1671565611?profile=pass
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Wilmington NC " group-title="ENG | Movies",MovieSphere Gold | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/898791405?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD4" group-title="Shopping",Informercials WQDH-LD4
+http://209.215.122.164:9981/stream/channelid/984305561?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD5" group-title="Shopping",Informercials WQDH-LD5
+http://209.215.122.164:9981/stream/channelid/613622473?profile=pass
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Wilmington NC" group-title="ENG | Westerns",Outlaw | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1724239793?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted | Wilmington NC WQDH" group-title="ENG | Entertainment",Busted | Wilmington NC WQDH
+http://209.215.122.164:9981/stream/channelid/1331921613?profile=pass
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Wilmington NC" group-title="Shopping",Jewelry TV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1153631680?profile=pass
+#EXTINF:-1 tvg-name="TeleXitos | Wilmington NC" group-title="ESP | Local",TeleXitos | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/167334659?profile=pass
