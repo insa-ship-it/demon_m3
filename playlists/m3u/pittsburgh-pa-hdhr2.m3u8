@@ -61,19 +61,19 @@ http://98.111.243.7:5004/auto/v19.4
 http://98.111.243.7:5004/auto/v19.5
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Jeannette PA" group-title="ENG | Entertainment",Nosey | Jeannette PA
 http://98.111.243.7:5004/auto/v19.6
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.1 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WWLM-CD1" group-title="Shopping",Informercials WWLM-CD1
 http://98.111.243.7:5004/auto/v20.1
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.2 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="TrueCRMZ.us" tvg-name="NBC True Crmz | Pittsburgh PA" group-title="ENG | Entertainment",NBC True Crmz | Pittsburgh PA
 http://98.111.243.7:5004/auto/v20.2
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.3 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WWLM-CD3" group-title="Shopping",Informercials WWLM-CD3
 http://98.111.243.7:5004/auto/v20.3
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.4 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law & Crime | Pittsburgh PA " group-title="ENG | Entertainment",Law & Crime | Pittsburgh PA
 http://98.111.243.7:5004/auto/v20.4
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.5 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="SHOPLC | Pittsburgh PA (Offline)" group-title="Z - Offline Streams",ShopLC | Pittsburgh PA (Offline)
 http://98.111.243.7:5004/auto/v20.5
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.6 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Pittsburgh PA" group-title="ENG | Entertainment",The365 | Pittsburgh PA
 http://98.111.243.7:5004/auto/v20.6
-#EXTINF:-1 tvg-name="WWLM-CD (Offline)" group-title="Z - Offline Streams",20.7 WWLM-CD (Offline)
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Pittsburgh PA WWLM7" group-title="ENG | Westerns",Outlaw | Pittsburgh PA WWLM7
 http://98.111.243.7:5004/auto/v20.7
 #EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
 http://98.111.243.7:5004/auto/v22.1
@@ -165,7 +165,7 @@ http://98.111.243.7:5004/auto/v69.6
 http://98.111.243.7:5004/auto/v69.7
 #EXTINF:-1 tvg-id="RewindTV.us" tvg-name="REWIND | Pittsburgh PA" group-title="ENG | Entertainment",REWIND | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.8
-#EXTINF:-1 tvg-id="Mariavision.pe" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
 http://98.111.243.7:5004/auto/v69.9
 #EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="CANELLA Informercials" group-title="Shopping",CANELLA Informercials
 http://98.111.243.7:5004/auto/v69.10

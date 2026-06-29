@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png/revision/latest/scale-to-width-down/284?cb=20260319001022" group-title="ENG | Live Events",AEW TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428" group-title="ENG | Live Events",TNA TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/revision/latest?cb=20131019201616" group-title="ENG | Live Events",UFC TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg/revision/latest?cb=20230527132436" group-title="ENG | Live Events",WWE TV
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV01.art" tvg-name="PPV Event 01" group-title="ENG | Live Events",PPV Event 01
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV02.art" tvg-name="PPV Event 02" group-title="ENG | Live Events",PPV Event 02
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV03.art" tvg-name="PPV Event 03" group-title="ENG | Live Events",PPV Event 03
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV04.art" tvg-name="PPV Event 04" group-title="ENG | Live Events",PPV Event 04
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV05.art" tvg-name="PPV Event 05" group-title="ENG | Live Events",PPV Event 05
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV06.art" tvg-name="PPV Event 06" group-title="ENG | Live Events",PPV Event 06
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV07.art" tvg-name="PPV Event 07" group-title="ENG | Live Events",PPV Event 07
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV08.art" tvg-name="PPV Event 08" group-title="ENG | Live Events",PPV Event 08
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV09.art" tvg-name="PPV Event 09" group-title="ENG | Live Events",PPV Event 09
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV10.art" tvg-name="PPV Event 10" group-title="ENG | Live Events",PPV Event 10
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV11.art" tvg-name="PPV Event 11" group-title="ENG | Live Events",PPV Event 11
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV12.art" tvg-name="PPV Event 12" group-title="ENG | Live Events",PPV Event 12
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV13.art" tvg-name="PPV Event 13" group-title="ENG | Live Events",PPV Event 13
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV14.art" tvg-name="PPV Event 14" group-title="ENG | Live Events",PPV Event 14
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV15.art" tvg-name="PPV Event 15" group-title="ENG | Live Events",PPV Event 15
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV16.art" tvg-name="PPV Event 16" group-title="ENG | Live Events",PPV Event 16
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV17.art" tvg-name="PPV Event 17" group-title="ENG | Live Events",PPV Event 17
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV18.art" tvg-name="PPV Event 18" group-title="ENG | Live Events",PPV Event 18
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV19.art" tvg-name="PPV Event 19" group-title="ENG | Live Events",PPV Event 19
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV20.art" tvg-name="PPV Event 20" group-title="ENG | Live Events",PPV Event 20
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV21.art" tvg-name="PPV Event 21" group-title="ENG | Live Events",PPV Event 21
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV22.art" tvg-name="PPV Event 22" group-title="ENG | Live Events",PPV Event 22
+http://example.com/stream
