@@ -1,12 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png/revision/latest/scale-to-width-down/284?cb=20260319001022" group-title="ENG | Live Events",AEW TV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png" group-title="ENG | Live Events",AEW TV 1
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png/revision/latest?cb=20241121201428" group-title="ENG | Live Events",TNA TV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png" group-title="ENG | Live Events",AEW TV 2
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/revision/latest?cb=20131019201616" group-title="ENG | Live Events",UFC TV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png" group-title="ENG | Live Events",TNA TV 1
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg/revision/latest?cb=20230527132436" group-title="ENG | Live Events",WWE TV
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png" group-title="ENG | Live Events",TNA TV 2
 http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/" group-title="ENG | Live Events",UFC TV 1
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/" group-title="ENG | Live Events",UFC TV 2
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg" group-title="ENG | Live Events",WWE TV 1
+https://tedesco.paradilux.business/wwe.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg" group-title="ENG | Live Events",WWE TV 2
+https://tedesco.leonardoitalianrestaurant.com/wwe2.m3u8
 #EXTINF:-1 tvg-id="PPV01.art" tvg-name="PPV Event 01" group-title="ENG | Live Events",PPV Event 01
 http://example.com/stream
 #EXTINF:-1 tvg-id="PPV02.art" tvg-name="PPV Event 02" group-title="ENG | Live Events",PPV Event 02
