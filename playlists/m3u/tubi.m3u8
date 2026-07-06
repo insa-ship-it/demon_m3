@@ -89,7 +89,7 @@ https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c2
 https://live-manifest.production-public.tubi.io/live/feb7d8d7-6cde-4351-87e8-4afb3626e950/playlist.m3u8
 #EXTINF:-1 tvg-id="400000117" tvg-name="Def Jam" tvg-logo="https://canvas-lb.tubitv.com/opts/ADqkOoAZL-RKoA==/a95b393f-af18-4bb2-b5cd-bab323fd961f/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",Def Jam
 https://live-manifest.production-public.tubi.io/live/979c72f9-6121-428b-a47c-4e251e8b7c63/playlist.m3u8
-#EXTINF:-1 tvg-id="400000108" tvg-name="Discovery Turbo TV" tvg-logo="https://canvas-lb.tubitv.com/opts/TA-WoDn6tYKtCQ==/e1fddeac-4117-45e8-a880-d46000b4fcda/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Discovery Turbo TV
+#EXTINF:-1 tvg-id="400000108" tvg-name="Discovery Turbo TV" tvg-logo="https://canvas-lb.tubitv.com/opts/TA-WoDn6tYKtCQ==/e1fddeac-4117-45e8-a880-d46000b4fcda/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",Discovery Turbo TV
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-id="400000088" tvg-name="Dog the Bounty Hunter" tvg-logo="https://canvas-lb.tubitv.com/opts/Er-hEK6ElFu0BA==/d81a47a9-92b7-403c-b65b-d4153a9ebefd/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Dog the Bounty Hunter
 https://live-manifest.production-public.tubi.io/live/d6872865-27e6-4f9c-9e63-ced3057a741c/playlist.m3u8
@@ -161,7 +161,7 @@ https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147
 https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8
 #EXTINF:-1 tvg-id="684170" tvg-name="Grit Xtra" tvg-logo="https://canvas-lb.tubitv.com/opts/aBwIuhHsOE8fLQ==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Westerns",Grit Xtra
 https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
-#EXTINF:-1 tvg-id="400000164" tvg-name="Hagerty" tvg-logo="https://canvas-lb.tubitv.com/opts/m139XSbqHN7igw==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Hagerty
+#EXTINF:-1 tvg-id="400000164" tvg-name="Hagerty" tvg-logo="https://canvas-lb.tubitv.com/opts/m139XSbqHN7igw==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",Hagerty
 https://live-manifest.production-public.tubi.io/live/7d917d9c-66d1-4a15-a323-7ad001137c41/playlist.m3u8
 #EXTINF:-1 tvg-id="700406" tvg-name="HauntTV" tvg-logo="https://canvas-lb.tubitv.com/opts/wHbytimRWEDg5w==/a9501720-74af-489c-993e-8c38c438e058/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",HauntTV
 https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550453f4e468/playlist.m3u8
@@ -177,7 +177,7 @@ https://live-manifest.production-public.tubi.io/live/c12f35bf-6465-4e44-b5f7-04e
 https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8
 #EXTINF:-1 tvg-id="400000089" tvg-name="Ice Road Truckers" tvg-logo="https://canvas-lb.tubitv.com/opts/Oav7vVDh-LuKdA==/7655be2e-e1c5-43f2-92b3-fad5c753777e/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Ice Road Truckers
 https://live-manifest.production-public.tubi.io/live/ce30e46c-100c-40e3-9dc6-7e9a71f7cf44/playlist.m3u8
-#EXTINF:-1 tvg-id="400000073" tvg-name="In the Garage" tvg-logo="https://canvas-lb.tubitv.com/opts/i8bjHzfbFfhq1A==/8ec6200b-cbe1-4e2b-9883-24a37f5f4ab7/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",In the Garage
+#EXTINF:-1 tvg-id="400000073" tvg-name="In the Garage" tvg-logo="https://canvas-lb.tubitv.com/opts/i8bjHzfbFfhq1A==/8ec6200b-cbe1-4e2b-9883-24a37f5f4ab7/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",In the Garage
 https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8
 #EXTINF:-1 tvg-id="682634" tvg-name="ION" tvg-logo="https://canvas-lb.tubitv.com/opts/LFLNras1Iw825A==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",ION
 https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
@@ -225,7 +225,7 @@ https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-865
 https://live-manifest.production-public.tubi.io/live/da2d381e-93a5-466c-8807-74e18bac08f1/playlist.m3u8
 #EXTINF:-1 tvg-id="400000290" tvg-name="Mythical 24/7" tvg-logo="https://canvas-lb.tubitv.com/opts/2mcvzKqRwgNrrg==/5a6b6a83-e437-41c9-a130-ebdde2b4665e/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",Mythical 24/7
 https://live-manifest.production-public.tubi.io/live/6aa8d0a3-22b0-450d-9971-1964d6308305/playlist.m3u8
-#EXTINF:-1 tvg-id="400000121" tvg-name="NASCAR" tvg-logo="https://canvas-lb.tubitv.com/opts/1hBihc5u12jjfA==/7739dd1a-423d-4a56-92c7-d27129356eb0/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",NASCAR
+#EXTINF:-1 tvg-id="400000121" tvg-name="NASCAR" tvg-logo="https://canvas-lb.tubitv.com/opts/1hBihc5u12jjfA==/7739dd1a-423d-4a56-92c7-d27129356eb0/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",NASCAR
 https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
 #EXTINF:-1 tvg-id="400000105" tvg-name="Nash Bridges" tvg-logo="https://canvas-lb.tubitv.com/opts/WNnMH6qKRZWqEw==/13cb369b-10c8-4017-82f6-3658ff67b899/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Nash Bridges
 https://live-manifest.production-public.tubi.io/live/597417af-5589-4e08-a432-2ac5034e0a71/playlist.m3u8
@@ -239,7 +239,7 @@ https://live-manifest.production-public.tubi.io/live/3b3697be-6add-4564-abb1-935
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-id="400000008" tvg-name="NHL" tvg-logo="https://canvas-lb.tubitv.com/opts/8h7HYVpDz2amhw==/085bca04-c806-4a7f-bb0c-d38fe352f3e3/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",NHL
 https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
-#EXTINF:-1 tvg-id="629323" tvg-name="NHRA TV" tvg-logo="https://canvas-lb.tubitv.com/opts/IqXIAd_1YjDrjA==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",NHRA TV
+#EXTINF:-1 tvg-id="629323" tvg-name="NHRA TV" tvg-logo="https://canvas-lb.tubitv.com/opts/IqXIAd_1YjDrjA==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",NHRA TV
 https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8
 #EXTINF:-1 tvg-id="400000071" tvg-name="Nikita" tvg-logo="https://canvas-lb.tubitv.com/opts/-Qup7p-9U8QS9Q==/bf6f69f6-4495-4bc2-94f9-fd91877e36f0/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Nikita
 https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8
@@ -317,7 +317,7 @@ https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2
 https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8
 #EXTINF:-1 tvg-id="400000055" tvg-name="Top Rank Classics" tvg-logo="https://canvas-lb.tubitv.com/opts/MIna_NLcBGTgIw==/9ecc2de5-5b17-4d2e-a407-ced0d00af082/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Top Rank Classics
 https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
-#EXTINF:-1 tvg-id="400000097" tvg-name="Torque" tvg-logo="https://canvas-lb.tubitv.com/opts/IB-MqRJoj39PYw==/8c846b53-83bc-4c0b-a9c0-ff323c46c057/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Torque
+#EXTINF:-1 tvg-id="400000097" tvg-name="Torque" tvg-logo="https://canvas-lb.tubitv.com/opts/IB-MqRJoj39PYw==/8c846b53-83bc-4c0b-a9c0-ff323c46c057/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Auto",Torque
 https://live-manifest.production-public.tubi.io/live/9971fae9-6347-4cfb-94d4-b758b8e1fc1f/playlist.m3u8
 #EXTINF:-1 tvg-id="700412" tvg-name="Total Crime" tvg-logo="https://canvas-lb.tubitv.com/opts/o-H1LgfSug5Osg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Total Crime
 https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8
