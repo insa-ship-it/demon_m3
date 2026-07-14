@@ -29,7 +29,7 @@ https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1f
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 #EXTINF:-1 tvg-id="613758" tvg-name="beIN Sports XTRA" tvg-logo="https://canvas-lb.tubitv.com/opts/ZznIonCFpZqA2g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",beIN Sports XTRA
 https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
-#EXTINF:-1 tvg-id="613759" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://canvas-lb.tubitv.com/opts/y4jAUpeHq4ELHg==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjlAAQ==" group-title="Español",beIN Sports XTRA En Español
+#EXTINF:-1 tvg-id="613759" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://canvas-lb.tubitv.com/opts/y4jAUpeHq4ELHg==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Deportes",beIN Sports XTRA En Español
 https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
 #EXTINF:-1 tvg-id="400000119" tvg-name="Big 12 Studios" tvg-logo="https://canvas-lb.tubitv.com/opts/-0nmELSyfaWqNg==/eace1598-de1c-499a-8005-405d5cb5adb5/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Big 12 Studios
 https://live-manifest.production-public.tubi.io/live/57a9f9ac-881b-4786-bb9e-77259eaed1b6/playlist.m3u8
@@ -51,7 +51,7 @@ https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa
 https://live-manifest.production-public.tubi.io/live/c9318bbe-15a2-4ece-8cb2-797497d51277/playlist.m3u8
 #EXTINF:-1 tvg-id="555126" tvg-name="Cheddar" tvg-logo="https://canvas-lb.tubitv.com/opts/4Rv4zVMsE02xuA==/4975eac2-9902-4ac5-8036-f28a6d9979a0/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | News",Cheddar
 https://live-manifest.production-public.tubi.io/live/2d43684f-75a3-452c-85e2-b88f36654606/playlist.m3u8
-#EXTINF:-1 tvg-id="400000028" tvg-name="Cine EstrellaTV" tvg-logo="https://canvas-lb.tubitv.com/opts/9OVEbAJcKG4LlA==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Cine EstrellaTV
+#EXTINF:-1 tvg-id="400000028" tvg-name="Cine EstrellaTV" tvg-logo="https://canvas-lb.tubitv.com/opts/9OVEbAJcKG4LlA==/f19b2e05-e9f9-402a-89bb-955a1559d984/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Películas",Cine EstrellaTV
 https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f858bee83a2/playlist.m3u8
 #EXTINF:-1 tvg-id="673499" tvg-name="CINEVAULT" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Movies",CINEVAULT
 https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
@@ -81,7 +81,7 @@ https://live-manifest.production-public.tubi.io/live/2bd0df23-4a14-46ca-b598-0e7
 https://live-manifest.production-public.tubi.io/live/05dcc935-bb07-4c6d-a061-a9bf5fccc383/playlist.m3u8
 #EXTINF:-1 tvg-id="711410" tvg-name="Dateline 24/7" tvg-logo="https://canvas-lb.tubitv.com/opts/acReNIzwC2WiuA==/32d8bd46-4cc6-4f9b-8db3-694be23ed0e3/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Dateline 24/7
 https://live-manifest.production-public.tubi.io/live/c33ee7ce-d9dc-41cd-8960-815637099a65/playlist.m3u8
-#EXTINF:-1 tvg-id="400000024" tvg-name="DAZN Ringside" tvg-logo="https://canvas-lb.tubitv.com/opts/P5khntngIx0W_w==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat",DAZN Ringside
+#EXTINF:-1 tvg-id="400000024" tvg-name="DAZN Ringside" tvg-logo="https://canvas-lb.tubitv.com/opts/P5khntngIx0W_w==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat 🥊",DAZN Ringside
 https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8
 #EXTINF:-1 tvg-id="670604" tvg-name="Deal or No Deal USA" tvg-logo="https://canvas-lb.tubitv.com/opts/g7byDgzsOUbQNA==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Deal or No Deal USA
 https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
@@ -99,11 +99,11 @@ https://live-manifest.production-public.tubi.io/live/74caf2dd-752a-45dd-aa53-bde
 https://live-manifest.production-public.tubi.io/live/f21508c8-437e-416c-b02f-340bc1a3da1a/playlist.m3u8
 #EXTINF:-1 tvg-id="400000056" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://canvas-lb.tubitv.com/opts/yHCUm2mwp3Y8yw==/6ff20b44-04d5-426c-aaf5-5593a6c60b87/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",Ebony TV by Lionsgate
 https://live-manifest.production-public.tubi.io/live/490b3e91-00d8-4637-a47b-47c05437c5e0/playlist.m3u8
-#EXTINF:-1 tvg-id="400000030" tvg-name="Estrella Games" tvg-logo="https://canvas-lb.tubitv.com/opts/99D3V0iTFxlbbw==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Estrella Games
+#EXTINF:-1 tvg-id="400000030" tvg-name="Estrella Games" tvg-logo="https://canvas-lb.tubitv.com/opts/99D3V0iTFxlbbw==/24f67f95-6f5f-4db9-8e06-bd7227bcd1c9/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Entretenimiento",Estrella Games
 https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce792931cb4/playlist.m3u8
-#EXTINF:-1 tvg-id="560215" tvg-name="Estrella News" tvg-logo="https://canvas-lb.tubitv.com/opts/7P1PhF9IBvHjcw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Estrella News
+#EXTINF:-1 tvg-id="560215" tvg-name="Estrella News" tvg-logo="https://canvas-lb.tubitv.com/opts/7P1PhF9IBvHjcw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Noticias",Estrella News
 https://live-manifest.production-public.tubi.io/live/1c67c086-8938-4961-9b14-2546c4b9be0b/playlist.m3u8
-#EXTINF:-1 tvg-id="400000031" tvg-name="EstrellaTV" tvg-logo="https://canvas-lb.tubitv.com/opts/zrY0UyOyECLncA==/529ef58f-5297-4ba3-8373-cc5efdd68a65/CHgQeDoFMS4xLjlAAQ==" group-title="Español",EstrellaTV
+#EXTINF:-1 tvg-id="400000031" tvg-name="EstrellaTV" tvg-logo="https://canvas-lb.tubitv.com/opts/zrY0UyOyECLncA==/529ef58f-5297-4ba3-8373-cc5efdd68a65/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Entretenimiento",EstrellaTV
 https://live-manifest.production-public.tubi.io/live/b6e73af0-57f8-4691-9832-4b52d3f157ac/playlist.m3u8
 #EXTINF:-1 tvg-id="559144" tvg-name="Euronews" tvg-logo="https://canvas-lb.tubitv.com/opts/9sem5esRDztU_g==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | News",Euronews
 https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8
@@ -139,7 +139,7 @@ https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca
 https://live-manifest.production-public.tubi.io/live/8243cded-cf4c-489a-a5f1-6a2d1b68c3f8/playlist.m3u8
 #EXTINF:-1 tvg-id="555382" tvg-name="FOX SOUL" tvg-logo="https://canvas-lb.tubitv.com/opts/RL-qLG_anSeyOg==/bbbed8f2-f666-49ad-8288-03f049585e3d/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",FOX SOUL
 https://live-manifest.production-public.tubi.io/live/99849dd6-1831-49d8-9cec-408d4e404445/playlist.m3u8
-#EXTINF:-1 tvg-id="613695" tvg-name="Fox Sports En Español" tvg-logo="https://canvas-lb.tubitv.com/opts/Rt5VK8q8c6pWvw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Fox Sports En Español
+#EXTINF:-1 tvg-id="613695" tvg-name="Fox Sports En Español" tvg-logo="https://canvas-lb.tubitv.com/opts/Rt5VK8q8c6pWvw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Deportes",Fox Sports En Español
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="613683" tvg-name="FOX Sports on Tubi" tvg-logo="https://canvas-lb.tubitv.com/opts/50bQ3M9R_pEUzg==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",FOX Sports on Tubi
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
@@ -165,7 +165,7 @@ https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195
 https://live-manifest.production-public.tubi.io/live/7d917d9c-66d1-4a15-a323-7ad001137c41/playlist.m3u8
 #EXTINF:-1 tvg-id="700406" tvg-name="HauntTV" tvg-logo="https://canvas-lb.tubitv.com/opts/wHbytimRWEDg5w==/a9501720-74af-489c-993e-8c38c438e058/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",HauntTV
 https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550453f4e468/playlist.m3u8
-#EXTINF:-1 tvg-id="400000083" tvg-name="HBO Boxing" tvg-logo="https://canvas-lb.tubitv.com/opts/WGHcNsnAV2ZzZQ==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat",HBO Boxing
+#EXTINF:-1 tvg-id="400000083" tvg-name="HBO Boxing" tvg-logo="https://canvas-lb.tubitv.com/opts/WGHcNsnAV2ZzZQ==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat 🥊",HBO Boxing
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
 #EXTINF:-1 tvg-id="400000104" tvg-name="Hersphere" tvg-logo="https://canvas-lb.tubitv.com/opts/xP0esskgVLQXMA==/2733aed8-2c07-4221-9669-061ef85c0df0/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",Hersphere
 https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8
@@ -267,7 +267,7 @@ https://live-manifest.production-public.tubi.io/live/95479c29-c997-4f1d-9feb-b5a
 https://live-manifest.production-public.tubi.io/live/001d9604-4483-4da4-9504-dc20fa2cd168/playlist.m3u8
 #EXTINF:-1 tvg-id="400000064" tvg-name="Silent Witness and New Tricks" tvg-logo="https://canvas-lb.tubitv.com/opts/dt0VWOtvi4zTRw==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Silent Witness and New Tricks
 https://live-manifest.production-public.tubi.io/live/0dbee090-5f28-4184-8d79-95fe8756904b/playlist.m3u8
-#EXTINF:-1 tvg-id="613763" tvg-name="Stadium" tvg-logo="https://canvas-lb.tubitv.com/opts/-NtXXHY5Foetwg==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat",Stadium
+#EXTINF:-1 tvg-id="613763" tvg-name="Stadium" tvg-logo="https://canvas-lb.tubitv.com/opts/-NtXXHY5Foetwg==/ffec7159-bf94-4c51-9544-5162e5a57b2f/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat 🥊",Stadium
 https://live-manifest.production-public.tubi.io/live/30fec756-4948-4ecb-98ae-2fda1cd0ee95/playlist.m3u8
 #EXTINF:-1 tvg-id="658748" tvg-name="Supermarket Sweep" tvg-logo="https://canvas-lb.tubitv.com/opts/6EKdmQaAAptSmQ==/5a1c3037-9440-4644-a0fd-489d5554ff1c/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Supermarket Sweep
 https://live-manifest.production-public.tubi.io/live/fcbe451e-2271-4e64-8c4d-0ece86e0ac76/playlist.m3u8
@@ -309,9 +309,9 @@ https://live-manifest.production-public.tubi.io/live/485314ce-0bb3-4194-a97d-6a0
 https://live-manifest.production-public.tubi.io/live/13228e92-c0a2-4c7f-b3f5-a35148426238/playlist.m3u8
 #EXTINF:-1 tvg-id="597678" tvg-name="Today All Day" tvg-logo="https://canvas-lb.tubitv.com/opts/evVIud42yl9aiQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | News",Today All Day
 https://live-manifest.production-public.tubi.io/live/d51de949-6ef0-4e1e-a370-4602eaf9f466/playlist.m3u8
-#EXTINF:-1 tvg-id="400000112" tvg-name="Todo Cine" tvg-logo="https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Todo Cine
+#EXTINF:-1 tvg-id="400000112" tvg-name="Todo Cine" tvg-logo="https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Películas",Todo Cine
 https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8
-#EXTINF:-1 tvg-id="400000111" tvg-name="Todo Novelas más Pasiones" tvg-logo="https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Todo Novelas más Pasiones
+#EXTINF:-1 tvg-id="400000111" tvg-name="Todo Novelas más Pasiones" tvg-logo="https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ==" group-title="ESP | Entretenimiento",Todo Novelas más Pasiones
 https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2e4aa68acf/playlist.m3u8
 #EXTINF:-1 tvg-id="400000065" tvg-name="Top Gear" tvg-logo="https://canvas-lb.tubitv.com/opts/fKfb6sHtpwnuig==/45d06aa3-8a80-4864-a7b0-25a606d26be3/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Top Gear
 https://live-manifest.production-public.tubi.io/live/6d84d716-66f1-4f2d-8978-d0a6b99500ed/playlist.m3u8
@@ -327,7 +327,7 @@ https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884
 https://live-manifest.production-public.tubi.io/live/e584c8c3-a4c4-4281-afd7-999492abcc23/playlist.m3u8
 #EXTINF:-1 tvg-id="400000247" tvg-name="TV One Stars & Stories" tvg-logo="https://canvas-lb.tubitv.com/opts/sxMfiz-fW1hSIg==/38c3d087-46de-4c79-8b12-763f4483af0d/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Entertainment",TV One Stars & Stories
 https://live-manifest.production-public.tubi.io/live/826e59ea-a6bd-4d13-923e-eee7e8f2f938/playlist.m3u8
-#EXTINF:-1 tvg-id="400000106" tvg-name="UFC" tvg-logo="https://canvas-lb.tubitv.com/opts/SImeAOgOma8YLQ==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat",UFC
+#EXTINF:-1 tvg-id="400000106" tvg-name="UFC" tvg-logo="https://canvas-lb.tubitv.com/opts/SImeAOgOma8YLQ==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat 🥊",UFC
 https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
 #EXTINF:-1 tvg-id="715942" tvg-name="Unique Lives" tvg-logo="https://canvas-lb.tubitv.com/opts/m9EWLVua_xh2VQ==/a7d3ffc6-0efb-4136-9faf-1be405d7a9dd/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | 24/7",Unique Lives
 https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8
@@ -341,7 +341,7 @@ https://live-manifest.production-public.tubi.io/live/54b35cf2-e260-4770-80c7-6a0
 https://live-manifest.production-public.tubi.io/live/3c0e97d2-21cc-49dd-a486-c268b0c2b93b/playlist.m3u8
 #EXTINF:-1 tvg-id="680705" tvg-name="Wanted: Dead or Alive" tvg-logo="https://canvas-lb.tubitv.com/opts/cMalDW-Z-wT0Nw==/5583c936-6239-4da3-b733-a9aaeebbc2fe/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Westerns",Wanted: Dead or Alive
 https://live-manifest.production-public.tubi.io/live/f4c47d84-a50e-4053-8fd5-827f2e62a401/playlist.m3u8
-#EXTINF:-1 tvg-id="400000294" tvg-name="Watch AEW" tvg-logo="https://canvas-lb.tubitv.com/opts/yeAV3-c2XWfYzw==/e9cd4624-20d8-421b-b5ed-282769cf2f57/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat",Watch AEW
+#EXTINF:-1 tvg-id="400000294" tvg-name="Watch AEW" tvg-logo="https://canvas-lb.tubitv.com/opts/yeAV3-c2XWfYzw==/e9cd4624-20d8-421b-b5ed-282769cf2f57/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports | Combat 🥊",Watch AEW
 https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
 #EXTINF:-1 tvg-id="400000000" tvg-name="Waypoint TV" tvg-logo="https://canvas-lb.tubitv.com/opts/URb2SUqoOhNp3Q==/4b2bb660-9424-45c9-ad67-9c7099f60cbf/CHgQeDoFMS4xLjlAAQ==" group-title="ENG | Sports",Waypoint TV
 https://live-manifest.production-public.tubi.io/live/d419b6d7-3ede-4ca6-9d7c-3f34b039f7ab/playlist.m3u8
