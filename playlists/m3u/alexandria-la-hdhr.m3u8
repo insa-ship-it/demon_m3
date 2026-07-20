@@ -9,8 +9,6 @@ http://12.186.20.98:5004/auto/v3.3
 http://12.186.20.98:5004/auto/v3.4
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Lafayette LA" group-title="ENG | Entertainment",Bounce | Lafayette LA
 http://12.186.20.98:5004/auto/v3.5
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shopping",QVC
-http://12.186.20.98:5004/auto/v3.6
 #EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | Alexandria | NBC KALB (HDHR)" group-title="ENG | Local | NBC",LA | Alexandria | NBC KALB (HDHR)
 http://12.186.20.98:5004/auto/v5.1
 #EXTINF:-1 tvg-id="CBSKALBDT2.us" tvg-name="LA | Alexandria | CBS KALB (HDHR)" group-title="ENG | Local | CBS",LA | Alexandria | CBS KALB (HDHR)
@@ -19,11 +17,9 @@ http://12.186.20.98:5004/auto/v5.2
 http://12.186.20.98:5004/auto/v5.3
 #EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gray Sports Network - LA" group-title="ENG | Sports",Gray Sports Network - LA
 http://12.186.20.98:5004/auto/v5.4
-#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Alexandria LA" group-title="ENG | Westerns",Grit | Alexandria LA
-http://12.186.20.98:5004/auto/v5.5
 #EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Alexandria LA" group-title="ENG | Entertainment",Oxygen | Alexandria LA
 http://12.186.20.98:5004/auto/v5.6
-#EXTINF:-1 tvg-id="365BLK.us" tvg-name="365BLK | Alexandria LA" group-title="ENG | Entertainment",365BLK | Alexandria LA
+#EXTINF:-1 tvg-id="365BLK.us" tvg-name="The365 | Alexandria LA" group-title="ENG | Entertainment",The365 | Alexandria LA
 http://12.186.20.98:5004/auto/v5.7
 #EXTINF:-1 tvg-id="NBCKPLC.us" tvg-name="LA | Lake Charles | NBC KPLC" group-title="ENG | Local | NBC",LA | Lake Charles | NBC KPLC
 http://12.186.20.98:5004/auto/v7.1
@@ -37,11 +33,9 @@ http://12.186.20.98:5004/auto/v7.4
 http://12.186.20.98:5004/auto/v7.5
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Lake Charles LA" group-title="ENG | Entertainment",ION Mystery | Lake Charles LA
 http://12.186.20.98:5004/auto/v7.6
-#EXTINF:-1 tvg-name="365BLK" group-title="ENG | Entertainment",365BLK | Lake Charles LA
-http://12.186.20.98:5004/auto/v7.7
 #EXTINF:-1 tvg-id="PBSKLTL.us" tvg-name="LA | Lake Charles | PBS KLTL" group-title="ENG | Kids & Family",LA | Lake Charles | PBS KLTL
 http://12.186.20.98:5004/auto/v18.1
-#EXTINF:-1 tvg-name="LA | Lake Charles | PBS Kids" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Kids EPG
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="LA | Lake Charles | PBS Kids" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Kids
 http://12.186.20.98:5004/auto/v18.2
 #EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="LA | Lake Charles | PBS Create" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Create
 http://12.186.20.98:5004/auto/v18.3
@@ -63,8 +57,6 @@ http://12.186.20.98:5004/auto/v30.1
 http://12.186.20.98:5004/auto/v30.2
 #EXTINF:-1 tvg-id="MeTVKYAZ.us" tvg-name="MeTV | Lake Charles LA" group-title="ENG | Entertainment",MeTV | Lake Charles LA
 http://12.186.20.98:5004/auto/v30.3
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Lake Charles LA" group-title="Religion (All Lang)",Sonlife | Lake Charles LA
-http://12.186.20.98:5004/auto/v30.4
 #EXTINF:-1 tvg-id="KBCA-DT.us_locals1" tvg-name="H&I | Alexandria LA" group-title="ENG | Entertainment",H&I | Alexandria LA
 http://12.186.20.98:5004/auto/v41.1
 #EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna TV | Alexandria LA" group-title="ENG | Entertainment",Antenna TV | Alexandria LA

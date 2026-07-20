@@ -1,3 +1,6 @@
+# Generated on 2026-07-20T03:33:57.748884 UTC
+# Total unique lines: 153
+
 #EXTM3U
 #EXTINF:-1 tvg-id="3ABN.us2" tvg-name="3ABN USA" group-title="Religion (All Lang)",3ABN USA
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
@@ -63,3 +66,91 @@ https://stream-losangeles.scientology.org/master.m3u8
 https://cdn.jwplayer.com/v2/sites/Yal8cmyO/media/fCGf6ROk/ssai.m3u8?ad_config_id=Sq3muexW&content_id=fCGf6ROk&content_title=TBN&app_domain=https%3A%2F%2Fwww.tbnplus.com&custom_10=web&user_id=&app_name=tbn&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=TBN&content_network=TBN&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwww.tbnplus.com%2Fp%2FwUwJ86KF%3Fchannel%3DfCGf6ROk%26play%3D1&device_type=2
 #EXTINF:-1 tvg-id="The.Word.Network.us2" tvg-name="The Word Network" group-title="Religion (All Lang)",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Life Church of Lafayette" group-title="Religion (All Lang)",Life Church of Lafayette
+https://lifechurchla.sermon.net/20658686/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Life Church of Lafayette (Alt)" group-title="Religion (All Lang)",Life Church of Lafayette (Alt)
+https://edge.sermon.net/live-edge/21814/livefor20658686_tb1628_in1_vb1500_ab128_fps640x480_uuidf925a22fae54418498a73b7721347990/chunklist_w160697720420.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="1st Baptist Of Thermopolis" group-title="Religion (All Lang)",1st Baptist Of Thermopolis
+https://fbcthermopolis.sermon.net/21795981/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="1st Baptist Of Thermopolis (Alt)" group-title="Religion (All Lang)",1st Baptist Of Thermopolis (Alt)
+https://edge2.sermon.net/live-edge/112173/livefor21795981_tb896_in1_vb800_ab96_fps1280x720_uuidf979113476a44b66ae9d8e911ca272ca/chunklist_w160698715204.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="1st Pentecostal Of Silsbee" group-title="Religion (All Lang)",1st Pentecostal Of Silsbee
+https://silsbeefpc.sermon.net/20808789/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="1st Pentecostal Of Silsbee (Alt)" group-title="Religion (All Lang)",1st Pentecostal Of Silsbee (Alt)
+https://edge.sermon.net/live-edge/22406/livefor20808789_tb96_in1_vb0_ab96_fps0x0_uuid283fd0d91c4d452da6bfc39ee9c32d9c/chunklist_w160698844018.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Torrance First Baptist Church" group-title="Religion (All Lang)",Torrance First Baptist Church
+https://tfbclife.sermon.net/21702554/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Torrance 1st Baptist Church (Alt)" group-title="Religion (All Lang)",Torrance 1st Baptist Church (Alt)
+https://edge.sermon.net/live-edge/111780/livefor21702554_tb896_in1_vb800_ab96_fps1280x720_uuidd9e1d5c1b97340d483c768b47c80b20e/chunklist_w160699056309.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="New Life Tabernacle" group-title="Religion (All Lang)",New Life Tabernacle
+https://newlifetabernacleofcoalinga.sermon.net/21554683/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="New Life Tabernacle (Alt)" group-title="Religion (All Lang)",New Life Tabernacle (Alt)
+https://edge2.sermon.net/webrtc-edge/110373/livefor21554683_tb32_in1_vb0_ab32_fps0x0_uuid45420046be804a46998b60d7bef62e66/chunklist_w160699430128.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Native Gospel Network" group-title="Religion (All Lang)",Native Gospel Network
+https://nativegospelnetwork.sermon.net/21987640/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Native Gospel Network (Alt)" group-title="Religion (All Lang)",Native Gospel Network (Alt)
+https://edge.sermon.net/live-edge/113252/livefor21987640_tb896_in1_vb800_ab96_fps1280x720_uuid4c6eb5c0ee9c4c25a02246b266ac99d0/chunklist_w160593225531.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Hope Center of California" group-title="Religion (All Lang)",Hope Center of California
+https://hopecenter.sermon.net/21125487/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Hope Center of California (Alt)" group-title="Religion (All Lang)",Hope Center of California (Alt)
+https://edge.sermon.net/live-edge/108126/livefor21125487_tb896_in1_vb800_ab96_fps1280x720_uuidc39c0640fa2c496cb092d096b7257865/chunklist_w16069989836.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Pilgrim Presbyterian Lakeside" group-title="Religion (All Lang)",Pilgrim Presbyterian Lakeside
+https://ecpres.sermon.net/21628681/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Pilgrim Presbyterian Lakeside (Alt)" group-title="Religion (All Lang)",Pilgrim Presbyterian Lakeside (Alt)
+https://edge2.sermon.net/webrtc-edge/45031/livefor21628681_tb464_in1_vb400_ab64_fps640x360_uuid43b7ffa7c2b149d6808e76087cc9e96b/chunklist_w160699282113.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="CFOI-FM (French Audio)" group-title="Religion (All Lang)",CFOI-FM (French Audio)
+https://cfoi.sermon.net/20591220/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="CFOI-FM (French Audio)(Alt)" group-title="Religion (All Lang)",CFOI-FM (French Audio)(Alt)
+https://edge.sermon.net/live-edge/21230/livefor20591220_tb96_in1_vb0_ab96_fps0x0_uuid3235d59409af41919aa0b88717b65135/chunklist_w160593157071.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="LA Church of Belvedere" group-title="Religion (All Lang)",LA Church of Belvedere
+https://belvederechurch.sermon.net/20848956/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="LA Church of Belvedere (Alt)" group-title="Religion (All Lang)",LA Church of Belvedere (Alt)
+https://edge2.sermon.net/live-edge/106199/livefor20848956_tb82_in1_vb50_ab32_fps1920x1080_uuidae5eb3ce04644c61b93dc6bef533835b/chunklist_w160699941647.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Ajo Calvary Baptist" group-title="Religion (All Lang)",Ajo Calvary Baptist
+https://ajocalvarybaptist.sermon.net/22064565/controller/link/action/playhls/type/live/id/100500/.m3u8?snApp
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Ajo Calvary Baptist (Alt)" group-title="Religion (All Lang)",Ajo Calvary Baptist (Alt)
+https://edge2.sermon.net/live-edge/113693/livefor22064565_tb896_in1_vb800_ab96_fps1280x720_uuid36b7c855665048d5b6d27bce00660713/chunklist_w160700065751.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="1st Romanian Pentecostal Seattle" group-title="Religion (All Lang)",1st Romanian Pentecostal Seattle
+https://f-il-edge-97.christianworldmedia.com/frpcs/sm_frpcs.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Emanuel Romanian Pentecostal Sacramento" group-title="Religion (All Lang)",Emanuel Romanian Pentecostal Sacramento
+https://f-il-edge-97.christianworldmedia.com/emclive/mp4:emclive/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Maranatha Sacramento RCOG" group-title="Religion (All Lang)",Maranatha Sacramento RCOG
+https://f-il-edge-98.christianworldmedia.com/mrcogsacramento/mp4:mrcogsacramento/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Elim Trinity Church Sacramento" group-title="Religion (All Lang)",Elim Trinity Church Sacramento
+https://f-il-edge-98.christianworldmedia.com/elimtrinitychurch/mp4:elimtrinitychurch/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Philadelphia Romanian Pentecostal Portland" group-title="Religion (All Lang)",Philadelphia Romanian Pentecostal Portland
+https://f-il-edge-97.christianworldmedia.com/philadelphiaportland/mp4:x332-shgz-6gz5-7qz0-009r/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Packinghouse Redlands" group-title="Religion (All Lang)",Packinghouse Redlands
+https://f-il-edge-98.christianworldmedia.com/packinghousetv/mp4:packinghousetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="St. Bernadette Catholic Scottsdale" group-title="Religion (All Lang)",St. Bernadette Catholic Scottsdale
+https://f-il-edge-97.christianworldmedia.com/stbernadette/mp4:stbernadette/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Global House of Hope NJ" group-title="Religion (All Lang)",Global House of Hope NJ
+https://f-il-edge-98.christianworldmedia.com/GHOHI/mp4:GHOHI/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="BikerTV.org SC" group-title="Religion (All Lang)",BikerTV.org SC
+https://f-il-edge-97.christianworldmedia.com/bikertv/mp4:bikertv/playlist.m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="GA | Blairsville | Ridgeline TV" group-title="ENG | Local | IND",GA | Blairsville | Ridgeline TV
+https://f-il-edge-98.christianworldmedia.com/RidgelineTV/mp4:RidgelineTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Coast Hills Baptist Santa Maria" group-title="Religion (All Lang)",Coast Hills Baptist Santa Maria
+https://f-il-edge-97.christianworldmedia.com/coasthills/mp4:coasthills/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="WJM TV Atmore, AL" group-title="Religion (All Lang)",WJM TV Atmore, AL
+https://f-il-edge-97.christianworldmedia.com/WJMTV/mp4:WJMTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Carolina Gospel TV SC" group-title="Religion (All Lang)",Carolina Gospel TV SC
+https://f-il-edge-98.christianworldmedia.com/CarolinaGospelTV/mp4:CarolinaGospelTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Jellybean Television Saint Charles" group-title="Religion (All Lang)",Jellybean Television Saint Charles
+https://f-il-edge-97.christianworldmedia.com/Jellybean/mp4:Jellybean/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="BikerTV Network SC" group-title="Religion (All Lang)",BikerTV Network SC
+https://f-il-edge-97.christianworldmedia.com/RedeemedTemple/mp4:RedeemedTemple/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Radio Tele Full Gospel" group-title="Religion (All Lang)",Radio Tele Full Gospel
+https://f-il-edge-97.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Lord TV (Tamil/Multicultural)" group-title="Religion (All Lang)",Lord TV (Tamil/Multicultural)
+https://f-il-edge-97.christianworldmedia.com/lordtvministries/mp4:lordtvministries/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="CJ Gospel Hour Radio" group-title="Religion (All Lang)",CJ Gospel Hour Radio
+https://f-il-edge-97.christianworldmedia.com/cjgospelradio/mp4:cjgospelradio/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Classic Redneck Radio" group-title="Religion (All Lang)",Classic Redneck Radio
+https://f-il-edge-97.christianworldmedia.com/classicrednedkradio/mp4:ClassicRedneckRadio/playlist.m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="FL | Pensacola | Praise TV" group-title="ENG | Local | IND",FL | Pensacola | Praise TV
+https://f-il-edge-97.christianworldmedia.com/PraiseTVNetwork/mp4:PraiseTVNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Truth Chapel WEF Church" group-title="Religion (All Lang)",Truth Chapel WEF Church
+https://f-il-edge-97.christianworldmedia.com/visionoftruth/sm_visionoftruth.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="CHRYTV.COM" group-title="Religion (All Lang)",CHRYTV.COM
+https://f-il-edge-97.christianworldmedia.com/chrytvca/mp4:chrytvca/playlist.m3u8
