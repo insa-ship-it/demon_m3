@@ -549,3 +549,59 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="NY | Watertown | CW WWTI (Alt)" group-title="Z - Offline Streams",NY | Watertown | CW WWTI (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWKRCDT2.us" tvg-name="OH | Cincinnati | CW WKRC" group-title="Z - Offline Streams",OH | Cincinnati | CW WKRC
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWWKRCDT2.us" tvg-name="OH | Cincinnati | CW WKRC (Alt)" group-title="Z - Offline Streams",OH | Cincinnati | CW WKRC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="TV55WBNX.us" tvg-name="OH | Cleveland | CW WBNX" group-title="Z - Offline Streams",OH | Cleveland | CW WBNX
+http://example.com/stream
+#EXTINF:-1 tvg-id="TV55WBNX.us" tvg-name="OH | Cleveland | CW WBNX (Alt)" group-title="Z - Offline Streams",OH | Cleveland | CW WBNX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO" group-title="ENG | Local | CW/MY",OH | Columbus | CW WWHO
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629939
+#EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO (Alt)" group-title="Z - Offline Streams",OH | Columbus | CW WWHO (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MYWBDT.us" tvg-name="OH | Dayton | CW WBDT" group-title="Z - Offline Streams",OH | Dayton | CW WBDT
+http://example.com/stream
+#EXTINF:-1 tvg-id="MYWBDT.us" tvg-name="OH | Dayton | CW WBDT (Alt)" group-title="Z - Offline Streams",OH | Dayton | CW WBDT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWWTVGDT2.us" tvg-name="OH | Toledo | CW WTVG" group-title="Z - Offline Streams",OH | Toledo | CW WTVG
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWWTVGDT2.us" tvg-name="OH | Toledo | CW WTVG (Alt)" group-title="Z - Offline Streams",OH | Toledo | CW WTVG (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="OH | Youngstown | CW WFMJ" group-title="Z - Offline Streams",OH | Youngstown | CW WFMJ
+http://example.com/stream
+#EXTINF:-1 tvg-name="OH | Youngstown | CW WFMJ (Alt)" group-title="Z - Offline Streams",OH | Youngstown | CW WFMJ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FreedomKAUT.us" tvg-name="OK | OKC | CW KAUT" group-title="ENG | Local | CW/MY",OK | OKC | CW KAUT
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34444
+#EXTINF:-1 tvg-id="FreedomKAUT.us" tvg-name="OK | OKC | CW KAUT (Alt)" group-title="Z - Offline Streams",OK | OKC | CW KAUT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWKQCW.us" tvg-name="OK | Tulsa | CW KQCW" group-title="ENG | Local | CW/MY",OK | Tulsa | CW KQCW
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81879
+#EXTINF:-1 tvg-id="CWKQCW.us" tvg-name="OK | Tulsa | CW KQCW (Alt)" group-title="Z - Offline Streams",OK | Tulsa | CW KQCW (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Bend | CW KTVZ" group-title="Z - Offline Streams",OR | Bend | CW KTVZ
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Bend | CW KTVZ (Alt)" group-title="Z - Offline Streams",OR | Bend | CW KTVZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Coos Bay | CW KMCB" group-title="Z - Offline Streams",OR | Coos Bay | CW KMCB
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Coos Bay | CW KMCB (Alt)" group-title="Z - Offline Streams",OR | Coos Bay | CW KMCB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR" group-title="ENG | Local | CW/MY",OR | Eugene | CW KMTR
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512992
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR (Alt)" group-title="Z - Offline Streams",OR | Eugene | CW KMTR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWKTVLDT2.us" tvg-name="OR | Medford | CW KTVL" group-title="Z - Offline Streams",OR | Medford | CW KTVL
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWKTVLDT2.us" tvg-name="OR | Medford | CW KTVL (Alt)" group-title="Z - Offline Streams",OR | Medford | CW KTVL (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWKRCW.us" tvg-name="OR | Portland | CW KRCW" group-title="Z - Offline Streams",OR | Portland | CW KRCW
+http://example.com/stream
+#EXTINF:-1 tvg-id="CWKRCW.us" tvg-name="OR | Portland | CW KRCW (Alt)" group-title="Z - Offline Streams",OR | Portland | CW KRCW (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Roseburg | CW KTCW" group-title="Z - Offline Streams",OR | Roseburg | CW KTCW
+http://example.com/stream
+#EXTINF:-1 tvg-name="OR | Roseburg | CW KTCW (Alt)" group-title="Z - Offline Streams",OR | Roseburg | CW KTCW (Alt)
+http://example.com/stream
