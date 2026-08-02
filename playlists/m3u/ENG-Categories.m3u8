@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="** Place Holder ENG 24/7 **" group-title="ENG - 24/7",** Place Holder ENG 24/7 **
+http://example.com/stream
+#EXTINF:-1 tvg-name="** Place Holder ENG M collection**" group-title="ENG - 24/7 Movie Collection",** Place Holder ENG M collection**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Classic Western**" group-title="ENG - Classic TV & Westerns",**Place Holder Classic Western**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Documentary**" group-title="ENG - Documentary",**Place Holder Documentary**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Entertainment**" group-title="ENG - Entertainment",**Place Holder Entertainment**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Kids**" group-title="ENG - Kids & Family",**Place Holder Kids**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Lifestyle**" group-title="ENG - Lifestyle",**Place Holder Lifestyle**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Events**" group-title="ENG - Live Events",**Place Holder Events**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder ABC**" group-title="ENG - Local ABC",**Place Holder ABC**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder CBS**" group-title="ENG - Local CBS",**Place Holder CBS**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder IND**" group-title="ENG - Local IND",**Place Holder IND**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder NBC**" group-title="ENG - Local NBC",**Place Holder NBC**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Movies**" group-title="ENG - Movies",**Place Holder Movies**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder CW/MY**" group-title="ENG - Local CW/MY",**Place Holder CW/MY**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Music**" group-title="ENG - Music",**Place Holder Music**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder MusicRadio**" group-title="ENG - Music Radio",**Place Holder MusicRadio**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder FOX**" group-title="ENG - Local FOX",**Place Holder FOX**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder MusicVideos**" group-title="ENG - Music Videos",**Place Holder MusicVideos**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder News**" group-title="ENG - News & Opinions",**Place Holder News**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Reality**" group-title="ENG - Reality",**Place Holder Reality**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Sports**" group-title="ENG - Sports",**Place Holder Sports**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Auto**" group-title="ENG - Sports Auto",**Place Holder Auto**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Fight**" group-title="ENG - Sports Fight",**Place Holder Fight**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder MLB**" group-title="ENG - Sports MLB",**Place Holder MLB**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder NBA/WNBA**" group-title="ENG - Sports NBA/WNBA",**Place Holder NBA/WNBA**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder NFL**" group-title="ENG - Sports NFL",**Place Holder NFL**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder NHL**" group-title="ENG - Sports NHL",**Place Holder NHL**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Religion**" group-title="Religion (All Lang)",**Place Holder Religion**
+http://example.com/stream
+#EXTINF:-1 tvg-name="**Place Holder Shopping**" group-title="Shopping",**Place Holder Shopping**
+http://example.com/stream
