@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES" group-title="ENG | Local | CBS",AK | Anchorage | CBS KYES
+#EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES" group-title="ENG - Local CBS",AK | Anchorage | CBS KYES
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38318
 #EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES (bkup)" group-title="Z - Offline Streams",AK | Anchorage | CBS KYES (bkup)
 http://example.com/stream
@@ -7,7 +7,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSKXDF.us" tvg-name="AK | Fairbanks | CBS KXDF (bkup)" group-title="Z - Offline Streams",AK | Fairbanks | CBS KXDF (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKYEX.us" tvg-name="AK | Juneau | CBS KYEX" group-title="ENG | Local | CBS",AK | Juneau | CBS KYEX
+#EXTINF:-1 tvg-id="CBSKYEX.us" tvg-name="AK | Juneau | CBS KYEX" group-title="ENG - Local CBS",AK | Juneau | CBS KYEX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629092
 #EXTINF:-1 tvg-id="CBSKYEX.us" tvg-name="AK | Juneau | CBS KYEX (bkup)" group-title="Z - Offline Streams",AK | Juneau | CBS KYEX (bkup)
 http://example.com/stream
@@ -15,23 +15,23 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KUBD-DT.us_locals1" tvg-name="AK | Sitka | CBS KUBD (bkup)" group-title="Z - Offline Streams",AK | Sitka | CBS KUBD (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WIAT" group-title="ENG | Local | CBS",AL | Birmingham | CBS WIAT
+#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WIAT" group-title="ENG - Local CBS",AL | Birmingham | CBS WIAT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75347
 #EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WIAT (bkup)" group-title="Z - Offline Streams",AL | Birmingham | CBS WIAT (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWTVY.us" tvg-name="AL | Dothan | CBS WTVY" group-title="ENG | Local | CBS",AL | Dothan | CBS WTVY
+#EXTINF:-1 tvg-id="CBSWTVY.us" tvg-name="AL | Dothan | CBS WTVY" group-title="ENG - Local CBS",AL | Dothan | CBS WTVY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597315
 #EXTINF:-1 tvg-id="CBSWTVY.us" tvg-name="AL | Dothan | CBS WTVY (bkup)" group-title="Z - Offline Streams",AL | Dothan | CBS WTVY (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWHNT.us" tvg-name="AL | Huntsville | CBS WHNT" group-title="ENG | Local | CBS",AL | Huntsville | CBS WHNT
+#EXTINF:-1 tvg-id="CBSWHNT.us" tvg-name="AL | Huntsville | CBS WHNT" group-title="ENG - Local CBS",AL | Huntsville | CBS WHNT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75356
 #EXTINF:-1 tvg-id="CBSWHNT.us" tvg-name="AL | Huntsville | CBS WHNT (bkup)" group-title="Z - Offline Streams",AL | Huntsville | CBS WHNT (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWKRG.us" tvg-name="AL | Mobile | CBS WKRG" group-title="ENG | Local | CBS",AL | Mobile | CBS WKRG
+#EXTINF:-1 tvg-id="CBSWKRG.us" tvg-name="AL | Mobile | CBS WKRG" group-title="ENG - Local CBS",AL | Mobile | CBS WKRG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89403
 #EXTINF:-1 tvg-id="CBSWKRG.us" tvg-name="AL | Mobile | CBS WKRG (bkup)" group-title="Z - Offline Streams",AL | Mobile | CBS WKRG (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWAKA.us" tvg-name="AL | Montgomery | CBS WAKA" group-title="ENG | Local | CBS",AL | Montgomery | CBS WAKA
+#EXTINF:-1 tvg-id="CBSWAKA.us" tvg-name="AL | Montgomery | CBS WAKA" group-title="ENG - Local CBS",AL | Montgomery | CBS WAKA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75353
 #EXTINF:-1 tvg-id="CBSWAKA.us" tvg-name="AL | Montgomery | CBS WAKA (bkup)" group-title="Z - Offline Streams",AL | Montgomery | CBS WAKA (bkup)
 http://example.com/stream
@@ -43,15 +43,15 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KJNB-LD2.us_locals1" tvg-name="AR | Jonesboro | CBS KJNB (bkup)" group-title="Z - Offline Streams",AR | Jonesboro | CBS KJNB (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKTHV.us" tvg-name="AR | Little Rock | CBS KTHV" group-title="ENG | Local | CBS",AR | Little Rock | CBS KTHV
+#EXTINF:-1 tvg-id="CBSKTHV.us" tvg-name="AR | Little Rock | CBS KTHV" group-title="ENG - Local CBS",AR | Little Rock | CBS KTHV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89409
 #EXTINF:-1 tvg-id="CBSKTHV.us" tvg-name="AR | Little Rock | CBS KTHV (bkup)" group-title="Z - Offline Streams",AR | Little Rock | CBS KTHV (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="AZ | Phoenix | CBS KPHO" group-title="ENG | Local | CBS",AZ | Phoenix | CBS KPHO
+#EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="AZ | Phoenix | CBS KPHO" group-title="ENG - Local CBS",AZ | Phoenix | CBS KPHO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2628
 #EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="AZ | Phoenix | CBS KPHO (bkup)" group-title="Z - Offline Streams",AZ | Phoenix | CBS KPHO (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKOLD.us" tvg-name="AZ | Tucson | CBS KOLD" group-title="ENG | Local | CBS",AZ | Tucson | CBS KOLD
+#EXTINF:-1 tvg-id="CBSKOLD.us" tvg-name="AZ | Tucson | CBS KOLD" group-title="ENG - Local CBS",AZ | Tucson | CBS KOLD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89420
 #EXTINF:-1 tvg-id="CBSKOLD.us" tvg-name="AZ | Tucson | CBS KOLD (bkup)" group-title="Z - Offline Streams",AZ | Tucson | CBS KOLD (bkup)
 http://example.com/stream
@@ -59,7 +59,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSKYMA.us" tvg-name="AZ | Yuma | CBS KYMA (bkup)" group-title="Z - Offline Streams",AZ | Yuma | CBS KYMA (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKBAK.us" tvg-name="CA | Bakersfield | CBS KBAK" group-title="ENG | Local | CBS",CA | Bakersfield | CBS KBAK
+#EXTINF:-1 tvg-id="CBSKBAK.us" tvg-name="CA | Bakersfield | CBS KBAK" group-title="ENG - Local CBS",CA | Bakersfield | CBS KBAK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89426
 #EXTINF:-1 tvg-id="CBSKBAK.us" tvg-name="CA | Bakersfield | CBS KBAK (bkup)" group-title="Z - Offline Streams",CA | Bakersfield | CBS KBAK (bkup)
 http://example.com/stream
@@ -71,15 +71,15 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSKVIQ.us" tvg-name="CA | Eureka | CBS KVIQ (bkup)" group-title="Z - Offline Streams",CA | Eureka | CBS KVIQ (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKGPE.us" tvg-name="CA | Fresno | CBS KGPE (bkup)" group-title="ENG | Local | CBS",CA | Fresno | CBS KGPE
+#EXTINF:-1 tvg-id="CBSKGPE.us" tvg-name="CA | Fresno | CBS KGPE (bkup)" group-title="ENG - Local CBS",CA | Fresno | CBS KGPE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89431
 #EXTINF:-1 tvg-id="CBSKGPE.us" tvg-name="CA | Fresno | CBS KGPE (bkup)" group-title="Z - Offline Streams",CA | Fresno | CBS KGPE (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CA | Los Angeles | CBS KCBS" group-title="ENG | Local | CBS",CA | Los Angeles | CBS KCBS
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CA | Los Angeles | CBS KCBS" group-title="ENG - Local CBS",CA | Los Angeles | CBS KCBS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/87548
 #EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CA | Los Angeles | CBS KCBS (bkup)" group-title="Z - Offline Streams",CA | Los Angeles | CBS KCBS (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKION.us" tvg-name="CA | Monterey | CBS KION" group-title="ENG | Local | CBS",CA | Monterey | CBS KION
+#EXTINF:-1 tvg-id="CBSKION.us" tvg-name="CA | Monterey | CBS KION" group-title="ENG - Local CBS",CA | Monterey | CBS KION
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89441
 #EXTINF:-1 tvg-id="CBSKION.us" tvg-name="CA | Monterey | CBS KION (bkup)" group-title="Z - Offline Streams",CA | Monterey | CBS KION (bkup)
 http://example.com/stream
@@ -87,19 +87,19 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSKPSPCD2.us" tvg-name="CA | Palm Springs | CBS KPSP (bkup)" group-title="Z - Offline Streams",CA | Palm Springs | CBS KPSP (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="CA | Sacramento | CBS KOVR" group-title="ENG | Local | CBS",CA | Sacramento | CBS KOVR
+#EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="CA | Sacramento | CBS KOVR" group-title="ENG - Local CBS",CA | Sacramento | CBS KOVR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2625
 #EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="CA | Sacramento | CBS KOVR (bkup)" group-title="Z - Offline Streams",CA | Sacramento | CBS KOVR (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="CA | San Diego | CBS KFMB" group-title="ENG | Local | CBS",CA | San Diego | CBS KFMB
+#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="CA | San Diego | CBS KFMB" group-title="ENG - Local CBS",CA | San Diego | CBS KFMB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2623
 #EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="CA | San Diego | CBS KFMB (bkup)" group-title="Z - Offline Streams",CA | San Diego | CBS KFMB (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKPIX.us" tvg-name="CA | San Francisco | CBS KPIX" group-title="ENG | Local | CBS",CA | San Francisco | CBS KPIX
+#EXTINF:-1 tvg-id="CBSKPIX.us" tvg-name="CA | San Francisco | CBS KPIX" group-title="ENG - Local CBS",CA | San Francisco | CBS KPIX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/30135
 #EXTINF:-1 tvg-id="CBSKPIX.us" tvg-name="CA | San Francisco | CBS KPIX (bkup)" group-title="Z - Offline Streams",CA | San Francisco | CBS KPIX (bkup)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSKEYTDT2.us" tvg-name="CA | San Luis Obispo | CBS KEYT" group-title="ENG | Local | CBS",CA | San Luis Obispo | CBS KEYT
+#EXTINF:-1 tvg-id="CBSKEYTDT2.us" tvg-name="CA | San Luis Obispo | CBS KEYT" group-title="ENG - Local CBS",CA | San Luis Obispo | CBS KEYT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89465
 #EXTINF:-1 tvg-id="CBSKEYTDT2.us" tvg-name="CA | San Luis Obispo | CBS KEYT (bkup)" group-title="Z - Offline Streams",CA | San Luis Obispo | CBS KEYT (bkup)
 http://example.com/stream

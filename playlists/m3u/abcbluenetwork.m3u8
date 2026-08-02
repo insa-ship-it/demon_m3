@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG | Local | ABC",AK | Anchorage | ABC KYUR
+#EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG - Local ABC",AK | Anchorage | ABC KYUR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38317
-#EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR (Alt)" group-title="ENG | Local | ABC",AK | Anchorage | ABC KYUR (Alt)
+#EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR (Alt)" group-title="ENG - Local ABC",AK | Anchorage | ABC KYUR (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172919&extension=ts&play_token=d7dB0ubyVK
-#EXTINF:-1 tvg-id="ABCKATN.us" tvg-name="AK | Fairbanks | ABC KATN" group-title="ENG | Local | ABC",AK | Fairbanks | ABC KATN
+#EXTINF:-1 tvg-id="ABCKATN.us" tvg-name="AK | Fairbanks | ABC KATN" group-title="ENG - Local ABC",AK | Fairbanks | ABC KATN
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKATN.us" tvg-name="AK | Fairbanks | ABC KATN (Alt)" group-title="Z - Offline Streams",AK | Fairbanks | ABC KATN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKJUD.us" tvg-name="AK | Juneau | ABC KJUD" group-title="ENG | Local | ABC",AK | Juneau | ABC KJUD
+#EXTINF:-1 tvg-id="ABCKJUD.us" tvg-name="AK | Juneau | ABC KJUD" group-title="ENG - Local ABC",AK | Juneau | ABC KJUD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629091
 #EXTINF:-1 tvg-id="ABCKJUD.us" tvg-name="AK | Juneau | ABC KJUD (Alt)" group-title="Z - Offline Streams",AK | Juneau | ABC KJUD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWABMDT2.us" tvg-name="AL | Birmingham | ABC WABM" group-title="ENG | Local | ABC",AL | Birmingham | ABC WABM
+#EXTINF:-1 tvg-id="ABCWABMDT2.us" tvg-name="AL | Birmingham | ABC WABM" group-title="ENG - Local ABC",AL | Birmingham | ABC WABM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38263
-#EXTINF:-1 tvg-id="ABCWABMDT2.us" tvg-name="AL | Birmingham | ABC WABM (Alt)" group-title="ENG | Local | ABC",AL | Birmingham | ABC WABM (Alt)
+#EXTINF:-1 tvg-id="ABCWABMDT2.us" tvg-name="AL | Birmingham | ABC WABM (Alt)" group-title="ENG - Local ABC",AL | Birmingham | ABC WABM (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172914&extension=ts&play_token=v0r49GS9ew
-#EXTINF:-1 tvg-id="ABCWDHN.us" tvg-name="AL | Dothan | ABC WDHN" group-title="ENG | Local | ABC",AL | Dothan | ABC WDHN
+#EXTINF:-1 tvg-id="ABCWDHN.us" tvg-name="AL | Dothan | ABC WDHN" group-title="ENG - Local ABC",AL | Dothan | ABC WDHN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597302
-#EXTINF:-1 tvg-id="ABCWDHN.us" tvg-name="AL | Dothan | ABC WDHN (Alt)" group-title="ENG | Local | ABC",AL | Dothan | ABC WDHN (Alt)
+#EXTINF:-1 tvg-id="ABCWDHN.us" tvg-name="AL | Dothan | ABC WDHN (Alt)" group-title="ENG - Local ABC",AL | Dothan | ABC WDHN (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172915&extension=ts&play_token=A7THBDZDJz
-#EXTINF:-1 tvg-id="ABCWAAY.us" tvg-name="AL | Huntsville | ABC WAAY" group-title="ENG | Local | ABC",AL | Huntsville | ABC WAAY
+#EXTINF:-1 tvg-id="ABCWAAY.us" tvg-name="AL | Huntsville | ABC WAAY" group-title="ENG - Local ABC",AL | Huntsville | ABC WAAY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38262
-#EXTINF:-1 tvg-id="ABCWAAY.us" tvg-name="AL | Huntsville | ABC WAAY (Alt)" group-title="ENG | Local | ABC",AL | Huntsville | ABC WAAY (Alt)
+#EXTINF:-1 tvg-id="ABCWAAY.us" tvg-name="AL | Huntsville | ABC WAAY (Alt)" group-title="ENG - Local ABC",AL | Huntsville | ABC WAAY (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172916&extension=ts&play_token=J1UldCWyyx
-#EXTINF:-1 tvg-id="ABCWEAR.us" tvg-name="AL | Mobile | ABC WEAR" group-title="ENG | Local | ABC",AL | Mobile | ABC WEAR
+#EXTINF:-1 tvg-id="ABCWEAR.us" tvg-name="AL | Mobile | ABC WEAR" group-title="ENG - Local ABC",AL | Mobile | ABC WEAR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38246
-#EXTINF:-1 tvg-id="ABCWEAR.us" tvg-name="AL | Mobile | ABC WEAR (Alt)" group-title="ENG | Local | ABC",AL | Mobile | ABC WEAR (Alt)
+#EXTINF:-1 tvg-id="ABCWEAR.us" tvg-name="AL | Mobile | ABC WEAR (Alt)" group-title="ENG - Local ABC",AL | Mobile | ABC WEAR (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172950&extension=ts&play_token=gD6f8MaHB8
-#EXTINF:-1 tvg-id="ABCWNCF.us" tvg-name="AL | Montgomery | ABC WNCF" group-title="ENG | Local | ABC",AL | Montgomery | ABC WNCF
+#EXTINF:-1 tvg-id="ABCWNCF.us" tvg-name="AL | Montgomery | ABC WNCF" group-title="ENG - Local ABC",AL | Montgomery | ABC WNCF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75350
-#EXTINF:-1 tvg-id="ABCWNCF.us" tvg-name="AL | Montgomery | ABC WNCF (Alt)" group-title="ENG | Local | ABC",AL | Montgomery | ABC WNCF (Alt)
+#EXTINF:-1 tvg-id="ABCWNCF.us" tvg-name="AL | Montgomery | ABC WNCF (Alt)" group-title="ENG - Local ABC",AL | Montgomery | ABC WNCF (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172917&extension=ts&play_token=6hsxtyBqA8
-#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fayetteville | ABC KHOG" group-title="ENG | Local | ABC",AR | Fayetteville | ABC KHOG
+#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fayetteville | ABC KHOG" group-title="ENG - Local ABC",AR | Fayetteville | ABC KHOG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38265
-#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fayetteville | ABC KHOG (Alt)" group-title="ENG | Local | ABC",AR | Fayetteville | ABC KHOG (Alt)
+#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fayetteville | ABC KHOG (Alt)" group-title="ENG - Local ABC",AR | Fayetteville | ABC KHOG (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172924&extension=ts&play_token=G7gzASylFR
-#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fort Smith | ABC KHBS" group-title="ENG | Local | ABC",AR | Fort Smith | ABC KHBS
+#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fort Smith | ABC KHBS" group-title="ENG - Local ABC",AR | Fort Smith | ABC KHBS
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fort Smith | ABC KHBS (Alt)" group-title="ENG | Local | ABC",AR | Fort Smith | ABC KHBS (Alt)
+#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fort Smith | ABC KHBS (Alt)" group-title="ENG - Local ABC",AR | Fort Smith | ABC KHBS (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172924&extension=ts&play_token=G7gzASylFR
-#EXTINF:-1 tvg-id="ABCKAIT.us" tvg-name="AR | Jonesboro | ABC KAIT" group-title="ENG | Local | ABC",AR | Jonesboro | ABC KAIT
+#EXTINF:-1 tvg-id="ABCKAIT.us" tvg-name="AR | Jonesboro | ABC KAIT" group-title="ENG - Local ABC",AR | Jonesboro | ABC KAIT
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKAIT.us" tvg-name="AR | Jonesboro | ABC KAIT (Alt)" group-title="Z - Offline Streams",AR | Jonesboro | ABC KAIT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKATV.us" tvg-name="AR | Little Rock | ABC KATV" group-title="ENG | Local | ABC",AR | Little Rock | ABC KATV
+#EXTINF:-1 tvg-id="ABCKATV.us" tvg-name="AR | Little Rock | ABC KATV" group-title="ENG - Local ABC",AR | Little Rock | ABC KATV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/525686
-#EXTINF:-1 tvg-id="ABCKATV.us" tvg-name="AR | Little Rock | ABC KATV (Alt)" group-title="ENG | Local | ABC",AR | Little Rock | ABC KATV (Alt)
+#EXTINF:-1 tvg-id="ABCKATV.us" tvg-name="AR | Little Rock | ABC KATV (Alt)" group-title="ENG - Local ABC",AR | Little Rock | ABC KATV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172926&extension=ts&play_token=juEtM3Tprc
-#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="AZ | Phoenix | ABC KNXV" group-title="ENG | Local | ABC",AZ | Phoenix | ABC KNXV
+#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="AZ | Phoenix | ABC KNXV" group-title="ENG - Local ABC",AZ | Phoenix | ABC KNXV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2677
-#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="AZ | Phoenix | ABC KNXV (Alt)" group-title="ENG | Local | ABC",AZ | Phoenix | ABC KNXV (Alt)
+#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="AZ | Phoenix | ABC KNXV (Alt)" group-title="ENG - Local ABC",AZ | Phoenix | ABC KNXV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172921&extension=ts&play_token=OazpTWri9Q
-#EXTINF:-1 tvg-id="ABCKGUN.us" tvg-name="AZ | Tucson | ABC KGUN" group-title="ENG | Local | ABC",AZ | Tucson | ABC KGUN
+#EXTINF:-1 tvg-id="ABCKGUN.us" tvg-name="AZ | Tucson | ABC KGUN" group-title="ENG - Local ABC",AZ | Tucson | ABC KGUN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600301
-#EXTINF:-1 tvg-id="ABCKGUN.us" tvg-name="AZ | Tucson | ABC KGUN (Alt)" group-title="ENG | Local | ABC",AZ | Tucson | ABC KGUN (Alt)
+#EXTINF:-1 tvg-id="ABCKGUN.us" tvg-name="AZ | Tucson | ABC KGUN (Alt)" group-title="ENG - Local ABC",AZ | Tucson | ABC KGUN (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172922&extension=ts&play_token=2I6MyqDGbQ
-#EXTINF:-1 tvg-id="ABCKECYDT2.us" tvg-name="AZ | Yuma | ABC KECY" group-title="ENG | Local | ABC",AZ | Yuma | ABC KECY
+#EXTINF:-1 tvg-id="ABCKECYDT2.us" tvg-name="AZ | Yuma | ABC KECY" group-title="ENG - Local ABC",AZ | Yuma | ABC KECY
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKECYDT2.us" tvg-name="AZ | Yuma | ABC KECY (Alt)" group-title="Z - Offline Streams",AZ | Yuma | ABC KECY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKERO.us" tvg-name="CA | Bakersfield | ABC KERO" group-title="ENG | Local | ABC",CA | Bakersfield | ABC KERO
+#EXTINF:-1 tvg-id="ABCKERO.us" tvg-name="CA | Bakersfield | ABC KERO" group-title="ENG - Local ABC",CA | Bakersfield | ABC KERO
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172928&extension=ts&play_token=RHceAE2fFv
 #EXTINF:-1 tvg-id="ABCKERO.us" tvg-name="CA | Bakersfield | ABC KERO (Alt)" group-title="Z - Offline Streams",CA | Bakersfield | ABC KERO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKRCR.us" tvg-name="CA | Chico-Redding | ABC KRCR" group-title="ENG | Local | ABC",CA | Chico-Redding | ABC KRCR
+#EXTINF:-1 tvg-id="ABCKRCR.us" tvg-name="CA | Chico-Redding | ABC KRCR" group-title="ENG - Local ABC",CA | Chico-Redding | ABC KRCR
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1759553&extension=ts&play_token=1bjsRqA26m
 #EXTINF:-1 tvg-id="ABCKRCR.us" tvg-name="CA | Chico-Redding | ABC KRCR (Alt)" group-title="Z - Offline Streams",CA | Chico-Redding | ABC KRCR (Alt)
 http://example.com/stream
@@ -71,11 +71,11 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKAEF.us" tvg-name="CA | Eureka | ABC KAEF (Alt)" group-title="Z - Offline Streams",CA | Eureka | ABC KAEF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKFSN.us" tvg-name="CA | Fresno | ABC KFSN" group-title="ENG | Local | ABC",CA | Fresno | ABC KFSN
+#EXTINF:-1 tvg-id="ABCKFSN.us" tvg-name="CA | Fresno | ABC KFSN" group-title="ENG - Local ABC",CA | Fresno | ABC KFSN
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1518454&extension=ts&play_token=i5oIDrCFEZ
 #EXTINF:-1 tvg-id="ABCKFSN.us" tvg-name="CA | Fresno | ABC KFSN (Alt)" group-title="Z - Offline Streams",CA | Fresno | ABC KFSN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC" group-title="ENG | Local | ABC",CA | Los Angeles | ABC KABC
+#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC" group-title="ENG - Local ABC",CA | Los Angeles | ABC KABC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172930&extension=ts&play_token=u61DMP6jJN
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC (Alt)" group-title="Z - Offline Streams",CA | Los Angeles | ABC KABC (Alt)
 http://example.com/stream
@@ -83,147 +83,147 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKSBWDT2.us" tvg-name="CA | Monterey | ABC KSBW (Alt)" group-title="Z - Offline Streams",CA | Monterey | ABC KSBW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKESQ.us" tvg-name="CA | Palm Springs | ABC KESQ" group-title="ENG | Local | ABC",CA | Palm Springs | ABC KESQ
+#EXTINF:-1 tvg-id="ABCKESQ.us" tvg-name="CA | Palm Springs | ABC KESQ" group-title="ENG - Local ABC",CA | Palm Springs | ABC KESQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2674
-#EXTINF:-1 tvg-id="ABCKESQ.us" tvg-name="CA | Palm Springs | ABC KESQ (Alt)" group-title="ENG | Local | ABC",CA | Palm Springs | ABC KESQ (Alt)
+#EXTINF:-1 tvg-id="ABCKESQ.us" tvg-name="CA | Palm Springs | ABC KESQ (Alt)" group-title="ENG - Local ABC",CA | Palm Springs | ABC KESQ (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172931&extension=ts&play_token=8YDeZvz55L
-#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | Sacramento | ABC KXTV" group-title="ENG | Local | ABC",CA | Sacramento | ABC KXTV
+#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | Sacramento | ABC KXTV" group-title="ENG - Local ABC",CA | Sacramento | ABC KXTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2674
-#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | Sacramento | ABC KXTV (Alt)" group-title="ENG | Local | ABC",CA | Sacramento | ABC KXTV (Alt)
+#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | Sacramento | ABC KXTV (Alt)" group-title="ENG - Local ABC",CA | Sacramento | ABC KXTV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172932&extension=ts&play_token=s4wdw8uAUO
-#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | San Diego | ABC KGTV" group-title="ENG | Local | ABC",CA | San Diego | ABC KGTV
+#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | San Diego | ABC KGTV" group-title="ENG - Local ABC",CA | San Diego | ABC KGTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2670
-#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | San Diego | ABC KGTV (Alt)" group-title="ENG | Local | ABC",CA | San Diego | ABC KGTV (Alt)
+#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | San Diego | ABC KGTV (Alt)" group-title="ENG - Local ABC",CA | San Diego | ABC KGTV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172933&extension=ts&play_token=9CIEpnC0x1
-#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | San Francisco | ABC KGO" group-title="ENG | Local | ABC",CA | San Francisco | ABC KGO
+#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | San Francisco | ABC KGO" group-title="ENG - Local ABC",CA | San Francisco | ABC KGO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2669
-#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | San Francisco | ABC KGO (Alt)" group-title="ENG | Local | ABC",CA | San Francisco | ABC KGO (Alt)
+#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | San Francisco | ABC KGO (Alt)" group-title="ENG - Local ABC",CA | San Francisco | ABC KGO (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172934&extension=ts&play_token=ZeQQzu9KY3
-#EXTINF:-1 tvg-id="ABCKEYT.us" tvg-name="CA | San Luis Obispo | ABC KEYT" group-title="ENG | Local | ABC",CA | San Luis Obispo | ABC KEYT
+#EXTINF:-1 tvg-id="ABCKEYT.us" tvg-name="CA | San Luis Obispo | ABC KEYT" group-title="ENG - Local ABC",CA | San Luis Obispo | ABC KEYT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/446727
-#EXTINF:-1 tvg-id="ABCKEYT.us" tvg-name="CA | San Luis Obispo | ABC KEYT (Alt)" group-title="ENG | Local | ABC",CA | San Luis Obispo | ABC KEYT (Alt)
+#EXTINF:-1 tvg-id="ABCKEYT.us" tvg-name="CA | San Luis Obispo | ABC KEYT (Alt)" group-title="ENG - Local ABC",CA | San Luis Obispo | ABC KEYT (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172935&extension=ts&play_token=gRJ8VKXsdc
-#EXTINF:-1 tvg-id="ABCKRDO.us" tvg-name="CO | Colorado Springs | ABC KRDO" group-title="ENG | Local | ABC",CO | Colorado Springs | ABC KRDO
+#EXTINF:-1 tvg-id="ABCKRDO.us" tvg-name="CO | Colorado Springs | ABC KRDO" group-title="ENG - Local ABC",CO | Colorado Springs | ABC KRDO
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=980707&extension=ts&play_token=e4FLx6a2Nx
 #EXTINF:-1 tvg-id="ABCKRDO.us" tvg-name="CO | Colorado Springs | ABC KRDO (Alt)" group-title="Z - Offline Streams",CO | Colorado Springs | ABC KRDO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH" group-title="ENG | Local | ABC",CO | Denver | ABC KMGH
+#EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH" group-title="ENG - Local ABC",CO | Denver | ABC KMGH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629110
-#EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH (Alt)" group-title="ENG | Local | ABC",CO | Denver | ABC KMGH (Alt)
+#EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH (Alt)" group-title="ENG - Local ABC",CO | Denver | ABC KMGH (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172937&extension=ts&play_token=0ZGW61ShHv
-#EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT" group-title="ENG | Local | ABC",CO | Grand Junction | ABC KJCT
+#EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT" group-title="ENG - Local ABC",CO | Grand Junction | ABC KJCT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629108
-#EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT (Alt)" group-title="ENG | Local | ABC",CO | Grand Junction | ABC KJCT (Alt)
+#EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT (Alt)" group-title="ENG - Local ABC",CO | Grand Junction | ABC KJCT (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172938&extension=ts&play_token=AeY7jKsJse
-#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH" group-title="ENG | Local | ABC",CT | Hartford | ABC WTNH
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH" group-title="ENG - Local ABC",CT | Hartford | ABC WTNH
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629542
-#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH (Alt)" group-title="ENG | Local | ABC",CT | Hartford | ABC WTNH (Alt)
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH (Alt)" group-title="ENG - Local ABC",CT | Hartford | ABC WTNH (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172940&extension=ts&play_token=wGxu8fsesh
-#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | Washington | ABC WJLA" group-title="ENG | Local | ABC",DC | Washington | ABC WJLA
+#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | Washington | ABC WJLA" group-title="ENG - Local ABC",DC | Washington | ABC WJLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2665
-#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | Washington | ABC WJLA (Alt)" group-title="ENG | Local | ABC",DC | Washington | ABC WJLA (Alt)
+#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | Washington | ABC WJLA (Alt)" group-title="ENG - Local ABC",DC | Washington | ABC WJLA (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172942&extension=ts&play_token=8jiwzku6wD
-#EXTINF:-1 tvg-id="ABCWZVN.us" tvg-name="FL | Fort Myers | ABC WZVN" group-title="ENG | Local | ABC",FL | Fort Myers | ABC WZVN
+#EXTINF:-1 tvg-id="ABCWZVN.us" tvg-name="FL | Fort Myers | ABC WZVN" group-title="ENG - Local ABC",FL | Fort Myers | ABC WZVN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38258
-#EXTINF:-1 tvg-id="ABCWZVN.us" tvg-name="FL | Fort Myers | ABC WZVN (Alt)" group-title="ENG | Local | ABC",FL | Fort Myers | ABC WZVN (Alt)
+#EXTINF:-1 tvg-id="ABCWZVN.us" tvg-name="FL | Fort Myers | ABC WZVN (Alt)" group-title="ENG - Local ABC",FL | Fort Myers | ABC WZVN (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172947&extension=ts&play_token=t4YQty2Ua4
-#EXTINF:-1 tvg-id="ABCWCJB.us" tvg-name="FL | Gainesville | ABC WCJB" group-title="ENG | Local | ABC",FL | Gainesville | ABC WCJB
+#EXTINF:-1 tvg-id="ABCWCJB.us" tvg-name="FL | Gainesville | ABC WCJB" group-title="ENG - Local ABC",FL | Gainesville | ABC WCJB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38315
-#EXTINF:-1 tvg-id="ABCWCJB.us" tvg-name="FL | Gainesville | ABC WCJB (Alt)" group-title="ENG | Local | ABC",FL | Gainesville | ABC WCJB (Alt)
+#EXTINF:-1 tvg-id="ABCWCJB.us" tvg-name="FL | Gainesville | ABC WCJB (Alt)" group-title="ENG - Local ABC",FL | Gainesville | ABC WCJB (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172944&extension=ts&play_token=vHz9ZvwkhA
-#EXTINF:-1 tvg-id="ABCWJXX.us" tvg-name="FL | Jacksonville | ABC WJXX" group-title="ENG | Local | ABC",FL | Jacksonville | ABC WJXX
+#EXTINF:-1 tvg-id="ABCWJXX.us" tvg-name="FL | Jacksonville | ABC WJXX" group-title="ENG - Local ABC",FL | Jacksonville | ABC WJXX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38245
-#EXTINF:-1 tvg-id="ABCWJXX.us" tvg-name="FL | Jacksonville | ABC WJXX (Alt)" group-title="ENG | Local | ABC",FL | Jacksonville | ABC WJXX (Alt)
+#EXTINF:-1 tvg-id="ABCWJXX.us" tvg-name="FL | Jacksonville | ABC WJXX (Alt)" group-title="ENG - Local ABC",FL | Jacksonville | ABC WJXX (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172945&extension=ts&play_token=L2pa6QvUbT
-#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN" group-title="ENG | Local | ABC",FL | Miami | ABC WSVN
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN" group-title="ENG - Local ABC",FL | Miami | ABC WSVN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2683
-#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN (Alt)" group-title="ENG | Local | ABC",FL | Miami | ABC WSVN (Alt)
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN (Alt)" group-title="ENG - Local ABC",FL | Miami | ABC WSVN (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172946&extension=ts&play_token=7OSOmElb7J
-#EXTINF:-1 tvg-id="ABCWFTV.us" tvg-name="FL | Orlando | ABC WFTV" group-title="ENG | Local | ABC",FL | Orlando | ABC WFTV
+#EXTINF:-1 tvg-id="ABCWFTV.us" tvg-name="FL | Orlando | ABC WFTV" group-title="ENG - Local ABC",FL | Orlando | ABC WFTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2679
-#EXTINF:-1 tvg-id="ABCWFTV.us" tvg-name="FL | Orlando | ABC WFTV (Alt)" group-title="ENG | Local | ABC",FL | Orlando | ABC WFTV (Alt)
+#EXTINF:-1 tvg-id="ABCWFTV.us" tvg-name="FL | Orlando | ABC WFTV (Alt)" group-title="ENG - Local ABC",FL | Orlando | ABC WFTV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172948&extension=ts&play_token=MoAcdpvGA4
-#EXTINF:-1 tvg-id="ABCWMBB.us" tvg-name="FL | Panama City | ABC WMBB" group-title="ENG | Local | ABC",FL | Panama City | ABC WMBB
+#EXTINF:-1 tvg-id="ABCWMBB.us" tvg-name="FL | Panama City | ABC WMBB" group-title="ENG - Local ABC",FL | Panama City | ABC WMBB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/86560
-#EXTINF:-1 tvg-id="ABCWMBB.us" tvg-name="FL | Panama City | ABC WMBB (Alt)" group-title="ENG | Local | ABC",FL | Panama City | ABC WMBB (Alt)
+#EXTINF:-1 tvg-id="ABCWMBB.us" tvg-name="FL | Panama City | ABC WMBB (Alt)" group-title="ENG - Local ABC",FL | Panama City | ABC WMBB (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172949&extension=ts&play_token=b7BasAXvGa
-#EXTINF:-1 tvg-id="ABCWWSB.us" tvg-name="FL | Sarasota | ABC WWSB" group-title="ENG | Local | ABC",FL | Sarasota | ABC WWSB
+#EXTINF:-1 tvg-id="ABCWWSB.us" tvg-name="FL | Sarasota | ABC WWSB" group-title="ENG - Local ABC",FL | Sarasota | ABC WWSB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112252
-#EXTINF:-1 tvg-id="ABCWWSB.us" tvg-name="FL | Sarasota | ABC WWSB (Alt)" group-title="ENG | Local | ABC",FL | Sarasota | ABC WWSB (Alt)
+#EXTINF:-1 tvg-id="ABCWWSB.us" tvg-name="FL | Sarasota | ABC WWSB (Alt)" group-title="ENG - Local ABC",FL | Sarasota | ABC WWSB (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1983495&extension=ts&play_token=F5jjAQYfhv
-#EXTINF:-1 tvg-id="ABCWTXL.us" tvg-name="FL | Tallahassee | ABC WTXL" group-title="ENG | Local | ABC",FL | Tallahassee | ABC WTXL
+#EXTINF:-1 tvg-id="ABCWTXL.us" tvg-name="FL | Tallahassee | ABC WTXL" group-title="ENG - Local ABC",FL | Tallahassee | ABC WTXL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/60447
-#EXTINF:-1 tvg-id="ABCWTXL.us" tvg-name="FL | Tallahassee | ABC WTXL (Alt)" group-title="ENG | Local | ABC",FL | Tallahassee | ABC WTXL (Alt)
+#EXTINF:-1 tvg-id="ABCWTXL.us" tvg-name="FL | Tallahassee | ABC WTXL (Alt)" group-title="ENG - Local ABC",FL | Tallahassee | ABC WTXL (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172952&extension=ts&play_token=5Y4C77nwU8
-#EXTINF:-1 tvg-id="ABCWFTS.us" tvg-name="FL | Tampa | ABC WFTS" group-title="ENG | Local | ABC",FL | Tampa | ABC WFTS
+#EXTINF:-1 tvg-id="ABCWFTS.us" tvg-name="FL | Tampa | ABC WFTS" group-title="ENG - Local ABC",FL | Tampa | ABC WFTS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2666
-#EXTINF:-1 tvg-id="ABCWFTS.us" tvg-name="FL | Tampa | ABC WFTS (Alt)" group-title="ENG | Local | ABC",FL | Tampa | ABC WFTS (Alt)
+#EXTINF:-1 tvg-id="ABCWFTS.us" tvg-name="FL | Tampa | ABC WFTS (Alt)" group-title="ENG - Local ABC",FL | Tampa | ABC WFTS (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172953&extension=ts&play_token=lJ0quwlmdU
-#EXTINF:-1 tvg-id="ABCWPBF.us" tvg-name="FL | WPB | ABC WPBF" group-title="ENG | Local | ABC",FL | WPB | ABC WPBF
+#EXTINF:-1 tvg-id="ABCWPBF.us" tvg-name="FL | WPB | ABC WPBF" group-title="ENG - Local ABC",FL | WPB | ABC WPBF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/672344
-#EXTINF:-1 tvg-id="ABCWPBF.us" tvg-name="FL | WPB | ABC WPBF (Alt)" group-title="ENG | Local | ABC",FL | WPB | ABC WPBF (Alt)
+#EXTINF:-1 tvg-id="ABCWPBF.us" tvg-name="FL | WPB | ABC WPBF (Alt)" group-title="ENG - Local ABC",FL | WPB | ABC WPBF (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172954&extension=ts&play_token=YBw1L2UeUK
-#EXTINF:-1 tvg-id="ABCWALBDT2.us" tvg-name="GA | Albany | ABC WALB" group-title="ENG | Local | ABC",GA | Albany | ABC WALB
+#EXTINF:-1 tvg-id="ABCWALBDT2.us" tvg-name="GA | Albany | ABC WALB" group-title="ENG - Local ABC",GA | Albany | ABC WALB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/691402
 #EXTINF:-1 tvg-id="ABCWALBDT2.us" tvg-name="GA | Albany | ABC WALB (Alt)" group-title="Z - Offline Streams",GA | Albany | ABC WALB (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | Atlanta | ABC WSB" group-title="ENG | Local | ABC",GA | Atlanta | ABC WSB
+#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | Atlanta | ABC WSB" group-title="ENG - Local ABC",GA | Atlanta | ABC WSB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2699
-#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | Atlanta | ABC WSB (Alt)" group-title="ENG | Local | ABC",GA | Atlanta | ABC WSB (Alt)
+#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | Atlanta | ABC WSB (Alt)" group-title="ENG - Local ABC",GA | Atlanta | ABC WSB (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172956&extension=ts&play_token=ubWrDF36wb
-#EXTINF:-1 tvg-id="ABCWJBF.us" tvg-name="GA | Augusta | ABC WJBF" group-title="ENG | Local | ABC",GA | Augusta | ABC WJBF
+#EXTINF:-1 tvg-id="ABCWJBF.us" tvg-name="GA | Augusta | ABC WJBF" group-title="ENG - Local ABC",GA | Augusta | ABC WJBF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38284
-#EXTINF:-1 tvg-id="ABCWJBF.us" tvg-name="GA | Augusta | ABC WJBF (Alt)" group-title="ENG | Local | ABC",GA | Augusta | ABC WJBF (Alt)
+#EXTINF:-1 tvg-id="ABCWJBF.us" tvg-name="GA | Augusta | ABC WJBF (Alt)" group-title="ENG - Local ABC",GA | Augusta | ABC WJBF (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172957&extension=ts&play_token=L21N1kGNmJ
-#EXTINF:-1 tvg-id="ABCWTVM.us" tvg-name="GA | Columbus | ABC WTVM" group-title="ENG | Local | ABC",GA | Columbus | ABC WTVM
+#EXTINF:-1 tvg-id="ABCWTVM.us" tvg-name="GA | Columbus | ABC WTVM" group-title="ENG - Local ABC",GA | Columbus | ABC WTVM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600289
-#EXTINF:-1 tvg-id="ABCWTVM.us" tvg-name="GA | Columbus | ABC WTVM (Alt)" group-title="ENG | Local | ABC",GA | Columbus | ABC WTVM (Alt)
+#EXTINF:-1 tvg-id="ABCWTVM.us" tvg-name="GA | Columbus | ABC WTVM (Alt)" group-title="ENG - Local ABC",GA | Columbus | ABC WTVM (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172958&extension=ts&play_token=XPJMuqd0Rn
-#EXTINF:-1 tvg-id="ABCWGXADT2.us" tvg-name="GA | Macon | ABC WGXA" group-title="ENG | Local | ABC",GA | Macon | ABC WGXA
+#EXTINF:-1 tvg-id="ABCWGXADT2.us" tvg-name="GA | Macon | ABC WGXA" group-title="ENG - Local ABC",GA | Macon | ABC WGXA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/615802
 #EXTINF:-1 tvg-id="ABCWGXADT2.us" tvg-name="GA | Macon | ABC WGXA (Alt)" group-title="Z - Offline Streams",GA | Macon | ABC WGXA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWJCL.us" tvg-name="GA | Savannah | ABC WJCL" group-title="ENG | Local | ABC",GA | Savannah | ABC WJCL
+#EXTINF:-1 tvg-id="ABCWJCL.us" tvg-name="GA | Savannah | ABC WJCL" group-title="ENG - Local ABC",GA | Savannah | ABC WJCL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/514514
-#EXTINF:-1 tvg-id="ABCWJCL.us" tvg-name="GA | Savannah | ABC WJCL (Alt)" group-title="ENG | Local | ABC",GA | Savannah | ABC WJCL (Alt)
+#EXTINF:-1 tvg-id="ABCWJCL.us" tvg-name="GA | Savannah | ABC WJCL (Alt)" group-title="ENG - Local ABC",GA | Savannah | ABC WJCL (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172959&extension=ts&play_token=4GZ9PqqGS2
 #EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Hilo | ABC KHVO" group-title="Z - Offline Streams",HI | Hilo | ABC KHVO
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Hilo | ABC KHVO (Alt)" group-title="Z - Offline Streams",HI | Hilo | ABC KHVO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Honolulu | ABC KITV" group-title="ENG | Local | ABC",HI | Honolulu | ABC KITV
+#EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Honolulu | ABC KITV" group-title="ENG - Local ABC",HI | Honolulu | ABC KITV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38312
-#EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Honolulu | ABC KITV (Alt)" group-title="ENG | Local | ABC",HI | Honolulu | ABC KITV (Alt)
+#EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Honolulu | ABC KITV (Alt)" group-title="ENG - Local ABC",HI | Honolulu | ABC KITV (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172961&extension=ts&play_token=geOopeIjco
 #EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Wailuku | ABC KMAU" group-title="Z - Offline Streams",HI | Wailuku | ABC KMAU
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKITV.us" tvg-name="HI | Wailuku | ABC KMAU (Alt)" group-title="Z - Offline Streams",HI | Wailuku | ABC KMAU (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKCRG.us" tvg-name="IA | Cedar Rapids | ABC KCRG" group-title="ENG | Local | ABC",IA | Cedar Rapids | ABC KCRG
+#EXTINF:-1 tvg-id="ABCKCRG.us" tvg-name="IA | Cedar Rapids | ABC KCRG" group-title="ENG - Local ABC",IA | Cedar Rapids | ABC KCRG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38259
-#EXTINF:-1 tvg-id="ABCKCRG.us" tvg-name="IA | Cedar Rapids | ABC KCRG (Alt)" group-title="ENG | Local | ABC",IA | Cedar Rapids | ABC KCRG (Alt)
+#EXTINF:-1 tvg-id="ABCKCRG.us" tvg-name="IA | Cedar Rapids | ABC KCRG (Alt)" group-title="ENG - Local ABC",IA | Cedar Rapids | ABC KCRG (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172974&extension=ts&play_token=wS3So4iPhB
-#EXTINF:-1 tvg-id="ABCWQAD.us" tvg-name="IA | Davenport | ABC WQAD" group-title="ENG | Local | ABC",IA | Davenport | ABC WQAD
+#EXTINF:-1 tvg-id="ABCWQAD.us" tvg-name="IA | Davenport | ABC WQAD" group-title="ENG - Local ABC",IA | Davenport | ABC WQAD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600299
 #EXTINF:-1 tvg-id="ABCWQAD.us" tvg-name="IA | Davenport | ABC WQAD (Alt)" group-title="Z - Offline Streams",IA | Davenport | ABC WQAD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWOI.us" tvg-name="IA | Des Moines | ABC WOI" group-title="ENG | Local | ABC",IA | Des Moines | ABC WOI
+#EXTINF:-1 tvg-id="ABCWOI.us" tvg-name="IA | Des Moines | ABC WOI" group-title="ENG - Local ABC",IA | Des Moines | ABC WOI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629712
-#EXTINF:-1 tvg-id="ABCWOI.us" tvg-name="IA | Des Moines | ABC WOI (Alt)" group-title="ENG | Local | ABC",IA | Des Moines | ABC WOI (Alt)
+#EXTINF:-1 tvg-id="ABCWOI.us" tvg-name="IA | Des Moines | ABC WOI (Alt)" group-title="ENG - Local ABC",IA | Des Moines | ABC WOI (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172975&extension=ts&play_token=9HTUmvsg5A
-#EXTINF:-1 tvg-id="ABCKTVO.us" tvg-name="IA | Ottumwa | ABC KTVO" group-title="ENG | Local | ABC",IA | Ottumwa | ABC KTVO
+#EXTINF:-1 tvg-id="ABCKTVO.us" tvg-name="IA | Ottumwa | ABC KTVO" group-title="ENG - Local ABC",IA | Ottumwa | ABC KTVO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629890
 #EXTINF:-1 tvg-id="ABCKTVO.us" tvg-name="IA | Ottumwa | ABC KTVO (Alt)" group-title="Z - Offline Streams",IA | Ottumwa | ABC KTVO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKCAU.us" tvg-name="IA | Sioux City | ABC KCAU" group-title="ENG | Local | ABC",IA | Sioux City | ABC KCAU
+#EXTINF:-1 tvg-id="ABCKCAU.us" tvg-name="IA | Sioux City | ABC KCAU" group-title="ENG - Local ABC",IA | Sioux City | ABC KCAU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/709812
-#EXTINF:-1 tvg-id="ABCKCAU.us" tvg-name="IA | Sioux City | ABC KCAU (Alt)" group-title="ENG | Local | ABC",IA | Sioux City | ABC KCAU (Alt)
+#EXTINF:-1 tvg-id="ABCKCAU.us" tvg-name="IA | Sioux City | ABC KCAU (Alt)" group-title="ENG - Local ABC",IA | Sioux City | ABC KCAU (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172976&extension=ts&play_token=CRlaeAggfa
-#EXTINF:-1 tvg-id="ABCKIVI.us" tvg-name="ID | Boise | ABC KIVI" group-title="ENG | Local | ABC",ID | Boise | ABC KIVI
+#EXTINF:-1 tvg-id="ABCKIVI.us" tvg-name="ID | Boise | ABC KIVI" group-title="ENG - Local ABC",ID | Boise | ABC KIVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512984
 #EXTINF:-1 tvg-id="ABCKIVI.us" tvg-name="ID | Boise | ABC KIVI (Alt)" group-title="Z - Offline Streams",ID | Boise | ABC KIVI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKIFI.us" tvg-name="ID | Idaho Falls | ABC KIFI" group-title="ENG | Local | ABC",ID | Idaho Falls | ABC KIFI
+#EXTINF:-1 tvg-id="ABCKIFI.us" tvg-name="ID | Idaho Falls | ABC KIFI" group-title="ENG - Local ABC",ID | Idaho Falls | ABC KIFI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629682
 #EXTINF:-1 tvg-id="ABCKIFI.us" tvg-name="ID | Idaho Falls | ABC KIFI (Alt)" group-title="Z - Offline Streams",ID | Idaho Falls | ABC KIFI (Alt)
 http://example.com/stream
@@ -231,11 +231,11 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKSAW.us" tvg-name="ID | Twin Falls | ABC KSAW (Alt)" group-title="Z - Offline Streams",ID | Twin Falls | ABC KSAW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWICS.us" tvg-name="IL | Champaign | ABC WICS" group-title="ENG | Local | ABC",IL | Champaign | ABC WICS
+#EXTINF:-1 tvg-id="ABCWICS.us" tvg-name="IL | Champaign | ABC WICS" group-title="ENG - Local ABC",IL | Champaign | ABC WICS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600286
 #EXTINF:-1 tvg-id="ABCWICS.us" tvg-name="IL | Champaign | ABC WICS (Alt)" group-title="Z - Offline Streams",IL | Champaign | ABC WICS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | Chicago | ABC WLS" group-title="ENG | Local | ABC",IL | Chicago | ABC WLS
+#EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | Chicago | ABC WLS" group-title="ENG - Local ABC",IL | Chicago | ABC WLS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2695
 #EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | Chicago | ABC WLS (Alt)" group-title="Z - Offline Streams",IL | Chicago | ABC WLS (Alt)
 http://example.com/stream
@@ -247,19 +247,19 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKHQADT2.us" tvg-name="IL | Quincy | ABC KHQA (Alt)" group-title="Z - Offline Streams",IL | Quincy | ABC KHQA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTVO.us" tvg-name="IL | Rockford | WTVO" group-title="ENG | Local | ABC",IL | Rockford | WTVO
+#EXTINF:-1 tvg-id="ABCWTVO.us" tvg-name="IL | Rockford | WTVO" group-title="ENG - Local ABC",IL | Rockford | WTVO
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172967&extension=ts&play_token=Y3SJ2iAsO5
 #EXTINF:-1 tvg-id="ABCWTVO.us" tvg-name="IL | Rockford | WTVO (Alt)" group-title="Z - Offline Streams",IL | Rockford | WTVO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWEHT.us" tvg-name="IN | Evansville | ABC WEHT" group-title="ENG | Local | ABC",IN | Evansville | ABC WEHT
+#EXTINF:-1 tvg-id="ABCWEHT.us" tvg-name="IN | Evansville | ABC WEHT" group-title="ENG - Local ABC",IN | Evansville | ABC WEHT
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172970&extension=ts&play_token=1d4gOKfkPY
 #EXTINF:-1 tvg-id="ABCWEHT.us" tvg-name="IN | Evansville | ABC WEHT (Alt)" group-title="Z - Offline Streams",IN | Evansville | ABC WEHT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWPTA.us" tvg-name="IN | Fort Wayne | ABC WPTA" group-title="ENG | Local | ABC",IN | Fort Wayne | ABC WPTA
+#EXTINF:-1 tvg-id="ABCWPTA.us" tvg-name="IN | Fort Wayne | ABC WPTA" group-title="ENG - Local ABC",IN | Fort Wayne | ABC WPTA
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=730911&extension=ts&play_token=MLF6K53WoY
 #EXTINF:-1 tvg-id="ABCWPTA.us" tvg-name="IN | Fort Wayne | ABC WPTA (Alt)" group-title="Z - Offline Streams",IN | Fort Wayne | ABC WPTA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWRTV.us" tvg-name="IN | Indianapolis | ABC WRTV" group-title="ENG | Local | ABC",IN | Indianapolis | ABC WRTV
+#EXTINF:-1 tvg-id="ABCWRTV.us" tvg-name="IN | Indianapolis | ABC WRTV" group-title="ENG - Local ABC",IN | Indianapolis | ABC WRTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2686
 #EXTINF:-1 tvg-id="ABCWRTV.us" tvg-name="IN | Indianapolis | ABC WRTV (Alt)" group-title="Z - Offline Streams",IN | Indianapolis | ABC WRTV (Alt)
 http://example.com/stream
@@ -267,7 +267,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWPBY.us" tvg-name="IN | Lafayette | ABC WPBY (Alt)" group-title="Z - Offline Streams",IN | Lafayette | ABC WPBY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBND.us" tvg-name="IN | South Bend | ABC WBND" group-title="ENG | Local | ABC",IN | South Bend | ABC WBND
+#EXTINF:-1 tvg-id="ABCWBND.us" tvg-name="IN | South Bend | ABC WBND" group-title="ENG - Local ABC",IN | South Bend | ABC WBND
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61812
 #EXTINF:-1 tvg-id="ABCWBND.us" tvg-name="IN | South Bend | ABC WBND (Alt)" group-title="Z - Offline Streams",IN | South Bend | ABC WBND (Alt)
 http://example.com/stream
@@ -279,41 +279,41 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKAKE.us" tvg-name="KS | Colby | ABC KLBY (Alt)" group-title="Z - Offline Streams",KS | Colby | ABC KLBY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTKA.us" tvg-name="KS | Topeka | ABC KTKA" group-title="ENG | Local | ABC",KS | Topeka | ABC KTKA
+#EXTINF:-1 tvg-id="ABCKTKA.us" tvg-name="KS | Topeka | ABC KTKA" group-title="ENG - Local ABC",KS | Topeka | ABC KTKA
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172978&extension=ts&play_token=pBqVPgu9Of
 #EXTINF:-1 tvg-id="ABCKTKA.us" tvg-name="KS | Topeka | ABC KTKA (Alt)" group-title="Z - Offline Streams",KS | Topeka | ABC KTKA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKAKE.us" tvg-name="KS | Wichita | ABC KAKE" group-title="ENG | Local | ABC",KS | Wichita | ABC KAKE
+#EXTINF:-1 tvg-id="ABCKAKE.us" tvg-name="KS | Wichita | ABC KAKE" group-title="ENG - Local ABC",KS | Wichita | ABC KAKE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75367
 #EXTINF:-1 tvg-id="ABCKAKE.us" tvg-name="KS | Wichita | ABC KAKE (Alt)" group-title="Z - Offline Streams",KS | Wichita | ABC KAKE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBKO.us" tvg-name="KY | Bowling Green | ABC WBKO" group-title="ENG | Local | ABC",KY | Bowling Green | ABC WBKO
+#EXTINF:-1 tvg-id="ABCWBKO.us" tvg-name="KY | Bowling Green | ABC WBKO" group-title="ENG - Local ABC",KY | Bowling Green | ABC WBKO
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172981&extension=ts&play_token=ooY2zEK0nJ
 #EXTINF:-1 tvg-id="ABCWBKO.us" tvg-name="KY | Bowling Green | ABC WBKO (Alt)" group-title="Z - Offline Streams",KY | Bowling Green | ABC WBKO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTVQ.us" tvg-name="KY | Lexington | ABC WTVQ" group-title="ENG | Local | ABC",KY | Lexington | ABC WTVQ
+#EXTINF:-1 tvg-id="ABCWTVQ.us" tvg-name="KY | Lexington | ABC WTVQ" group-title="ENG - Local ABC",KY | Lexington | ABC WTVQ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38296
 #EXTINF:-1 tvg-id="ABCWTVQ.us" tvg-name="KY | Lexington | ABC WTVQ (Alt)" group-title="Z - Offline Streams",KY | Lexington | ABC WTVQ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWHAS.us" tvg-name="KY | Louisville | ABC WHAS" group-title="ENG | Local | ABC",KY | Louisville | ABC WHAS
+#EXTINF:-1 tvg-id="ABCWHAS.us" tvg-name="KY | Louisville | ABC WHAS" group-title="ENG - Local ABC",KY | Louisville | ABC WHAS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38240
 #EXTINF:-1 tvg-id="ABCWHAS.us" tvg-name="KY | Louisville | ABC WHAS (Alt)" group-title="Z - Offline Streams",KY | Louisville | ABC WHAS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSIL.us" tvg-name="KY | Paducah | ABC WSIL" group-title="ENG | Local | ABC",KY | Paducah | ABC WSIL
+#EXTINF:-1 tvg-id="ABCWSIL.us" tvg-name="KY | Paducah | ABC WSIL" group-title="ENG - Local ABC",KY | Paducah | ABC WSIL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38285
-#EXTINF:-1 tvg-id="ABCKLAX.us" tvg-name="LA | Alexandria | ABC KLAX" group-title="ENG | Local | ABC",LA | Alexandria | ABC KLAX
+#EXTINF:-1 tvg-id="ABCKLAX.us" tvg-name="LA | Alexandria | ABC KLAX" group-title="ENG - Local ABC",LA | Alexandria | ABC KLAX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/143343
 #EXTINF:-1 tvg-id="ABCKLAX.us" tvg-name="LA | Alexandria | ABC KLAX (Alt)" group-title="Z - Offline Streams",LA | Alexandria | ABC KLAX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBRZ.us" tvg-name="LA | Baton Rouge | ABC WBRZ" group-title="ENG | Local | ABC",LA | Baton Rouge | ABC WBRZ
+#EXTINF:-1 tvg-id="ABCWBRZ.us" tvg-name="LA | Baton Rouge | ABC WBRZ" group-title="ENG - Local ABC",LA | Baton Rouge | ABC WBRZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38252
 #EXTINF:-1 tvg-id="ABCWBRZ.us" tvg-name="LA | Baton Rouge | ABC WBRZ (Alt)" group-title="Z - Offline Streams",LA | Baton Rouge | ABC WBRZ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | Lafayette | ABC KATC" group-title="ENG | Local | ABC",LA | Lafayette | ABC KATC
+#EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | Lafayette | ABC KATC" group-title="ENG - Local ABC",LA | Lafayette | ABC KATC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/612328
 #EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | Lafayette | ABC KATC (Alt)" group-title="Z - Offline Streams",LA | Lafayette | ABC KATC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP" group-title="ENG | Local | ABC",LA | Lake Charles | ABC KVHP
+#EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP" group-title="ENG - Local ABC",LA | Lake Charles | ABC KVHP
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1938603&extension=ts&play_token=TU1I9AZzJX
 #EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP (Alt)" group-title="Z - Offline Streams",LA | Lake Charles | ABC KVHP (Alt)
 http://example.com/stream
@@ -321,15 +321,15 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKNOEDT2.us" tvg-name="LA | Monroe | ABC KNOE (Alt)" group-title="Z - Offline Streams",LA | Monroe | ABC KNOE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWGNO.us" tvg-name="LA | New Orleans | ABC WGNO" group-title="ENG | Local | ABC",LA | New Orleans | ABC WGNO
+#EXTINF:-1 tvg-id="ABCWGNO.us" tvg-name="LA | New Orleans | ABC WGNO" group-title="ENG - Local ABC",LA | New Orleans | ABC WGNO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510034
 #EXTINF:-1 tvg-id="ABCWGNO.us" tvg-name="LA | New Orleans | ABC WGNO (Alt)" group-title="Z - Offline Streams",LA | New Orleans | ABC WGNO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTBS.us" tvg-name="LA | Shreveport | ABC KTBS" group-title="ENG | Local | ABC",LA | Shreveport | ABC KTBS
+#EXTINF:-1 tvg-id="ABCKTBS.us" tvg-name="LA | Shreveport | ABC KTBS" group-title="ENG - Local ABC",LA | Shreveport | ABC KTBS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38325
 #EXTINF:-1 tvg-id="ABCKTBS.us" tvg-name="LA | Shreveport | ABC KTBS (Alt)" group-title="Z - Offline Streams",LA | Shreveport | ABC KTBS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | Boston | ABC WCVB" group-title="ENG | Local | ABC",MA | Boston | ABC WCVB
+#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | Boston | ABC WCVB" group-title="ENG - Local ABC",MA | Boston | ABC WCVB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2697
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | Boston | ABC WCVB (Alt)" group-title="Z - Offline Streams",MA | Boston | ABC WCVB (Alt)
 http://example.com/stream
@@ -337,43 +337,43 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWGGB.us" tvg-name="MA | Springfield | ABC WGGB (Alt)" group-title="Z - Offline Streams",MA | Springfield | ABC WGGB (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | Baltimore | ABC WMAR" group-title="ENG | Local | ABC",MD | Baltimore | ABC WMAR
+#EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | Baltimore | ABC WMAR" group-title="ENG - Local ABC",MD | Baltimore | ABC WMAR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2698
 #EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | Baltimore | ABC WMAR (Alt)" group-title="Z - Offline Streams",MD | Baltimore | ABC WMAR (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWMDT.us" tvg-name="MD | Salisbury | ABC WMDT" group-title="ENG | Local | ABC",MD | Salisbury | ABC WMDT
+#EXTINF:-1 tvg-id="ABCWMDT.us" tvg-name="MD | Salisbury | ABC WMDT" group-title="ENG - Local ABC",MD | Salisbury | ABC WMDT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/564515
 #EXTINF:-1 tvg-id="ABCWMDT.us" tvg-name="MD | Salisbury | ABC WMDT (Alt)" group-title="Z - Offline Streams",MD | Salisbury | ABC WMDT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWVII.us" tvg-name="ME | Bangor | ABC WVII" group-title="ENG | Local | ABC",ME | Bangor | ABC WVII
+#EXTINF:-1 tvg-id="ABCWVII.us" tvg-name="ME | Bangor | ABC WVII" group-title="ENG - Local ABC",ME | Bangor | ABC WVII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629732
 #EXTINF:-1 tvg-id="ABCWVII.us" tvg-name="ME | Bangor | ABC WVII (Alt)" group-title="Z - Offline Streams",ME | Bangor | ABC WVII (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWMTW.us" tvg-name="ME | Portland | ABC WMTW" group-title="ENG | Local | ABC",ME | Portland | ABC WMTW
+#EXTINF:-1 tvg-id="ABCWMTW.us" tvg-name="ME | Portland | ABC WMTW" group-title="ENG - Local ABC",ME | Portland | ABC WMTW
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172990&extension=ts&play_token=xyOWZZeiSW
-#EXTINF:-1 tvg-id="ABCWMTW.us" tvg-name="ME | Portland | ABC WMTW (Alt)" group-title="ENG | Local | ABC",ME | Portland | ABC WMTW (Alt)
+#EXTINF:-1 tvg-id="ABCWMTW.us" tvg-name="ME | Portland | ABC WMTW (Alt)" group-title="ENG - Local ABC",ME | Portland | ABC WMTW (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWBKBDT3.us" tvg-name="MI | Alpena | ABC WBKB" group-title="Z - Offline Streams",MI | Alpena | ABC WBKB
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWBKBDT3.us" tvg-name="MI | Alpena | ABC WBKB (Alt)" group-title="Z - Offline Streams",MI | Alpena | ABC WBKB (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWOTV.us" tvg-name="MI | Battle Creek | ABC WOTV" group-title="ENG | Local | ABC",MI | Battle Creek | ABC WOTV
+#EXTINF:-1 tvg-id="ABCWOTV.us" tvg-name="MI | Battle Creek | ABC WOTV" group-title="ENG - Local ABC",MI | Battle Creek | ABC WOTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77763
 #EXTINF:-1 tvg-id="ABCWOTV.us" tvg-name="MI | Battle Creek | ABC WOTV (Alt)" group-title="Z - Offline Streams",MI | Battle Creek | ABC WOTV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWXYZ.us" tvg-name="MI | Detroit | ABC WXYZ" group-title="ENG | Local | ABC",MI | Detroit | ABC WXYZ
+#EXTINF:-1 tvg-id="ABCWXYZ.us" tvg-name="MI | Detroit | ABC WXYZ" group-title="ENG - Local ABC",MI | Detroit | ABC WXYZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2690
 #EXTINF:-1 tvg-id="ABCWXYZ.us" tvg-name="MI | Detroit | ABC WXYZ (Alt)" group-title="Z - Offline Streams",MI | Detroit | ABC WXYZ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWJRT.us" tvg-name="MI | Flint | ABC WJRT" group-title="ENG | Local | ABC",MI | Flint | ABC WJRT
+#EXTINF:-1 tvg-id="ABCWJRT.us" tvg-name="MI | Flint | ABC WJRT" group-title="ENG - Local ABC",MI | Flint | ABC WJRT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77757
 #EXTINF:-1 tvg-id="ABCWJRT.us" tvg-name="MI | Flint | ABC WJRT (Alt)" group-title="Z - Offline Streams",MI | Flint | ABC WJRT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWZZM.us" tvg-name="MI | Grand Rapids | ABC WZZM" group-title="ENG | Local | ABC",MI | Grand Rapids | ABC WZZM
+#EXTINF:-1 tvg-id="ABCWZZM.us" tvg-name="MI | Grand Rapids | ABC WZZM" group-title="ENG - Local ABC",MI | Grand Rapids | ABC WZZM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38279
 #EXTINF:-1 tvg-id="ABCWZZM.us" tvg-name="MI | Grand Rapids | ABC WZZM (Alt)" group-title="Z - Offline Streams",MI | Grand Rapids | ABC WZZM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWLAJ.us" tvg-name="MI | Lansing | ABC WLAJ" group-title="ENG | Local | ABC",MI | Lansing | ABC WLAJ
+#EXTINF:-1 tvg-id="ABCWLAJ.us" tvg-name="MI | Lansing | ABC WLAJ" group-title="ENG - Local ABC",MI | Lansing | ABC WLAJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77758
 #EXTINF:-1 tvg-id="ABCWLAJ.us" tvg-name="MI | Lansing | ABC WLAJ (Alt)" group-title="Z - Offline Streams",MI | Lansing | ABC WLAJ (Alt)
 http://example.com/stream
@@ -381,7 +381,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWBUP.us" tvg-name="MI | Marquette | ABC WBUP (Alt)" group-title="Z - Offline Streams",MI | Marquette | ABC WBUP (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWGTU.us" tvg-name="MI | Traverse City | ABC WGTU" group-title="ENG | Local | ABC",MI | Traverse City | ABC WGTU
+#EXTINF:-1 tvg-id="ABCWGTU.us" tvg-name="MI | Traverse City | ABC WGTU" group-title="ENG - Local ABC",MI | Traverse City | ABC WGTU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629816
 #EXTINF:-1 tvg-id="ABCWGTU.us" tvg-name="MI | Traverse City | ABC WGTU (Alt)" group-title="Z - Offline Streams",MI | Traverse City | ABC WGTU (Alt)
 http://example.com/stream
@@ -389,7 +389,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MN | Alexandria | ABC KSAX (Alt)" group-title="Z - Offline Streams",MN | Alexandria | ABC KSAX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWDIO.us" tvg-name="MN | Duluth | ABC WDIO" group-title="ENG | Local | ABC",MN | Duluth | ABC WDIO
+#EXTINF:-1 tvg-id="ABCWDIO.us" tvg-name="MN | Duluth | ABC WDIO" group-title="ENG - Local ABC",MN | Duluth | ABC WDIO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629913
 #EXTINF:-1 tvg-id="ABCWDIO.us" tvg-name="MN | Duluth | ABC WDIO (Alt)" group-title="Z - Offline Streams",MN | Duluth | ABC WDIO (Alt)
 http://example.com/stream
@@ -397,7 +397,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MN | Hibbing | ABC WIRT (Alt)" group-title="Z - Offline Streams",MN | Hibbing | ABC WIRT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="MN | Minneapolis | ABC KSTP" group-title="ENG | Local | ABC",MN | Minneapolis | ABC KSTP
+#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="MN | Minneapolis | ABC KSTP" group-title="ENG - Local ABC",MN | Minneapolis | ABC KSTP
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2673
 #EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="MN | Minneapolis | ABC KSTP (Alt)" group-title="Z - Offline Streams",MN | Minneapolis | ABC KSTP (Alt)
 http://example.com/stream
@@ -405,39 +405,39 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MN | Redwood Falls | ABC KRWF (Alt)" group-title="Z - Offline Streams",MN | Redwood Falls | ABC KRWF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKAAL.us" tvg-name="MN | Rochester | ABC KAAL" group-title="ENG | Local | ABC",MN | Rochester | ABC KAAL
+#EXTINF:-1 tvg-id="ABCKAAL.us" tvg-name="MN | Rochester | ABC KAAL" group-title="ENG - Local ABC",MN | Rochester | ABC KAAL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629909
 #EXTINF:-1 tvg-id="ABCKAAL.us" tvg-name="MN | Rochester | ABC KAAL (Alt)" group-title="Z - Offline Streams",MN | Rochester | ABC KAAL (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKMIZ.us" tvg-name="MO | Jefferson City | ABC KMIZ" group-title="ENG | Local | ABC",MO | Jefferson City | ABC KMIZ
+#EXTINF:-1 tvg-id="ABCKMIZ.us" tvg-name="MO | Jefferson City | ABC KMIZ" group-title="ENG - Local ABC",MO | Jefferson City | ABC KMIZ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38271
 #EXTINF:-1 tvg-id="ABCKMIZ.us" tvg-name="MO | Jefferson City | ABC KMIZ (Alt)" group-title="Z - Offline Streams",MO | Jefferson City | ABC KMIZ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKODE.us" tvg-name="MO | Joplin | ABC KODE" group-title="ENG | Local | ABC",MO | Joplin | ABC KODE
+#EXTINF:-1 tvg-id="ABCKODE.us" tvg-name="MO | Joplin | ABC KODE" group-title="ENG - Local ABC",MO | Joplin | ABC KODE
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173011&extension=ts&play_token=LWJIVbItPZ
 #EXTINF:-1 tvg-id="ABCKODE.us" tvg-name="MO | Joplin | ABC KODE (Alt)" group-title="Z - Offline Streams",MO | Joplin | ABC KODE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKMBC.us" tvg-name="MO | Kansas City | ABC KMBC" group-title="ENG | Local | ABC",MO | Kansas City | ABC KMBC
+#EXTINF:-1 tvg-id="ABCKMBC.us" tvg-name="MO | Kansas City | ABC KMBC" group-title="ENG - Local ABC",MO | Kansas City | ABC KMBC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2685
 #EXTINF:-1 tvg-id="ABCKMBC.us" tvg-name="MO | Kansas City | ABC KMBC (Alt)" group-title="Z - Offline Streams",MO | Kansas City | ABC KMBC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSPR.us" tvg-name="MO | Springfield | ABC KSPR" group-title="ENG | Local | ABC",MO | Springfield | ABC KSPR
+#EXTINF:-1 tvg-id="ABCKSPR.us" tvg-name="MO | Springfield | ABC KSPR" group-title="ENG - Local ABC",MO | Springfield | ABC KSPR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38326
 #EXTINF:-1 tvg-id="ABCKSPR.us" tvg-name="MO | Springfield | ABC KSPR (Alt)" group-title="Z - Offline Streams",MO | Springfield | ABC KSPR (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKQTV.us" tvg-name="MO | St. Joseph | ABC KQTV" group-title="ENG | Local | ABC",MO | St. Joseph | ABC KQTV
+#EXTINF:-1 tvg-id="ABCKQTV.us" tvg-name="MO | St. Joseph | ABC KQTV" group-title="ENG - Local ABC",MO | St. Joseph | ABC KQTV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173091&extension=ts&play_token=yD0egbAB5u
 #EXTINF:-1 tvg-id="ABCKQTV.us" tvg-name="MO | St. Joseph | ABC KQTV (Alt)" group-title="Z - Offline Streams",MO | St. Joseph | ABC KQTV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKDNL.us" tvg-name="MO | St. Louis | ABC KDNL" group-title="ENG | Local | ABC",MO | St. Louis | ABC KDNL
+#EXTINF:-1 tvg-id="ABCKDNL.us" tvg-name="MO | St. Louis | ABC KDNL" group-title="ENG - Local ABC",MO | St. Louis | ABC KDNL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2667
 #EXTINF:-1 tvg-id="ABCKDNL.us" tvg-name="MO | St. Louis | ABC KDNL (Alt)" group-title="Z - Offline Streams",MO | St. Louis | ABC KDNL (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWLOX.us" tvg-name="MS | Biloxi | ABC WLOX" group-title="ENG | Local | ABC",MS | Biloxi | ABC WLOX
+#EXTINF:-1 tvg-id="ABCWLOX.us" tvg-name="MS | Biloxi | ABC WLOX" group-title="ENG - Local ABC",MS | Biloxi | ABC WLOX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/62430
 #EXTINF:-1 tvg-id="ABCWLOX.us" tvg-name="MS | Biloxi | ABC WLOX (Alt)" group-title="Z - Offline Streams",MS | Biloxi | ABC WLOX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWABG.us" tvg-name="MS | Greenwood | ABC WABG" group-title="ENG | Local | ABC",MS | Greenwood | ABC WABG
+#EXTINF:-1 tvg-id="ABCWABG.us" tvg-name="MS | Greenwood | ABC WABG" group-title="ENG - Local ABC",MS | Greenwood | ABC WABG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565750
 #EXTINF:-1 tvg-id="ABCWABG.us" tvg-name="MS | Greenwood | ABC WABG (Alt)" group-title="Z - Offline Streams",MS | Greenwood | ABC WABG (Alt)
 http://example.com/stream
@@ -445,11 +445,11 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWDAMDT2.us" tvg-name="MS | Hattiesburg | ABC WDAM (Alt)" group-title="Z - Offline Streams",MS | Hattiesburg | ABC WDAM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWAPT.us" tvg-name="MS | Jackson | ABC WAPT" group-title="ENG | Local | ABC",MS | Jackson | ABC WAPT
+#EXTINF:-1 tvg-id="ABCWAPT.us" tvg-name="MS | Jackson | ABC WAPT" group-title="ENG - Local ABC",MS | Jackson | ABC WAPT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565748
 #EXTINF:-1 tvg-id="ABCWAPT.us" tvg-name="MS | Jackson | ABC WAPT (Alt)" group-title="Z - Offline Streams",MS | Jackson | ABC WAPT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTOK.us" tvg-name="MS | Meridian | ABC WTOK" group-title="ENG | Local | ABC",MS | Meridian | ABC WTOK
+#EXTINF:-1 tvg-id="ABCWTOK.us" tvg-name="MS | Meridian | ABC WTOK" group-title="ENG - Local ABC",MS | Meridian | ABC WTOK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/565749
 #EXTINF:-1 tvg-id="ABCWTOK.us" tvg-name="MS | Meridian | ABC WTOK (Alt)" group-title="Z - Offline Streams",MS | Meridian | ABC WTOK (Alt)
 http://example.com/stream
@@ -457,7 +457,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWTVADT2.us" tvg-name="MS | Tupelo | ABC WTVA (Alt)" group-title="Z - Offline Streams",MS | Tupelo | ABC WTVA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSVI.us" tvg-name="MT | Billings | ABC KSVI" group-title="ENG | Local | ABC",MT | Billings | ABC KSVI
+#EXTINF:-1 tvg-id="ABCKSVI.us" tvg-name="MT | Billings | ABC KSVI" group-title="ENG - Local ABC",MT | Billings | ABC KSVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/555996
 #EXTINF:-1 tvg-id="ABCKSVI.us" tvg-name="MT | Billings | ABC KSVI (Alt)" group-title="Z - Offline Streams",MT | Billings | ABC KSVI (Alt)
 http://example.com/stream
@@ -465,7 +465,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MT | Bozeman-Butte | ABC KWBY (Alt)" group-title="Z - Offline Streams",MT | Bozeman-Butte | ABC KWBY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKFBB.us" tvg-name="MT | Great Falls | ABC KFBB" group-title="ENG | Local | ABC",MT | Great Falls | ABC KFBB
+#EXTINF:-1 tvg-id="ABCKFBB.us" tvg-name="MT | Great Falls | ABC KFBB" group-title="ENG - Local ABC",MT | Great Falls | ABC KFBB
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629884
 #EXTINF:-1 tvg-name="MT | Great Falls | ABC KFBB (Alt)" group-title="Z - Offline Streams",MT | Great Falls | ABC KFBB (Alt)
 http://example.com/stream
@@ -473,27 +473,27 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MT | Helena | ABC KHBB (Alt)" group-title="Z - Offline Streams",MT | Helena | ABC KHBB (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTMF.us" tvg-name="MT | Missoula | ABC KTMF" group-title="ENG | Local | ABC",MT | Missoula | ABC KTMF
+#EXTINF:-1 tvg-id="ABCKTMF.us" tvg-name="MT | Missoula | ABC KTMF" group-title="ENG - Local ABC",MT | Missoula | ABC KTMF
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173018&extension=ts&play_token=8gxTLs8htD
 #EXTINF:-1 tvg-name="MT | Missoula | ABC KTMF (Alt)" group-title="Z - Offline Streams",MT | Missoula | ABC KTMF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWLOS.us" tvg-name="NC | Asheville | ABC WLOS" group-title="ENG | Local | ABC",NC | Asheville | ABC WLOS
+#EXTINF:-1 tvg-id="ABCWLOS.us" tvg-name="NC | Asheville | ABC WLOS" group-title="ENG - Local ABC",NC | Asheville | ABC WLOS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38269
 #EXTINF:-1 tvg-id="ABCWLOS.us" tvg-name="NC | Asheville | ABC WLOS (Alt)" group-title="Z - Offline Streams",NC | Asheville | ABC WLOS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSOC.us" tvg-name="NC | Charlotte | ABC WSOC" group-title="ENG | Local | ABC",NC | Charlotte | ABC WSOC
+#EXTINF:-1 tvg-id="ABCWSOC.us" tvg-name="NC | Charlotte | ABC WSOC" group-title="ENG - Local ABC",NC | Charlotte | ABC WSOC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2696
 #EXTINF:-1 tvg-id="ABCWSOC.us" tvg-name="NC | Charlotte | ABC WSOC (Alt)" group-title="Z - Offline Streams",NC | Charlotte | ABC WSOC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWXLV.us" tvg-name="NC | Greensboro | ABC WXLV" group-title="ENG | Local | ABC",NC | Greensboro | ABC WXLV
+#EXTINF:-1 tvg-id="ABCWXLV.us" tvg-name="NC | Greensboro | ABC WXLV" group-title="ENG - Local ABC",NC | Greensboro | ABC WXLV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38250
 #EXTINF:-1 tvg-id="ABCWXLV.us" tvg-name="NC | Greensboro | ABC WXLV (Alt)" group-title="Z - Offline Streams",NC | Greensboro | ABC WXLV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWCTI.us" tvg-name="NC | Greenville | ABC WCTI" group-title="ENG | Local | ABC",NC | Greenville | ABC WCTI
+#EXTINF:-1 tvg-id="ABCWCTI.us" tvg-name="NC | Greenville | ABC WCTI" group-title="ENG - Local ABC",NC | Greenville | ABC WCTI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638521
 #EXTINF:-1 tvg-id="ABCWCTI.us" tvg-name="NC | Greenville | ABC WCTI (Alt)" group-title="Z - Offline Streams",NC | Greenville | ABC WCTI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Raleigh-Durham | ABC WTVD" group-title="ENG | Local | ABC",NC | Raleigh-Durham | ABC WTVD
+#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Raleigh-Durham | ABC WTVD" group-title="ENG - Local ABC",NC | Raleigh-Durham | ABC WTVD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/542959
 #EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Raleigh-Durham | ABC WTVD (Alt)" group-title="Z - Offline Streams",NC | Raleigh-Durham | ABC WTVD (Alt)
 http://example.com/stream
@@ -501,7 +501,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWWAY.us" tvg-name="NC | Wilmington | ABC WWAY (Alt)" group-title="Z - Offline Streams",NC | Wilmington | ABC WWAY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKHGI.us" tvg-name="NE | G.I.-N.P. | ABC KHGI" group-title="ENG | Local | ABC",NE | G.I.-N.P. | ABC KHGI
+#EXTINF:-1 tvg-id="ABCKHGI.us" tvg-name="NE | G.I.-N.P. | ABC KHGI" group-title="ENG - Local ABC",NE | G.I.-N.P. | ABC KHGI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629923
 #EXTINF:-1 tvg-id="ABCKHGI.us" tvg-name="NE | G.I.-N.P. | ABC KHGI (Alt)" group-title="Z - Offline Streams",NE | G.I.-N.P. | ABC KHGI (Alt)
 http://example.com/stream
@@ -509,19 +509,19 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="NE | Hayes Center | ABC KWNB (Alt)" group-title="Z - Offline Streams",NE | Hayes Center | ABC KWNB (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKLKN.us" tvg-name="NE | Lincoln | ABC KLKN" group-title="ENG | Local | ABC",NE | Lincoln | ABC KLKN
+#EXTINF:-1 tvg-id="ABCKLKN.us" tvg-name="NE | Lincoln | ABC KLKN" group-title="ENG - Local ABC",NE | Lincoln | ABC KLKN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629924
 #EXTINF:-1 tvg-id="ABCKLKN.us" tvg-name="NE | Lincoln | ABC KLKN (Alt)" group-title="Z - Offline Streams",NE | Lincoln | ABC KLKN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKETV.us" tvg-name="NE | Omaha | ABC KETV" group-title="ENG | Local | ABC",NE | Omaha | ABC KETV
+#EXTINF:-1 tvg-id="ABCKETV.us" tvg-name="NE | Omaha | ABC KETV" group-title="ENG - Local ABC",NE | Omaha | ABC KETV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/735645
 #EXTINF:-1 tvg-id="ABCKETV.us" tvg-name="NE | Omaha | ABC KETV (Alt)" group-title="Z - Offline Streams",NE | Omaha | ABC KETV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWMUR.us" tvg-name="NH | Manchester | ABC WMUR" group-title="ENG | Local | ABC",NH | Manchester | ABC WMUR
+#EXTINF:-1 tvg-id="ABCWMUR.us" tvg-name="NH | Manchester | ABC WMUR" group-title="ENG - Local ABC",NH | Manchester | ABC WMUR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38299
 #EXTINF:-1 tvg-id="ABCWMUR.us" tvg-name="NH | Manchester | ABC WMUR (Alt)" group-title="Z - Offline Streams",NH | Manchester | ABC WMUR (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOAT.us" tvg-name="NM | Albuquerque | ABC KOAT" group-title="ENG | Local | ABC",NM | Albuquerque | ABC KOAT
+#EXTINF:-1 tvg-id="ABCKOAT.us" tvg-name="NM | Albuquerque | ABC KOAT" group-title="ENG - Local ABC",NM | Albuquerque | ABC KOAT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38302
 #EXTINF:-1 tvg-id="ABCKOAT.us" tvg-name="NM | Albuquerque | ABC KOAT (Alt)" group-title="Z - Offline Streams",NM | Albuquerque | ABC KOAT (Alt)
 http://example.com/stream
@@ -529,43 +529,43 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="NM | Clovis | ABC KVIH (Alt)" group-title="Z - Offline Streams",NM | Clovis | ABC KVIH (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTNV.us" tvg-name="NV | Las Vegas | ABC KTNV" group-title="ENG | Local | ABC",NV | Las Vegas | ABC KTNV
+#EXTINF:-1 tvg-id="ABCKTNV.us" tvg-name="NV | Las Vegas | ABC KTNV" group-title="ENG - Local ABC",NV | Las Vegas | ABC KTNV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38255
 #EXTINF:-1 tvg-id="ABCKTNV.us" tvg-name="NV | Las Vegas | ABC KTNV (Alt)" group-title="Z - Offline Streams",NV | Las Vegas | ABC KTNV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOLO.us" tvg-name="NV | Reno | ABC KOLO" group-title="ENG | Local | ABC",NV | Reno | ABC KOLO
+#EXTINF:-1 tvg-id="ABCKOLO.us" tvg-name="NV | Reno | ABC KOLO" group-title="ENG - Local ABC",NV | Reno | ABC KOLO
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173025&extension=ts&play_token=6D9tSEkNeZ
 #EXTINF:-1 tvg-id="ABCKOLO.us" tvg-name="NV | Reno | ABC KOLO (Alt)" group-title="Z - Offline Streams",NV | Reno | ABC KOLO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTEN.us" tvg-name="NY | Albany | ABC WTEN" group-title="ENG | Local | ABC",NY | Albany | ABC WTEN
+#EXTINF:-1 tvg-id="ABCWTEN.us" tvg-name="NY | Albany | ABC WTEN" group-title="ENG - Local ABC",NY | Albany | ABC WTEN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647835
 #EXTINF:-1 tvg-id="ABCWTEN.us" tvg-name="NY | Albany | ABC WTEN (Alt)" group-title="Z - Offline Streams",NY | Albany | ABC WTEN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWIVT.us" tvg-name="NY | Binghamton | ABC WIVT" group-title="ENG | Local | ABC",NY | Binghamton | ABC WIVT
+#EXTINF:-1 tvg-id="ABCWIVT.us" tvg-name="NY | Binghamton | ABC WIVT" group-title="ENG - Local ABC",NY | Binghamton | ABC WIVT
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173032&extension=ts&play_token=BQEWbYuLta
 #EXTINF:-1 tvg-id="ABCWIVT.us" tvg-name="NY | Binghamton | ABC WIVT (Alt)" group-title="Z - Offline Streams",NY | Binghamton | ABC WIVT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWKBW.us" tvg-name="NY | Buffalo | ABC WKBW" group-title="ENG | Local | ABC",NY | Buffalo | ABC WKBW
+#EXTINF:-1 tvg-id="ABCWKBW.us" tvg-name="NY | Buffalo | ABC WKBW" group-title="ENG - Local ABC",NY | Buffalo | ABC WKBW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38280
 #EXTINF:-1 tvg-id="ABCWKBW.us" tvg-name="NY | Buffalo | ABC WKBW (Alt)" group-title="Z - Offline Streams",NY | Buffalo | ABC WKBW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWENY.us" tvg-name="NY | Elmira | ABC WENY" group-title="ENG | Local | ABC",NY | Elmira | ABC WENY
+#EXTINF:-1 tvg-id="ABCWENY.us" tvg-name="NY | Elmira | ABC WENY" group-title="ENG - Local ABC",NY | Elmira | ABC WENY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/674970
 #EXTINF:-1 tvg-id="ABCWENY.us" tvg-name="NY | Elmira | ABC WENY (Alt)" group-title="Z - Offline Streams",NY | Elmira | ABC WENY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC" group-title="ENG | Local | ABC",NY | NYC | ABC WABC
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC" group-title="ENG - Local ABC",NY | NYC | ABC WABC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112234
 #EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC (Alt)" group-title="Z - Offline Streams",NY | NYC | ABC WABC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWHAM.us" tvg-name="NY | Rochester | ABC WHAM" group-title="ENG | Local | ABC",NY | Rochester | ABC WHAM
+#EXTINF:-1 tvg-id="ABCWHAM.us" tvg-name="NY | Rochester | ABC WHAM" group-title="ENG - Local ABC",NY | Rochester | ABC WHAM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/536273
 #EXTINF:-1 tvg-id="ABCWHAM.us" tvg-name="NY | Rochester | ABC WHAM (Alt)" group-title="Z - Offline Streams",NY | Rochester | ABC WHAM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSYR.us" tvg-name="NY | Syracuse | ABC WSYR" group-title="ENG | Local | ABC",NY | Syracuse | ABC WSYR
+#EXTINF:-1 tvg-id="ABCWSYR.us" tvg-name="NY | Syracuse | ABC WSYR" group-title="ENG - Local ABC",NY | Syracuse | ABC WSYR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38313
 #EXTINF:-1 tvg-id="ABCWSYR.us" tvg-name="NY | Syracuse | ABC WSYR (Alt)" group-title="Z - Offline Streams",NY | Syracuse | ABC WSYR (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWUTR.us" tvg-name="NY | Utica | ABC WUTR" group-title="ENG | Local | ABC",NY | Utica | ABC WUTR
+#EXTINF:-1 tvg-id="ABCWUTR.us" tvg-name="NY | Utica | ABC WUTR" group-title="ENG - Local ABC",NY | Utica | ABC WUTR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/516017
 #EXTINF:-1 tvg-id="ABCWUTR.us" tvg-name="NY | Utica | ABC WUTR (Alt)" group-title="Z - Offline Streams",NY | Utica | ABC WUTR (Alt)
 http://example.com/stream
@@ -573,35 +573,35 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWWTI.us" tvg-name="NY | Watertown | ABC WWTI (Alt)" group-title="Z - Offline Streams",NY | Watertown | ABC WWTI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWCPO.us" tvg-name="OH | Cincinnati | ABC WCPO" group-title="ENG | Local | ABC",OH | Cincinnati | ABC WCPO
+#EXTINF:-1 tvg-id="ABCWCPO.us" tvg-name="OH | Cincinnati | ABC WCPO" group-title="ENG - Local ABC",OH | Cincinnati | ABC WCPO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/62431
 #EXTINF:-1 tvg-id="ABCWCPO.us" tvg-name="OH | Cincinnati | ABC WCPO (Alt)" group-title="Z - Offline Streams",OH | Cincinnati | ABC WCPO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="OH | Cleveland | ABC WEWS" group-title="ENG | Local | ABC",OH | Cleveland | ABC WEWS
+#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="OH | Cleveland | ABC WEWS" group-title="ENG - Local ABC",OH | Cleveland | ABC WEWS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2694
 #EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="OH | Cleveland | ABC WEWS (Alt)" group-title="Z - Offline Streams",OH | Cleveland | ABC WEWS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSYX.us" tvg-name="OH | Columbus | ABC WSYX" group-title="ENG | Local | ABC",OH | Columbus | ABC WSYX
+#EXTINF:-1 tvg-id="ABCWSYX.us" tvg-name="OH | Columbus | ABC WSYX" group-title="ENG - Local ABC",OH | Columbus | ABC WSYX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112254
 #EXTINF:-1 tvg-id="ABCWSYX.us" tvg-name="OH | Columbus | ABC WSYX (Alt)" group-title="Z - Offline Streams",OH | Columbus | ABC WSYX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWKEF.us" tvg-name="OH | Dayton | ABC WKEF" group-title="ENG | Local | ABC",OH | Dayton | ABC WKEF
+#EXTINF:-1 tvg-id="ABCWKEF.us" tvg-name="OH | Dayton | ABC WKEF" group-title="ENG - Local ABC",OH | Dayton | ABC WKEF
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38322
 #EXTINF:-1 tvg-id="ABCWKEF.us" tvg-name="OH | Dayton | ABC WKEF (Alt)" group-title="Z - Offline Streams",OH | Dayton | ABC WKEF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOCO.us" tvg-name="OK | OKC | ABC KOCO" group-title="ENG | Local | ABC",OK | OKC | ABC KOCO
+#EXTINF:-1 tvg-id="ABCKOCO.us" tvg-name="OK | OKC | ABC KOCO" group-title="ENG - Local ABC",OK | OKC | ABC KOCO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38268
 #EXTINF:-1 tvg-id="ABCKOCO.us" tvg-name="OK | OKC | ABC KOCO (Alt)" group-title="Z - Offline Streams",OK | OKC | ABC KOCO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTUL.us" tvg-name="OK | Tulsa | ABC KTUL" group-title="ENG | Local | ABC",OK | Tulsa | ABC KTUL
+#EXTINF:-1 tvg-id="ABCKTUL.us" tvg-name="OK | Tulsa | ABC KTUL" group-title="ENG - Local ABC",OK | Tulsa | ABC KTUL
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38287
 #EXTINF:-1 tvg-id="ABCKTUL.us" tvg-name="OK | Tulsa | ABC KTUL (Alt)" group-title="Z - Offline Streams",OK | Tulsa | ABC KTUL (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOHD.us" tvg-name="OR | Bend | ABC KOHD" group-title="ENG | Local | ABC",OR | Bend | ABC KOHD
+#EXTINF:-1 tvg-id="ABCKOHD.us" tvg-name="OR | Bend | ABC KOHD" group-title="ENG - Local ABC",OR | Bend | ABC KOHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629953
 #EXTINF:-1 tvg-id="ABCKOHD.us" tvg-name="OR | Bend | ABC KOHD (Alt)" group-title="Z - Offline Streams",OR | Bend | ABC KOHD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI" group-title="ENG | Local | ABC",OR | Eugene | ABC KEZI
+#EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI" group-title="ENG - Local ABC",OR | Eugene | ABC KEZI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512991
 #EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI (Alt)" group-title="Z - Offline Streams",OR | Eugene | ABC KEZI (Alt)
 http://example.com/stream
@@ -609,47 +609,47 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="OR | Klamath Falls | ABC KDKF (Alt)" group-title="Z - Offline Streams",OR | Klamath Falls | ABC KDKF (Alt) EPG
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKDRV.us" tvg-name="OR | Medford | ABC KDRV" group-title="ENG | Local | ABC",OR | Medford | ABC KDRV
+#EXTINF:-1 tvg-id="ABCKDRV.us" tvg-name="OR | Medford | ABC KDRV" group-title="ENG - Local ABC",OR | Medford | ABC KDRV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173060&extension=ts&play_token=tzg5TK0rlr
 #EXTINF:-1 tvg-id="ABCKDRV.us" tvg-name="OR | Medford | ABC KDRV (Alt)" group-title="Z - Offline Streams",OR | Medford | ABC KDRV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKATU.us" tvg-name="OR | Portland | ABC KATU" group-title="ENG | Local | ABC",OR | Portland | ABC KATU
+#EXTINF:-1 tvg-id="ABCKATU.us" tvg-name="OR | Portland | ABC KATU" group-title="ENG - Local ABC",OR | Portland | ABC KATU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2675
 #EXTINF:-1 tvg-id="ABCKATU.us" tvg-name="OR | Portland | ABC KATU (Alt)" group-title="Z - Offline Streams",OR | Portland | ABC KATU (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWJET.us" tvg-name="PA | Erie | ABC WJET" group-title="ENG | Local | ABC",PA | Erie | ABC WJET
+#EXTINF:-1 tvg-id="ABCWJET.us" tvg-name="PA | Erie | ABC WJET" group-title="ENG - Local ABC",PA | Erie | ABC WJET
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/510265
 #EXTINF:-1 tvg-id="ABCWJET.us" tvg-name="PA | Erie | ABC WJET (Alt)" group-title="Z - Offline Streams",PA | Erie | ABC WJET (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWHTM.us" tvg-name="PA | Harrisburg | ABC WHTM" group-title="ENG | Local | ABC",PA | Harrisburg | ABC WHTM
+#EXTINF:-1 tvg-id="ABCWHTM.us" tvg-name="PA | Harrisburg | ABC WHTM" group-title="ENG - Local ABC",PA | Harrisburg | ABC WHTM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38261
 #EXTINF:-1 tvg-id="ABCWHTM.us" tvg-name="PA | Harrisburg | ABC WHTM (Alt)" group-title="Z - Offline Streams",PA | Harrisburg | ABC WHTM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWATM.us" tvg-name="PA | Johnstown | ABC WATM" group-title="ENG | Local | ABC",PA | Johnstown | ABC WATM
+#EXTINF:-1 tvg-id="ABCWATM.us" tvg-name="PA | Johnstown | ABC WATM" group-title="ENG - Local ABC",PA | Johnstown | ABC WATM
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173063&extension=ts&play_token=dyqplMRxAq
 #EXTINF:-1 tvg-id="ABCWATM.us" tvg-name="PA | Johnstown | ABC WATM (Alt)" group-title="Z - Offline Streams",PA | Johnstown | ABC WATM (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="PA | Philadelphia | ABC WPVI" group-title="ENG | Local | ABC",PA | Philadelphia | ABC WPVI
+#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="PA | Philadelphia | ABC WPVI" group-title="ENG - Local ABC",PA | Philadelphia | ABC WPVI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2678
 #EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="PA | Philadelphia | ABC WPVI (Alt)" group-title="Z - Offline Streams",PA | Philadelphia | ABC WPVI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="ENG | Local | ABC",PA | Pittsburgh | ABC WTAE
+#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="ENG - Local ABC",PA | Pittsburgh | ABC WTAE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2676
 #EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE (Alt)" group-title="Z - Offline Streams",PA | Pittsburgh | ABC WTAE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR" group-title="ENG | Local | ABC",RI | Providence | ABC WJAR
+#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR" group-title="ENG - Local ABC",RI | Providence | ABC WJAR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/628874
 #EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR (Alt)" group-title="Z - Offline Streams",RI | Providence | ABC WJAR (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWCIVDT2.us" tvg-name="SC | Charleston | ABC WCIV" group-title="ENG | Local | ABC",SC | Charleston | ABC WCIV
+#EXTINF:-1 tvg-id="ABCWCIVDT2.us" tvg-name="SC | Charleston | ABC WCIV" group-title="ENG - Local ABC",SC | Charleston | ABC WCIV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38306
 #EXTINF:-1 tvg-id="ABCWCIVDT2.us" tvg-name="SC | Charleston | ABC WCIV (Alt)" group-title="Z - Offline Streams",SC | Charleston | ABC WCIV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="SC | Columbia | ABC WOLO" group-title="ENG | Local | ABC",SC | Columbia | ABC WOLO
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="SC | Columbia | ABC WOLO" group-title="ENG - Local ABC",SC | Columbia | ABC WOLO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61805
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="SC | Columbia | ABC WOLO (Alt)" group-title="Z - Offline Streams",SC | Columbia | ABC WOLO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWPDE.us" tvg-name="SC | Florence | ABC WPDE" group-title="ENG | Local | ABC",SC | Florence | ABC WPDE
+#EXTINF:-1 tvg-id="ABCWPDE.us" tvg-name="SC | Florence | ABC WPDE" group-title="ENG - Local ABC",SC | Florence | ABC WPDE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70155
 #EXTINF:-1 tvg-id="ABCWPDE.us" tvg-name="SC | Florence | ABC WPDE (Alt)" group-title="Z - Offline Streams",SC | Florence | ABC WPDE (Alt)
 http://example.com/stream
@@ -661,19 +661,19 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="SD | Pierre | ABC KPRY (Alt)" group-title="Z - Offline Streams",SD | Pierre | ABC KPRY (Alt) EPG
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOTA.us" tvg-name="SD | Rapid City | ABC KOTA" group-title="ENG | Local | ABC",SD | Rapid City | ABC KOTA
+#EXTINF:-1 tvg-id="ABCKOTA.us" tvg-name="SD | Rapid City | ABC KOTA" group-title="ENG - Local ABC",SD | Rapid City | ABC KOTA
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173075&extension=ts&play_token=ASQc24HrVR
 #EXTINF:-1 tvg-id="ABCKOTA.us" tvg-name="SD | Rapid City | ABC KOTA (Alt)" group-title="Z - Offline Streams",SD | Rapid City | ABC KOTA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSFY.us" tvg-name="SD | Sioux Falls | ABC KSFY" group-title="ENG | Local | ABC",SD | Sioux Falls | ABC KSFY
+#EXTINF:-1 tvg-id="ABCKSFY.us" tvg-name="SD | Sioux Falls | ABC KSFY" group-title="ENG - Local ABC",SD | Sioux Falls | ABC KSFY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600295
 #EXTINF:-1 tvg-id="ABCKSFY.us" tvg-name="SD | Sioux Falls | ABC KSFY (Alt)" group-title="Z - Offline Streams",SD | Sioux Falls | ABC KSFY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC" group-title="ENG | Local | ABC",TN | Chattanooga | ABC WTVC
+#EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC" group-title="ENG - Local ABC",TN | Chattanooga | ABC WTVC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74690
 #EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC (Alt)" group-title="Z - Offline Streams",TN | Chattanooga | ABC WTVC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBBJ.us" tvg-name="TN | Jackson | ABC WBBJ" group-title="ENG | Local | ABC",TN | Jackson | ABC WBBJ
+#EXTINF:-1 tvg-id="ABCWBBJ.us" tvg-name="TN | Jackson | ABC WBBJ" group-title="ENG - Local ABC",TN | Jackson | ABC WBBJ
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173079&extension=ts&play_token=mxuVR8i0Dt
 #EXTINF:-1 tvg-id="ABCWBBJ.us" tvg-name="TN | Jackson | ABC WBBJ (Alt)" group-title="Z - Offline Streams",TN | Jackson | ABC WBBJ (Alt)
 http://example.com/stream
@@ -681,31 +681,31 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="TN | Johnson City | ABC WJHL (Alt)" group-title="Z - Offline Streams",TN | Johnson City | ABC WJHL (Alt) EPG
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWATE.us" tvg-name="TN | Knoxville | ABC WATE" group-title="ENG | Local | ABC",TN | Knoxville | ABC WATE
+#EXTINF:-1 tvg-id="ABCWATE.us" tvg-name="TN | Knoxville | ABC WATE" group-title="ENG - Local ABC",TN | Knoxville | ABC WATE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600285
 #EXTINF:-1 tvg-id="ABCWATE.us" tvg-name="TN | Knoxville | ABC WATE (Alt)" group-title="Z - Offline Streams",TN | Knoxville | ABC WATE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWATN.us" tvg-name="TN | Memphis | ABC WATN" group-title="ENG | Local | ABC",TN | Memphis | ABC WATN
+#EXTINF:-1 tvg-id="ABCWATN.us" tvg-name="TN | Memphis | ABC WATN" group-title="ENG - Local ABC",TN | Memphis | ABC WATN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38251
 #EXTINF:-1 tvg-id="ABCWATN.us" tvg-name="TN | Memphis | ABC WATN (Alt)" group-title="Z - Offline Streams",TN | Memphis | ABC WATN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | Nashville | ABC WKRN" group-title="ENG | Local | ABC",TN | Nashville | ABC WKRN
+#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | Nashville | ABC WKRN" group-title="ENG - Local ABC",TN | Nashville | ABC WKRN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2681
 #EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | Nashville | ABC WKRN (Alt)" group-title="Z - Offline Streams",TN | Nashville | ABC WKRN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTXS.us" tvg-name="TX | Abilene | ABC KTXS" group-title="ENG | Local | ABC",TX | Abilene | ABC KTXS
+#EXTINF:-1 tvg-id="ABCKTXS.us" tvg-name="TX | Abilene | ABC KTXS" group-title="ENG - Local ABC",TX | Abilene | ABC KTXS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630213
 #EXTINF:-1 tvg-id="ABCKTXS.us" tvg-name="TX | Abilene | ABC KTXS (Alt)" group-title="Z - Offline Streams",TX | Abilene | ABC KTXS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKVII.us" tvg-name="TX | Amarillo | ABC KVII" group-title="ENG | Local | ABC",TX | Amarillo | ABC KVII
+#EXTINF:-1 tvg-id="ABCKVII.us" tvg-name="TX | Amarillo | ABC KVII" group-title="ENG - Local ABC",TX | Amarillo | ABC KVII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600294
 #EXTINF:-1 tvg-id="ABCKVII.us" tvg-name="TX | Amarillo | ABC KVII (Alt)" group-title="Z - Offline Streams",TX | Amarillo | ABC KVII (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKVUE.us" tvg-name="TX | Austin | ABC KVUE" group-title="ENG | Local | ABC",TX | Austin | ABC KVUE
+#EXTINF:-1 tvg-id="ABCKVUE.us" tvg-name="TX | Austin | ABC KVUE" group-title="ENG - Local ABC",TX | Austin | ABC KVUE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38241
 #EXTINF:-1 tvg-id="ABCKVUE.us" tvg-name="TX | Austin | ABC KVUE (Alt)" group-title="Z - Offline Streams",TX | Austin | ABC KVUE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKBMT.us" tvg-name="TX | Beaumont-P.A. | ABC KBMT" group-title="ENG | Local | ABC",TX | Beaumont-P.A. | ABC KBMT
+#EXTINF:-1 tvg-id="ABCKBMT.us" tvg-name="TX | Beaumont-P.A. | ABC KBMT" group-title="ENG - Local ABC",TX | Beaumont-P.A. | ABC KBMT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638587
 #EXTINF:-1 tvg-id="ABCKBMT.us" tvg-name="TX | Beaumont-P.A. | ABC KBMT (Alt)" group-title="Z - Offline Streams",TX | Beaumont-P.A. | ABC KBMT (Alt)
 http://example.com/stream
@@ -713,23 +713,23 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKRHD.us" tvg-name="TX | Bryan | ABC KRHD (Alt)" group-title="Z - Offline Streams",TX | Bryan | ABC KRHD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKIII.us" tvg-name="TX | Corpus Christi | ABC KIII" group-title="ENG | Local | ABC",TX | Corpus Christi | ABC KIII
+#EXTINF:-1 tvg-id="ABCKIII.us" tvg-name="TX | Corpus Christi | ABC KIII" group-title="ENG - Local ABC",TX | Corpus Christi | ABC KIII
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/721023
 #EXTINF:-1 tvg-id="ABCKIII.us" tvg-name="TX | Corpus Christi | ABC KIII (Alt)" group-title="Z - Offline Streams",TX | Corpus Christi | ABC KIII (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWFAA.us" tvg-name="TX | Dallas-FTW | ABC WFAA" group-title="ENG | Local | ABC",TX | Dallas-FTW | ABC WFAA
+#EXTINF:-1 tvg-id="ABCWFAA.us" tvg-name="TX | Dallas-FTW | ABC WFAA" group-title="ENG - Local ABC",TX | Dallas-FTW | ABC WFAA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2692
 #EXTINF:-1 tvg-id="ABCWFAA.us" tvg-name="TX | Dallas-FTW | ABC WFAA (Alt)" group-title="Z - Offline Streams",TX | Dallas-FTW | ABC WFAA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKVIA.us" tvg-name="TX | El Paso | ABC KVIA" group-title="ENG | Local | ABC",TX | El Paso | ABC KVIA
+#EXTINF:-1 tvg-id="ABCKVIA.us" tvg-name="TX | El Paso | ABC KVIA" group-title="ENG - Local ABC",TX | El Paso | ABC KVIA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38309
 #EXTINF:-1 tvg-id="ABCKVIA.us" tvg-name="TX | El Paso | ABC KVIA (Alt)" group-title="Z - Offline Streams",TX | El Paso | ABC KVIA (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKRGV.us" tvg-name="TX | Harlingen | ABC KRGV" group-title="ENG | Local | ABC",TX | Harlingen | ABC KRGV
+#EXTINF:-1 tvg-id="ABCKRGV.us" tvg-name="TX | Harlingen | ABC KRGV" group-title="ENG - Local ABC",TX | Harlingen | ABC KRGV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600293
 #EXTINF:-1 tvg-id="ABCKRGV.us" tvg-name="TX | Harlingen | ABC KRGV (Alt)" group-title="Z - Offline Streams",TX | Harlingen | ABC KRGV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-name="TX | Houston | ABC KTRK" group-title="ENG | Local | ABC",TX | Houston | ABC KTRK
+#EXTINF:-1 tvg-id="ABCKTRK.us" tvg-name="TX | Houston | ABC KTRK" group-title="ENG - Local ABC",TX | Houston | ABC KTRK
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/112233
 #EXTINF:-1 tvg-id="ABCKTRK.us" tvg-name="TX | Houston | ABC KTRK (Alt)" group-title="Z - Offline Streams",TX | Houston | ABC KTRK (Alt)
 http://example.com/stream
@@ -737,21 +737,21 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKGNSDT2.us" tvg-name="TX | Laredo | ABC KGNS (Alt)" group-title="Z - Offline Streams",TX | Laredo | ABC KGNS (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKAMC.us" tvg-name="TX | Lubbock | ABC KAMC" group-title="ENG | Local | ABC",TX | Lubbock | ABC KAMC
+#EXTINF:-1 tvg-id="ABCKAMC.us" tvg-name="TX | Lubbock | ABC KAMC" group-title="ENG - Local ABC",TX | Lubbock | ABC KAMC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38303
 #EXTINF:-1 tvg-id="ABCKAMC.us" tvg-name="TX | Lubbock | ABC KAMC (Alt)" group-title="Z - Offline Streams",TX | Lubbock | ABC KAMC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKMID.us" tvg-name="TX | Midland | ABC KMID" group-title="ENG | Local | ABC",TX | Midland | ABC KMID
+#EXTINF:-1 tvg-id="ABCKMID.us" tvg-name="TX | Midland | ABC KMID" group-title="ENG - Local ABC",TX | Midland | ABC KMID
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630029
 #EXTINF:-1 tvg-id="ABCKMID.us" tvg-name="TX | Midland | ABC KMID (Alt)" group-title="Z - Offline Streams",TX | Midland | ABC KMID (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTXE.us" tvg-name="TX | San Angelo | ABC KTXE" group-title="ENG | Local | ABC",TX | San Angelo | ABC KTXE
+#EXTINF:-1 tvg-id="ABCKTXE.us" tvg-name="TX | San Angelo | ABC KTXE" group-title="ENG - Local ABC",TX | San Angelo | ABC KTXE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629965
 #EXTINF:-1 tvg-id="ABCKTXE.us" tvg-name="TX | San Angelo | ABC KTXE (Alt)" group-title="Z - Offline Streams",TX | San Angelo | ABC KTXE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="TX | San Antonio | ABC KSAT" group-title="ENG | Local | ABC",TX | San Antonio | ABC KSAT
+#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="TX | San Antonio | ABC KSAT" group-title="ENG - Local ABC",TX | San Antonio | ABC KSAT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2671
-#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="TX | San Antonio | ABC KSAT (Alt)" group-title="ENG | Local | ABC",TX | San Antonio | ABC KSAT (Alt)
+#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="TX | San Antonio | ABC KSAT (Alt)" group-title="ENG - Local ABC",TX | San Antonio | ABC KSAT (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173093&extension=ts&play_token=CC5ZaRZeFh
 #EXTINF:-1 tvg-id="ABCKTENDT3.us" tvg-name="TX | Sherman | ABC KTEN" group-title="Z - Offline Streams",TX | Sherman | ABC KTEN
 http://example.com/stream
@@ -761,53 +761,53 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKLTV.us" tvg-name="TX | Tyler | ABC KLTV/KTRE (Alt)" group-title="Z - Offline Streams",TX | Tyler | ABC KLTV/KTRE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKAVU.us" tvg-name="TX | Victoria | ABC KAVU" group-title="ENG | Local | ABC",TX | Victoria | ABC KAVU
+#EXTINF:-1 tvg-id="ABCKAVU.us" tvg-name="TX | Victoria | ABC KAVU" group-title="ENG - Local ABC",TX | Victoria | ABC KAVU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630209
 #EXTINF:-1 tvg-id="ABCKAVU.us" tvg-name="TX | Victoria | ABC KAVU (Alt)" group-title="Z - Offline Streams",TX | Victoria | ABC KAVU (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKXXV.us" tvg-name="TX | Waco | ABC KXXV" group-title="ENG | Local | ABC",TX | Waco | ABC KXXV
+#EXTINF:-1 tvg-id="ABCKXXV.us" tvg-name="TX | Waco | ABC KXXV" group-title="ENG - Local ABC",TX | Waco | ABC KXXV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38275
 #EXTINF:-1 tvg-id="ABCKXXV.us" tvg-name="TX | Waco | ABC KXXV (Alt)" group-title="Z - Offline Streams",TX | Waco | ABC KXXV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKSWO.us" tvg-name="TX | Wichita Falls | ABC KSWO" group-title="ENG | Local | ABC",TX | Wichita Falls | ABC KSWO
+#EXTINF:-1 tvg-id="ABCKSWO.us" tvg-name="TX | Wichita Falls | ABC KSWO" group-title="ENG - Local ABC",TX | Wichita Falls | ABC KSWO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/641955
 #EXTINF:-1 tvg-id="ABCKSWO.us" tvg-name="TX | Wichita Falls | ABC KSWO (Alt)" group-title="Z - Offline Streams",TX | Wichita Falls | ABC KSWO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTVX.us" tvg-name="UT | SLC | ABC KTVX" group-title="ENG | Local | ABC",UT | SLC | ABC KTVX
+#EXTINF:-1 tvg-id="ABCKTVX.us" tvg-name="UT | SLC | ABC KTVX" group-title="ENG - Local ABC",UT | SLC | ABC KTVX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2672
 #EXTINF:-1 tvg-id="ABCKTVX.us" tvg-name="UT | SLC | ABC KTVX (Alt)" group-title="Z - Offline Streams",UT | SLC | ABC KTVX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWVAW.us" tvg-name="VA | Charlottesville | ABC WVAW" group-title="ENG | Local | ABC",VA | Charlottesville | ABC WVAW
+#EXTINF:-1 tvg-id="ABCWVAW.us" tvg-name="VA | Charlottesville | ABC WVAW" group-title="ENG - Local ABC",VA | Charlottesville | ABC WVAW
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173103&extension=ts&play_token=ANhFrSOL3R
 #EXTINF:-1 tvg-id="ABCWVAW.us" tvg-name="VA | Charlottesville | ABC WVAW (Alt)" group-title="Z - Offline Streams",VA | Charlottesville | ABC WVAW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWHSV.us" tvg-name="VA | Harrisonburg | ABC WHSV" group-title="ENG | Local | ABC",VA | Harrisonburg | ABC WHSV
+#EXTINF:-1 tvg-id="ABCWHSV.us" tvg-name="VA | Harrisonburg | ABC WHSV" group-title="ENG - Local ABC",VA | Harrisonburg | ABC WHSV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173104&extension=ts&play_token=92GqEGsNNt
 #EXTINF:-1 tvg-id="ABCWHSV.us" tvg-name="VA | Harrisonburg | ABC WHSV (Alt)" group-title="Z - Offline Streams",VA | Harrisonburg | ABC WHSV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWVEC.us" tvg-name="VA | Norfolk | ABC WVEC" group-title="ENG | Local | ABC",VA | Norfolk | ABC WVEC
+#EXTINF:-1 tvg-id="ABCWVEC.us" tvg-name="VA | Norfolk | ABC WVEC" group-title="ENG - Local ABC",VA | Norfolk | ABC WVEC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38323
 #EXTINF:-1 tvg-id="ABCWVEC.us" tvg-name="VA | Norfolk | ABC WVEC (Alt)" group-title="Z - Offline Streams",VA | Norfolk | ABC WVEC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWRIC.us" tvg-name="VA | Richmond | ABC WRIC" group-title="ENG | Local | ABC",VA | Richmond | ABC WRIC
+#EXTINF:-1 tvg-id="ABCWRIC.us" tvg-name="VA | Richmond | ABC WRIC" group-title="ENG - Local ABC",VA | Richmond | ABC WRIC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38247
 #EXTINF:-1 tvg-id="ABCWRIC.us" tvg-name="VA | Richmond | ABC WRIC (Alt)" group-title="Z - Offline Streams",VA | Richmond | ABC WRIC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWSET.us" tvg-name="VA | Roanoke | ABC WSET" group-title="ENG | Local | ABC",VA | Roanoke | ABC WSET
+#EXTINF:-1 tvg-id="ABCWSET.us" tvg-name="VA | Roanoke | ABC WSET" group-title="ENG - Local ABC",VA | Roanoke | ABC WSET
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638581
 #EXTINF:-1 tvg-id="ABCWSET.us" tvg-name="VA | Roanoke | ABC WSET (Alt)" group-title="Z - Offline Streams",VA | Roanoke | ABC WSET (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWVNY.us" tvg-name="VT | Burlington | ABC WVNY" group-title="ENG | Local | ABC",VT | Burlington | ABC WVNY
+#EXTINF:-1 tvg-id="ABCWVNY.us" tvg-name="VT | Burlington | ABC WVNY" group-title="ENG - Local ABC",VT | Burlington | ABC WVNY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629926
-#EXTINF:-1 tvg-id="ABCKVEW.us" tvg-name="WA | Kennewick | ABC KVEW" group-title="ENG | Local | ABC",WA | Kennewick | ABC KVEW
+#EXTINF:-1 tvg-id="ABCKVEW.us" tvg-name="WA | Kennewick | ABC KVEW" group-title="ENG - Local ABC",WA | Kennewick | ABC KVEW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512979
 #EXTINF:-1 tvg-id="ABCKVEW.us" tvg-name="WA | Kennewick | ABC KVEW (Alt)" group-title="Z - Offline Streams",WA | Kennewick | ABC KVEW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="WA | Seattle | ABC KOMO" group-title="ENG | Local | ABC",WA | Seattle | ABC KOMO
+#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="WA | Seattle | ABC KOMO" group-title="ENG - Local ABC",WA | Seattle | ABC KOMO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2668
 #EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="WA | Seattle | ABC KOMO (Alt)" group-title="Z - Offline Streams",WA | Seattle | ABC KOMO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKXLY.us" tvg-name="WA | Spokane | ABC KXLY" group-title="ENG | Local | ABC",WA | Spokane | ABC KXLY
+#EXTINF:-1 tvg-id="ABCKXLY.us" tvg-name="WA | Spokane | ABC KXLY" group-title="ENG - Local ABC",WA | Spokane | ABC KXLY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/638060
 #EXTINF:-1 tvg-id="ABCKXLY.us" tvg-name="WA | Spokane | ABC KXLY (Alt)" group-title="Z - Offline Streams",WA | Spokane | ABC KXLY (Alt)
 http://example.com/stream
@@ -819,23 +819,23 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWQOW.us" tvg-name="WI | Eau Claire | ABC WQOW (Alt)" group-title="Z - Offline Streams",WI | Eau Claire | ABC WQOW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBAY.us" tvg-name="WI | Green Bay | ABC WBAY" group-title="ENG | Local | ABC",WI | Green Bay | ABC WBAY
+#EXTINF:-1 tvg-id="ABCWBAY.us" tvg-name="WI | Green Bay | ABC WBAY" group-title="ENG - Local ABC",WI | Green Bay | ABC WBAY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38282
 #EXTINF:-1 tvg-id="ABCWBAY.us" tvg-name="WI | Green Bay | ABC WBAY (Alt)" group-title="Z - Offline Streams",WI | Green Bay | ABC WBAY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWXOW.us" tvg-name="WI | La Crosse | ABC WXOW" group-title="ENG | Local | ABC",WI | La Crosse | ABC WXOW
+#EXTINF:-1 tvg-id="ABCWXOW.us" tvg-name="WI | La Crosse | ABC WXOW" group-title="ENG - Local ABC",WI | La Crosse | ABC WXOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1266039
 #EXTINF:-1 tvg-id="ABCWXOW.us" tvg-name="WI | La Crosse | ABC WXOW (Alt)" group-title="Z - Offline Streams",WI | La Crosse | ABC WXOW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWKOW.us" tvg-name="WI | Madison | ABC WKOW" group-title="ENG | Local | ABC",WI | Madison | ABC WKOW
+#EXTINF:-1 tvg-id="ABCWKOW.us" tvg-name="WI | Madison | ABC WKOW" group-title="ENG - Local ABC",WI | Madison | ABC WKOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38321
 #EXTINF:-1 tvg-id="ABCWKOW.us" tvg-name="WI | Madison | ABC WKOW (Alt)" group-title="Z - Offline Streams",WI | Madison | ABC WKOW (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="WI | Milwaukee | ABC WISN" group-title="ENG | Local | ABC",WI | Milwaukee | ABC WISN
+#EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="WI | Milwaukee | ABC WISN" group-title="ENG - Local ABC",WI | Milwaukee | ABC WISN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2682
 #EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="WI | Milwaukee | ABC WISN (Alt)" group-title="Z - Offline Streams",WI | Milwaukee | ABC WISN (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWAOW.us" tvg-name="WI | Wausau | ABC WAOW" group-title="ENG | Local | ABC",WI | Wausau | ABC WAOW
+#EXTINF:-1 tvg-id="ABCWAOW.us" tvg-name="WI | Wausau | ABC WAOW" group-title="ENG - Local ABC",WI | Wausau | ABC WAOW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631787
 #EXTINF:-1 tvg-id="ABCWAOW.us" tvg-name="WI | Wausau | ABC WAOW (Alt)" group-title="Z - Offline Streams",WI | Wausau | ABC WAOW (Alt)
 http://example.com/stream
@@ -843,11 +843,11 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWOAY.us" tvg-name="WV | Bluefield | ABC WOAY (Alt)" group-title="Z - Offline Streams",WV | Bluefield | ABC WOAY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWBOYDT2.us" tvg-name="WV | Clarksburg | ABC WBOY" group-title="ENG | Local | ABC",WV | Clarksburg | ABC WBOY
+#EXTINF:-1 tvg-id="ABCWBOYDT2.us" tvg-name="WV | Clarksburg | ABC WBOY" group-title="ENG - Local ABC",WV | Clarksburg | ABC WBOY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631751
 #EXTINF:-1 tvg-id="ABCWBOYDT2.us" tvg-name="WV | Clarksburg | ABC WBOY (Alt)" group-title="Z - Offline Streams",WV | Clarksburg | ABC WBOY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWCHS.us" tvg-name="WV | Huntington | ABC WCHS" group-title="ENG | Local | ABC",WV | Huntington | ABC WCHS
+#EXTINF:-1 tvg-id="ABCWCHS.us" tvg-name="WV | Huntington | ABC WCHS" group-title="ENG - Local ABC",WV | Huntington | ABC WCHS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38248
 #EXTINF:-1 tvg-id="ABCWCHS.us" tvg-name="WV | Huntington | ABC WCHS (Alt)" group-title="Z - Offline Streams",WV | Huntington | ABC WCHS (Alt)
 http://example.com/stream
@@ -855,7 +855,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWTRFDT3.us" tvg-name="WV | Wheeling | ABC WTRF (Alt)" group-title="Z - Offline Streams",WV | Wheeling | ABC WTRF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKTWO.us" tvg-name="WY | Casper | ABC KTWO" group-title="ENG | Local | ABC",WY | Casper | ABC KTWO
+#EXTINF:-1 tvg-id="ABCKTWO.us" tvg-name="WY | Casper | ABC KTWO" group-title="ENG - Local ABC",WY | Casper | ABC KTWO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631824
 #EXTINF:-1 tvg-id="ABCKTWO.us" tvg-name="WY | Casper | ABC KTWO (Alt)" group-title="Z - Offline Streams",WY | Casper | ABC KTWO (Alt)
 http://example.com/stream
