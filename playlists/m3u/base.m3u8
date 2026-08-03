@@ -11,7 +11,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC (East)" group-title="ENG - Entertainment",AMC (East)
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East)" group-title="ENG - Documentary",Animal Planet (East)
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East)" group-title="ENG - DOC/Lifestyle",Animal Planet (East)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="ASPiRE" group-title="ENG - Entertainment",ASPiRE
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
@@ -65,25 +65,25 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet TV (East)" group-title="ENG - Entertainment",Comet TV (East)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel (East)" group-title="ENG - Lifestyle",Cooking Channel (East)
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel (East)" group-title="ENG - DOC/Lifestyle",Cooking Channel (East)
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="ENG - News & Opinions",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" group-title="ENG - Entertainment",Cozi TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
-#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation (East)" group-title="ENG - Documentary",Crime & Investigation (East)
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation (East)" group-title="ENG - DOC/Lifestyle",Crime & Investigation (East)
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="ENG - Local CW/MY",NY | NYC | CW WPIX
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
 #EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" group-title="ESP - Deportes",DAZN LaLiga
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)" group-title="ENG - Documentary",Discovery (East)
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)" group-title="ENG - DOC/Lifestyle",Discovery (East)
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" group-title="ENG - Entertainment",Discovery Family
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (East)" group-title="ENG - Documentary",Discovery Life (East)
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (East)" group-title="ENG - DOC/Lifestyle",Discovery Life (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG - Documentary",Discovery Science
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG - DOC/Lifestyle",Discovery Science
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney (East)" group-title="ENG - Kids & Family",Disney (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
@@ -101,7 +101,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 #EXTINF:-1 tvg-id="FIFA+.us" tvg-name="FIFA+ TV" group-title="ENG - Sports",FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)" group-title="ENG - Lifestyle",Food Network (East)
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)" group-title="ENG - DOC/Lifestyle",Food Network (East)
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG - Local FOX",IL | Chicago | FOX WFLD
 http://stream.cammonitorplus.net/1752/index.m3u8
@@ -147,13 +147,13 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies (East)" group-title="ENG - Movies",HBO Movies (East)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="History.us" tvg-name="History (East)" group-title="ENG - Documentary",History (East)
+#EXTINF:-1 tvg-id="History.us" tvg-name="History (East)" group-title="ENG - DOC/Lifestyle",History (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" group-title="ENG - Entertainment",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East)" group-title="ENG - Classic TV & Westerns",INSP (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery (East)" group-title="ENG - Documentary",Investigation Discovery (East)
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery (East)" group-title="ENG - DOC/Lifestyle",Investigation Discovery (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
 #EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION (East)" group-title="ENG - Entertainment",ION (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
@@ -175,7 +175,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (East)" group-title="ENG - Entertainment",MTV (East)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (East)" group-title="ENG - Documentary",National Geographic (East)
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (East)" group-title="ENG - DOC/Lifestyle",National Geographic (East)
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" group-title="ENG - Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
@@ -209,7 +209,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 #EXTINF:-1 tvg-id="OvationTV.us" tvg-name="Ovation" group-title="ENG - Entertainment",Ovation
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen (East)" group-title="ENG - Documentary",Oxygen (East)
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen (East)" group-title="ENG - DOC/Lifestyle",Oxygen (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network (East)" group-title="ENG - Entertainment",Paramount Network (East)
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -235,7 +235,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" group-title="ENG - Sports",Sky Sports Premier League
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East)" group-title="ENG - Documentary",Smithsonian (East)
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East)" group-title="ENG - DOC/Lifestyle",Smithsonian (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" group-title="ENG - Movies",Sony Movie Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts

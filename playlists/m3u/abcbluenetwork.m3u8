@@ -605,10 +605,6 @@ http://example.com/stream
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512991
 #EXTINF:-1 tvg-id="ABCKEZI.us" tvg-name="OR | Eugene | ABC KEZI (Alt)" group-title="Z - Offline Streams",OR | Eugene | ABC KEZI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-name="OR | Klamath Falls | ABC KDKF" group-title="Z - Offline Streams",OR | Klamath Falls | ABC KDKF EPG
-http://example.com/stream
-#EXTINF:-1 tvg-name="OR | Klamath Falls | ABC KDKF (Alt)" group-title="Z - Offline Streams",OR | Klamath Falls | ABC KDKF (Alt) EPG
-http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKDRV.us" tvg-name="OR | Medford | ABC KDRV" group-title="ENG - Local ABC",OR | Medford | ABC KDRV
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173060&extension=ts&play_token=tzg5TK0rlr
 #EXTINF:-1 tvg-id="ABCKDRV.us" tvg-name="OR | Medford | ABC KDRV (Alt)" group-title="Z - Offline Streams",OR | Medford | ABC KDRV (Alt)
@@ -653,14 +649,6 @@ http://example.com/stream
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70155
 #EXTINF:-1 tvg-id="ABCWPDE.us" tvg-name="SC | Florence | ABC WPDE (Alt)" group-title="Z - Offline Streams",SC | Florence | ABC WPDE (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-name="SD | Lead | ABC KHSD" group-title="Z - Offline Streams",SD | Lead | ABC KHSD EPG
-http://example.com/stream
-#EXTINF:-1 tvg-name="SD | Lead | ABC KHSD (Alt)" group-title="Z - Offline Streams",SD | Lead | ABC KHSD (Alt) EPG
-http://example.com/stream
-#EXTINF:-1 tvg-name="SD | Pierre | ABC KPRY" group-title="Z - Offline Streams",SD | Pierre | ABC KPRY EPG
-http://example.com/stream
-#EXTINF:-1 tvg-name="SD | Pierre | ABC KPRY (Alt)" group-title="Z - Offline Streams",SD | Pierre | ABC KPRY (Alt) EPG
-http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKOTA.us" tvg-name="SD | Rapid City | ABC KOTA" group-title="ENG - Local ABC",SD | Rapid City | ABC KOTA
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173075&extension=ts&play_token=ASQc24HrVR
 #EXTINF:-1 tvg-id="ABCKOTA.us" tvg-name="SD | Rapid City | ABC KOTA (Alt)" group-title="Z - Offline Streams",SD | Rapid City | ABC KOTA (Alt)
@@ -677,9 +665,9 @@ http://example.com/stream
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=173079&extension=ts&play_token=mxuVR8i0Dt
 #EXTINF:-1 tvg-id="ABCWBBJ.us" tvg-name="TN | Jackson | ABC WBBJ (Alt)" group-title="Z - Offline Streams",TN | Jackson | ABC WBBJ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-name="TN | Johnson City | ABC WJHL" group-title="Z - Offline Streams",TN | Johnson City | ABC WJHL EPG
+#EXTINF:-1 tvg-id="WJHL-DT2.us_locals1" tvg-name="TN | Johnson City | ABC WJHL" group-title="Z - Offline Streams",TN | Johnson City | ABC WJHL
 http://example.com/stream
-#EXTINF:-1 tvg-name="TN | Johnson City | ABC WJHL (Alt)" group-title="Z - Offline Streams",TN | Johnson City | ABC WJHL (Alt) EPG
+#EXTINF:-1 tvg-id="WJHL-DT2.us_locals1" tvg-name="TN | Johnson City | ABC WJHL (Alt)" group-title="Z - Offline Streams",TN | Johnson City | ABC WJHL (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWATE.us" tvg-name="TN | Knoxville | ABC WATE" group-title="ENG - Local ABC",TN | Knoxville | ABC WATE
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600285
@@ -863,5 +851,5 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKKTQ.us" tvg-name="WY | Cheyenne | ABC KKTQ (Alt)" group-title="Z - Offline Streams",WY | Cheyenne | ABC KKTQ (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-name="WY | Sheridan | ABC KSGW" group-title="Z - Offline Streams",WY | Sheridan | ABC KSGW EPG
+#EXTINF:-1 tvg-id="KSGW-DT.us_locals1" tvg-name="WY | Sheridan | ABC KSGW" group-title="Z - Offline Streams",WY | Sheridan | ABC KSGW
 http://example.com/stream
