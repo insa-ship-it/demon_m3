@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="** All PPV times are EST **" group-title="ENG - Live Events",** All PPV times are EST **
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Events 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png" group-title="ENG - Live Events",AEW Events 1
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Events 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AEW_2026_Logo.png" group-title="ENG - Live Events",AEW Events 2
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA Events 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png" group-title="ENG - Live Events",TNA Events 1
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA Events 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNA-logo-June-2024-v2.png" group-title="ENG - Live Events",TNA Events 2
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Events 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/" group-title="ENG - Live Events",UFC Events 1
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Events 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Ufc1.png/" group-title="ENG - Live Events",UFC Events 2
-http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Events 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg" group-title="ENG - Live Events",WWE Events 1
-https://tedesco.paradilux.business/wwe.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Events 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/WWE_Logo_2014-present.svg" group-title="ENG - Live Events",WWE Events 2
-https://tedesco.leonardoitalianrestaurant.com/wwe2.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 1" group-title="ENG - Live Events",Matwork TV 1
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1757621&extension=ts&play_token=abRxRjrVNP
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 2" group-title="ENG - Live Events",Matwork TV 2
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1757622&extension=ts&play_token=RPb0q88Oan
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 01" group-title="ENG - Live Events",PPV Event 01
 http://example.com/stream
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 02" group-title="ENG - Live Events",PPV Event 02
