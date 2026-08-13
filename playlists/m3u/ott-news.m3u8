@@ -56,7 +56,7 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 #EXTINF:-1 tvg-id="GlobalNewsDummy.ca" tvg-name="Global News Winnipeg" group-title="ENG - News & Opinions",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NYC" group-title="ENG - News & Opinions",Spectrum News 1 NYC
-http://mag.trexlive.me:80/c/play/live.php?mac=00%3A1A%3A79%3A7b%3Af3%3A2a&stream=921724&extension=ts
+http://mag.trexlive.me:80/c/play/live.php?mac=00:1A:79:32:C8:E4&stream=921724&extension=ts
 #EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NYC (Alt1)" group-title="ENG - News & Opinions",Spectrum News 1 NYC (Alt1)
 http://main.light-ott.net:80/c/play/live.php?mac=00%3A1A%3A79%3A84%3AEB%3A56&stream=913408&extension=ts
 #EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NYC (Alt2)" group-title="ENG - News & Opinions",Spectrum News 1 NYC (Alt2)
