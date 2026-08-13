@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="** All PPV times are EST **" group-title="ENG - Live Events",** All PPV times are EST **
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="** All PPV times are EST **" group-title="Live Events",** All PPV times are EST **
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 1" group-title="ENG - Live Events",Matwork TV 1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 1" group-title="Live Events",Matwork TV 1
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1757621&extension=ts&play_token=abRxRjrVNP
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 2" group-title="ENG - Live Events",Matwork TV 2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matwork TV 2" group-title="Live Events",Matwork TV 2
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1757622&extension=ts&play_token=RPb0q88Oan
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 01" group-title="ENG - Live Events",PPV Event 01
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 01" group-title="Live Events",PPV Event 01
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 02" group-title="ENG - Live Events",PPV Event 02
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 02" group-title="Live Events",PPV Event 02
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 03" group-title="ENG - Live Events",PPV Event 03
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 03" group-title="Live Events",PPV Event 03
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 04" group-title="ENG - Live Events",PPV Event 04
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 04" group-title="Live Events",PPV Event 04
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 05" group-title="ENG - Live Events",PPV Event 05
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 05" group-title="Live Events",PPV Event 05
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 06" group-title="ENG - Live Events",PPV Event 06
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 06" group-title="Live Events",PPV Event 06
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 07" group-title="ENG - Live Events",PPV Event 07
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 07" group-title="Live Events",PPV Event 07
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 08" group-title="ENG - Live Events",PPV Event 08
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 08" group-title="Live Events",PPV Event 08
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 09" group-title="ENG - Live Events",PPV Event 09
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 09" group-title="Live Events",PPV Event 09
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 10" group-title="ENG - Live Events",PPV Event 10
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 10" group-title="Live Events",PPV Event 10
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 11" group-title="ENG - Live Events",PPV Event 11
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 11" group-title="Live Events",PPV Event 11
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 12" group-title="ENG - Live Events",PPV Event 12
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 12" group-title="Live Events",PPV Event 12
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 13" group-title="ENG - Live Events",PPV Event 13
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 13" group-title="Live Events",PPV Event 13
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 14" group-title="ENG - Live Events",PPV Event 14
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 14" group-title="Live Events",PPV Event 14
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 15" group-title="ENG - Live Events",PPV Event 15
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 15" group-title="Live Events",PPV Event 15
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 16" group-title="ENG - Live Events",PPV Event 16
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 16" group-title="Live Events",PPV Event 16
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 17" group-title="ENG - Live Events",PPV Event 17
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 17" group-title="Live Events",PPV Event 17
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 18" group-title="ENG - Live Events",PPV Event 18
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 18" group-title="Live Events",PPV Event 18
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 19" group-title="ENG - Live Events",PPV Event 19
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 19" group-title="Live Events",PPV Event 19
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 20" group-title="ENG - Live Events",PPV Event 20
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 20" group-title="Live Events",PPV Event 20
 http://example.com/stream
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 21" group-title="ENG - Live Events",PPV Event 21
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 21" group-title="Live Events",PPV Event 21
 http://example.com/stream

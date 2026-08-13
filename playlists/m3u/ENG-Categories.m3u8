@@ -1,57 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder ENG 24/7**" group-title="ENG - 24/7",**Place Holder ENG 24/7**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Series**" group-title="ENG - 24/7",**NoStream 24/7 Series**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Movie Collection**" group-title="ENG - 24/7 Movie Collection",**Place Holder Movie Collection**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movie Collection**" group-title="ENG - 24/7 Movie Collection",**NoStream Movie Collection**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Classic Western**" group-title="ENG - Classic TV & Westerns",**Place Holder Classic Western**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Classic Western**" group-title="ENG - Classic TV & Westerns",**NoStream Classic Western**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder DOC/Lifestyle**" group-title="ENG - DOC/Lifestyle",**Place Holder DOC/Lifestyle**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream DOC/Lifestyle**" group-title="ENG - DOC/Lifestyle",**NoStream DOC/Lifestyle**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Entertainment**" group-title="ENG - Entertainment",**Place Holder Entertainment**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Entertainment**" group-title="ENG - Entertainment",**NoStream Entertainment**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Kids**" group-title="ENG - Kids & Family",**Place Holder Kids**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Kids**" group-title="ENG - Kids & Family",**NoStream Kids**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Events**" group-title="ENG - Live Events",**Place Holder Events**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Events**" group-title="Live Events",**NoStream Events**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder ABC**" group-title="ENG - Local ABC",**Place Holder ABC**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream ABC**" group-title="ENG - Local ABC",**NoStream ABC**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder CBS**" group-title="ENG - Local CBS",**Place Holder CBS**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CBS**" group-title="ENG - Local CBS",**NoStream CBS**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder IND**" group-title="ENG - Local IND",**Place Holder IND**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream IND**" group-title="ENG - Local IND",**NoStream IND**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder NBC**" group-title="ENG - Local NBC",**Place Holder NBC**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBC**" group-title="ENG - Local NBC",**NoStream NBC**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Movies**" group-title="ENG - Movies",**Place Holder Movies**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movies**" group-title="ENG - Movies",**NoStream Movies**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder CW/MY**" group-title="ENG - Local CW/MY",**Place Holder CW/MY**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/MY**" group-title="ENG - Local CW/MY",**NoStream CW/MY**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Music**" group-title="ENG - Music",**Place Holder Music**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Music**" group-title="Music (All Lang)",**NoStream Music**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder MusicRadio**" group-title="ENG - Music Radio",**Place Holder MusicRadio**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX**" group-title="ENG - Local FOX",**NoStream FOX**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder FOX**" group-title="ENG - Local FOX",**Place Holder FOX**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News & Opinions",**NoStream News**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder MusicVideos**" group-title="ENG - Music Videos",**Place Holder MusicVideos**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Reality**" group-title="ENG - Reality",**NoStream Reality**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder News**" group-title="ENG - News & Opinions",**Place Holder News**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Sports**" group-title="ENG - Sports",**NoStream Sports**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Reality**" group-title="ENG - Reality",**Place Holder Reality**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Auto**" group-title="ENG - Sports Auto",**NoStream Auto**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Sports**" group-title="ENG - Sports",**Place Holder Sports**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Fight**" group-title="ENG - Sports Fight",**NoStream Fight**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Auto**" group-title="ENG - Sports Auto",**Place Holder Auto**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream MLB**" group-title="ENG - Sports MLB",**NoStream MLB**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Fight**" group-title="ENG - Sports Fight",**Place Holder Fight**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBA**" group-title="ENG - Sports NBA/WNBA",**NoStream NBA**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder MLB**" group-title="ENG - Sports MLB",**Place Holder MLB**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NFL**" group-title="ENG - Sports NFL",**NoStream NFL**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder NBA**" group-title="ENG - Sports NBA/WNBA",**Place Holder NBA**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NHL**" group-title="ENG - Sports NHL",**NoStream NHL**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder NFL**" group-title="ENG - Sports NFL",**Place Holder NFL**
-http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder NHL**" group-title="ENG - Sports NHL",**Place Holder NHL**
-http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Religion**" group-title="Religion (All Lang)",**Place Holder Religion**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Religion**" group-title="Religion (All Lang)",**NoStream Religion**
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Requests**" group-title="!! Speciality Requests !!",**Place Holder Requests**
 http://example.com/stream

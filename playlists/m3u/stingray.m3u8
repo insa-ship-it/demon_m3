@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Qello Concerts by Stingray FHD" group-title="ENG - Music Videos",Qello Concerts by Stingray FHD
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-name="Qello Concerts by Stingray FHD" group-title="Music (All Lang)",Qello Concerts by Stingray FHD
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock FHD" group-title="ENG - Music Videos",Stingray Classic Rock FHD
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock FHD" group-title="Music (All Lang)",Stingray Classic Rock FHD
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica FHD" group-title="ENG - Music Videos",Stingray Classica FHD
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica FHD" group-title="Music (All Lang)",Stingray Classica FHD
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic FHD" group-title="ENG - Music Videos",Stingray CMusic FHD EPG
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic FHD" group-title="Music (All Lang)",Stingray CMusic FHD EPG
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="ENG - Music Videos",Stingray DJAZZ FHD
+#EXTINF:-1 tvg-id="StingrayDJazz.ca" tvg-name="Stingray DJAZZ FHD" group-title="Music (All Lang)",Stingray DJAZZ FHD
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening FHD" group-title="ENG - Music Videos",Stingray Easy Listening FHD
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening FHD" group-title="Music (All Lang)",Stingray Easy Listening FHD
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEuroHits.us" tvg-name="Stingray Euro Hits FHD" group-title="ENG - Music Videos",Stingray Euro Hits FHD
+#EXTINF:-1 tvg-id="StingrayEuroHits.us" tvg-name="Stingray Euro Hits FHD" group-title="Music (All Lang)",Stingray Euro Hits FHD
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s FHD" group-title="ENG - Music Videos",Stingray Flashback 70s FHD
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray Flashback 70s FHD" group-title="Music (All Lang)",Stingray Flashback 70s FHD
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.us" tvg-name="Stingray Greatest Hits FHD" group-title="ENG - Music Videos",Stingray Greatest Hits FHD
+#EXTINF:-1 tvg-id="StingrayGreatestHits.us" tvg-name="Stingray Greatest Hits FHD" group-title="Music (All Lang)",Stingray Greatest Hits FHD
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List FHD" group-title="ENG - Music Videos",Stingray Hit List FHD
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List FHD" group-title="Music (All Lang)",Stingray Hit List FHD
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="ENG - Music Videos",Stingray Holidayscapes FHD
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD" group-title="Music (All Lang)",Stingray Holidayscapes FHD
 https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD (Alt1)" group-title="ENG - Music Videos",Stingray Holidayscapes FHD (Alt1)
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes FHD (Alt1)" group-title="Music (All Lang)",Stingray Holidayscapes FHD (Alt1)
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country FHD" group-title="ENG - Music Videos",Stingray Hot Country FHD
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country FHD" group-title="Music (All Lang)",Stingray Hot Country FHD
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-name="Stingray Jukebox Oldies FHD" group-title="ENG - Music Videos",Stingray Jukebox Oldies FHD
+#EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca" tvg-name="Stingray Jukebox Oldies FHD" group-title="Music (All Lang)",Stingray Jukebox Oldies FHD
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke FHD" group-title="ENG - Music Videos",Stingray Karaoke FHD
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke FHD" group-title="Music (All Lang)",Stingray Karaoke FHD
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape FHD" group-title="ENG - Music Videos",Stingray Naturescape FHD
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape FHD" group-title="Music (All Lang)",Stingray Naturescape FHD
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But 90s FHD" group-title="ENG - Music Videos",Stingray Nothin' But 90s FHD
+#EXTINF:-1 tvg-id="StingrayNothinbut90s.ca" tvg-name="Stingray Nothin' But 90s FHD" group-title="Music (All Lang)",Stingray Nothin' But 90s FHD
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult FHD" group-title="ENG - Music Videos",Stingray Pop Adult FHD
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult FHD" group-title="Music (All Lang)",Stingray Pop Adult FHD
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember the 80s FHD" group-title="ENG - Music Videos",Stingray Remember the 80s FHD
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="Stingray Remember the 80s FHD" group-title="Music (All Lang)",Stingray Remember the 80s FHD
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayAlternative.ca" tvg-name="Stingray Alternative FHD" group-title="ENG - Music Videos",Stingray Alternative FHD
+#EXTINF:-1 tvg-id="StingrayAlternative.ca" tvg-name="Stingray Alternative FHD" group-title="Music (All Lang)",Stingray Alternative FHD
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="Stingray Romance Latino FHD" group-title="ENG - Music Videos",Stingray Romance Latino FHD
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="Stingray Romance Latino FHD" group-title="Music (All Lang)",Stingray Romance Latino FHD
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz FHD" group-title="ENG - Music Videos",Stingray Smooth Jazz FHD
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz FHD" group-title="Music (All Lang)",Stingray Smooth Jazz FHD
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Soft Hits FHD" group-title="ENG - Music Videos",Stingray Soft Hits FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Soft Hits FHD" group-title="Music (All Lang)",Stingray Soft Hits FHD
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.us" tvg-name="Stingray Soul Storm FHD" group-title="ENG - Music Videos",Stingray Soul Storm FHD
+#EXTINF:-1 tvg-id="StingraySoulStorm.us" tvg-name="Stingray Soul Storm FHD" group-title="Music (All Lang)",Stingray Soul Storm FHD
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTheSpa.us" tvg-name="Stingray The Spa FHD" group-title="ENG - Music Videos",Stingray The Spa FHD
+#EXTINF:-1 tvg-id="StingrayTheSpa.us" tvg-name="Stingray The Spa FHD" group-title="Music (All Lang)",Stingray The Spa FHD
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's KPOP FHD" group-title="ENG - Music Videos",Stingray Today's KPOP FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's KPOP FHD" group-title="Music (All Lang)",Stingray Today's KPOP FHD
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's Latin Pop FHD" group-title="ENG - Music Videos",Stingray Today's Latin Pop FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Today's Latin Pop FHD" group-title="Music (All Lang)",Stingray Today's Latin Pop FHD
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Urban Beat FHD" group-title="ENG - Music Videos",Stingray Urban Beat FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Urban Beat FHD" group-title="Music (All Lang)",Stingray Urban Beat FHD
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray ZenLIFE FHD" group-title="ENG - Music Videos",Stingray ZenLIFE FHD
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray ZenLIFE FHD" group-title="Music (All Lang)",Stingray ZenLIFE FHD
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8

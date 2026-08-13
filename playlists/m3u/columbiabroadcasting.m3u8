@@ -15,9 +15,9 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KUBD-DT.us_locals1" tvg-name="AK | Sitka | CBS KUBD (Alt)" group-title="Z - Offline Streams",AK | Sitka | CBS KUBD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WIAT" group-title="ENG - Local CBS",AL | Birmingham | CBS WIAT
+#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WVTM" group-title="ENG - Local CBS",AL | Birmingham | CBS WVTM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75347
-#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WIAT (Alt)" group-title="Z - Offline Streams",AL | Birmingham | CBS WIAT (Alt)
+#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WVTM (Alt)" group-title="Z - Offline Streams",AL | Birmingham | CBS WVTM (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWTVY.us" tvg-name="AL | Dothan | CBS WTVY" group-title="ENG - Local CBS",AL | Dothan | CBS WTVY
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597315

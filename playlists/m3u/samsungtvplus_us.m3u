@@ -219,7 +219,7 @@ https://jmp2.uk/stvp-USBA300035FV
 https://jmp2.uk/stvp-US17000186W
 #EXTINF:-1 tvg-id="US1700019P7" tvg-name="CJ ENM K-Novela en Espanol" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700019P7_20260804T045518SQUARE.png" group-title="ESP - Entretenimiento",CJ ENM K-Novela en Espanol
 https://jmp2.uk/stvp-US1700019P7
-#EXTINF:-1 tvg-id="US39000038W" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20260804T045508SQUARE.png" group-title="ENG - Music Videos",CJ ENM K-POP
+#EXTINF:-1 tvg-id="US39000038W" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20260804T045508SQUARE.png" group-title="Music (All Lang)",CJ ENM K-POP
 https://jmp2.uk/stvp-US39000038W
 #EXTINF:-1 tvg-id="USBB2900001P9" tvg-name="CJ ENM K-Reality" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20260804T045522SQUARE.png" group-title="Z - Around the World",CJ ENM K-Reality
 https://jmp2.uk/stvp-USBB2900001P9
@@ -623,7 +623,7 @@ https://jmp2.uk/stvp-US310000101
 https://jmp2.uk/stvp-USBD300021B8
 #EXTINF:-1 tvg-id="USBA3000093U" tvg-name="MTV Pluto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20260421T133520SQUARE.png" group-title="ENG - Reality",MTV Pluto TV
 https://jmp2.uk/stvp-USBA3000093U
-#EXTINF:-1 tvg-id="US1800001D1" tvg-name="Murder, She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260421T134123SQUARE.png" group-title="ENG - DOC/Lifestyle",Murder, She Wrote
+#EXTINF:-1 tvg-id="US1800001D1" tvg-name="Murder, She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260421T134123SQUARE.png" group-title="ENG - DOC/Lifestyle",She Wrote" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20260421T134123SQUARE.png" group-title="ENG - DOC/Lifestyle",Murder, She Wrote
 https://jmp2.uk/stvp-US1800001D1
 #EXTINF:-1 tvg-id="US2900011CJ" tvg-name="My Little Pony" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900011CJ_20260421T142205SQUARE.png" group-title="ENG - Kids & Family",My Little Pony
 https://jmp2.uk/stvp-US2900011CJ
@@ -657,7 +657,7 @@ https://jmp2.uk/stvp-USBD420002446
 https://jmp2.uk/stvp-US300062TG
 #EXTINF:-1 tvg-id="USAJ30000122O" tvg-name="NEW KMOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20251014T230114SQUARE.png" group-title="ENG - Movies",NEW KMOVIES
 https://jmp2.uk/stvp-USAJ30000122O
-#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" group-title="ENG - Music Videos",NEW KPOP
+#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" group-title="Music (All Lang)",NEW KPOP
 https://jmp2.uk/stvp-USAJ3000013FJ
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="NEWSMAX2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20251209T230208SQUARE.png" group-title="ENG - News & Opinions",NEWSMAX2
 https://jmp2.uk/stvp-USBA300028QU
@@ -747,7 +747,7 @@ https://jmp2.uk/stvp-US5000052H1
 https://jmp2.uk/stvp-USBB3500004RC
 #EXTINF:-1 tvg-id="USBD17000025J" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="ENG - Sports",Pursuit UP
 https://jmp2.uk/stvp-USBD17000025J
-#EXTINF:-1 tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20260421T141917SQUARE.png" group-title="ENG - Music Videos",Qello Concerts by Stingray
+#EXTINF:-1 tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20260421T141917SQUARE.png" group-title="Music (All Lang)",Qello Concerts by Stingray
 https://jmp2.uk/stvp-USBD3500024YB
 #EXTINF:-1 tvg-id="USBD1700019RN" tvg-name="RACER Select" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20250819T224353SQUARE.png" group-title="ENG - Sports Auto",RACER Select
 https://jmp2.uk/stvp-USBD1700019RN
@@ -823,7 +823,7 @@ https://jmp2.uk/stvp-USBD33000180S
 https://jmp2.uk/stvp-US4700001B4
 #EXTINF:-1 tvg-id="US2100007V7" tvg-name="Smosh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100007V7_20260421T143229SQUARE.png" group-title="ENG - Entertainment",Smosh
 https://jmp2.uk/stvp-US2100007V7
-#EXTINF:-1 tvg-id="US10000135V" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260727T081446SQUARE.png" group-title="ENG - Music Videos",SMTOWN
+#EXTINF:-1 tvg-id="US10000135V" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260727T081446SQUARE.png" group-title="Music (All Lang)",SMTOWN
 https://jmp2.uk/stvp-US10000135V
 #EXTINF:-1 tvg-id="US1800012MT" tvg-name="SNL Vault" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800012MT_20260421T143211SQUARE.png" group-title="ENG - Classic TV & Westerns",SNL Vault
 https://jmp2.uk/stvp-US1800012MT
@@ -835,49 +835,49 @@ https://jmp2.uk/stvp-USBA300031OT
 https://jmp2.uk/stvp-USAJ3504705A
 #EXTINF:-1 tvg-id="US52000010Y" tvg-name="StarTalk" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US52000010Y_20260421T141805SQUARE.png" group-title="ENG - DOC/Lifestyle",History & Science",StarTalk
 https://jmp2.uk/stvp-US52000010Y
-#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Stingray Classic Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="ENG - Music Videos",Stingray Classic Rock
+#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Stingray Classic Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="Music (All Lang)",Stingray Classic Rock
 https://jmp2.uk/stvp-USBD35000180U
-#EXTINF:-1 tvg-id="USBD350002623" tvg-name="Stingray Classica" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20260421T141924SQUARE.png" group-title="ENG - Music Videos",Stingray Classica
+#EXTINF:-1 tvg-id="USBD350002623" tvg-name="Stingray Classica" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20260421T141924SQUARE.png" group-title="Music (All Lang)",Stingray Classica
 https://jmp2.uk/stvp-USBD350002623
-#EXTINF:-1 tvg-id="US4700005EA" tvg-name="Stingray Country Greats" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700005EA_20260421T143054SQUARE.png" group-title="ENG - Music Videos",Stingray Country Greats
+#EXTINF:-1 tvg-id="US4700005EA" tvg-name="Stingray Country Greats" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700005EA_20260421T143054SQUARE.png" group-title="Music (All Lang)",Stingray Country Greats
 https://jmp2.uk/stvp-US4700005EA
-#EXTINF:-1 tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="ENG - Music Videos",Stingray DJAZZ
+#EXTINF:-1 tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="Music (All Lang)",Stingray DJAZZ
 https://jmp2.uk/stvp-USBD3500025GS
-#EXTINF:-1 tvg-id="USBD3500011J3" tvg-name="Stingray Easy Listening" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20260421T143139SQUARE.png" group-title="ENG - Music Videos",Stingray Easy Listening
+#EXTINF:-1 tvg-id="USBD3500011J3" tvg-name="Stingray Easy Listening" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20260421T143139SQUARE.png" group-title="Music (All Lang)",Stingray Easy Listening
 https://jmp2.uk/stvp-USBD3500011J3
-#EXTINF:-1 tvg-id="US4700002UF" tvg-name="Stingray Euro Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20260421T143051SQUARE.png" group-title="ENG - Music Videos",Stingray Euro Hits
+#EXTINF:-1 tvg-id="US4700002UF" tvg-name="Stingray Euro Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20260421T143051SQUARE.png" group-title="Music (All Lang)",Stingray Euro Hits
 https://jmp2.uk/stvp-US4700002UF
-#EXTINF:-1 tvg-id="USBD3500008IJ" tvg-name="Stingray Flashback 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20260421T143136SQUARE.png" group-title="ENG - Music Videos",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="USBD3500008IJ" tvg-name="Stingray Flashback 70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20260421T143136SQUARE.png" group-title="Music (All Lang)",Stingray Flashback 70s
 https://jmp2.uk/stvp-USBD3500008IJ
-#EXTINF:-1 tvg-id="USBD3500022DN" tvg-name="Stingray Greatest Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png" group-title="ENG - Music Videos",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="USBD3500022DN" tvg-name="Stingray Greatest Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20251230T035623SQUARE.png" group-title="Music (All Lang)",Stingray Greatest Hits
 https://jmp2.uk/stvp-USBD3500022DN
-#EXTINF:-1 tvg-id="USBD3500010MT" tvg-name="Stingray Hip Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20260421T141910SQUARE.png" group-title="ENG - Music Videos",Stingray Hip Hop
+#EXTINF:-1 tvg-id="USBD3500010MT" tvg-name="Stingray Hip Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20260421T141910SQUARE.png" group-title="Music (All Lang)",Stingray Hip Hop
 https://jmp2.uk/stvp-USBD3500010MT
 #EXTINF:-1 tvg-id="USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20251230T035626SQUARE.png" group-title="Ambiance",Stingray Holidayscapes
 https://jmp2.uk/stvp-USBD3500038R6
-#EXTINF:-1 tvg-id="USBD3300021KV" tvg-name="Stingray Hot Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png" group-title="ENG - Music Videos",Stingray Hot Country
+#EXTINF:-1 tvg-id="USBD3300021KV" tvg-name="Stingray Hot Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20251230T035621SQUARE.png" group-title="Music (All Lang)",Stingray Hot Country
 https://jmp2.uk/stvp-USBD3300021KV
-#EXTINF:-1 tvg-id="US4700006XL" tvg-name="Stingray Jukebox Oldies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700006XL_20260421T143057SQUARE.png" group-title="ENG - Music Videos",Stingray Jukebox Oldies
+#EXTINF:-1 tvg-id="US4700006XL" tvg-name="Stingray Jukebox Oldies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700006XL_20260421T143057SQUARE.png" group-title="Music (All Lang)",Stingray Jukebox Oldies
 https://jmp2.uk/stvp-US4700006XL
-#EXTINF:-1 tvg-id="US4700003DP" tvg-name="Stingray Movie Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700003DP_20260421T141750SQUARE.png" group-title="ENG - Music Videos",Stingray Movie Music
+#EXTINF:-1 tvg-id="US4700003DP" tvg-name="Stingray Movie Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700003DP_20260421T141750SQUARE.png" group-title="Music (All Lang)",Stingray Movie Music
 https://jmp2.uk/stvp-US4700003DP
 #EXTINF:-1 tvg-id="USAK3508705A" tvg-name="Stingray Naturescape" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20250630T232500SQUARE.png" group-title="Ambiance",Stingray Naturescape
 https://jmp2.uk/stvp-USAK3508705A
-#EXTINF:-1 tvg-id="USBD35000149S" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20260421T143145SQUARE.png" group-title="ENG - Music Videos",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="USBD35000149S" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20260421T143145SQUARE.png" group-title="Music (All Lang)",Stingray Nothin' But 90s
 https://jmp2.uk/stvp-USBD35000149S
-#EXTINF:-1 tvg-id="USBD3300022QK" tvg-name="Stingray Remember the 80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20260421T143132SQUARE.png" group-title="ENG - Music Videos",Stingray Remember the 80s
+#EXTINF:-1 tvg-id="USBD3300022QK" tvg-name="Stingray Remember the 80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20260421T143132SQUARE.png" group-title="Music (All Lang)",Stingray Remember the 80s
 https://jmp2.uk/stvp-USBD3300022QK
-#EXTINF:-1 tvg-id="USBD3500017CE" tvg-name="Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png" group-title="ENG - Music Videos",Stingray Romance Latino
+#EXTINF:-1 tvg-id="USBD3500017CE" tvg-name="Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png" group-title="Music (All Lang)",Stingray Romance Latino
 https://jmp2.uk/stvp-USBD3500017CE
-#EXTINF:-1 tvg-id="USBD35000128A" tvg-name="Stingray Smooth Jazz" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20260421T143142SQUARE.png" group-title="ENG - Music Videos",Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="USBD35000128A" tvg-name="Stingray Smooth Jazz" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20260421T143142SQUARE.png" group-title="Music (All Lang)",Stingray Smooth Jazz
 https://jmp2.uk/stvp-USBD35000128A
-#EXTINF:-1 tvg-id="US4700007GV" tvg-name="Stingray Soft Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700007GV_20260421T143101SQUARE.png" group-title="ENG - Music Videos",Stingray Soft Hits
+#EXTINF:-1 tvg-id="US4700007GV" tvg-name="Stingray Soft Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700007GV_20260421T143101SQUARE.png" group-title="Music (All Lang)",Stingray Soft Hits
 https://jmp2.uk/stvp-US4700007GV
 #EXTINF:-1 tvg-id="USBD3500013DG" tvg-name="Stingray Spa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20250630T232449SQUARE.png" group-title="Ambiance",Stingray Spa
 https://jmp2.uk/stvp-USBD3500013DG
-#EXTINF:-1 tvg-id="USBD3500016NH" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png" group-title="ENG - Music Videos",Stingray Today's K-Pop
+#EXTINF:-1 tvg-id="USBD3500016NH" tvg-name="Stingray Today's K-Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png" group-title="Music (All Lang)",Stingray Today's K-Pop
 https://jmp2.uk/stvp-USBD3500016NH
-#EXTINF:-1 tvg-id="USBD3500009Y3" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png" group-title="ENG - Music Videos",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="USBD3500009Y3" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png" group-title="Music (All Lang)",Stingray Today's Latin Pop
 https://jmp2.uk/stvp-USBD3500009Y3
 #EXTINF:-1 tvg-id="USBD1700006T2" tvg-name="Storage Wars: LA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260609T035222SQUARE.png" group-title="ENG - Reality",Storage Wars: LA
 https://jmp2.uk/stvp-USBD1700006T2
@@ -1033,29 +1033,29 @@ https://jmp2.uk/stvp-US4700030X8
 https://jmp2.uk/stvp-USBB1500001GD
 #EXTINF:-1 tvg-id="US200111SU" tvg-name="Van Helsing" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US200111SU_20260421T141942SQUARE.png" group-title="ENG - Movies",Van Helsing
 https://jmp2.uk/stvp-US200111SU
-#EXTINF:-1 tvg-id="USBD300011KQ" tvg-name="Vevo '70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20260303T094202SQUARE.png" group-title="ENG - Music Videos",Vevo '70s
+#EXTINF:-1 tvg-id="USBD300011KQ" tvg-name="Vevo '70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20260303T094202SQUARE.png" group-title="Music (All Lang)",Vevo '70s
 https://jmp2.uk/stvp-USBD300011KQ
-#EXTINF:-1 tvg-id="USBD300012YC" tvg-name="Vevo '80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20260303T094205SQUARE.png" group-title="ENG - Music Videos",Vevo '80s
+#EXTINF:-1 tvg-id="USBD300012YC" tvg-name="Vevo '80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20260303T094205SQUARE.png" group-title="Music (All Lang)",Vevo '80s
 https://jmp2.uk/stvp-USBD300012YC
-#EXTINF:-1 tvg-id="USBD3000133M" tvg-name="Vevo '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20260303T094208SQUARE.png" group-title="ENG - Music Videos",Vevo '90s
+#EXTINF:-1 tvg-id="USBD3000133M" tvg-name="Vevo '90s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20260303T094208SQUARE.png" group-title="Music (All Lang)",Vevo '90s
 https://jmp2.uk/stvp-USBD3000133M
-#EXTINF:-1 tvg-id="USBD120002431" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20260303T094211SQUARE.png" group-title="ENG - Music Videos",Vevo 2010s
+#EXTINF:-1 tvg-id="USBD120002431" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20260303T094211SQUARE.png" group-title="Music (All Lang)",Vevo 2010s
 https://jmp2.uk/stvp-USBD120002431
-#EXTINF:-1 tvg-id="USBB4400015F5" tvg-name="Vevo 2K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20260303T094214SQUARE.png" group-title="ENG - Music Videos",Vevo 2K
+#EXTINF:-1 tvg-id="USBB4400015F5" tvg-name="Vevo 2K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20260303T094214SQUARE.png" group-title="Music (All Lang)",Vevo 2K
 https://jmp2.uk/stvp-USBB4400015F5
-#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png" group-title="ENG - Music Videos",Vevo Country
+#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-name="Vevo Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20260303T094217SQUARE.png" group-title="Music (All Lang)",Vevo Country
 https://jmp2.uk/stvp-USBC3600001RQ
-#EXTINF:-1 tvg-id="US400006630" tvg-name="Vevo Country Rewind" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006630_20260117T020414SQUARE.png" group-title="ENG - Music Videos",Vevo Country Rewind
+#EXTINF:-1 tvg-id="US400006630" tvg-name="Vevo Country Rewind" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006630_20260117T020414SQUARE.png" group-title="Music (All Lang)",Vevo Country Rewind
 https://jmp2.uk/stvp-US400006630
-#EXTINF:-1 tvg-id="USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20260303T094219SQUARE.png" group-title="ENG - Music Videos",Vevo Hip-Hop
+#EXTINF:-1 tvg-id="USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20260303T094219SQUARE.png" group-title="Music (All Lang)",Vevo Hip-Hop
 https://jmp2.uk/stvp-USBC3600002EK
-#EXTINF:-1 tvg-id="USBC3600015GF" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="ENG - Music Videos",Vevo Latino
+#EXTINF:-1 tvg-id="USBC3600015GF" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Music (All Lang)",Vevo Latino
 https://jmp2.uk/stvp-USBC3600015GF
-#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png" group-title="ENG - Music Videos",Vevo Pop
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20260421T141831SQUARE.png" group-title="Music (All Lang)",Vevo Pop
 https://jmp2.uk/stvp-USBC3600008WY
-#EXTINF:-1 tvg-id="USBC3900009K5" tvg-name="Vevo R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20260421T141834SQUARE.png" group-title="ENG - Music Videos",Vevo R&B
+#EXTINF:-1 tvg-id="USBC3900009K5" tvg-name="Vevo R&B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20260421T141834SQUARE.png" group-title="Music (All Lang)",Vevo R&B
 https://jmp2.uk/stvp-USBC3900009K5
-#EXTINF:-1 tvg-id="USBD3000145P" tvg-name="Vevo Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20260421T141843SQUARE.png" group-title="ENG - Music Videos",Vevo Rock
+#EXTINF:-1 tvg-id="USBD3000145P" tvg-name="Vevo Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20260421T141843SQUARE.png" group-title="Music (All Lang)",Vevo Rock
 https://jmp2.uk/stvp-USBD3000145P
 #EXTINF:-1 tvg-id="USBB1900006NY" tvg-name="VICE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png" group-title="ENG - DOC/Lifestyle",VICE
 https://jmp2.uk/stvp-USBB1900006NY
@@ -1111,31 +1111,31 @@ https://jmp2.uk/stvp-USBC1000002NP
 https://jmp2.uk/stvp-USBC1000017D8
 #EXTINF:-1 tvg-id="US700005ID" tvg-name="WWE Superstar Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png" group-title="ENG - DOC/Lifestyle",WWE Superstar Central
 https://jmp2.uk/stvp-US700005ID
-#EXTINF:-1 tvg-id="USBB320000647" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png" group-title="ENG - Music Videos",XITE 80s Flashback
+#EXTINF:-1 tvg-id="USBB320000647" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png" group-title="Music (All Lang)",XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
-#EXTINF:-1 tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" group-title="ENG - Music Videos",XITE 90s Throwback
+#EXTINF:-1 tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" group-title="Music (All Lang)",XITE 90s Throwback
 https://jmp2.uk/stvp-USBB3200007AK
-#EXTINF:-1 tvg-id="US46000072L" tvg-name="XITE Christian Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20260421T141745SQUARE.png" group-title="ENG - Music Videos",XITE Christian Hits
+#EXTINF:-1 tvg-id="US46000072L" tvg-name="XITE Christian Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20260421T141745SQUARE.png" group-title="Music (All Lang)",XITE Christian Hits
 https://jmp2.uk/stvp-US46000072L
-#EXTINF:-1 tvg-id="USBD3300011UT" tvg-name="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20260421T141856SQUARE.png" group-title="ENG - Music Videos",XITE Classic Country
+#EXTINF:-1 tvg-id="USBD3300011UT" tvg-name="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20260421T141856SQUARE.png" group-title="Music (All Lang)",XITE Classic Country
 https://jmp2.uk/stvp-USBD3300011UT
-#EXTINF:-1 tvg-id="USBD3300006O3" tvg-name="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png" group-title="ENG - Music Videos",XITE Country Today
+#EXTINF:-1 tvg-id="USBD3300006O3" tvg-name="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png" group-title="Music (All Lang)",XITE Country Today
 https://jmp2.uk/stvp-USBD3300006O3
-#EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" group-title="ENG - Music Videos",XITE Hits
+#EXTINF:-1 tvg-id="USBD3300004RH" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" group-title="Music (All Lang)",XITE Hits
 https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="ENG - Music Videos",XITE Just Chill
+#EXTINF:-1 tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music (All Lang)",XITE Just Chill
 https://jmp2.uk/stvp-USBB2300003JZ
-#EXTINF:-1 tvg-id="USBD3300007PB" tvg-name="XITE Nuevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20260421T141851SQUARE.png" group-title="ENG - Music Videos",XITE Nuevo Latino
+#EXTINF:-1 tvg-id="USBD3300007PB" tvg-name="XITE Nuevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20260421T141851SQUARE.png" group-title="Music (All Lang)",XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
-#EXTINF:-1 tvg-id="USBD330000948" tvg-name="XITE R&B Classic Jams" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="ENG - Music Videos",XITE R&B Classic Jams
+#EXTINF:-1 tvg-id="USBD330000948" tvg-name="XITE R&B Classic Jams" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music (All Lang)",XITE R&B Classic Jams
 https://jmp2.uk/stvp-USBD330000948
-#EXTINF:-1 tvg-id="US4600008JA" tvg-name="XITE Reggae Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600008JA_20260421T141748SQUARE.png" group-title="ENG - Music Videos",XITE Reggae Vibes
+#EXTINF:-1 tvg-id="US4600008JA" tvg-name="XITE Reggae Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600008JA_20260421T141748SQUARE.png" group-title="Music (All Lang)",XITE Reggae Vibes
 https://jmp2.uk/stvp-US4600008JA
-#EXTINF:-1 tvg-id="USBB2300004KV" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="ENG - Music Videos",XITE Rock x Metal
+#EXTINF:-1 tvg-id="USBB2300004KV" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music (All Lang)",XITE Rock x Metal
 https://jmp2.uk/stvp-USBB2300004KV
-#EXTINF:-1 tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20260421T141854SQUARE.png" group-title="ENG - Music Videos",XITE Siempre Latino
+#EXTINF:-1 tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20260421T141854SQUARE.png" group-title="Music (All Lang)",XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 tvg-id="USBD350003932" tvg-name="XITE Summer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260609T035034SQUARE.png" group-title="ENG - Music Videos",XITE Summer
+#EXTINF:-1 tvg-id="USBD350003932" tvg-name="XITE Summer" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260609T035034SQUARE.png" group-title="Music (All Lang)",XITE Summer
 https://jmp2.uk/stvp-USBD350003932
 #EXTINF:-1 tvg-id="USBC2100008DP" tvg-name="Xplore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240520T214902SQUARE.png" group-title="ENG - DOC/Lifestyle",History & Science",Xplore
 https://jmp2.uk/stvp-USBC2100008DP
@@ -1145,7 +1145,7 @@ https://jmp2.uk/stvp-USAK3508706A
 https://jmp2.uk/stvp-USAJ4300005PJ
 #EXTINF:-1 tvg-id="US3200012O8" tvg-name="Yahoo! Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3200012O8_20260421T143258SQUARE.png" group-title="ENG - Sports",Yahoo! Sports Network
 https://jmp2.uk/stvp-US3200012O8
-#EXTINF:-1 tvg-id="US3900009ZV" tvg-name="Yo! MTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900009ZV_20260421T143435SQUARE.png" group-title="ENG - Music Videos",Yo! MTV
+#EXTINF:-1 tvg-id="US3900009ZV" tvg-name="Yo! MTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900009ZV_20260421T143435SQUARE.png" group-title="Music (All Lang)",Yo! MTV
 https://jmp2.uk/stvp-US3900009ZV
 #EXTINF:-1 tvg-id="US1000003G8" tvg-name="Yu-Gi-Oh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20260414T005637SQUARE.png" group-title="ENG - Kids & Family",Yu-Gi-Oh
 https://jmp2.uk/stvp-US1000003G8
