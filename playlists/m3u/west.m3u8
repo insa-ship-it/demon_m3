@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Series**" group-title="ENG - 24/7",**NoStream 24/7 Series**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movie Collection**" group-title="ENG - 24/7 Movie Collection",**NoStream Movie Collection**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Classic Western**" group-title="ENG - Classic TV & Westerns",**NoStream Classic Western**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream DOC/Lifestyle**" group-title="ENG - DOC/Lifestyle",**NoStream DOC/Lifestyle**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Entertainment**" group-title="ENG - Entertainment",**NoStream Entertainment**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Kids**" group-title="ENG - Kids & Family",**NoStream Kids**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Events**" group-title="Live Events",**NoStream Events**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream ABC**" group-title="ENG - Local ABC",**NoStream ABC**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CBS**" group-title="ENG - Local CBS",**NoStream CBS**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream IND**" group-title="ENG - Local IND",**NoStream IND**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBC**" group-title="ENG - Local NBC",**NoStream NBC**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movies**" group-title="ENG - Movies",**NoStream Movies**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/MY**" group-title="ENG - Local CW/MY",**NoStream CW/MY**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Music**" group-title="Music (All Lang)",**NoStream Music**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX**" group-title="ENG - Local FOX",**NoStream FOX**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News & Opinions",**NoStream News**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Reality**" group-title="ENG - Reality",**NoStream Reality**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Sports**" group-title="ENG - Sports",**NoStream Sports**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Auto**" group-title="ENG - Sports Auto",**NoStream Auto**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Fight**" group-title="ENG - Sports Fight",**NoStream Fight**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream MLB**" group-title="ENG - Sports MLB",**NoStream MLB**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBA**" group-title="ENG - Sports NBA/WNBA",**NoStream NBA**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NFL**" group-title="ENG - Sports NFL",**NoStream NFL**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NHL**" group-title="ENG - Sports NHL",**NoStream NHL**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Religion**" group-title="Religion (All Lang)",**NoStream Religion**
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Requests**" group-title="!! Speciality Requests !!",**Place Holder Requests**
+http://example.com/stream
+#EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="A&E (West)" group-title="ENG - Entertainment",A&E (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="A&E (West)(Alt)" group-title="ENG - Entertainment",A&E (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (West)" group-title="ENG - Entertainment",AMC (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC (West)(Alt)" group-title="ENG - Entertainment",AMC (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="Animal Planet (West)" group-title="ENG - DOC/Lifestyle",Animal Planet (West)
+http://example.com/stream
+#EXTINF:-1 tvg-name="Animal Planet (West)(Alt)" group-title="ENG - DOC/Lifestyle",Animal Planet (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America (West)" group-title="ENG - Entertainment",BBC America (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America (West)(Alt)" group-title="ENG - Entertainment",BBC America (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (West)" group-title="ENG - Entertainment",BET (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (West)(Alt)" group-title="ENG - Entertainment",BET (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her (West)" group-title="ENG - Entertainment",BET Her (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her (West)(Alt)" group-title="ENG - Entertainment",BET Her (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo (West)" group-title="ENG - Entertainment",Bravo (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo (West)(Alt)" group-title="ENG - Entertainment",Bravo (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network (West)" group-title="ENG - Kids & Family",Cartoon Network (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network (West)(Alt)" group-title="ENG - Kids & Family",Cartoon Network (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="Cinemax (West)" group-title="ENG - Movies",Cinemax (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="Cinemax (West)(Alt)" group-title="ENG - Movies",Cinemax (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="Cinemax Action (West)" group-title="ENG - Movies",Cinemax Action (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="Cinemax Action (West)(Alt)" group-title="ENG - Movies",Cinemax Action (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxClassicsPacific.us" tvg-name="Cinemax Classics (West)" group-title="ENG - Movies",Cinemax Classics (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxClassicsPacific.us" tvg-name="Cinemax Classics (West)(Alt)" group-title="ENG - Movies",Cinemax Classics (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="Cinemax Hits (West)" group-title="ENG - Movies",Cinemax Hits (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="Cinemax Hits (West)(Alt)" group-title="ENG - Movies",Cinemax Hits (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT (West)" group-title="ENG - Entertainment",CMT (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT (West)(Alt)" group-title="ENG - Entertainment",CMT (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central (West)" group-title="ENG - Entertainment",Comedy Central (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central (West)(Alt)" group-title="ENG - Entertainment",Comedy Central (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CometPacific.us" tvg-name="Comet (West)" group-title="ENG - Entertainment",Comet (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CometPacific.us" tvg-name="Comet (West)(Alt)" group-title="ENG - Entertainment",Comet (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CookingChannelPacific.us" tvg-name="Cooking Channel (West)" group-title="ENG - DOC/Lifestyle",Cooking Channel (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CookingChannelPacific.us" tvg-name="Cooking Channel (West)(Alt)" group-title="ENG - DOC/Lifestyle",Cooking Channel (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetworkPacific.us" tvg-name="Crime+Investigation (West)" group-title="ENG - DOC/Lifestyle",Crime+Investigation (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetworkPacific.us" tvg-name="Crime+Investigation (West)(Alt)" group-title="ENG - DOC/Lifestyle",Crime+Investigation (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DestinationAmericaPacific.us" tvg-name="Destination America (West)" group-title="ENG - DOC/Lifestyle",Destination America (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DestinationAmericaPacific.us" tvg-name="Destination America (West)(Alt)" group-title="ENG - DOC/Lifestyle",Destination America (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)" group-title="ENG - DOC/Lifestyle",Discovery (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)(Alt)" group-title="ENG - DOC/Lifestyle",Discovery (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DiscoveryLifePacific.us" tvg-name="Discovery Life (West)" group-title="ENG - DOC/Lifestyle",Discovery Life (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DiscoveryLifePacific.us" tvg-name="Discovery Life (West)(Alt)" group-title="ENG - DOC/Lifestyle",Discovery Life (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyChannelPacific.us" tvg-name="Disney (West)" group-title="ENG - Kids & Family",Disney (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyChannelPacific.us" tvg-name="Disney (West)(Alt)" group-title="ENG - Kids & Family",Disney (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior (West)" group-title="ENG - Kids & Family",Disney Junior (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior (West)(Alt)" group-title="ENG - Kids & Family",Disney Junior (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD (West)" group-title="ENG - Kids & Family",Disney XD (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD (West)(Alt)" group-title="ENG - Kids & Family",Disney XD (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment (West)" group-title="ENG - Entertainment",E! Entertainment (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment (West)(Alt)" group-title="ENG - Entertainment",E! Entertainment (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FlixPacific.us" tvg-name="Flix (West)" group-title="ENG - Movies",Flix (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FlixPacific.us" tvg-name="Flix (West)(Alt)" group-title="ENG - Movies",Flix (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)" group-title="ENG - DOC/Lifestyle",Food Network (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)(Alt)" group-title="ENG - DOC/Lifestyle",Food Network (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform (West)" group-title="ENG - Entertainment",Freeform (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform (West)(Alt)" group-title="ENG - Entertainment",Freeform (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX (West)" group-title="ENG - Entertainment",FX (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX (West)(Alt)" group-title="ENG - Entertainment",FX (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX (West)" group-title="ENG - Entertainment",FXX (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX (West)(Alt)" group-title="ENG - Entertainment",FXX (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FYIPacific.us" tvg-name="FYI (West)" group-title="ENG - Entertainment",FYI (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FYIPacific.us" tvg-name="FYI (West)(Alt)" group-title="ENG - Entertainment",FYI (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="GameShowNetworkPacific.us" tvg-name="GSN (West)" group-title="ENG - Entertainment",GSN (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="GameShowNetworkPacific.us" tvg-name="GSN (West)(Alt)" group-title="ENG - Entertainment",GSN (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="H&I (West)" group-title="ENG - Entertainment",H&I (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HeroesAndIconsWest.us" tvg-name="H&I (West)(Alt)" group-title="ENG - Entertainment",H&I (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark (West)" group-title="ENG - Entertainment",Hallmark (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark (West)(Alt)" group-title="ENG - Entertainment",Hallmark (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkFamilyPacific.us" tvg-name="Hallmark Family (West)" group-title="ENG - Entertainment",Hallmark Family (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkFamilyPacific.us" tvg-name="Hallmark Family (West)(Alt)" group-title="ENG - Entertainment",Hallmark Family (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkMysteryPacific.us" tvg-name="Hallmark Mystery (West)" group-title="ENG - Entertainment",Hallmark Mystery (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HallmarkMysteryPacific.us" tvg-name="Hallmark Mystery (West)(Alt)" group-title="ENG - Entertainment",Hallmark Mystery (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO (West)" group-title="ENG - Movies",HBO (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO (West)(Alt)" group-title="ENG - Movies",HBO (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy (West)" group-title="ENG - Movies",HBO Comedy (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy (West)(Alt)" group-title="ENG - Movies",HBO Comedy (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-name="HBO Drama (West)" group-title="ENG - Movies",HBO Drama (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-name="HBO Drama (West)(Alt)" group-title="ENG - Movies",HBO Drama (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOHitsPacific.us" tvg-name="HBO Hits (West)" group-title="ENG - Movies",HBO Hits (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOHitsPacific.us" tvg-name="HBO Hits (West)(Alt)" group-title="ENG - Movies",HBO Hits (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO Movies (West)" group-title="ENG - Movies",HBO Movies (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO Movies (West)(Alt)" group-title="ENG - Movies",HBO Movies (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV (West)" group-title="ENG - DOC/Lifestyle",HGTV (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV (West)(Alt)" group-title="ENG - DOC/Lifestyle",HGTV (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HistoryChannelPacific.us" tvg-name="History (West)" group-title="ENG - DOC/Lifestyle",History (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="HistoryChannelPacific.us" tvg-name="History (West)(Alt)" group-title="ENG - DOC/Lifestyle",History (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (West)" group-title="ENG - DOC/Lifestyle",ID (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (West)(Alt)" group-title="ENG - DOC/Lifestyle",ID (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IFCPacific.us" tvg-name="IFC (West)" group-title="ENG - Entertainment",IFC (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IFCPacific.us" tvg-name="IFC (West)(Alt)" group-title="ENG - Entertainment",IFC (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IndiePlexPacific.us" tvg-name="IndiePlex (West)" group-title="ENG - Movies",IndiePlex (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IndiePlexPacific.us" tvg-name="IndiePlex (West)(Alt)" group-title="ENG - Movies",IndiePlex (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InspPacific.us" tvg-name="INSP (West)" group-title="ENG - Classic TV & Westerns",INSP (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="InspPacific.us" tvg-name="INSP (West)(Alt)" group-title="ENG - Classic TV & Westerns",INSP (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="ION (West)" group-title="ENG - Entertainment",ION (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="IONTVPacific.us" tvg-name="ION (West)(Alt)" group-title="ENG - Entertainment",ION (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime (West)" group-title="ENG - Entertainment",Lifetime (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime (West)(Alt)" group-title="ENG - Entertainment",Lifetime (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LifetimeMovieNetworkPacific.us" tvg-name="LMN (West)" group-title="ENG - Movies",LMN (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LifetimeMovieNetworkPacific.us" tvg-name="LMN (West)(Alt)" group-title="ENG - Movies",LMN (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LogoPacific.us" tvg-name="Logo (West)" group-title="ENG - Entertainment",Logo (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="LogoPacific.us" tvg-name="Logo (West)(Alt)" group-title="ENG - Entertainment",Logo (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MagnoliaNetworkPacific.us" tvg-name="Magnolia Network (West)" group-title="ENG - DOC/Lifestyle",Magnolia Network (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MagnoliaNetworkPacific.us" tvg-name="Magnolia Network (West)(Alt)" group-title="ENG - DOC/Lifestyle",Magnolia Network (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MGM+Pacific.us" tvg-name="MGM+ (West)" group-title="ENG - Movies",MGM+ (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MGM+Pacific.us" tvg-name="MGM+ (West)(Alt)" group-title="ENG - Movies",MGM+ (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MoviePlexPacific.us" tvg-name="MoviePlex (West)" group-title="ENG - Movies",MoviePlex (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MoviePlexPacific.us" tvg-name="MoviePlex (West)(Alt)" group-title="ENG - Movies",MoviePlex (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV1 (West)" group-title="ENG - Entertainment",MTV1 (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV1 (West)(Alt)" group-title="ENG - Entertainment",MTV1 (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="MTV2 (West)" group-title="ENG - Entertainment",MTV2 (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="MTV2 (West)(Alt)" group-title="ENG - Entertainment",MTV2 (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="MTV Classic (West)" group-title="Music (All Lang)",MTV Classic (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="MTV Classic (West)(Alt)" group-title="Music (All Lang)",MTV Classic (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="NatGeo (West)" group-title="ENG - DOC/Lifestyle",NatGeo (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="NatGeo (West)(Alt)" group-title="ENG - DOC/Lifestyle",NatGeo (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="Nick Jr (West)" group-title="ENG - Kids & Family",Nick Jr (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="Nick Jr (West)(Alt)" group-title="ENG - Kids & Family",Nick Jr (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-name="Nick Toons (West)" group-title="ENG - Kids & Family",Nick Toons (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickToonsPacific.us" tvg-name="Nick Toons (West)(Alt)" group-title="ENG - Kids & Family",Nick Toons (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickelodeonPacific.us" tvg-name="Nickelodeon (West)" group-title="ENG - Kids & Family",Nickelodeon (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="NickelodeonPacific.us" tvg-name="Nickelodeon (West)(Alt)" group-title="ENG - Kids & Family",Nickelodeon (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="OWN (West)" group-title="ENG - Entertainment",OWN (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="OWN (West)(Alt)" group-title="ENG - Entertainment",OWN (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen (West)" group-title="ENG - DOC/Lifestyle",Oxygen (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen (West)(Alt)" group-title="ENG - DOC/Lifestyle",Oxygen (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network (West)" group-title="ENG - Entertainment",Paramount Network (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network (West)(Alt)" group-title="ENG - Entertainment",Paramount Network (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="POPPacific.us" tvg-name="Pop (West)" group-title="ENG - Entertainment",Pop (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="POPPacific.us" tvg-name="Pop (West)(Alt)" group-title="ENG - Entertainment",Pop (West)(Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex (West)" group-title="ENG - Movies",RetroPlex (West)
+http://example.com/stream
+#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex (West)(Alt)" group-title="ENG - Movies",RetroPlex (West)(Alt)
+http://example.com/stream
