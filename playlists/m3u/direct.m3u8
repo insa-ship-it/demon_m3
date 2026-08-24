@@ -5,27 +5,27 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar (D)" group-title="ENG - Entertainment",Roar (D)
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="ENG - Music Videos",The Country Network (D)
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="Music (All Lang)",The Country Network (D)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest (D)" group-title="ENG - Entertainment",The Nest (D)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="ENG - Music Radio",24/7 Chiptune Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="Music (All Lang)",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="ENG - Music Radio",24/7 Vapor Funk Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="Music (All Lang)",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/0/stream.m3u8?cachebust=9cb8e3
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Boomerang Classic" group-title="ENG - Kids & Family",Boomerang Classic
 https://rumble.com/live-hls-dvr/78ivl8/playlist.m3u8?
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="eel_ch" tvg-logo="https://api.nive.live/thumbnails/28.jpg" group-title="ENG - Kids & Family",eel_ch
 https://mci01.nive.live/29/video1_stream.m3u8?_HLS_msn=2226&_HLS_part=0&_HLS_skip=YES
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="ENG - Music Videos",HotBeats TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="Music (All Lang)",HotBeats TV
 https://rumble.com/live-hls-dvr/79c1p8/playlist.m3u8?
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="lalala tv" tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="ENG - Kids & Family",lalala tv
 https://stream.lalalatvchannel.com/hls/0/stream.m3u8?cachebust=6733a0
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="liveactmin" tvg-logo="https://api.nive.live/thumbnails/13.jpg" group-title="ENG - Kids & Family",liveactmin
 https://mci01.nive.live/28/video1_stream.m3u8?_HLS_msn=2233&_HLS_part=1&_HLS_skip=YES
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="ENG - Music Radio",Lofi Hip-Hop Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="Music (All Lang)",Lofi Hip-Hop Radio
 https://rumble.com/live-hls/1essrt/playlist.m3u8?
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="ENG - Music Radio",Lofi Synthwave Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="Music (All Lang)",Lofi Synthwave Radio
 https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="RetroStrange TV" tvg-logo="https://live.retrostrange.com/logo" group-title="ENG - Kids & Family",RetroStrange TV
 https://live.retrostrange.com/hls/0/stream.m3u8?cachebust=fc39b1
