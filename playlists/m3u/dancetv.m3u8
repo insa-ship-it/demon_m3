@@ -11,13 +11,11 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal" group-title="Music (All Lang)",DanceTV: Minimal
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal (Alt)" group-title="New Group",DanceTV: Minimal (Alt)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Minimal (Alt)" group-title="Music (All Lang)",DanceTV: Minimal (Alt)
 https://mbit1.worldcast.tv:9443/dancetelevisionsix/multibit.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM" group-title="Music (All Lang)",DanceTV: Mainstream EDM
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM (Alt)" group-title="New Group",DanceTV: Mainstream EDM (Alt)
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Mainstream EDM (Alt)" group-title="Music (All Lang)",DanceTV: Mainstream EDM (Alt)
 https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Chill AF Downtempo" group-title="Music (All Lang)",DanceTV: Chill AF Downtempo
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DanceTV: Melodic Techno" group-title="Music (All Lang)",DanceTV: Melodic Techno
-https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
