@@ -107,8 +107,6 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172935&extension=ts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=980707&extension=ts&play_token=e4FLx6a2Nx
 #EXTINF:-1 tvg-id="ABCKRDO.us" tvg-name="CO | Colorado Springs | ABC KRDO (Alt)" group-title="Z - Offline Streams",CO | Colorado Springs | ABC KRDO (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH" group-title="Z - Offline Streams",CO | Denver | ABC KMGH
-
 #EXTINF:-1 tvg-id="ABCKMGH.us" tvg-name="CO | Denver | ABC KMGH (Alt)" group-title="Z - Offline Streams",CO | Denver | ABC KMGH (Alt)
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=172937&extension=ts&play_token=0ZGW61ShHv
 #EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT" group-title="Z - Offline Streams",CO | Grand Junction | ABC KJCT
@@ -313,8 +311,8 @@ http://example.com/stream
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/612328
 #EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | Lafayette | ABC KATC (Alt)" group-title="Z - Offline Streams",LA | Lafayette | ABC KATC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP" group-title="Z - Offline Streams",LA | Lake Charles | ABC KVHP
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1938603&extension=ts&play_token=TU1I9AZzJX
+#EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP" group-title="ENG - Local ABC",LA | Lake Charles | ABC KVHP
+http://12.186.20.98:5004/auto/v29.2
 #EXTINF:-1 tvg-id="ABCKVHPDT2.us" tvg-name="LA | Lake Charles | ABC KVHP (Alt)" group-title="Z - Offline Streams",LA | Lake Charles | ABC KVHP (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCKNOEDT2.us" tvg-name="LA | Monroe | ABC KNOE" group-title="Z - Offline Streams",LA | Monroe | ABC KNOE
@@ -629,8 +627,8 @@ http://example.com/stream
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72055.m3u8
 #EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="PA | Philadelphia | ABC WPVI (Alt)" group-title="Z - Offline Streams",PA | Philadelphia | ABC WPVI (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="Z - Offline Streams",PA | Pittsburgh | ABC WTAE
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2676
+#EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE" group-title="ENG - Local ABC",PA | Pittsburgh | ABC WTAE
+http://164.52.224.212:5004/auto/v4.1
 #EXTINF:-1 tvg-id="ABCWTAE.us" tvg-name="PA | Pittsburgh | ABC WTAE (Alt)" group-title="Z - Offline Streams",PA | Pittsburgh | ABC WTAE (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR" group-title="Z - Offline Streams",RI | Providence | ABC WJAR
