@@ -1,1 +1,131 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="FOXKTBY.us" tvg-name="AK | Anchorage | FOX KTBY" group-title="Z - Needs Links",AK | Anchorage | FOX KTBY
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTBY.us" tvg-name="AK | Anchorage | FOX KTBY (Alt)" group-title="Z - Needs Links",AK | Anchorage | FOX KTBY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKATNDT2.us" tvg-name="AK | Fairbanks | FOX KATN" group-title="Z - Needs Links",AK | Fairbanks | FOX KATN
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKATNDT2.us" tvg-name="AK | Fairbanks | FOX KATN (Alt)" group-title="Z - Offline Streams",AK | Fairbanks | FOX KATN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="AK | Juneau | FOX KJUD" group-title="Z - Needs EPG & Link",AK | Juneau | FOX KJUD
+http://example.com/stream
+#EXTINF:-1 tvg-name="AK | Juneau | FOX KJUD (Alt)" group-title="Z - Needs EPG & Link",AK | Juneau | FOX KJUD (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC" group-title="ENG - Local FOX",AL | Birmingham | FOX WBRC
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71743.m3u8
+#EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC (Alt)" group-title="Z - Needs Links",AL | Birmingham | FOX WBRC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWDFX.us" tvg-name="AL | Dothan | FOX WDFX" group-title="Z - Offline Streams",AL | Dothan | FOX WDFX
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWDFX.us" tvg-name="AL | Dothan | FOX WDFX (Alt)" group-title="Z - Offline Streams",AL | Dothan | FOX WDFX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWZDX.us" tvg-name="AL | Huntsville | FOX WZDX" group-title="Z - Offline Streams",AL | Huntsville | FOX WZDX
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWZDX.us" tvg-name="AL | Huntsville | FOX WZDX (Alt)" group-title="Z - Offline Streams",AL | Huntsville | FOX WZDX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWALA.us" tvg-name="AL | Mobile | FOX WALA" group-title="Z - Offline Streams",AL | Mobile | FOX WALA
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWALA.us" tvg-name="AL | Mobile | FOX WALA (Alt)" group-title="Z - Offline Streams",AL | Mobile | FOX WALA (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWCOV.us" tvg-name="AL | Montgomery | FOX WCOV" group-title="Z - Offline Streams",AL | Montgomery | FOX WCOV
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWCOV.us" tvg-name="AL | Montgomery | FOX WCOV (Alt)" group-title="Z - Offline Streams",AL | Montgomery | FOX WCOV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="AR | Fayetteville | FOX KNWA" group-title="Z - Needs EPG & Link",AR | Fayetteville | FOX KNWA
+http://example.com/stream
+#EXTINF:-1 tvg-name="AR | Fayetteville | FOX KNWA (Alt)" group-title="Z - Needs EPG & Link",AR | Fayetteville | FOX KNWA (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FoxKFTA.us" tvg-name="AR | Ft Smith | FOX KFTA" group-title="Z - Needs EPG & Link",AR | Ft Smith | FOX KFTA
+http://example.com/stream
+#EXTINF:-1 tvg-id="FoxKFTA.us" tvg-name="AR | Ft Smith | FOX KFTA (Alt)" group-title="Z - Needs EPG & Link",AR | Ft Smith | FOX KFTA (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKJNB.us" tvg-name="AR | Jonesboro | FOX KJNB/KJNE" group-title="Z - Needs Links",AR | Jonesboro | FOX KJNB/KJNE
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKJNB.us" tvg-name="AR | Jonesboro | FOX KJNB/KJNE (Alt)" group-title="Z - Offline Streams",AR | Jonesboro | FOX KJNB/KJNE (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKLRT.us" tvg-name="AR | Little Rock | FOX KLRT" group-title="Z - Needs EPG & Link",AR | Little Rock | FOX KLRT
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKSAZ.us" tvg-name="AZ | Phoenix | FOX KSAZ" group-title="Z - Needs EPG & Link",AZ | Phoenix | FOX KSAZ
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKSAZ.us" tvg-name="AZ | Phoenix | FOX KSAZ (Alt)" group-title="Z - Needs EPG & Link",AZ | Phoenix | FOX KSAZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKMSB.us" tvg-name="AZ | Tucson | FOX KMSB" group-title="Z - Needs EPG & Link",AZ | Tucson | FOX KMSB
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKMSB.us" tvg-name="AZ | Tucson | FOX KMSB (Alt)" group-title="Z - Needs EPG & Link",AZ | Tucson | FOX KMSB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKECY.us" tvg-name="AZ | Yuma | FOX KECY" group-title="Z - Needs EPG & Link",AZ | Yuma | FOX KECY
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKECY.us" tvg-name="AZ | Yuma | FOX KECY (Alt)" group-title="Z - Needs EPG & Link",AZ | Yuma | FOX KECY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX/KBAK" group-title="ENG - Local FOX",CA | Bakersfield | FOX KBFX/KBAK
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71679.m3u8
+#EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX/KBAK (Alt)" group-title="Z - Needs Links",CA | Bakersfield | FOX KBFX/KBAK (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKRCRDT2.us" tvg-name="CA | Chico-Redding | FOX KRCR" group-title="Z - Needs Links",CA | Chico-Redding | FOX KRCR
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKRCRDT2.us" tvg-name="CA | Chico-Redding | FOX KRCR (Alt)" group-title="Z - Needs Links",CA | Chico-Redding | FOX KRCR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKAEFDT2.us" tvg-name="CA | Eureka | FOX KAEF" group-title="Z - Needs Links",CA | Eureka | FOX KAEF
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKAEFDT2.us" tvg-name="CA | Eureka | FOX KAEF (Alt)" group-title="Z - Needs Links",CA | Eureka | FOX KAEF (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH" group-title="ENG - Local FOX",CA | Fresno | FOX KMPH
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71673.m3u8
+#EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH (Alt)" group-title="Z - Needs Links",CA | Fresno | FOX KMPH (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="CA | Los Angeles | FOX KTTV" group-title="Z - Needs Links",CA | Los Angeles | FOX KTTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="CA | Los Angeles | FOX KTTV (Alt)" group-title="Z - Needs Links",CA | Los Angeles | FOX KTTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKIONDT2.us" tvg-name="CA | Monterey | FOX KION" group-title="Z - Needs Links",CA | Monterey | FOX KION
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKIONDT2.us" tvg-name="CA | Monterey | FOX KION (Alt)" group-title="Z - Needs Links",CA | Monterey | FOX KION (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKDFXCD2.us" tvg-name="CA | Palm Springs | FOX KDFX/KESQ" group-title="Z - Needs Links",CA | Palm Springs | FOX KDFX/KESQ
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKDFXCD2.us" tvg-name="CA | Palm Springs | FOX KDFX/KESQ (Alt)" group-title="Z - Needs Links",CA | Palm Springs | FOX KDFX/KESQ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTXL.us" tvg-name="CA | Sacramento | FOX KTXL" group-title="Z - Needs Links",CA | Sacramento | FOX KTXL
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTXL.us" tvg-name="CA | Sacramento | FOX KTXL (Alt)" group-title="Z - Needs Links",CA | Sacramento | FOX KTXL (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CA | San Diego | FOX KSWB" group-title="Z - Needs EPG & Link",CA | San Diego | FOX KSWB
+http://example.com/stream
+#EXTINF:-1 tvg-name="CA | San Diego | FOX KSWB (Alt)" group-title="Z - Needs EPG & Link",CA | San Diego | FOX KSWB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTVU.us" tvg-name="CA | San Francisco | FOX KTVU" group-title="Z - Needs Links",CA | San Francisco | FOX KTVU
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKTVU.us" tvg-name="CA | San Francisco | FOX KTVU (Alt)" group-title="Z - Needs Links",CA | San Francisco | FOX KTVU (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKKFX.us" tvg-name="CA | S.L.O. | FOX KKFX/KCOY" group-title="ENG - Local FOX",CA | S.L.O. | FOX KKFX/KCOY
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71752.m3u8
+#EXTINF:-1 tvg-id="FOXKKFX.us" tvg-name="CA | S.L.O. | FOX KKFX/KCOY (Alt)" group-title="Z - Needs Links",CA | S.L.O. | FOX KKFX/KCOY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKXRM.us" tvg-name="CO | Colorado Springs | FOX KXRM" group-title="Z - Needs Links",CO | Colorado Springs | FOX KXRM
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKXRM.us" tvg-name="CO | Colorado Springs | FOX KXRM (Alt)" group-title="Z - Needs Links",CO | Colorado Springs | FOX KXRM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKDVR.us" tvg-name="CO | Denver | FOX KDVR" group-title="Z - Needs Links",CO | Denver | FOX KDVR
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKDVR.us" tvg-name="CO | Denver | FOX KDVR (Alt)" group-title="Z - Needs Links",CO | Denver | FOX KDVR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CO | Durango | FOX KREZ" group-title="Z - Needs EPG & Link",CO | Durango | FOX KREZ
+http://example.com/stream
+#EXTINF:-1 tvg-name="CO | Durango | FOX KREZ (Alt)" group-title="Z - Needs EPG & Link",CO | Durango | FOX KREZ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="CO | Ft Collins | FOX KFCT" group-title="Z - Needs EPG & Link",CO | Ft Collins | FOX KFCT
+http://example.com/stream
+#EXTINF:-1 tvg-name="CO | Ft Collins | FOX KFCT (Alt)" group-title="Z - Needs EPG & Link",CO | Ft Collins | FOX KFCT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKFQX.us" tvg-name="CO | Grand Junction | FOX KFQX" group-title="Z - Needs Links",CO | Grand Junction | FOX KFQX
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKFQX.us" tvg-name="CO | Grand Junction | FOX KFQX (Alt)" group-title="Z - Needs Links",CO | Grand Junction | FOX KFQX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC" group-title="ENG - Local FOX",CT | Hartford | FOX WTIC
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71795.m3u8
+#EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC (Alt)" group-title="Z - Needs Links",CT | Hartford | FOX WTIC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="DC | Washington | FOX WTTG" group-title="Z - Needs Links",DC | Washington | FOX WTTG
+http://example.com/stream
+#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="DC | Washington | FOX WTTG (Alt)" group-title="Z - Needs Links",DC | Washington | FOX WTTG (Alt)
+http://example.com/stream
