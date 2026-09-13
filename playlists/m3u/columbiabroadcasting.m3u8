@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES" group-title="ENG - Local CBS",AK | Anchorage | CBS KYES
+#EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES" group-title="Z - Offline Streams",AK | Anchorage | CBS KYES
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38318
 #EXTINF:-1 tvg-id="CBSKYES.us" tvg-name="AK | Anchorage | CBS KYES (Alt)" group-title="Z - Offline Streams",AK | Anchorage | CBS KYES (Alt)
 http://example.com/stream
@@ -116,9 +116,9 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72017.m3u8
 #EXTINF:-1 tvg-id="CBSKREX.us" tvg-name="CO | Grand Junction | CBS KREX (Alt)" group-title="Z - Offline Streams",CO | Grand Junction | CBS KREX (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CT | Hartford | CBS WFSB" group-title="ENG - Local CBS",CT | Hartford | CBS WFSB
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2641
-#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CT | Hartford | CBS WFSB (Alt)" group-title="ENG - Local CBS",CT | Hartford | CBS WFSB (Alt)
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71907.m3u8
+#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CT | Hartford | CBS WFSB (Alt)" group-title="Z - Offline Streams",CT | Hartford | CBS WFSB (Alt)
+
 #EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA" group-title="ENG - Local CBS",DC | Washington | CBS WUSA
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71904.m3u8
 #EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA (Alt)" group-title="Z - Offline Streams",DC | Washington | CBS WUSA (Alt)
@@ -159,18 +159,18 @@ http://example.com/stream
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71847.m3u8
 #EXTINF:-1 tvg-id="CBSWPEC.us" tvg-name="FL | WPB | CBS WPEC (Alt)" group-title="Z - Offline Streams",FL | WPB | CBS WPEC (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWSWG.us" tvg-name="GA | Albany | CBS WSWG" group-title="ENG - Local CBS",GA | Albany | CBS WSWG
+#EXTINF:-1 tvg-id="CBSWSWG.us" tvg-name="GA | Albany | CBS WSWG" group-title="Z - Offline Streams",GA | Albany | CBS WSWG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/690940
 #EXTINF:-1 tvg-id="CBSWSWG.us" tvg-name="GA | Albany | CBS WSWG (Alt)" group-title="Z - Offline Streams",GA | Albany | CBS WSWG (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWUPA.us" tvg-name="GA | Atlanta | CBS WUPA" group-title="ENG - Local CBS",GA | Atlanta | CBS WUPA
+#EXTINF:-1 tvg-id="CBSWUPA.us" tvg-name="GA | Atlanta | CBS WUPA" group-title="Z - Offline Streams",GA | Atlanta | CBS WUPA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89516
 #EXTINF:-1 tvg-id="CBSWUPA.us" tvg-name="GA | Atlanta | CBS WUPA (Alt)" group-title="Z - Offline Streams",GA | Atlanta | CBS WUPA (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWRDW.us" tvg-name="GA | Augusta | CBS WRDW" group-title="ENG - Local CBS",GA | Augusta | CBS WRDW
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89519
-#EXTINF:-1 tvg-id="CBSWRDW.us" tvg-name="GA | Augusta | CBS WRDW (Alt)" group-title="ENG - Local CBS",GA | Augusta | CBS WRDW (Alt)
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71922.m3u8
+#EXTINF:-1 tvg-id="CBSWRDW.us" tvg-name="GA | Augusta | CBS WRDW (Alt)" group-title="Z - Offline Streams",GA | Augusta | CBS WRDW (Alt)
+
 #EXTINF:-1 tvg-id="CBSWRBL.us" tvg-name="GA | Columbus | CBS WRBL" group-title="ENG - Local CBS",GA | Columbus | CBS WRBL
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71991.m3u8
 #EXTINF:-1 tvg-id="CBSWRBL.us" tvg-name="GA | Columbus | CBS WRBL (Alt)" group-title="Z - Offline Streams",GA | Columbus | CBS WRBL (Alt)
@@ -180,9 +180,9 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71964.m3u8
 #EXTINF:-1 tvg-id="CBSWMAZ.us" tvg-name="GA | Macon | CBS WMAZ (Alt)" group-title="Z - Offline Streams",GA | Macon | CBS WMAZ (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWTOC.us" tvg-name="GA | Savannah | CBS WTOC" group-title="ENG - Local CBS",GA | Savannah | CBS WTOC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89527
-#EXTINF:-1 tvg-id="CBSWTOC.us" tvg-name="GA | Savannah | CBS WTOC (Alt)" group-title="ENG - Local CBS",GA | Savannah | CBS WTOC (Alt)
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71906.m3u8
+#EXTINF:-1 tvg-id="CBSWTOC.us" tvg-name="GA | Savannah | CBS WTOC (Alt)" group-title="Z - Offline Streams",GA | Savannah | CBS WTOC (Alt)
+
 #EXTINF:-1 tvg-id="CBSKGMB.us" tvg-name="HI | Honolulu | CBS KGMB" group-title="ENG - Local CBS",HI | Honolulu | CBS KGMB
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71940.m3u8
 #EXTINF:-1 tvg-id="CBSKGMB.us" tvg-name="HI | Honolulu | CBS KGMB (Alt)" group-title="Z - Offline Streams",HI | Honolulu | CBS KGMB (Alt)
@@ -192,9 +192,9 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71885.m3u8
 #EXTINF:-1 tvg-id="CBSKGAN.us" tvg-name="IA | Cedar Rapids | CBS KGAN (Alt)" group-title="Z - Offline Streams",IA | Cedar Rapids | CBS KGAN (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWHBF.us" tvg-name="IA | Davenport | CBS WHBF" group-title="ENG - Local CBS",IA | Davenport | CBS WHBF
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89535
-#EXTINF:-1 tvg-id="CBSWHBF.us" tvg-name="IA | Davenport | CBS WHBF (Alt)" group-title="ENG - Local CBS",IA | Davenport | CBS WHBF (Alt)
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71880.m3u8
+#EXTINF:-1 tvg-id="CBSWHBF.us" tvg-name="IA | Davenport | CBS WHBF (Alt)" group-title="Z - Offline Streams",IA | Davenport | CBS WHBF (Alt)
+
 #EXTINF:-1 tvg-id="CBSKCCI.us" tvg-name="IA | Des Moines | CBS KCCI" group-title="ENG - Local CBS",IA | Des Moines | CBS KCCI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71943.m3u8
 #EXTINF:-1 tvg-id="CBSKCCI.us" tvg-name="IA | Des Moines | CBS KCCI (Alt)" group-title="Z - Offline Streams",IA | Des Moines | CBS KCCI (Alt)
@@ -354,4 +354,212 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWBOC.us" tvg-name="MD | Salisbury | CBS WBOC" group-title="Z - Offline Streams",MD | Salisbury | CBS WBOC
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWBOC.us" tvg-name="MD | Salisbury | CBS WBOC (Alt)" group-title="Z - Offline Streams",MD | Salisbury | CBS WBOC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWABI.us" tvg-name="ME | Bangor | CBS WABI" group-title="Z - Needs Links",ME | Bangor | CBS WABI
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWABI.us" tvg-name="ME | Bangor | CBS WABI (Alt)" group-title="Z - Needs Links",ME | Bangor | CBS WABI (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWGME.us" tvg-name="ME | Portland | CBS WGME" group-title="Z - Needs Links",ME | Portland | CBS WGME
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWGME.us" tvg-name="ME | Portland | CBS WGME (Alt)" group-title="Z - Needs Links",ME | Portland | CBS WGME (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWAGM.us" tvg-name="ME | Presque Isle | CBS WAGM" group-title="Z - Needs Links",ME | Presque Isle | CBS WAGM
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWAGM.us" tvg-name="ME | Presque Isle | CBS WAGM (Alt)" group-title="Z - Needs Links",ME | Presque Isle | CBS WAGM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWBKB.us" tvg-name="MI | Alpena | CBS WBKB" group-title="Z - Needs Links",MI | Alpena | CBS WBKB
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWBKB.us" tvg-name="MI | Alpena | CBS WBKB (Alt)" group-title="Z - Needs Links",MI | Alpena | CBS WBKB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWJ.us" tvg-name="MI | Detroit | CBS WWJ" group-title="Z - Needs Links",MI | Detroit | CBS WWJ
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWJ.us" tvg-name="MI | Detroit | CBS WWJ (Alt)" group-title="Z - Needs Links",MI | Detroit | CBS WWJ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNEM.us" tvg-name="MI | Flint | CBS WNEM" group-title="Z - Needs Links",MI | Flint | CBS WNEM
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNEM.us" tvg-name="MI | Flint | CBS WNEM (Alt)" group-title="Z - Needs Links",MI | Flint | CBS WNEM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWMT.us" tvg-name="MI | Grand Rapids | CBS WWMT" group-title="Z - Needs Links",MI | Grand Rapids | CBS WWMT
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWMT.us" tvg-name="MI | Grand Rapids | CBS WWMT (Alt)" group-title="Z - Needs Links",MI | Grand Rapids | CBS WWMT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWLNS.us" tvg-name="MI | Lansing | CBS WLNS" group-title="Z - Needs Links",MI | Lansing | CBS WLNS
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWLNS.us" tvg-name="MI | Lansing | CBS WLNS (Alt)" group-title="Z - Needs Links",MI | Lansing | CBS WLNS (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWZMQDT2.us" tvg-name="MI | Marquette | CBS WZMQ" group-title="Z - Needs Links",MI | Marquette | CBS WZMQ
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWZMQDT2.us" tvg-name="MI | Marquette | CBS WZMQ (Alt)" group-title="Z - Needs Links",MI | Marquette | CBS WZMQ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MI | SSM | CBS WWUP" group-title="Z - Needs Links",MI | SSM | CBS WWUP
+http://example.com/stream
+#EXTINF:-1 tvg-name="MI | SSM | CBS WWUP (Alt)" group-title="Z - Needs Links",MI | SSM | CBS WWUP (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWTV.us" tvg-name="MI | Traverse City | CBS WWTV" group-title="Z - Needs Links",MI | Traverse City | CBS WWTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWTV.us" tvg-name="MI | Traverse City | CBS WWTV (Alt)" group-title="Z - Needs Links",MI | Traverse City | CBS WWTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKBJRDT2.us" tvg-name="MN | Duluth | CBS KBJR" group-title="Z - Needs Links",MN | Duluth | CBS KBJR
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKBJRDT2.us" tvg-name="MN | Duluth | CBS KBJR (Alt)" group-title="Z - Needs Links",MN | Duluth | CBS KBJR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MN | Hibbing | CBS KRII" group-title="Z - Needs EPG & Link",MN | Hibbing | CBS KRII
+http://example.com/stream
+#EXTINF:-1 tvg-name="MN | Hibbing | CBS KRII (Alt)" group-title="Z - Needs EPG & Link",MN | Hibbing | CBS KRII (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKEYC.us" tvg-name="MN | Mankato | CBS KEYC" group-title="Z - Needs Links",MN | Mankato | CBS KEYC
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKEYC.us" tvg-name="MN | Mankato | CBS KEYC (Alt)" group-title="Z - Needs Links",MN | Mankato | CBS KEYC (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWCCO.us" tvg-name="MN | Minneapolis | CBS WCCO" group-title="Z - Needs Links",MN | Minneapolis | CBS WCCO
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWCCO.us" tvg-name="MN | Minneapolis | CBS WCCO (Alt)" group-title="Z - Needs Links",MN | Minneapolis | CBS WCCO (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKIMT.us" tvg-name="MN | Rochester | CBS KIMT" group-title="Z - Needs Links",MN | Rochester | CBS KIMT
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKIMT.us" tvg-name="MN | Rochester | CBS KIMT (Alt)" group-title="Z - Needs Links",MN | Rochester | CBS KIMT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MN | Walker | CBS KCCW" group-title="Z - Needs EPG & Link",MN | Walker | CBS KCCW
+http://example.com/stream
+#EXTINF:-1 tvg-name="MN | Walker | CBS KCCW (Alt)" group-title="Z - Needs EPG & Link",MN | Walker | CBS KCCW (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKRCG.us" tvg-name="MO | Jefferson City | CBS KRCG" group-title="Z - Needs Links",MO | Jefferson City | CBS KRCG
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKRCG.us" tvg-name="MO | Jefferson City | CBS KRCG (Alt)" group-title="Z - Needs Links",MO | Jefferson City | CBS KRCG (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOAM.us" tvg-name="MO | Joplin | CBS KOAM" group-title="Z - Needs Links",MO | Joplin | CBS KOAM
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOAM.us" tvg-name="MO | Joplin | CBS KOAM (Alt)" group-title="Z - Needs Links",MO | Joplin | CBS KOAM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKCTV.us" tvg-name="MO | Kansas City | CBS KCTV" group-title="Z - Needs Links",MO | Kansas City | CBS KCTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKCTV.us" tvg-name="MO | Kansas City | CBS KCTV (Alt)" group-title="Z - Needs Links",MO | Kansas City | CBS KCTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOLR.us" tvg-name="MO | Springfield | CBS KOLR" group-title="Z - Needs Links",MO | Springfield | CBS KOLR
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOLR.us" tvg-name="MO | Springfield | CBS KOLR (Alt)" group-title="Z - Needs Links",MO | Springfield | CBS KOLR (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKCJO.us" tvg-name="MO | St Joseph | CBS KCJO" group-title="Z - Needs Links",MO | St Joseph | CBS KCJO
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKCJO.us" tvg-name="MO | St Joseph | CBS KCJO (Alt)" group-title="Z - Needs Links",MO | St Joseph | CBS KCJO (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="MO | St Louis | CBS KMOV" group-title="Z - Needs Links",MO | St Louis | CBS KMOV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="MO | St Louis | CBS KMOV (Alt)" group-title="Z - Needs Links",MO | St Louis | CBS KMOV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWLOXDT2.us" tvg-name="MS | Biloxi | CBS WLOX" group-title="Z - Needs Links",MS | Biloxi | CBS WLOX
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWLOXDT2.us" tvg-name="MS | Biloxi | CBS WLOX (Alt)" group-title="Z - Needs Links",MS | Biloxi | CBS WLOX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MS | Greenwood | CBS WXVT" group-title="Z - Needs EPG & Link",MS | Greenwood | CBS WXVT
+http://example.com/stream
+#EXTINF:-1 tvg-name="MS | Greenwood | CBS WXVT (Alt)" group-title="Z - Needs EPG & Link",MS | Greenwood | CBS WXVT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWHLT.us" tvg-name="MS | Hattiesburg | CBS WHLT" group-title="Z - Needs Links",MS | Hattiesburg | CBS WHLT
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWHLT.us" tvg-name="MS | Hattiesburg | CBS WHLT (Alt)" group-title="Z - Needs Links",MS | Hattiesburg | CBS WHLT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MS | Jackson | CBS WAPT" group-title="Z - Needs EPG & Link",MS | Jackson | CBS WAPT
+http://example.com/stream
+#EXTINF:-1 tvg-name="MS | Jackson | CBS WAPT (Alt)" group-title="Z - Needs EPG & Link",MS | Jackson | CBS WAPT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWMDN.us" tvg-name="MS | Meridian | CBS WMDN" group-title="Z - Needs Links",MS | Meridian | CBS WMDN
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWMDN.us" tvg-name="MS | Meridian | CBS WMDN (Alt)" group-title="Z - Needs Links",MS | Meridian | CBS WMDN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWCBI.us" tvg-name="MS | Tupelo | CBS WCBI" group-title="Z - Needs Links",MS | Tupelo | CBS WCBI
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWCBI.us" tvg-name="MS | Tupelo | CBS WCBI (Alt)" group-title="Z - Needs Links",MS | Tupelo | CBS WCBI (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKTVQ.us" tvg-name="MT | Billings | CBS KTVQ" group-title="Z - Needs Links",MT | Billings | CBS KTVQ
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKTVQ.us" tvg-name="MT | Billings | CBS KTVQ (Alt)" group-title="Z - Needs Links",MT | Billings | CBS KTVQ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MT | Bozeman | CBS KBZK" group-title="Z - Needs EPG & Link",MT | Bozeman | CBS KBZK
+http://example.com/stream
+#EXTINF:-1 tvg-name="MT | Bozeman | CBS KBZK (Alt)" group-title="Z - Needs EPG & Link",MT | Bozeman | CBS KBZK (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXLF.us" tvg-name="MT | Butte | CBS KXLF" group-title="Z - Needs Links",MT | Butte | CBS KXLF
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXLF.us" tvg-name="MT | Butte | CBS KXLF (Alt)" group-title="Z - Needs Links",MT | Butte | CBS KXLF (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKRTV.us" tvg-name="MT | Great Falls | CBS KRTV" group-title="Z - Needs Links",MT | Great Falls | CBS KRTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKRTV.us" tvg-name="MT | Great Falls | CBS KRTV (Alt)" group-title="Z - Needs Links",MT | Great Falls | CBS KRTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXLH.us" tvg-name="MT | Helena | CBS KXLH" group-title="Z - Needs Links",MT | Helena | CBS KXLH
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXLH.us" tvg-name="MT | Helena | CBS KXLH (Alt)" group-title="Z - Needs Links",MT | Helena | CBS KXLH (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="MT | Kalispell | CBS KAJJ" group-title="Z - Needs EPG & Link",MT | Kalispell | CBS KAJJ
+http://example.com/stream
+#EXTINF:-1 tvg-name="MT | Kalispell | CBS KAJJ (Alt)" group-title="Z - Needs EPG & Link",MT | Kalispell | CBS KAJJ (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKPAX.us" tvg-name="MT | Missoula | CBS KPAX" group-title="Z - Needs Links",MT | Missoula | CBS KPAX
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKPAX.us" tvg-name="MT | Missoula | CBS KPAX (Alt)" group-title="Z - Needs Links",MT | Missoula | CBS KPAX (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWBTV.us" tvg-name="NC | Charlotte | CBS WBTV" group-title="Z - Needs Links",NC | Charlotte | CBS WBTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWBTV.us" tvg-name="NC | Charlotte | CBS WBTV (Alt)" group-title="Z - Needs Links",NC | Charlotte | CBS WBTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWFMY.us" tvg-name="NC | Greensboro | CBS WFMY" group-title="Z - Needs Links",NC | Greensboro | CBS WFMY
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWFMY.us" tvg-name="NC | Greensboro | CBS WFMY (Alt)" group-title="Z - Needs Links",NC | Greensboro | CBS WFMY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNCT.us" tvg-name="NC | Greenville | CBS WNCT" group-title="Z - Needs Links",NC | Greenville | CBS WNCT
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNCT.us" tvg-name="NC | Greenville | CBS WNCT (Alt)" group-title="Z - Needs Links",NC | Greenville | CBS WNCT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNCN.us" tvg-name="NC | Raleigh | CBS WNCN" group-title="Z - Needs Links",NC | Raleigh | CBS WNCN
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWNCN.us" tvg-name="NC | Raleigh | CBS WNCN (Alt)" group-title="Z - Needs Links",NC | Raleigh | CBS WNCN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWAYDT2.us" tvg-name="NC | Wilmington | CBS WWAY" group-title="Z - Needs Links",NC | Wilmington | CBS WWAY
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSWWAYDT2.us" tvg-name="NC | Wilmington | CBS WWAY (Alt)" group-title="Z - Needs Links",NC | Wilmington | CBS WWAY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKBMYDT2.us" tvg-name="ND | Bismarck-Minot | CBS KBMY" group-title="Z - Needs Links",ND | Bismarck-Minot | CBS KBMY
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKBMYDT2.us" tvg-name="ND | Bismarck-Minot | CBS KBMY (Alt)" group-title="Z - Needs Links",ND | Bismarck-Minot | CBS KBMY (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXJB.us" tvg-name="ND | Fargo | CBS KXJB" group-title="Z - Needs Links",ND | Fargo | CBS KXJB
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKXJB.us" tvg-name="ND | Fargo | CBS KXJB (Alt)" group-title="Z - Needs Links",ND | Fargo | CBS KXJB (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | Grand Island | CBS KGIN" group-title="Z - Needs EPG & Link",NE | Grand Island | CBS KGIN
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | Grand Island | CBS KGIN (Alt)" group-title="Z - Needs EPG & Link",NE | Grand Island | CBS KGIN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOLN.us" tvg-name="NE | Lincoln | CBS KOLN" group-title="Z - Needs Links",NE | Lincoln | CBS KOLN
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOLN.us" tvg-name="NE | Lincoln | CBS KOLN (Alt)" group-title="Z - Needs Links",NE | Lincoln | CBS KOLN (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | North Platte | CBS KNPL" group-title="Z - Needs EPG & Link",NE | North Platte | CBS KNPL
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | North Platte | CBS KNPL (Alt)" group-title="Z - Needs EPG & Link",NE | North Platte | CBS KNPL (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKMTV.us" tvg-name="NE | Omaha | CBS KMTV" group-title="Z - Needs Links",NE | Omaha | CBS KMTV
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKMTV.us" tvg-name="NE | Omaha | CBS KMTV (Alt)" group-title="Z - Needs Links",NE | Omaha | CBS KMTV (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | Scottsbluff | CBS KSTF" group-title="Z - Needs EPG & Link",NE | Scottsbluff | CBS KSTF
+http://example.com/stream
+#EXTINF:-1 tvg-name="NE | Scottsbluff | CBS KSTF (Alt)" group-title="Z - Needs EPG & Link",NE | Scottsbluff | CBS KSTF (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOATDT4.us" tvg-name="NM | Albuquerque | CBS KOAT" group-title="Z - Needs Links",NM | Albuquerque | CBS KOAT
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKOATDT4.us" tvg-name="NM | Albuquerque | CBS KOAT (Alt)" group-title="Z - Needs Links",NM | Albuquerque | CBS KOAT (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-name="NM | Roswell | CBS KBIM" group-title="Z - Needs EPG & Link",NM | Roswell | CBS KBIM
+http://example.com/stream
+#EXTINF:-1 tvg-name="NM | Roswell | CBS KBIM (Alt)" group-title="Z - Needs EPG & Link",NM | Roswell | CBS KBIM (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKLAS.us" tvg-name="NV | Las Vegas | CBS KLAS" group-title="Z - Needs Links",NV | Las Vegas | CBS KLAS
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKLAS.us" tvg-name="NV | Las Vegas | CBS KLAS (Alt)" group-title="Z - Needs Links",NV | Las Vegas | CBS KLAS (Alt)
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKTVN.us" tvg-name="NV | Reno | CBS KTVN" group-title="Z - Needs Links",NV | Reno | CBS KTVN
+http://example.com/stream
+#EXTINF:-1 tvg-id="CBSKTVN.us" tvg-name="NV | Reno | CBS KTVN (Alt)" group-title="Z - Needs Links",NV | Reno | CBS KTVN (Alt)
 http://example.com/stream
