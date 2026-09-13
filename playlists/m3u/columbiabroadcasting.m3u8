@@ -15,7 +15,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="KUBD-DT.us_locals1" tvg-name="AK | Sitka | CBS KUBD (Alt)" group-title="Z - Offline Streams",AK | Sitka | CBS KUBD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WVTM" group-title="ENG - Local CBS",AL | Birmingham | CBS WVTM
+#EXTINF:-1 tvg-id="CBSWVTMDT4.us" tvg-name="AL | Birmingham | CBS WVTM" group-title="ENG - Local CBS",AL | Birmingham | CBS WVTM
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71888.m3u8
 #EXTINF:-1 tvg-id="CBSWIAT.us" tvg-name="AL | Birmingham | CBS WVTM (Alt)" group-title="Z - Offline Streams",AL | Birmingham | CBS WVTM (Alt)
 http://example.com/stream
@@ -117,8 +117,6 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72017.m3u8
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CT | Hartford | CBS WFSB" group-title="ENG - Local CBS",CT | Hartford | CBS WFSB
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71907.m3u8
-#EXTINF:-1 tvg-id="CBSWFSB.us" tvg-name="CT | Hartford | CBS WFSB (Alt)" group-title="Z - Offline Streams",CT | Hartford | CBS WFSB (Alt)
-
 #EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA" group-title="ENG - Local CBS",DC | Washington | CBS WUSA
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71904.m3u8
 #EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA (Alt)" group-title="Z - Offline Streams",DC | Washington | CBS WUSA (Alt)
@@ -169,8 +167,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89516
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWRDW.us" tvg-name="GA | Augusta | CBS WRDW" group-title="ENG - Local CBS",GA | Augusta | CBS WRDW
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71922.m3u8
-#EXTINF:-1 tvg-id="CBSWRDW.us" tvg-name="GA | Augusta | CBS WRDW (Alt)" group-title="Z - Offline Streams",GA | Augusta | CBS WRDW (Alt)
-
 #EXTINF:-1 tvg-id="CBSWRBL.us" tvg-name="GA | Columbus | CBS WRBL" group-title="ENG - Local CBS",GA | Columbus | CBS WRBL
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71991.m3u8
 #EXTINF:-1 tvg-id="CBSWRBL.us" tvg-name="GA | Columbus | CBS WRBL (Alt)" group-title="Z - Offline Streams",GA | Columbus | CBS WRBL (Alt)
@@ -181,8 +177,6 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71964.m3u8
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWTOC.us" tvg-name="GA | Savannah | CBS WTOC" group-title="ENG - Local CBS",GA | Savannah | CBS WTOC
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71906.m3u8
-#EXTINF:-1 tvg-id="CBSWTOC.us" tvg-name="GA | Savannah | CBS WTOC (Alt)" group-title="Z - Offline Streams",GA | Savannah | CBS WTOC (Alt)
-
 #EXTINF:-1 tvg-id="CBSKGMB.us" tvg-name="HI | Honolulu | CBS KGMB" group-title="ENG - Local CBS",HI | Honolulu | CBS KGMB
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71940.m3u8
 #EXTINF:-1 tvg-id="CBSKGMB.us" tvg-name="HI | Honolulu | CBS KGMB (Alt)" group-title="Z - Offline Streams",HI | Honolulu | CBS KGMB (Alt)
@@ -193,8 +187,6 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71885.m3u8
 http://example.com/stream
 #EXTINF:-1 tvg-id="CBSWHBF.us" tvg-name="IA | Davenport | CBS WHBF" group-title="ENG - Local CBS",IA | Davenport | CBS WHBF
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71880.m3u8
-#EXTINF:-1 tvg-id="CBSWHBF.us" tvg-name="IA | Davenport | CBS WHBF (Alt)" group-title="Z - Offline Streams",IA | Davenport | CBS WHBF (Alt)
-
 #EXTINF:-1 tvg-id="CBSKCCI.us" tvg-name="IA | Des Moines | CBS KCCI" group-title="ENG - Local CBS",IA | Des Moines | CBS KCCI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71943.m3u8
 #EXTINF:-1 tvg-id="CBSKCCI.us" tvg-name="IA | Des Moines | CBS KCCI (Alt)" group-title="Z - Offline Streams",IA | Des Moines | CBS KCCI (Alt)
@@ -259,7 +251,7 @@ http://example.com/stream
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71969.m3u8
 #EXTINF:-1 tvg-id="CBSWTTV.us" tvg-name="IN | Indianapolis | CBS WTTV (Alt)" group-title="Z - Offline Streams",IN | Indianapolis | CBS WTTV (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWLFI.us" tvg-name="IN | Lafayette | CBS WLFI" group-title="ENG - Local CBS",IN | Lafayette | CBS WLFI
+#EXTINF:-1 tvg-id="CBSWLFI.us" tvg-name="IN | Lafayette | CBS WLFI" group-title="Z - Offline Streams",IN | Lafayette | CBS WLFI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71998.m3u8
 #EXTINF:-1 tvg-id="CBSWLFI.us" tvg-name="IN | Lafayette | CBS WLFI (Alt)" group-title="Z - Offline Streams",IN | Lafayette | CBS WLFI (Alt)
 http://example.com/stream
@@ -307,7 +299,7 @@ http://example.com/stream
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71968.m3u8
 #EXTINF:-1 tvg-id="CBSWSBT.us" tvg-name="IN | South Bend | CBS WSBT (Alt)" group-title="Z - Offline Streams",IN | South Bend | CBS WSBT (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="CBSWTHI.us" tvg-name="IN | Terre Haute | CBS WTHI" group-title="ENG - Local CBS",IN | Terre Haute | CBS WTHI
+#EXTINF:-1 tvg-id="CBSWTHI.us" tvg-name="IN | Terre Haute | CBS WTHI" group-title="Z - Offline Streams",IN | Terre Haute | CBS WTHI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72013.m3u8
 #EXTINF:-1 tvg-id="CBSWTHI.us" tvg-name="IN | Terre Haute | CBS WTHI (Alt)" group-title="Z - Offline Streams",IN | Terre Haute | CBS WTHI (Alt)
 http://example.com/stream
