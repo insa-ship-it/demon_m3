@@ -3,14 +3,12 @@
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East)" group-title="ENG - Entertainment",AMC (East)
 http://4.30.180.36:8420/amc/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East)" group-title="ENG - Entertainment",Animal Planet (East)
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East)" group-title="ENG - DOC/Lifestyle",Animal Planet (East)
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East)" group-title="ENG - Entertainment",BBC America (East)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East)(Alt)" group-title="ENG - Entertainment",BBC America (East)(Alt)
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)" group-title="ENG - Entertainment",BET (East)
-http://41.205.93.154/BET/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" group-title="ENG - Entertainment",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" group-title="ENG - Entertainment",Bravo (East)
@@ -19,35 +17,35 @@ http://4.30.180.36:8420/bravo/index.m3u8?token=test
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" group-title="ENG - Entertainment",Comedy Central (East)
 http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" group-title="ENG - Entertainment",Cooking Channel
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" group-title="ENG - DOC/Lifestyle",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8?takodachi
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America" group-title="ENG - Entertainment",Destination America
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America" group-title="ENG - DOC/Lifestyle",Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8?takodachi
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East)" group-title="ENG - Entertainment",Discovery (East)
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East)" group-title="ENG - DOC/Lifestyle",Discovery (East)
 http://4.30.180.36:8420/discovery/index.m3u8?token=test
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East)" group-title="ENG - Entertainment",E! (East)
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" group-title="ENG - Entertainment",Food Network (East)
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" group-title="ENG - DOC/Lifestyle",Food Network (East)
 http://4.30.180.36:8420/foodnetwork/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="FREEFORM (East)" group-title="ENG - Entertainment",FREEFORM (East)
 http://4.30.180.36:8420/freeform/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" group-title="ENG - Entertainment",FX (East)
 http://4.30.180.36:8420/fx/index.m3u8?token=test
-#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV" group-title="ENG - Entertainment",Great TV
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV" group-title="ENG - Classic TV & Westerns",Great TV
 http://4.30.180.36:8420/gettv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East)" group-title="ENG - Entertainment",Hallmark (East)
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East)" group-title="ENG - Entertainment",HGTV (East)
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East)" group-title="ENG - DOC/Lifestyle",HGTV (East)
 http://4.30.180.36:8420/hgtv/index.m3u8?token=test
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (East)" group-title="ENG - Entertainment",History Channel (East)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (East)" group-title="ENG - DOC/Lifestyle",History Channel (East)
 http://4.30.180.36:8420/history/index.m3u8?token=test
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" group-title="ENG - Entertainment",HLN
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" group-title="ENG - DOC/Lifestyle",HLN
 http://4.30.180.36:8420/hln/index.m3u8?token=test
 #EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" group-title="ENG - Entertainment",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (East)" group-title="ENG - Entertainment",Investigation Discovery (East)
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (East)" group-title="ENG - DOC/Lifestyle",Investigation Discovery (East)
 http://4.30.180.36:8420/investigationdiscovery/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="Ion (East)" group-title="ENG - Entertainment",Ion (East)
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="Ion (East)" group-title="ENG - Classic TV & Westerns",Ion (East)
 http://4.30.180.36:8420/ion/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East)" group-title="ENG - Entertainment",Lifetime (East)
 http://4.30.180.36:8420/lifetime/index.m3u8?token=test
