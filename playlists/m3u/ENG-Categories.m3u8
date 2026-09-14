@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Series**" group-title="ENG - 24/7",**NoStream 24/7 Series**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movie Collection**" group-title="ENG - 24/7 Movie Collection",**NoStream Movie Collection**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Movie **" group-title="ENG - 24/7 Movies",**NoStream 24/7 Movie **
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Classic Western**" group-title="ENG - Classic TV & Westerns",**NoStream Classic Western**
 http://example.com/stream
@@ -17,21 +17,17 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CBS**" group-title="ENG - Local CBS",**NoStream CBS**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream IND**" group-title="ENG - Local IND",**NoStream IND**
-http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBC**" group-title="ENG - Local NBC",**NoStream NBC**
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movies**" group-title="ENG - Movies",**NoStream Movies**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/MY**" group-title="ENG - Local CW/MY",**NoStream CW/MY**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/IND**" group-title="ENG - Local CW/IND",**NoStream CW/IND**
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Music**" group-title="Music (All Lang)",**NoStream Music**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX**" group-title="ENG - Local FOX",**NoStream FOX**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX/MY**" group-title="ENG - Local FOX/MY",**NoStream FOX/MY**
 http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News & Opinions",**NoStream News**
-http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Reality**" group-title="ENG - Reality",**NoStream Reality**
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News",**NoStream News**
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Sports**" group-title="ENG - Sports",**NoStream Sports**
 http://example.com/stream
@@ -48,6 +44,4 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NHL**" group-title="ENG - Sports NHL",**NoStream NHL**
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Religion**" group-title="Religion (All Lang)",**NoStream Religion**
-http://example.com/stream
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Requests**" group-title="!! Speciality Requests !!",**Place Holder Requests**
 http://example.com/stream
