@@ -11,7 +11,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="AK | Juneau | FOX KJUD (Alt)" group-title="Z - Needs EPG & Link",AK | Juneau | FOX KJUD (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC" group-title="ENG - Local FOX",AL | Birmingham | FOX WBRC
+#EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC" group-title="ENG - Local FOX/MY",AL | Birmingham | FOX WBRC
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71743.m3u8
 #EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC (Alt)" group-title="Z - Needs Links",AL | Birmingham | FOX WBRC (Alt)
 http://example.com/stream
@@ -57,7 +57,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="FOXKECY.us" tvg-name="AZ | Yuma | FOX KECY (Alt)" group-title="Z - Needs EPG & Link",AZ | Yuma | FOX KECY (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX/KBAK" group-title="ENG - Local FOX",CA | Bakersfield | FOX KBFX/KBAK
+#EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX/KBAK" group-title="ENG - Local FOX/MY",CA | Bakersfield | FOX KBFX/KBAK
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71679.m3u8
 #EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX/KBAK (Alt)" group-title="Z - Needs Links",CA | Bakersfield | FOX KBFX/KBAK (Alt)
 http://example.com/stream
@@ -69,7 +69,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="FOXKAEFDT2.us" tvg-name="CA | Eureka | FOX KAEF (Alt)" group-title="Z - Needs Links",CA | Eureka | FOX KAEF (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH" group-title="ENG - Local FOX",CA | Fresno | FOX KMPH
+#EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH" group-title="ENG - Local FOX/MY",CA | Fresno | FOX KMPH
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71673.m3u8
 #EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH (Alt)" group-title="Z - Needs Links",CA | Fresno | FOX KMPH (Alt)
 http://example.com/stream
@@ -97,7 +97,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="FOXKTVU.us" tvg-name="CA | San Francisco | FOX KTVU (Alt)" group-title="Z - Needs Links",CA | San Francisco | FOX KTVU (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="FOXKKFX.us" tvg-name="CA | S.L.O. | FOX KKFX/KCOY" group-title="ENG - Local FOX",CA | S.L.O. | FOX KKFX/KCOY
+#EXTINF:-1 tvg-id="FOXKKFX.us" tvg-name="CA | S.L.O. | FOX KKFX/KCOY" group-title="ENG - Local FOX/MY",CA | S.L.O. | FOX KKFX/KCOY
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71752.m3u8
 #EXTINF:-1 tvg-id="FOXKKFX.us" tvg-name="CA | S.L.O. | FOX KKFX/KCOY (Alt)" group-title="Z - Needs Links",CA | S.L.O. | FOX KKFX/KCOY (Alt)
 http://example.com/stream
@@ -121,7 +121,7 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="FOXKFQX.us" tvg-name="CO | Grand Junction | FOX KFQX (Alt)" group-title="Z - Needs Links",CO | Grand Junction | FOX KFQX (Alt)
 http://example.com/stream
-#EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC" group-title="ENG - Local FOX",CT | Hartford | FOX WTIC
+#EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC" group-title="ENG - Local FOX/MY",CT | Hartford | FOX WTIC
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71795.m3u8
 #EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC (Alt)" group-title="Z - Needs Links",CT | Hartford | FOX WTIC (Alt)
 http://example.com/stream
