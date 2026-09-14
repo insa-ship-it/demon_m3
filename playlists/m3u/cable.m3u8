@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E (East)" group-title="ENG - Entertainment",A&E (East)
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (East)" group-title="ENG - Entertainment",AMC (East)
+http://4.30.180.36:8420/amc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (East)" group-title="ENG - Entertainment",Animal Planet (East)
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East)" group-title="ENG - Entertainment",BBC America (East)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America (East)(Alt)" group-title="ENG - Entertainment",BBC America (East)(Alt)
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)" group-title="ENG - Entertainment",BET (East)
+http://41.205.93.154/BET/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" group-title="ENG - Entertainment",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)" group-title="ENG - Entertainment",Bravo (East)
+http://4.30.180.36:8420/bravo/index.m3u8?token=test
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT (East)" group-title="ENG - Entertainment",CMT (East)
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)" group-title="ENG - Entertainment",Comedy Central (East)
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" group-title="ENG - Entertainment",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America" group-title="ENG - Entertainment",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery (East)" group-title="ENG - Entertainment",Discovery (East)
+http://4.30.180.36:8420/discovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! (East)" group-title="ENG - Entertainment",E! (East)
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)" group-title="ENG - Entertainment",Food Network (East)
+http://4.30.180.36:8420/foodnetwork/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="FREEFORM (East)" group-title="ENG - Entertainment",FREEFORM (East)
+http://4.30.180.36:8420/freeform/index.m3u8?token=test
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" group-title="ENG - Entertainment",FX (East)
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV" group-title="ENG - Entertainment",Great TV
+http://4.30.180.36:8420/gettv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark (East)" group-title="ENG - Entertainment",Hallmark (East)
+http://4.30.180.36:8420/hallmark/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (East)" group-title="ENG - Entertainment",HGTV (East)
+http://4.30.180.36:8420/hgtv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel (East)" group-title="ENG - Entertainment",History Channel (East)
+http://4.30.180.36:8420/history/index.m3u8?token=test
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" group-title="ENG - Entertainment",HLN
+http://4.30.180.36:8420/hln/index.m3u8?token=test
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC" group-title="ENG - Entertainment",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery (East)" group-title="ENG - Entertainment",Investigation Discovery (East)
+http://4.30.180.36:8420/investigationdiscovery/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="Ion (East)" group-title="ENG - Entertainment",Ion (East)
+http://4.30.180.36:8420/ion/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime (East)" group-title="ENG - Entertainment",Lifetime (East)
+http://4.30.180.36:8420/lifetime/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV" group-title="ENG - Entertainment",METV
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV (East)" group-title="ENG - Entertainment",MTV (East)
+http://4.30.180.36:8420/mtv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network (East)" group-title="ENG - Entertainment",Oprah Winfrey Network (East)
+http://4.30.180.36:8420/own/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network (East)" group-title="ENG - Entertainment",Paramount Network (East)
+http://4.30.180.36:8420/paramount/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV" group-title="ENG - Entertainment",Start TV
+http://4.30.180.36:8420/starttv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy (East)" group-title="ENG - Entertainment",Syfy (East)
+http://4.30.180.36:8420/syfy/index.m3u8?token=test
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS (East)" group-title="ENG - Entertainment",TBS (East)
+http://4.30.180.36:8420/tbs/index.m3u8?token=test
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC (East)" group-title="ENG - Entertainment",TLC (East)
+http://4.30.180.36:8420/tlc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network (East)" group-title="ENG - Entertainment",USA Network (East)
+http://4.30.180.36:8420/usa/index.m3u8?token=test
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 (East)" group-title="ENG - Entertainment",VH1 (East)
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.us2" tvg-name="Vice" group-title="ENG - Entertainment",Vice
+http://23.237.104.106:8080/USA_VICETV/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV (East)" group-title="ENG - Entertainment",WE TV (East)
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
